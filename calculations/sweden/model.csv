@@ -1,0 +1,13 @@
+sector,task_or_process,required_physical_output,unit,labor_hours_per_unit,automation_s3a,automation_s3b,total_labor_hours,source_or_status,notes
+food,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"including agriculture, processing, machinery and logistics"
+energy,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"including generation, grids, fuel and maintenance"
+water_waste,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"water, sewage and waste treatment"
+housing_construction,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"new construction, heating and capital repair"
+health_care,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"medical care, pharmaceuticals and equipment"
+transport_logistics,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"passenger and freight transport"
+industry_equipment,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"steel, chemicals, machinery and spare parts"
+maintenance,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"infrastructure and equipment maintenance"
+education,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"basic education and specialist training"
+safety_emergency,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"police, fire, rescue and defence"
+coordination_audit,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"IT, accounting, audit and resource coordination"
+reserve,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,"sickness, leave, training and emergencies"

@@ -1,0 +1,21 @@
+sector,task,essential_result,can_remove_by_reorganisation,automation_s3a,automation_s3b,human_role,required_output,unit,labor_hours,source_or_status
+food,crop_and_livestock_production,food_and_feed,no,TBD,TBD,field decisions and exceptions,TBD,tonnes,TBD,needs crop and diet model
+food,food_processing,edible_food,no,TBD,TBD,quality exceptions and process supervision,TBD,tonnes,TBD,needs product basket
+food,food_distribution,food_reaches_people,no,TBD,TBD,exception handling and local coordination,TBD,tonnes,TBD,needs logistics model
+food,food_safety,safe_food,no,TBD,TBD,inspection and responsibility,TBD,inspections,TBD,needs safety standard
+energy,generation,electricity_and_heat,no,TBD,TBD,maintenance and abnormal conditions,TBD,TWh,TBD,needs energy scenario
+energy,grid_operation,reliable_delivery,no,TBD,TBD,system balancing and failures,TBD,network_year,TBD,needs reliability standard
+energy,fuel_and_energy_imports,energy_inputs,no,TBD,TBD,contracts and disruption response,TBD,TWh,TBD,needs external balance
+energy,energy_asset_maintenance,working_generation_and_grid,no,TBD,TBD,physical intervention and diagnosis,TBD,asset_year,TBD,needs asset register
+housing,new_construction,adequate_housing,partly,TBD,TBD,design approval and site exceptions,TBD,m2,TBD,needs housing standard
+housing,building_maintenance,habitable_and_safe_housing,no,TBD,TBD,inspection and repair exceptions,TBD,m2_year,TBD,needs housing stock
+housing,heating_and_water,habitable_housing,no,TBD,TBD,repair and emergency intervention,TBD,dwelling_year,TBD,needs climate and building data
+health,emergency_care,life_and_function_preservation,no,TBD,TBD,"diagnosis, consent and complex intervention",TBD,cases,TBD,needs access standard
+health,primary_care,preventive_and_basic_care,partly,TBD,TBD,complex cases and human contact,TBD,visits,TBD,needs care pathway
+health,elderly_and_disability_care,support_for_dependence,no,TBD,TBD,physical care and relationship,TBD,care_hours,TBD,needs demographic scenario
+health,medicines_and_equipment,available_treatment,no,TBD,TBD,"development, quality and exception control",TBD,units,TBD,needs treatment basket
+education,video_instruction,basic_knowledge,yes,TBD,TBD,content design and exceptional support,TBD,learner_hours,TBD,needs curriculum standard
+education,automated_assessment,verified_learning,yes,TBD,TBD,appeals and difficult cases,TBD,tests,TBD,needs assessment standard
+education,practical_training,practical_competence,partly,TBD,TBD,"supervision, safety and equipment",TBD,learner_hours,TBD,needs practical curriculum
+education,special_needs_support,access_to_education,no,TBD,TBD,"individual adaptation and human relationship",TBD,care_hours,TBD,needs special-needs standard
+education,child_supervision_and_socialisation,child_safety_and_development,no,TBD,TBD,"care, conflict resolution and development",TBD,care_hours,TBD,needs age and care standard

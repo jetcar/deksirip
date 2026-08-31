@@ -9,7 +9,10 @@
 1. [HANDOFF.md](HANDOFF.md) — исходная формулировка модели и 20 открытых вопросов.
 2. [critique/14-concept-v2.md](critique/14-concept-v2.md) — уточнённая версия концепции.
 3. [critique/26-current-reassessment.md](critique/26-current-reassessment.md) — текущая переоценка после ответов автора.
-4. [critique/posts/10-master-post-v2.md](critique/posts/10-master-post-v2.md) — актуальный текст для публичного запроса критики.
+4. [critique/28-sweden-baseline.md](critique/28-sweden-baseline.md) — базис расчёта для Швеции.
+5. [calculations/sweden/](calculations/sweden/) — отдельная рабочая папка вычислений по Швеции.
+   Контрольный сценарий и допущения: [calculations/sweden/assumptions.md](calculations/sweden/assumptions.md); план данных: [calculations/sweden/data-plan.md](calculations/sweden/data-plan.md).
+6. [critique/posts/10-master-post-v2.md](critique/posts/10-master-post-v2.md) — актуальный текст для публичного запроса критики.
 
 ## Текущая версия модели
 

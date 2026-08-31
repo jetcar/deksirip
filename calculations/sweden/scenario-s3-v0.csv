@@ -1,0 +1,14 @@
+sector,low_fte_thousands,base_fte_thousands,high_fte_thousands,reason,estimate_status
+food,100,140,190,"production, processing, distribution and food safety after automation",assumption_v0
+energy,25,40,60,"generation, grids, fuel and exception handling",assumption_v0
+water_waste,30,45,70,"water, sewage, waste and sanitation control",assumption_v0
+housing_construction,160,230,350,"construction, heating, repair and building inspection",assumption_v0
+health_care,250,400,550,"clinical care, emergency response, complex diagnosis and residual human care after digital triage",assumption_v1
+transport_logistics,120,180,280,"freight, public transport, dispatch and exceptions",assumption_v0
+industry_equipment,180,260,400,"materials, machines, spare parts and process supervision",assumption_v0
+maintenance,160,250,400,"repair of infrastructure, vehicles and equipment",assumption_v0
+education,120,180,300,"mentors, practical work, special needs and social/child support after video lessons and automated testing",assumption_v1
+safety_emergency,90,130,190,"police, fire, rescue, defence and emergency response",assumption_v0
+coordination_audit,80,120,180,"IT, audit, records, standards and resource coordination",assumption_v0
+reserve,175,240,350,"sickness, leave, training and emergency capacity; about 10 percent",assumption_v0
+TOTAL,1490,2215,3320,"sum of rows above",derived_v1
