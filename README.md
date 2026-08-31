@@ -12,7 +12,8 @@
 4. [critique/28-sweden-baseline.md](critique/28-sweden-baseline.md) — базис расчёта для Швеции.
 5. [calculations/sweden/](calculations/sweden/) — отдельная рабочая папка вычислений по Швеции.
    Контрольный сценарий и допущения: [calculations/sweden/assumptions.md](calculations/sweden/assumptions.md); план данных: [calculations/sweden/data-plan.md](calculations/sweden/data-plan.md).
-6. [critique/posts/10-master-post-v2.md](critique/posts/10-master-post-v2.md) — актуальный текст для публичного запроса критики.
+6. [critique/29-personal-property-and-housing.md](critique/29-personal-property-and-housing.md) — личная собственность, квартиры и дачи.
+7. [critique/posts/10-master-post-v2.md](critique/posts/10-master-post-v2.md) — актуальный текст для публичного запроса критики.
 
 ## Текущая версия модели
 
