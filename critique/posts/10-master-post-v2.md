@@ -16,11 +16,11 @@
 
 Обычное производство следует за спросом и трудом. Действующими предприятиями управляют работники через выбранного организатора или руководство. Внешние специалисты могут приглашаться по необходимости. Финансирование проектов идёт этапами и прозрачно.
 
-Дефицитные ресурсы распределяются через публичные календарные заявки. Если сталь одновременно нужна железной дороге и машиностроению, граждане видят физические альтернативы и выбирают, какой проект получает ресурс. Поддержка даёт условную бронь, а не собственность; заявки периодически пересматриваются.
+Дефицитные ресурсы распределяются через публичные календарные заявки. Если сталь одновременно нужна железной дороге и машиностроению, граждане видят физические альтернативы и выбирают, какой проект получает ресурс. Поддержка даёт условную бронь, а не собственность; заявки периодически пересматриваются. Производственные цепочки используют существующие договоры, стандарты и логистику.
 
 Эксперты, аудиторы и ИИ анализируют данные, но окончательные цели и приоритеты определяют граждане. Полиция, аудит, разведка и внешняя торговля существуют, однако их полномочия публичны, сменяемы и подотчётны.
 
-Личные вещи и бытовые инструменты могут быть личной собственностью. Для основного жилья предлагается защищённое право проживания без спекуляции землёй, накопления нескольких дефицитных объектов и частной ренты; земля остаётся общей, а многоквартирные дома управляются жильцами. Дача — сезонное право пользования участком и строением.
+Личные вещи и бытовые инструменты могут быть личной собственностью. Земля остаётся общей, а построенный дом может быть личным при ограниченном обмене и запрете ренты. Основное жильё распределяется по фактической потребности; после изменения состава семьи или смерти право пользования может пересматриваться. Новый пользователь оплачивает переезд прежнего пользователя. Дача — сезонное право пользования участком и строением.
 
 ### Что уже не является аргументом
 
@@ -28,11 +28,11 @@
 
 ### Что осталось проверить
 
-1. Может ли публичная система согласовать долгосрочные заявки на один и тот же физический ресурс без скрытого планировщика?
-2. Как связать самоуправляемые предприятия в устойчивые производственные цепочки?
-3. Как принимать и фиксировать ответственность за необратимые решения?
-4. Как не допустить превращения аудита, реестров и координационных служб в автономный центр власти?
-5. Как совместить личное жильё и право обустраивать его с общей землёй и запретом частной ренты?
+1. Как исполнять решение граждан, если организация отказывается от аудита или освобождения ресурса?
+2. Как устроить автоматический полугодовой пересмотр использования земли, заводов, жилья и инфраструктуры?
+3. Как решать пространственное несоответствие жилья: свободное жильё есть, но не в нужном месте, размере или состоянии?
+4. Как оформить личное владение строением при общей земле, ограниченном обмене и запрете ренты?
+5. Как менять базовые правила без заранее созданного органа, стоящего выше большинства?
 
 Нужны причинные механизмы, исторические аналоги и модели/эксперименты. Не нужно доказывать, что капитализм идеален; нужно показать, какая именно новая проблема появляется здесь и почему её нельзя решить прозрачностью, конкуренцией, бонусами или сменой руководства.
 
@@ -46,13 +46,14 @@ I am not interested in arguments of the form “this system also has crises.” 
 
 Assume high automation, unconditional basic provision, social ownership of productive assets, no central planner, a social dividend, and voluntary allocation of accumulated balances to projects. Ordinary production follows demand and labour. Existing enterprises are run by worker-chosen organisers or management, with outside specialists where needed.
 
-Scarce physical resources are allocated through public, time-phased requests. If steel is needed by both a railway and a machinery project, citizens see the physical trade-off and choose. Support creates a conditional reservation, not ownership; reservations are periodically reviewed. Experts, auditors and AI analyse, but citizens set goals. Police, audit, intelligence and foreign trade exist with public, replaceable and accountable mandates.
+Scarce physical resources are allocated through public, time-phased requests. If steel is needed by both a railway and a machinery project, citizens see the physical trade-off and choose. Support creates a conditional reservation, not ownership; reservations are periodically reviewed. Existing contracts, standards and logistics coordinate production chains. Experts, auditors and AI analyse, but citizens set goals. Police, audit, intelligence and foreign trade exist with public, replaceable and accountable mandates.
 
-Errors, crises, scarcity, unpleasant work, external trade, expert mistakes and bureaucracy are not objections by themselves: every complex economy has them. The remaining questions are:
+Errors, crises, scarcity, unpleasant work, external trade, expert mistakes and bureaucracy are not objections by themselves: every complex economy has them. Housing land remains common, while buildings may be personally held under conditions that prevent rent extraction and speculative accumulation. The remaining questions are:
 
-1. Can competing long-term claims on the same physical resource be coordinated without a hidden planner?
-2. How do self-managed enterprises form reliable production chains?
-3. How are irreversible decisions and responsibility handled?
-4. How are audit, registry and coordination services prevented from becoming an autonomous power centre?
+1. How are decisions enforced if an organisation refuses audit or resource release?
+2. How does automatic periodic review reassign underused land, factories, housing and infrastructure?
+3. How is housing matched across location, size and condition when the overall stock is sufficient but the needed option is not?
+4. What legal status can personal buildings have when land is common and rent extraction is forbidden?
+5. How can foundational rules be changed without creating an authority above the majority?
 
 Please provide mechanisms, historical cases, models or experiments showing a genuinely new failure mode and why transparency, competition, bonuses or replaceable management cannot fix it.
