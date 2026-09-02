@@ -1,10 +1,10 @@
-# r/DebateAnarchism (осн. вариант) / r/DebateCommunism / r/socialism_101 — draft
+# r/DebateAnarchism (main option) / r/DebateCommunism / r/socialism_101 — draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Зачем:** левая критика бьёт по совершенно другим точкам, чем либеральная. Ожидайте: «это рынок под другим названием», «дивиденд не отменяет наёмный труд», «кто владеет — не тот вопрос, вопрос кто решает на рабочем месте», «товарный фетишизм», «прудонизм», «вы описали госкапитализм с распределённым акционером». Эти возражения полезны и вы их сами не сгенерируете.
-⚠️ Правила не проверены. В r/DebateCommunism и r/socialism_101 бывают ограничения на «либеральные» и рыночно-социалистические предложения — проверьте перед постингом. r/DebateAnarchism обычно самый терпимый к чужим позициям при условии добросовестности.
-**Тон:** без апологетики, признать, что это рыночно-социалистическая позиция, а не анархистская или коммунистическая.
+**Why:** Left criticism hits at completely different points than liberal criticism. Expect: “this is a market by another name”, “dividend does not cancel wage labor”, “who owns is not the question, the question is who decides at the workplace”, “commodity fetishism”, “Proudhonism”, “you described state capitalism with a distributed shareholder”. These objections are useful and you will not generate them yourself.
+⚠️ The rules have not been verified. In r/DebateCommunism and r/socialism_101 there are restrictions on “liberal” and market socialist proposals - check before posting. r/DebateAnarchism is usually the most tolerant of other people's positions, provided they are in good faith.
+**Tone:** without apologetics, recognize that this is a market socialist position, not anarchist or communist.
 
 ---
 

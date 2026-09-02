@@ -1,9 +1,9 @@
 # LessWrong — draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Формат:** обычный пост. **Тон:** аналитический, с явными предсказаниями.
-**Перед публикацией:** проверьте, что первый пост проходит модерацию — сделайте пару содержательных комментариев в других тредах заранее.
+**Format:** regular post. **Tone:** analytical, with explicit predictions.
+**Before posting:** check that the first post is moderated - make a couple of meaningful comments in other threads in advance.
 
 ---
 

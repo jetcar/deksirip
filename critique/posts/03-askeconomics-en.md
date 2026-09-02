@@ -1,9 +1,9 @@
 # r/AskEconomics — draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Критично:** это Q&A-сабреддит. Пост, который излагает собственную систему, скорее всего удалят как «pet theory». Поэтому текст ниже — **вопрос о литературе**, а не предложение. Концепция не искажена, она просто вынесена в один абзац как объект вопроса.
-⚠️ Правила не проверены (Reddit недоступен из моего окружения) — сверьтесь с сайдбаром. Учтите, что содержательные ответы там пишут только пользователи с одобренным флейром, так что ответов может быть немного, но качественных.
+**Critical:** This is a Q&A subreddit. A post that sets out its own system will most likely be deleted as “pet theory”. Therefore, the text below is a **literature question**, not a proposal. The concept is not distorted, it is simply presented in one paragraph as the object of the question.
+⚠️ Rules not verified (Reddit is not accessible from my environment) - check the sidebar. Please note that only users with an approved flair write meaningful answers there, so there may be few, but high-quality answers.
 
 ---
 

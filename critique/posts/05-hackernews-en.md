@@ -1,10 +1,10 @@
 # Hacker News — Ask HN draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Правила проверены.** Ключевое: «Most stories about politics… are off-topic unless they're evidence of some interesting new phenomenon»; «Please don't use HN primarily for promotion»; не просить голоса; не постить сгенерированный текст в комментариях.
-**Снижение риска:** это должен быть **текстовый Ask HN**, а не ссылка на манифест; рамка — механизм-дизайн и распределённые системы, а не политическая программа; никакой риторики про капитализм. Заголовок без editorializing.
-**Реалистичное ожидание:** может быть флагнут как политика. Если так — не перепощивайте (это против guidelines).
+**Rules checked.** Key: “Most stories about politics… are off-topic unless they're evidence of some interesting new phenomenon”; “Please don't use HN primarily for promotion”; don't ask for a vote; Do not post generated text in comments.
+**Risk Mitigation:** This should be a **Text Ask HN** and not a link to the manifest; the frame is mechanism-design and distributed systems, not a political program; no rhetoric about capitalism. Heading without editorializing.
+**Realistic Expectation:** Can be flagged as a policy. If so, don’t overpost (this is against the guidelines).
 
 ---
 

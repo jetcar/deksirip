@@ -1,10 +1,10 @@
 # Ethereum Research / RadicalxChange / Gitcoin–Optimism governance forums — draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Зачем:** это единственная аудитория, которая **ставила реальные эксперименты** по распределению общественных средств голосованием и знает конкретные способы, которыми это ломается: sybil, сговор, покупка голосов, апатия делегатов, деградация раундов ретро-финансирования. Самая практическая критика из всех доступных.
-**Как не улететь в off-topic:** привязать к quadratic funding и RetroPGF, говорить на языке механизмов и атак, не на языке политической философии.
-⚠️ Правила конкретного форума проверьте перед постингом; выберите категорию Mechanism Design / Economics.
+**Why:** this is the only audience that has **carried out real experiments** on the distribution of public funds by voting and knows the specific ways in which it breaks: sybil, collusion, vote buying, delegate apathy, degradation of retro funding rounds. The most practical criticism available.
+**How ​​not to go off-topic:** tie to quadratic funding and RetroPGF, speak in the language of mechanisms and attacks, not in the language of political philosophy.
+⚠️ Check the rules of a particular forum before posting; select the Mechanism Design/Economics category.
 
 ---
 

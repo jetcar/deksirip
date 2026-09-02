@@ -1,10 +1,10 @@
 # r/CapitalismVSocialism — draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Перед публикацией:** ⚠️ правила не проверены (Reddit недоступен из моего окружения). Проверьте сайдбар: требование флейра с указанием позиции, минимальная длина, запрет низкоусилийных постов.
-**Флейр:** нейтральный / "Undecided" или "Market Socialist", смотря что доступно.
-**Тон:** прямой вызов, без агитации.
+**Before publishing:** ⚠️ the rules have not been verified (Reddit is not accessible from my environment). Check the sidebar: flair requirement indicating position, minimum length, prohibition of low-effort posts.
+**Flair:** Neutral / "Undecided" or "Market Socialist", depending on what's available.
+**Tone:** direct challenge, no agitation.
 
 ---
 

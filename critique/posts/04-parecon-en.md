@@ -1,10 +1,10 @@
 # forum.participatoryeconomy.org — draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Почему сюда:** это люди, которые десятилетиями думают ровно над задачей «как распределять без рынка капитала и без централизованного плана». Они дадут критику с **левой** стороны: что схема сохраняет рыночную логику, воспроизводит неравенство вознаграждения и не решает вопрос о том, кто принимает решения на рабочем месте. Это возражения, которых не даст ни один либеральный или австрийский критик.
-**Тон:** уважительный, без апологетики; вы приходите учиться, а не проповедовать.
-⚠️ Существование форума проверено; конкретные правила раздела проверьте перед постингом и выберите подходящую категорию.
+**Why here:** these are people who have been thinking about the problem “how to distribute without a capital market and without a centralized plan” for decades. They will criticize from the **left** side: that the scheme preserves market logic, reproduces inequality of remuneration and does not address the issue of who makes decisions in the workplace. These are objections that no liberal or Austrian critic will give.
+**Tone:** respectful, not apologetic; you come to learn, not to preach.
+⚠️ The existence of the forum has been verified; Check the specific section rules before posting and select the appropriate category.
 
 ---
 

@@ -1,9 +1,9 @@
 # r/badeconomics — Fiat Discussion Thread comment draft
 
-> Архивная адаптация. Для новой версии используйте [10-master-post-v2.md](10-master-post-v2.md): в старом теле остались снятые возражения.
+> Archived adaptation. Use [10-master-post-v2.en.md](10-master-post-v2.en.md) for a new publication; the old body contains objections later removed.
 
-**Критично:** отдельный пост туда почти наверняка удалят — основной формат сабреддита это R1 (разбор конкретного чужого утверждения). Пишите **комментарием в закреплённый Fiat Discussion Thread**. Коротко: длинные простыни там читают хуже, чем острый вопрос.
-⚠️ Правила не проверены (Reddit недоступен из моего окружения).
+**Critical:** a separate post there will almost certainly be deleted - the main format of the subreddit is R1 (analysis of a specific statement made by someone else). Write a **comment to the pinned Fiat Discussion Thread**. Briefly: long sheets are read worse there than a sharp question.
+⚠️ The rules have not been verified (Reddit is not accessible from my environment).
 
 ---
 
