@@ -1,35 +1,65 @@
-# Current Master Post for Publication
+# A decentralized social economy: what new problems would it create?
 
-This edition replaces [09-master-post.md](09-master-post.md). The old file is retained as an archive of the earlier critique.
+I am developing a decentralized model of a social economy and want to test it against serious criticism. The model assumes high automation, unconditional provision of basic needs, social ownership of the means of production, and no central planner.
 
-## Title
+The purpose is to improve the quality of life for society as a whole and to make useful work more effective. If people are not forced to maintain a large administrative hierarchy, perform pointless jobs, or work mainly to preserve someone else's profit, more of their effort can go toward things they consider necessary or meaningful. Work should be done by people who are interested in creating, maintaining, or improving something—not merely by people compelled to occupy a position.
 
-**A decentralized social economy: which problems would it create anew?**
+The technical components already exist: automated production and logistics, digital accounting, transparent public data, secure voting, worker self-management, AI-assisted analysis, and modern auditing. The main challenge would be political and institutional transition, not a scientific breakthrough.
 
-I am not interested in arguments of the form “this system also has crises.” Count only problems capitalism currently handles with a reasonably functioning mechanism that this design removes.
+## Core principles
 
-## The design
+- Basic needs are guaranteed to everyone through a social dividend.
+- The means of production are socially owned; profit is not privately appropriated.
+- People choose projects and organizations voluntarily rather than being assigned jobs.
+- Enterprises are run by their workers through elected organizers or management.
+- Decisions, budgets, resource requests, and audits are transparent to the public.
+- Funding is staged, conditional, and reviewable rather than a permanent entitlement.
+- Experts, auditors, and AI analyse information, while citizens set goals and priorities.
+- Society decides what goals to pursue and how resources should be used; no small group or state agenda has a monopoly on the direction of development.
+- Land is common; buildings and personal belongings may be held as personal property under defined limits.
 
-Assume high automation, unconditional provision of basic needs, and social ownership of the means of production. There is no central planner. Everyone receives a social dividend and may direct an accumulated share to projects. Private appropriation of profit is absent.
+Society does not have to choose one official direction of development. Different communities and projects can pursue several directions in parallel—scientific, cultural, technological, environmental, or practical—and compete or cooperate for public support and resources. Experts help explain consequences, but they do not replace collective choice with a single administrative agenda.
 
-Ordinary production follows demand and labour. Existing enterprises are run by workers through a chosen organizer or management; outside specialists may be invited when needed. Project funding is staged and transparent.
+## How production is coordinated
 
-Scarce resources are allocated through public, time-phased requests. If steel is needed by both a railway and a machinery project, citizens see the physical trade-off and choose which project receives it. Support creates a conditional reservation, not ownership; requests are periodically reviewed. Existing contracts, standards, and logistics coordinate production chains.
+Ordinary production follows demand and available labour. A project describes what it wants to create, calculates its material and labour requirements, and requests resources through a public system. Existing contracts, technical standards, logistics, and production chains continue to coordinate the process.
 
-Experts, auditors, and AI analyse data, but citizens determine final goals and priorities. Police, audit, intelligence, and foreign trade exist, but their powers are public, replaceable, and accountable.
+Scarce resources are allocated through public, time-phased requests. If steel is needed by both a railway and a machinery project, citizens see the physical trade-off and choose which project receives it. Support creates a conditional reservation, not ownership; requests are periodically reviewed. More efficient projects can compete for resources and public support.
 
-Personal belongings and household tools may be personal property. Land remains common, while a building may be personally held under limited exchange and a ban on rent extraction. Primary housing is allocated according to actual need; after a change in household composition or a death, the right of residence may be reviewed. The new user pays the former user's relocation costs. A dacha is a seasonal right to use a plot and building.
+Projects receive budgets in stages. If a project loses support, it does not automatically receive unlimited further funding, but unfinished or hazardous work must still be safely completed, preserved, or dismantled. Auditors and AI report the costs and risks so citizens can decide.
 
-## What is not an objection by itself
+## Work and organizations
 
-Errors, crises, scarcity, foreign trade, unpleasant work, expert mistakes, and bureaucracy occur in every complex economy. Their mere existence does not disprove this model.
+There is no job assignment as such: people join work because they want to produce, maintain, or investigate something. Unpleasant or dangerous work is reduced through automation, better conditions, shorter shifts, and voluntary participation. The goal is to reduce necessary human work, not to make everyone fill an arbitrary number of hours.
 
-## What remains to be checked
+An enterprise is not an independent owner of resources. It is an organization of people using socially allocated resources. Workers choose their organizer or management and can replace them; outside specialists may be invited when needed. Parallel audits, rotation, and public reporting limit corruption and concentration of power.
 
-1. How are citizens' decisions enforced if an organization refuses an audit or refuses to release a resource?
-2. How does automatic semiannual review reassign underused land, factories, housing, and infrastructure?
-3. How is housing matched across location, size, and condition when the overall stock is sufficient but the needed option is not?
-4. What legal status can personal buildings have when land is common, exchange is limited, and rent extraction is forbidden?
-5. How can foundational rules be changed without creating an authority above the majority?
+## Income and access to goods
 
-We need causal mechanisms, historical cases, models, or experiments. Do not show that capitalism is perfect; show a genuinely new failure mode and why transparency, competition, bonuses, or replaceable management cannot fix it.
+All income generated by the economy enters a common budget. After production, maintenance, reserves, and other collective needs are funded, the remaining social income is distributed among everyone as a social dividend. People do not have to sell their labour in order to obtain the basics, and access to essential goods is not conditional on holding a particular job.
+
+The social dividend is a real personal consumption budget within the limits of available resources, not an abstract promise of free goods. A person can use part of it for personal goods and services or direct part of it toward projects. Project support is not personal wealth: it gives a project a claim on resources only while public support continues, and cannot be converted into ownership of a factory, land, or other productive assets.
+
+Work is therefore not a private claim on the income produced by society. Motivation comes from the ability to choose what to create, participate in projects one considers worthwhile, and influence how the common budget is used. Scarce personal goods and services remain limited by real production, so the system cannot promise everyone unlimited consumption.
+
+## Property and housing
+
+Personal belongings and household tools may be personal property. Land remains common, while a building may be personally held under limited exchange and a ban on rent extraction. A building can be exchanged or transferred when it meets housing or production needs, but it cannot be used to extract passive income.
+
+Primary housing is allocated according to actual need and available space. If household composition changes, the right to a large dwelling may be reviewed; the new user pays the former user's relocation costs. A dacha is a seasonal right to use a plot and building. New construction is initiated by people who organize a project and secure support, while construction itself may be performed by a common building organization.
+
+## Governance and safeguards
+
+Citizens determine priorities through transparent voting and support. Police, audit, intelligence, and foreign trade still exist, but their powers are public, replaceable, and accountable. Organizations receive outside funding as needed and retain limited operational autonomy; they do not become a separate sovereign power.
+
+Foundational rights should set a minimum that even a temporary majority cannot violate. The difficult question is how those rights can be changed without creating an authority above the population.
+
+## What this post is asking
+
+The main question is not whether this system would be perfect. Every complex economy faces crises, scarcity, mistakes, and bureaucracy. The question is whether replacing markets, private ownership, and profit would remove mechanisms that currently solve some problems—or create genuinely new problems that transparency, competition, or replaceable management could not solve.
+
+Please focus on failure modes that are genuinely specific to this design. Do not merely show that capitalism is imperfect; provide causal mechanisms, historical cases, models, or experiments.
+
+## What would count as a serious objection?
+
+The mechanisms above are proposed answers to the usual objections about coordination, motivation, scarcity, housing, property, bureaucracy, and concentration of power. They should not be treated as unquestionable or complete, but criticism should identify a failure mode that follows from this design and explain why transparency, collective decision-making, parallel projects, public auditing, automation, or replaceable management cannot address it.

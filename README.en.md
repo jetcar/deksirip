@@ -14,29 +14,30 @@ This is not a finished theory or a political program. The goal is to formulate a
 6. [critique/29-personal-property-and-housing.en.md](critique/29-personal-property-and-housing.en.md) — personal property, housing, and dachas.
 7. [critique/posts/10-master-post-v2.en.md](critique/posts/10-master-post-v2.en.md) — the current text for requesting public criticism.
 
-## Current model
+## Why this model
 
-- means of production belong to society;
-- basic needs are provided unconditionally;
-- everyone receives a social dividend and may direct an accumulated share to projects;
-- there is no central planner;
-- ordinary production follows demand and labour;
-- existing enterprises are run by workers through a chosen organizer or management;
-- scarce resources are allocated through public requests with consumption calendars;
-- experts, auditors, and AI analyse data but do not set social goals;
-- decisions, budgets, and calculations are traceable;
-- police, audit, intelligence, and foreign trade exist but must be replaceable and accountable.
+The purpose is to improve quality of life for society as a whole and make useful work more effective by reducing pointless jobs, oversized administration, and work performed mainly to preserve private profit. People should be able to contribute to projects they consider necessary or meaningful.
 
-## What remains to be checked
+## Core principles
 
-Most earlier questions are closed by the chosen principles: scarcity is resolved through public voting, production chains use existing coordination mechanisms, irreversible decisions are made by the public, and construction starts only with sufficient support.
+- The means of production belong to society; basic needs are provided unconditionally.
+- All economic income enters a common budget and is distributed among everyone as a social dividend after collective needs are funded.
+- People choose projects and organizations voluntarily rather than being assigned jobs.
+- Enterprises are run by workers through a chosen organizer or management.
+- Society decides what goals to pursue and how resources should be used; no small group or state agenda monopolizes development.
+- Several scientific, cultural, technological, environmental, and practical directions can develop in parallel.
+- Scarce resources are allocated through public, time-phased requests and transparent trade-offs.
+- Individuals may direct part of their social dividend toward projects, without acquiring ownership of productive assets.
+- Experts, auditors, and AI analyse data, while citizens set goals and priorities.
+- Decisions, budgets, and calculations are traceable; public institutions are replaceable and accountable.
 
-Four issues remain:
+## How the economy works
 
-1. How to enforce a citizens' decision if an organization refuses an audit or refuses to release a resource.
-2. How to implement automatic semiannual review of land, factories, housing, and infrastructure use.
-3. How to handle spatial mismatch in housing: suitable housing exists, but not in the required location, size, or condition.
-4. How to define personal ownership of a building when land is common, exchange is limited, and rent extraction is forbidden.
+Ordinary production follows demand and available labour. Projects calculate their requirements and request resources publicly. Funding is staged, conditional, and reviewable. Existing contracts, technical standards, logistics, and production chains continue to coordinate production.
+
+Land is common, while buildings and personal belongings may be held as personal property under defined limits. Housing is allocated according to actual need, and rent extraction is forbidden.
+
+The repository is not a finished constitution. Its mechanisms are proposals to be tested through criticism, historical comparisons, quantitative estimates, and experiments. A useful objection should identify a failure mode specific to this design and explain why transparency, collective choice, parallel projects, automation, auditing, or replaceable management cannot address it.
 
 ## Repository structure
 
