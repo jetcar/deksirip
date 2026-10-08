@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Контур общего — аудиоплеер</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --ink: #f2f0e9;
+      --muted: #b5b3ab;
+      --paper: #171a1c;
+      --panel: #22272a;
+      --accent: #8bd3c7;
+      --accent-ink: #102827;
+      --line: #3b4548;
+      --danger: #ff9f95;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--ink);
+      background: radial-gradient(circle at 12% 8%, #2b4947 0, transparent 28rem), var(--paper);
+    }
+    main { max-width: 900px; margin: 0 auto; padding: clamp(24px, 5vw, 56px) 20px 72px; }
+    .eyebrow { margin: 0 0 8px; color: var(--accent); font: 700 .74rem/1.3 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+    h1 { margin: 0; font-size: clamp(2rem, 6vw, 3.8rem); font-weight: 500; letter-spacing: -.035em; }
+    .intro { max-width: 52rem; margin: 14px 0 28px; color: var(--muted); font-size: 1.1rem; line-height: 1.55; }
+    .player { padding: 22px; border: 1px solid var(--line); border-radius: 18px; background: color-mix(in srgb, var(--panel) 92%, transparent); box-shadow: 0 20px 50px #0004; }
+    .field-grid { display: grid; gap: 16px; grid-template-columns: 1fr; }
+    label { display: grid; gap: 7px; color: var(--muted); font: 600 .78rem/1.2 system-ui, sans-serif; letter-spacing: .05em; text-transform: uppercase; }
+    select, button, input { font: inherit; }
+    select {
+      width: 100%; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px;
+      color: var(--ink); background: #151a1c; font-family: Georgia, "Times New Roman", serif;
+    }
+    .rate-row { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 12px; }
+    input[type="range"] { width: 100%; accent-color: var(--accent); }
+    output { color: var(--ink); font: 700 .95rem/1 system-ui, sans-serif; }
+    .controls { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+    button {
+      padding: 11px 14px; border: 1px solid var(--line); border-radius: 9px; color: var(--ink);
+      background: #151a1c; cursor: pointer; font: 600 .9rem/1 system-ui, sans-serif;
+    }
+    button:hover { border-color: var(--accent); }
+    button.primary { color: var(--accent-ink); border-color: var(--accent); background: var(--accent); }
+    button:disabled, select:disabled { opacity: .55; cursor: wait; }
+    .status { min-height: 1.5em; margin: 18px 0 0; color: var(--muted); font: .9rem/1.5 system-ui, sans-serif; }
+    .status.error { color: var(--danger); }
+    .options { display: flex; gap: 8px; align-items: center; margin-top: 16px; color: var(--muted); font: .9rem/1.35 system-ui, sans-serif; }
+    .options input { accent-color: var(--accent); }
+    .preview { margin-top: 28px; padding-top: 24px; border-top: 1px solid var(--line); }
+    .preview h2 { margin: 0 0 12px; font-size: 1.25rem; font-weight: 500; }
+    .preview p { margin: 0; white-space: pre-wrap; color: #d6d4cd; font-size: 1.05rem; line-height: 1.68; }
+    .hint { margin-top: 24px; color: var(--muted); font: .85rem/1.5 system-ui, sans-serif; }
+    @media (min-width: 680px) { .field-grid { grid-template-columns: 1.5fr 1fr; } .field-grid > :first-child { grid-column: 1 / -1; } }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="eyebrow">Роман «Контур общего»</p>
+    <h1>Аудиоплеер</h1>
+    <p class="intro">Выберите главу, голос и скорость, затем нажмите «Читать». Текст остаётся в папке романа и озвучивается на этом компьютере.</p>
+
+    <section class="player" aria-label="Управление аудиокнигой">
+      <div class="field-grid">
+        <label>Глава
+          <select id="chapter" disabled><option>Загрузка оглавления…</option></select>
+        </label>
+        <label>Голос
+          <select id="voice"><option>Загрузка голосов…</option></select>
+        </label>
+        <label>Скорость
+          <span class="rate-row"><input id="rate" type="range" min="0.7" max="1.3" step="0.05" value="0.95"><output id="rate-value">0.95×</output></span>
+        </label>
+      </div>
+      <div class="controls">
+        <button id="previous" type="button">← Предыдущая</button>
+        <button id="play" class="primary" type="button" disabled>▶ Читать</button>
+        <button id="pause" type="button">⏸ Пауза</button>
+        <button id="resume" type="button">Продолжить</button>
+        <button id="stop" type="button">■ Стоп</button>
+        <button id="next" type="button">Следующая →</button>
+      </div>
+      <label class="options"><input id="auto-next" type="checkbox" checked> После главы автоматически перейти к следующей</label>
+      <p id="status" class="status" role="status">Загружаю оглавление…</p>
+      <div class="preview"><h2 id="preview-title">Глава</h2><p id="preview">Загрузка текста…</p></div>
+    </section>
+    <p class="hint">Если русский голос не появился в списке, установите любой русский голос в настройках системы или выберите доступный голос браузера.</p>
+  </main>
+
+  <script id="embedded-chapters" type="application/json">[]</script>
+  <script>
+    const chapterSelect = document.querySelector('#chapter');
+    const voiceSelect = document.querySelector('#voice');
+    const rate = document.querySelector('#rate');
+    const rateValue = document.querySelector('#rate-value');
+    const preview = document.querySelector('#preview');
+    const previewTitle = document.querySelector('#preview-title');
+    const status = document.querySelector('#status');
+    const autoNext = document.querySelector('#auto-next');
+    const play = document.querySelector('#play');
+    const previous = document.querySelector('#previous');
+    const next = document.querySelector('#next');
+    const pause = document.querySelector('#pause');
+    const resume = document.querySelector('#resume');
+    const stop = document.querySelector('#stop');
+
+    let embeddedChapters = null;
+    try {
+      const embeddedSource = document.querySelector('#embedded-chapters')?.textContent?.trim();
+      if (embeddedSource && embeddedSource !== '[]') embeddedChapters = JSON.parse(embeddedSource);
+    } catch (error) {
+      console.warn('Embedded chapter data could not be read.', error);
+    }
+    let chapters = [];
+    let current = 0;
+    let chapterText = '';
+    let voices = [];
+    let speechRun = 0;
+
+    function setStatus(message, isError = false) {
+      status.textContent = message;
+      status.classList.toggle('error', isError);
+    }
+
+    function plainText(markdown) {
+      return markdown
+        .replace(/^---[\s\S]*?---\s*/m, '')
+        .replace(/^#{1,6}\s+/gm, '')
+        .replace(/!\[([^\]]*)\]\([^)]+\)/g, '$1')
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+        .replace(/[`*_~]/g, '')
+        .replace(/^>\s?/gm, '')
+        .replace(/\n{3,}/g, '\n\n')
+        .trim();
+    }
+
+    function splitForSpeech(text, limit = 1800) {
+      const paragraphs = text.split(/\n\s*\n/).filter(Boolean);
+      const chunks = [];
+      let chunk = '';
+      for (const paragraph of paragraphs) {
+        const sentences = paragraph.match(/[^.!?…]+[.!?…]+|[^.!?…]+$/g) || [paragraph];
+        for (const sentence of sentences) {
+          const candidate = `${chunk}${chunk ? ' ' : ''}${sentence}`.trim();
+          if (candidate.length > limit && chunk) { chunks.push(chunk); chunk = sentence.trim(); }
+          else { chunk = candidate; }
+        }
+      }
+      if (chunk) chunks.push(chunk);
+      return chunks;
+    }
+
+    function fillVoices() {
+      voices = speechSynthesis.getVoices();
+      const russian = voices.filter(voice => voice.lang.toLowerCase().startsWith('ru'));
+      const shown = russian.length ? russian : voices;
+      voiceSelect.replaceChildren();
+      if (!shown.length) {
+        voiceSelect.add(new Option('Голоса пока не найдены', ''));
+        return;
+      }
+      for (const voice of shown) voiceSelect.add(new Option(`${voice.name} — ${voice.lang}`, voice.voiceURI));
+      if (russian.length) setStatus(`Русский голос найден: ${russian[0].name}. Выберите главу и нажмите «Читать».`);
+      else setStatus('Русского голоса в браузере не найдено. Можно выбрать доступный голос или установить русский голос в системе.', true);
+    }
+
+    function chosenVoice() { return voices.find(voice => voice.voiceURI === voiceSelect.value); }
+
+    async function loadChapter(index) {
+      if (!chapters.length) return;
+      speechRun += 1;
+      speechSynthesis.cancel();
+      current = (index + chapters.length) % chapters.length;
+      chapterSelect.value = String(current);
+      const chapter = chapters[current];
+      previewTitle.textContent = chapter.title;
+      preview.textContent = 'Загрузка текста…';
+      setStatus(`Загружаю: ${chapter.title}`);
+      try {
+        chapterText = chapter.text ? plainText(chapter.text) : '';
+        if (!chapterText) {
+          const response = await fetch(`../chapters/${encodeURIComponent(chapter.file)}`);
+          if (!response.ok) throw new Error(`Файл не найден (${response.status})`);
+          chapterText = plainText(await response.text());
+        }
+        preview.textContent = chapterText.length > 900 ? `${chapterText.slice(0, 900).trimEnd()}…` : chapterText;
+        setStatus(`${chapter.title}: ${chapterText.length.toLocaleString('ru-RU')} знаков. Готово к чтению.`);
+      } catch (error) {
+        chapterText = '';
+        preview.textContent = 'Не удалось загрузить главу.';
+        setStatus(`Ошибка загрузки: ${error.message}`, true);
+      }
+    }
+
+    function beginReading() {
+      if (!chapterText) return;
+      speechRun += 1;
+      const run = speechRun;
+      speechSynthesis.cancel();
+      const chunks = splitForSpeech(chapterText);
+      const voice = chosenVoice();
+      let position = 0;
+      setStatus(`Читаю: ${chapters[current].title}`);
+      const readChunk = () => {
+        if (run !== speechRun) return;
+        if (position >= chunks.length) {
+          setStatus(`Глава завершена: ${chapters[current].title}`);
+          if (autoNext.checked && current < chapters.length - 1) {
+            loadChapter(current + 1).then(beginReading);
+          }
+          return;
+        }
+        const utterance = new SpeechSynthesisUtterance(chunks[position++]);
+        utterance.lang = voice?.lang || 'ru-RU';
+        if (voice) utterance.voice = voice;
+        utterance.rate = Number(rate.value);
+        utterance.onend = readChunk;
+        utterance.onerror = event => {
+          if (event.error !== 'canceled' && run === speechRun) setStatus(`Озвучивание остановлено: ${event.error}`, true);
+        };
+        speechSynthesis.speak(utterance);
+      };
+      readChunk();
+    }
+
+    async function loadContents() {
+      try {
+        if (embeddedChapters?.length) {
+          chapters = embeddedChapters.map(chapter => ({
+            title: chapter.title,
+            file: chapter.file,
+            text: chapter.text
+          }));
+        } else {
+          const response = await fetch('../MANUSCRIPT.md');
+          if (!response.ok) throw new Error(`Оглавление не найдено (${response.status})`);
+          const manuscript = await response.text();
+          const expression = /^\s*(?:\d+[\wа-яё-]*\.\s+)?\[([^\]]+)\]\(chapters\/([^)]+\.md)\)/gmi;
+          const seen = new Set();
+          for (const match of manuscript.matchAll(expression)) {
+            if (!seen.has(match[2])) { chapters.push({ title: match[1], file: match[2] }); seen.add(match[2]); }
+          }
+        }
+        if (!chapters.length) throw new Error('В оглавлении не найдены главы');
+        chapterSelect.replaceChildren(...chapters.map((chapter, index) => new Option(chapter.title, String(index))));
+        chapterSelect.disabled = false;
+        play.disabled = false;
+        await loadChapter(0);
+      } catch (error) {
+        setStatus(`Не удалось открыть оглавление: ${error.message}`, true);
+        preview.textContent = 'Проверьте, что плеер открыт через локальный адрес, а не как отдельный файл.';
+      }
+    }
+
+    chapterSelect.addEventListener('change', () => loadChapter(Number(chapterSelect.value)));
+    rate.addEventListener('input', () => { rateValue.value = `${Number(rate.value).toFixed(2)}×`; });
+    play.addEventListener('click', beginReading);
+    pause.addEventListener('click', () => { speechSynthesis.pause(); setStatus('Пауза.'); });
+    resume.addEventListener('click', () => { speechSynthesis.resume(); setStatus(`Продолжаю: ${chapters[current]?.title || ''}`); });
+    stop.addEventListener('click', () => { speechRun += 1; speechSynthesis.cancel(); setStatus('Остановлено.'); });
+    previous.addEventListener('click', () => loadChapter(current - 1));
+    next.addEventListener('click', () => loadChapter(current + 1));
+    speechSynthesis.addEventListener?.('voiceschanged', fillVoices);
+    speechSynthesis.onvoiceschanged = fillVoices;
+    fillVoices();
+    loadContents();
+  </script>
+</body>
+</html>

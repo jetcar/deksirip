@@ -1,0 +1,453 @@
+# Источники
+
+## Введение
+
+- Дж. М. Кейнс — «Экономические возможности наших внуков» (1930).
+- Проект Мэддисона (Maddison Project Database, Гронингенский университет) — оценки ВВП на душу населения.
+- Д. Гребер — «Бессмысленная работа» (2018).
+- Т. Мальтус — «Опыт о законе народонаселения» (1798).
+- Г. Кларк — «Прощай, нищета: краткая экономическая история мира» (2007).
+- Т. Веблен — «Теория праздного класса» (1899).
+- Дж. Даймонд — «Ружья, микробы и сталь».
+- Д. Аджемоглу, Дж. Робинсон — «Почему одни страны богатые, а другие бедные».
+- Дж. Мокир — «Культура роста»; Д. Макклоски — «Буржуазное достоинство»; Р. Аллен — «Глобальная экономическая история»; К. Померанц — «Великое расхождение».
+- Й. Шумпетер — «Капитализм, социализм и демократия» (1942) — «созидательное разрушение».
+- А. Крюгер — «Политическая экономия общества, ищущего ренту» (1974).
+- В. Смил — «Энергия и цивилизация» (2017).
+- Our World in Data (Оксфордский университет) — реконструкции грамотности в мире с XIX века.
+- ООН, World Population Prospects — ожидаемая продолжительность жизни.
+
+## Глава 1. Охотники-собиратели
+
+- Р. Ли — «!Кунг сан: мужчины, женщины и работа в обществе собирателей» (R. Lee, The !Kung San, 1979) — полевые наблюдения 1960-х.
+- Ж.-Ж. Юблен и др. — датировка находок Джебель-Ирхуд (Nature, 2017).
+- Т. Гоббс — «Левиафан» (1651).
+- Ю. Н. Харари — «Sapiens».
+- Р. Рэнгем — «Зажечь огонь: как кулинария сделала нас людьми» (R. Wrangham, Catching Fire, 2009).
+- Ф. Берна и др. — следы огня в пещере Вондерверк (PNAS, 2012).
+- С. Арман и др. — орудия Ломекви 3 (Nature, 2015).
+- Р. Джонс — «Земледелие с огненной палкой» (R. Jones, Fire-stick Farming, 1969).
+- ЮНЕСКО — культурный ландшафт Будж-Бим (2019).
+- В. Смил — «Энергия и цивилизация» (2017).
+- Ф. Марлоу — «Хадза: охотники-собиратели Танзании» (F. Marlowe, The Hadza, 2010).
+- А. Эстиоко-Гриффин, Б. Гриффин — охота женщин агта (1981).
+- Р. Хаас и др. — погребение женщины-охотницы в Вилама-Пата, Перу (Science Advances, 2020).
+- К. Хоукс, Дж. О'Коннелл, Н. Блёртон Джонс — охота хадза как «демонстрация», «гипотеза бабушки» (1990-е).
+- Х. Каплан, К. Хилл и др. — «Теория эволюции жизненного цикла человека» (Evolutionary Anthropology, 2000).
+- Р. Ли, И. ДеВор (ред.) — «Человек-охотник» (Man the Hunter, 1968).
+- М. Салинс — «Экономика каменного века» (1972), эссе «Изначальное общество изобилия».
+- Р. Ли — «Рождество в Калахари» (R. Lee, Eating Christmas in the Kalahari, Natural History, 1969).
+- Н. Петерсон — «Делёжка по требованию» (N. Peterson, Demand Sharing, American Anthropologist, 1993).
+- П. Фройхен — «Книга эскимосов» (P. Freuchen, Book of the Eskimos, 1961).
+- П. Висснер — исследования обмена хаксаро у жуцъоан (1970–1980-е).
+- М. Мосс — «Очерк о даре» (1925).
+- А. Смит — «Исследование о природе и причинах богатства народов» (1776).
+- К. Хамфри — «Бартер и экономическая дезинтеграция» (C. Humphrey, Man, 1985).
+- Д. Гребер — «Долг: первые 5000 лет» (2011).
+- Э. Брукс и др. — дальний перенос обсидиана в Олоргесайли (Science, 2018).
+- К. Хеншилвуд и др. — бусы из раковин пещеры Бломбос (Science, 2004); А. Бувье и др. — бусы Пещеры голубей, Марокко (PNAS, 2007).
+- К. Бём — «Иерархия в лесу: эволюция эгалитарного поведения» (C. Boehm, Hierarchy in the Forest, 1999).
+- Д. Гребер, Д. Уэнгроу — «Заря всего: новая история человечества» (2021).
+- М. Мосс — «Сезонные вариации эскимосских обществ» (1906).
+- Ф. Боас — описания потлача у квакиутль (конец XIX — начало XX в.).
+- Р. Уайт и др. — погребения Сунгиря и трудоёмкость бус из бивня мамонта.
+- Дж. Хенрик — «Секрет нашего успеха» (J. Henrich, The Secret of Our Success, 2015) — экспедиция Бёрка и Уиллса, «коллективный мозг».
+- М. Томаселло — «Культурные истоки человеческого познания» (1999) — «эффект храповика».
+- М. Клайн, Р. Бойд — размер населения и сложность орудий в Океании (Proceedings of the Royal Society B, 2010).
+- Р. Данбар — «Груминг, сплетни и эволюция языка» (1996).
+- Ф. Уэндорф — раскопки Джебель-Сахабы (1960-е); И. Кревекёр и др. — передатировка и анализ травм (Scientific Reports, 2021).
+- С. Боулз — «Повлияли ли войны между предковыми охотниками-собирателями на эволюцию социального поведения?» (Science, 2009).
+- С. Пинкер — «Лучшее в нас» (2011).
+- Д. Фрай, П. Сёдерберг — смертельная агрессия у подвижных охотников-собирателей (Science, 2013).
+- М. Мирасон Лар и др. — Натарук, Западная Туркана (Nature, 2016).
+- П. Мартин — гипотеза плейстоценового истребления мегафауны (1960–1970-е).
+- Р. Холдауэй и др. — хронология вымирания моа в Новой Зеландии (Nature Communications, 2014).
+- Э. Остром — «Управляя общим» (1990).
+- Э. О. Смит, Р. Блидж Бёрд — охота на черепах у мериам как дорогостоящий сигнал (Evolution and Human Behavior, 2000).
+- А. Захави — «Выбор партнёра: отбор на гандикап» (1975), принцип гандикапа.
+- Ф. Хирш — «Социальные пределы роста» (1976), позиционные блага.
+- Закон об индейцах Канады — запрет потлача (поправка 1884 г., отменена в 1951 г.).
+- К. Шмидт — раскопки Гёбекли-Тепе (с 1995 г.).
+- Н. Хауэлл — «Демография добе !кунг» (N. Howell, Demography of the Dobe !Kung, 1979).
+- М. Гурвен, Х. Каплан — «Долголетие у охотников-собирателей» (Population and Development Review, 2007).
+- Э. Кук — «Поток энергии в индустриальном обществе» (E. Cook, Scientific American, 1971).
+- Г. Кларк — «Прощай, нищета: краткая экономическая история мира» (2007).
+
+## Глава 2. Неолитическая революция
+
+- Э. Мур, Г. Хиллман, Э. Легге — «Деревня на Евфрате: от собирательства к земледелию в Абу-Хурейре» (A. Moore, G. Hillman, A. Legge, Village on the Euphrates, 2000).
+- Т. Моллесон — «Красноречивые кости Абу-Хурейры» (T. Molleson, The Eloquent Bones of Abu Hureyra, Scientific American, 1994).
+- Дж. Даймонд — «Ружья, микробы и сталь» (1997).
+- Т. Денем и др. — раннее земледелие в долине Кук, Новая Гвинея (Science, 2003).
+- К. Кеньон — раскопки Иерихона (1950-е).
+- Я. Ходдер — раскопки Чатал-Хююка (с 1993 г.).
+- Ю. Н. Харари — «Sapiens».
+- Э. Шеррат — «Плуг и скотоводство: аспекты революции вторичных продуктов» (A. Sherratt, Plough and Pastoralism, 1981).
+- Р. Эвершед и др. — следы молочных жиров на неолитической керамике Ближнего Востока и Анатолии (Nature, 2008).
+- Я. Куийт, Б. Финлейсон — зернохранилища Дра, Иордания (PNAS, 2009).
+- В. Смил — «Энергия и цивилизация» (2017).
+- С. Боулз — «Выращивание злаков первыми земледельцами не было продуктивнее собирательства» (S. Bowles, PNAS, 2011).
+- Дж. Вудберн — «Эгалитарные общества» (J. Woodburn, Egalitarian Societies, Man, 1982).
+- К. Шмидт — раскопки Гёбекли-Тепе (с 1995 г.); «Они строили первые храмы» (2006).
+- Ж.-П. Боке-Аппель — «Когда население мира взлетело: неолитический демографический переход» (J.-P. Bocquet-Appel, Science, 2011).
+- К. Флэннери — «Происхождение деревни: пересмотр» (K. Flannery, The Origins of the Village Revisited, 2002).
+- Б. Хейден — работы о пирах соперничества и происхождении земледелия (B. Hayden, The Power of Feasts, 2014).
+- Д. Гребер — «Долг: первые 5000 лет» (2011).
+- Д. Шмандт-Бессерат — «До письменности» (D. Schmandt-Besserat, Before Writing, 1992).
+- К. Ренфрю, Дж. Диксон, Дж. Канн — исследования распространения обсидиана на Ближнем Востоке (1960-е).
+- П. и А.-М. Петрекен — проект JADE: альпийские жадеитовые топоры в неолитической Европе (2012).
+- К. Кеньон — гипсовые черепа Иерихона (1953).
+- Т. Колер и др. — «Наибольшее древнее неравенство в Евразии» (T. Kohler et al., Greater post-Neolithic wealth disparities in Eurasia than in North America and Mesoamerica, Nature, 2017).
+- Варненский некрополь (открыт в 1972 г.; раскопки И. Иванова).
+- Д. Гребер, Д. Уэнгроу — «Заря всего» (2021).
+- М. Салинс — «Бедный человек, богатый человек, большой человек, вождь» (M. Sahlins, Comparative Studies in Society and History, 1963).
+- К. Флэннери, Дж. Маркус — «Сотворение неравенства» (K. Flannery, J. Marcus, The Creation of Inequality, 2012).
+- Й. Вар, К. Альт и др. — массовое захоронение в Тальхайме (1980-е и позднее).
+- К. Майер и др. — массовое захоронение в Шёнек-Килианштедтене (PNAS, 2015).
+- Дж. Скотт — «Против зерна» (J. Scott, Against the Grain, 2017).
+- ФАО — доля риса, пшеницы и кукурузы в мировом потреблении калорий.
+- В. Хаак и др. — древняя ДНК и миграции ранних земледельцев в Европу (Nature, 2015).
+- М. Кремер — «Рост населения и технологические изменения: от миллиона лет до н.э. до 1990 года» (M. Kremer, Quarterly Journal of Economics, 1993).
+- Ю. Итан и др. — происхождение и распространение персистентности лактазы в Европе (PLoS Computational Biology, 2009).
+- С. Расмуссен, Э. Виллерслев и др. — ранняя чумная палочка в Евразии бронзового века (Cell, 2015).
+- Н. Раскован и др. — чумная палочка в неолитическом захоронении Фрельсегордена, Швеция (Cell, 2019).
+- А. Дюкс и др. — происхождение вируса кори от вируса чумы крупного рогатого скота (Science, 2020).
+- М. Коэн, Дж. Армелагос (ред.) — «Палеопатология у истоков земледелия» (M. Cohen, G. Armelagos, Paleopathology at the Origins of Agriculture, 1984).
+- Г. Роллфсон, И. Кёлер-Роллфсон — упадок Айн-Гхазаля и деградация среды (1989 и позднее).
+- К. Макэведи, Р. Джонс — «Атлас истории мирового населения» (C. McEvedy, R. Jones, Atlas of World Population History, 1978).
+- Дж. Л. Энджел — «Здоровье как ключевой фактор человеческой истории» (J. L. Angel, Health as a Crucial Factor in the Changes from Hunting to Developed Farming in the Eastern Mediterranean, в сб. Коэна и Армелагоса, 1984).
+- С. Шеннан и др. — «Региональные спады населения после прихода неолита в Европу» (S. Shennan et al., Nature Communications, 2013).
+- М. Паркер Пирсон — раскопки Стоунхенджа и Даррингтон-Уоллс (проект Stonehenge Riverside, 2003–2009).
+- Р. Мэджвик и др. — изотопный анализ свиней из Даррингтон-Уоллс: пиры с участием всей Британии (Science Advances, 2019).
+- К. Ренфрю — «До цивилизации» (C. Renfrew, Before Civilization, 1973): оценки трудозатрат на мегалиты.
+- К. Стивенс, Д. Фуллер — «Не было ли неолитической революции на Британских островах?» (C. Stevens, D. Fuller, Antiquity, 2012).
+- Т. Веблен — «Теория праздного класса» (1899).
+
+## Глава 3. Храмовые и дворцовые экономики
+
+- Ю. Н. Харари — «Sapiens: Краткая история человечества» (табличка Кушима).
+- Г. Альгейз (G. Algaze) — «Ancient Mesopotamia at the Dawn of Civilization: The Evolution of an Urban Landscape» (2008) — Урук, масштаб урбанизации.
+- М. ван де Мируп (M. Van De Mieroop) — «A History of the Ancient Near East» — хронология и оценки населения Урука.
+- Х. Ниссен, П. Дамеров, Р. Энглунд — «Archaic Bookkeeping» (1993) — протоклинопись как учётные записи, миски со скошенным краем.
+- Дж. М. Кенойер (J. M. Kenoyer) — «Ancient Cities of the Indus Valley Civilization» (1998).
+- В. Смил — «Энергия и цивилизация» (мышечная энергия первых цивилизаций).
+- Д. Шмандт-Бессера (D. Schmandt-Besserat) — «Before Writing» (1992) — гипотеза о происхождении письма от глиняных фишек.
+- Математический папирус Ринда (≈1550 до н.э.) — египетские хозяйственные задачи.
+- Р. Энглунд (R. K. Englund) — работы об учёте труда в архивах Уммы эпохи III династии Ура (человеко-дни, нормы, долг надсмотрщиков).
+- М. Лернер (M. Lehner), З. Хавасс (Z. Hawass) — раскопки посёлка строителей пирамид в Гизе; М. Лернер — «The Complete Pyramids» (1997).
+- Документы Дейр-эль-Медины; Туринский папирус о забастовке (29-й год Рамсеса III, ≈1157 до н.э.).
+- Д. Гребер — «Долг: первые 5000 лет» (2011) — единица счёта прежде монеты, процент, списания долгов.
+- М. Хадсон (M. Hudson) — «…and Forgive Them Their Debts» (2018) — указы о списании долгов на Древнем Ближнем Востоке.
+- Законы Эшнунны (≈XVIII в. до н.э.) — соотношение серебра и ячменя; Законы Хаммурапи (≈1750 до н.э.) — ставки процента.
+- Указ Аммицадуки (≈1646 до н.э.); надписи Урукагины (Лагаш, ≈2350 до н.э.) — «амарги».
+- Архивы ассирийских купцов из Канеша (Кюльтепе), ≈1900 до н.э.
+- Т. Якобсен (Th. Jacobsen) — «Primitive Democracy in Ancient Mesopotamia» (1943) — гипотеза о народных собраниях.
+- Надписи Саргона Аккадского (≈2334 до н.э.) — 5400 человек, ежедневно евших перед царём.
+- Законы Ур-Намму (≈2100 до н.э.); стела законов Хаммурапи (Лувр).
+- Архивы Пузриш-Дагана; система «бала» III династии Ура (реформы Шульги).
+- Д. Гребер, Д. Уэнгроу — «Заря всего» (2021) — долина Инда без явной монархии.
+- Табличка Плимптон 322 (≈1800 до н.э.) — старовавилонская математика; позиционная шестидесятеричная запись.
+- Шумерские лексические списки (Урук, IV–III тыс. до н.э.) — ранние учебные перечни слов.
+- Египетский гражданский календарь в 365 дней.
+- Стела коршунов Эанатума (Лагаш, ≈2450 до н.э.) — конфликт Лагаша и Уммы за Гуэдену.
+- Х. Вайс (H. Weiss) и др. — «The Genesis and Collapse of Third Millennium North Mesopotamian Civilization» (Science, 1993) — засуха ≈2200 до н.э. и упадок Аккада.
+- «Проклятие Аккаду»; «Плач о гибели Ура»; переписка Ибби-Сина и Ишби-Эрры.
+- Т. Якобсен, Р. Адамс (Th. Jacobsen, R. M. Adams) — «Salt and Silt in Ancient Mesopotamian Agriculture» (Science, 1958).
+- М. Пауэлл (M. A. Powell) — «Salt, Seed, and Yields in Sumerian Agriculture» (1985) — критика гипотезы засоления.
+- Архив дворца Мари (разрушен Хаммурапи, ≈1761 до н.э.).
+- Л. Вулли (L. Woolley) — раскопки Царского кладбища Ура (1922–1934), гробница Пуаби, «Великая яма смерти»; повторное исследование черепов методом КТ (A. Baadsgaard и др., Antiquity, 2011).
+- П. Талле (P. Tallet) — папирусы из Вади-эль-Джарфа (2013), дневник Мерера о доставке известняка из Туры в Гизу.
+- Дахшурский указ Пепи I — освобождение поселений при пирамидах Снофру от повинностей.
+- Дж. М. Кейнс — «Общая теория занятости, процента и денег» (1936) — ироническое замечание о строительстве пирамид и занятости.
+- К. Макэведи, Р. Джонс (C. McEvedy, R. Jones) — «Atlas of World Population History» (1978) — население мира в III–I тыс. до н.э.
+- К. Буцер (K. W. Butzer) — «Early Hydraulic Civilization in Egypt» (1976) — оценка населения Египта.
+- Дж. Бейнс, К. Эйр (J. Baines, C. Eyre) — «Four Notes on Literacy» (1983) — оценка грамотности в Древнем Египте.
+- А. Мэддисон — «Contours of the World Economy, 1–2030 AD» (2007) — оценка мирового дохода на душу в I в. н.э.
+
+## Глава 4. Металлы, торговля и первые деньги
+
+- Дж. Басс, Дж. Пулак (G. F. Bass, C. Pulak), Институт морской археологии — раскопки кораблекрушения у мыса Улубурун (1984–1994), ≈1300 до н.э.
+- Амарнский архив (≈XIV в. до н.э.) — дипломатическая переписка царей Ближнего Востока с фараонами.
+- Э. Клайн (E. H. Cline) — «1177 год до нашей эры: год, когда пала цивилизация» (2014).
+- Находка «Эци» (Эцтальские Альпы, 1991) — медный топор, ≈3300 до н.э.
+- Д. Комелли и др. (D. Comelli et al.) — «The meteoritic origin of Tutankhamun's iron dagger blade», Meteoritics & Planetary Science (2016).
+- Письмо Хаттусили III ассирийскому царю о железе (KBo I 14), XIII в. до н.э.
+- Серабит-эль-Хадим (Синай) — надписи египетских горных экспедиций.
+- М. Вентрис (M. Ventris) — дешифровка линейного письма Б (1952); таблички из Пилоса (≈1200 до н.э.).
+- М. Т. Ларсен (M. T. Larsen) — «Ancient Kanesh: A Merchant Colony in Bronze Age Anatolia» (2015); договоры «наруккум», письма Ламасси.
+- Гесиод — «Труды и дни» (≈700 до н.э.).
+- К. Поланьи, К. Аренсберг, Г. Пирсон (K. Polanyi et al.) — «Trade and Market in the Early Empires» (1957).
+- Геродот — «История» (V в. до н.э.): «немая торговля» карфагенян (IV, 196); лидийская монета (I, 94).
+- Книга пророка Иезекииля, гл. 27 — плач о Тире.
+- Надпись на саркофаге Ахирама (Библ, ≈X в. до н.э.).
+- Клад монет из храма Артемиды в Эфесе (раскопки Д. Хогарта, 1904–1905).
+- Д. Гребер — «Долг: первые 5000 лет» (2011): монета и армия.
+- Египетско-хеттский мирный договор Рамсеса II и Хаттусили III (≈1259 до н.э.).
+- Архивы Угарита: соглашения о возмещении за убитых купцов; указ Хаттусили III о купцах из Ура.
+- Б. Одед (B. Oded) — «Mass Deportations and Deportees in the Neo-Assyrian Empire» (1979).
+- Аристотель — «Политика», кн. II: о государственном устройстве Карфагена.
+- Аристотель — «Афинская полития»; Плутарх — «Солон»: реформа Солона (≈594 до н.э.).
+- Д. Рикардо — «Начала политической экономии и налогообложения» (1817): сравнительное преимущество.
+- И. Моррис (I. Morris) — «Archaeology, Standards of Living, and Greek Economic History» (2005): размеры греческих жилищ 800–300 до н.э.
+- Письмо Аммурапи, царя Угарита, царю Аласии (Кипра) (RS 20.238), ≈1190 до н.э.; хеттские письма в Угарит о поставках зерна в Ура.
+- Д. Лангут, И. Финкельштейн, Т. Литт (D. Langgut, I. Finkelstein, T. Litt) — «Climate and the Late Bronze Collapse: New Evidence from the Southern Levant», Tel Aviv (2013).
+- Рельефы храма Мединет-Абу (Рамсес III) — «народы моря».
+- Э. Снодграсс (A. Snodgrass) — «The Dark Age of Greece» (1971): сокращение числа поселений.
+- Лахишские рельефы Синаххериба (Британский музей), 701 до н.э.; надпись Синаххериба о разрушении Вавилона (689 до н.э.); анналы Ашшурбанипала о разорении Суз.
+- Ксенофонт — «Анабасис», кн. III; Иосиф Флавий — «Против Апиона», I, 21: осада Тира Навуходоносором.
+- Стела пира Ашшурнасирпала II из Кальху (Нимруда), ≈879 до н.э.
+- Дур-Шаррукин (Хорсабад) — столица Саргона II, раскопки П.-Э. Ботта и В. Пласа (XIX в.).
+- Трактат Киккули о тренировке колесничных коней (хеттский, XIV в. до н.э.).
+- Р. Дрюс (R. Drews) — «The End of the Bronze Age: Changes in Warfare and the Catastrophe ca. 1200 B.C.» (1993).
+- Амарнские письма Тушратты Митаннийского и Бурна-Буриаша II Вавилонского: торг о золотых дарах.
+- Г. Картер — гробница Тутанхамона (1922); папирусы о судах над грабителями гробниц (XII в. до н.э.).
+- Геродот — «История», I, 46–56, 86–91: дары Креза в Дельфы, оракул, падение Сард.
+- К. Венхоф (K. R. Veenhof) — «Aspects of Old Assyrian Trade and Its Terminology» (1972): цены, наценки и процент в торговле Канеша.
+- Геродот — «История», VII, 144: Лаврионское серебро и флот Фемистокла (483 до н.э.).
+- К. Макэведи, Р. Джонс (C. McEvedy, R. Jones) — «Atlas of World Population History» (1978): население около 1000 и 500 до н.э.
+
+## Глава 5. Греция и Рим
+
+- Х. Ремесаль Родригес (J. Remesal Rodríguez) и др. — раскопки Монте-Тестаччо (Рим), амфоры Dressel 20 из Бетики, tituli picti.
+- Ксенофонт — «Домострой» («Ойкономикос»).
+- Аристотель — «Политика», кн. I: о хрематистике.
+- Катон Старший — «О земледелии»; Варрон — «О сельском хозяйстве»; Колумелла — «О сельском хозяйстве».
+- Герон Александрийский — «Пневматика» (эолипил).
+- Антикитерский механизм — находка 1901 г.; исследования Antikythera Mechanism Research Project (Т. Фрит и др.).
+- Витрувий — «Десять книг об архитектуре», кн. X (водяная мельница).
+- Плиний Старший — «Естественная история», кн. XXXIII (ruina montium, Лас-Медулас).
+- Диодор Сицилийский — «Историческая библиотека», кн. XIV (машины Дионисия Старшего).
+- A. J. Parker — Ancient Shipwrecks of the Mediterranean and the Roman Provinces (1992).
+- A. Wilson — работы о водяной энергии в римской экономике (в т. ч. Machines, Power and the Ancient Economy, JRS 2002).
+- Б. Уорд-Перкинс — «Падение Рима и конец цивилизации».
+- J. R. McConnell et al. — Lead pollution recorded in Greenland ice (PNAS, 2018).
+- М. Финли — «Античная экономика».
+- Эдикт Диоклетиана о ценах (301 г.).
+- Строительные отчёты Эрехтейона (IG I³ 474–479), 409–406 гг. до н. э.
+- Ксенофонт — «О доходах» (Никий и аренда рабов на рудниках Лавриона).
+- Цезарь — «Записки о Галльской войне», кн. II (продажа в рабство 53 тыс. адуатуков).
+- P. A. Brunt — Italian Manpower 225 B.C.–A.D. 14 (1971); W. Scheidel — работы по демографии рабства в римской Италии.
+- Аппиан — «Гражданские войны», кн. I (Гракхи, восстание Спартака).
+- Петроний — «Сатирикон» (Тримальхион).
+- Кодекс Феодосия, V.17.1 — закон Константина о колонах (332 г.).
+- Закон Никофонта о проверке серебряной монеты (Афины, 375/374 г. до н. э.; стела из раскопок агоры, 1970).
+- Демосфен — судебные речи о наследстве Пасиона («За Формиона», «Против Стефана») и о морских займах («Против Лакрита»).
+- P. Temin — The Roman Market Economy (2013).
+- K. Hopkins — Taxes and Trade in the Roman Empire (200 B.C.–A.D. 400), JRS 1980.
+- Тацит — «Анналы», кн. VI (кредитный кризис 33 г. и займы Тиберия).
+- Цицерон — речи против Верреса.
+- Светоний — «Божественный Юлий» (сокращение списка получателей зерна).
+- Плиний Старший — «Естественная история», кн. XII (утечка монеты на Восток).
+- Папирус Музириса (P. Vindob. G 40822), II в.
+- Клеротерии и судейские таблички (пинакии) из раскопок афинской агоры; Аристотель — «Афинская полития».
+- Полибий — «Всеобщая история», кн. VI (смешанное устройство Рима).
+- Плутарх — «Перикл» (казна Делосского союза и строительство Акрополя).
+- Законы XII таблиц (ок. 450 г. до н. э.); Гай — «Институции»; «Дигесты» Юстиниана (533).
+- P. Garnsey, R. Saller — The Roman Empire: Economy, Society and Culture (1987).
+- Дион Кассий — «Римская история», кн. LXXVIII (эдикт Каракаллы 212 г.).
+- Фронтин — «О водопроводах города Рима» (De aquis urbis Romae, ок. 97–98 гг.).
+- N. Koepke, J. Baten — The biological standard of living in Europe during the last two millennia (European Review of Economic History, 2005).
+- Плутарх — «Помпей»; Аппиан — «Митридатовы войны» (закон Габиния и война с пиратами, 67 г. до н. э.).
+- Евклид — «Начала»; Эратосфен (по Клеомеду) — измерение окружности Земли.
+- I. Morris — Economic Growth in Ancient Greece (Journal of Institutional and Theoretical Economics, 2004).
+- J. Ober — The Rise and Fall of Classical Greece (2015).
+- Полибий — «Всеобщая история», кн. XXXVIII (гибель Карфагена, 146 г. до н. э.); Павсаний — «Описание Эллады», кн. VII (разрушение Коринфа Муммием).
+- Фукидид — «История», кн. II (эпидемия в Афинах 430 г.), кн. VII (Декелея, бегство рабов, Сицилийская экспедиция).
+- Тит Ливий — «История Рима от основания города», кн. XLV (продажа 150 тыс. жителей Эпира, 167 г. до н. э.).
+- Страбон — «География», кн. XIV (невольничий рынок Делоса).
+- Валерий Максим, Плутарх («Сулла») — избиение италийцев в Азии (88 г. до н. э.).
+- R. Duncan-Jones — The impact of the Antonine plague (JRA, 1996); K. Harper — The Fate of Rome (2017).
+- Лактанций — «О смертях преследователей», гл. 7 (эдикт о ценах).
+- P. Brown — The World of Late Antiquity (1971).
+- Дион Кассий — «Римская история», кн. LXVI (игры Тита, 80 г.), кн. LXVIII (игры Траяна, 107 г.).
+- Светоний — «Нерон» (Золотой дом), «Божественный Клавдий» (гарантии купцам, возившим зерно).
+- G. Alföldy — Eine Bauinschrift aus dem Colosseum (ZPE, 1995): реконструкция надписи о постройке амфитеатра из военной добычи.
+- Ювенал — «Сатиры», X («хлеба и зрелищ»).
+- П. Вен (P. Veyne) — «Хлеб и цирк» (Le pain et le cirque, 1976).
+- Плутарх — «Цезарь» (игры эдила 65 г. до н. э., поручительство Красса).
+- Тит Ливий — «История Рима от основания города», кн. XXI (закон Клавдия 218 г. до н. э.), кн. XXXIV (отмена Оппиева закона).
+- Тацит — «Анналы», кн. III (Тиберий о законах против роскоши).
+- Демосфен — «Первая филиппика».
+- Герон Александрийский — «Об автоматах».
+- R. Duncan-Jones — Money and Government in the Roman Empire (1994).
+- А. Смит — «Исследование о природе и причинах богатства народов» (1776): разделение труда и размер рынка («смитовский» рост).
+- C. McEvedy, R. Jones — Atlas of World Population History (1978).
+- A. Maddison — Contours of the World Economy, 1–2030 AD (2007).
+- B. W. Frier — Demography (Cambridge Ancient History, vol. XI, 2000).
+- W. Scheidel, S. Friesen — The Size of the Economy and the Distribution of Income in the Roman Empire (JRS, 2009).
+- M. H. Hansen — работы по демографии классических Афин (в т. ч. Three Studies in Athenian Demography, 1988).
+
+## Глава 6. Вне Европы
+
+- «Мин ши» (Официальная история династии Мин) — сведения о плаваниях Чжэн Хэ (1405–1433).
+- Чжан Цзэдуань — свиток «По реке в день поминовения усопших» (Цинмин шанхэ ту), нач. XII в.
+- Документы Каирской генизы; S. D. Goitein — A Mediterranean Society.
+- К. Померанц — «Великое расхождение» (2000).
+- R. C. Allen et al. — Wages, prices, and living standards in China, 1738–1925 (Economic History Review, 2011); S. Broadberry, H. Guan, D. Li — China, Europe, and the Great Divergence (Journal of Economic History, 2018).
+- E. A. Wrigley — Energy and the English Industrial Revolution (2010): понятие «органической экономики».
+- R. Hartwell — A Revolution in the Chinese Iron and Coal Industries during the Northern Sung (Journal of Economic History, 1962): оценка выплавки железа ок. 1078 г.
+- Шэнь Ко — «Записи бесед в Мэнси» (XI в.): сведения о подвижном шрифте Би Шэна.
+- J. Needham — Science and Civilisation in China (с 1954).
+- M. Elvin — The Pattern of the Chinese Past (1973): «ловушка равновесия на высоком уровне».
+- A. M. Watson — Agricultural Innovation in the Early Islamic World (1983) и критика его тезиса.
+- Мухаммад аль-Хорезми — трактат об «аль-джабр» (IX в.); Ибн аль-Хайсам — «Книга оптики»; Ибн Сина — «Канон врачебной науки».
+- «Спор о соли и железе» (Янь те лунь), запись дискуссии 81 г. до н. э.
+- Реформы Ван Аньши (1070-е) и «единого кнута» (XVI в.) — по The Cambridge History of China (тт. 5, 7–8).
+- S. D. Goitein — о ремесленных объединениях в A Mediterranean Society, т. 1.
+- W. H. Wiser — The Hindu Jajmani System (1936).
+- Ат-Табари — «История пророков и царей»: восстание зинджей (869–883).
+- Педро Сьеса де Леон, Хуан де Бетансос, Гарсиласо де ла Вега — хроники об инках; J. V. Murra — The Economic Organization of the Inka State (1980).
+- Сунские бумажные деньги цзяоцзы (казённый выпуск с 1023 г.) и минские ассигнации (с 1375 г.) — по The Cambridge History of China; R. von Glahn — Fountain of Fortune: Money and Monetary Policy in China, 1000–1700 (1996).
+- Марко Поло — «Книга о разнообразии мира»: описание бумажных денег Юань.
+- D. O. Flynn, A. Giráldez — Born with a «Silver Spoon»: The Origin of World Trade in 1571 (Journal of World History, 1995).
+- A. Greif — Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition (American Economic Review, 1993); J. Edwards, S. Ogilvie — Contract Enforcement, Institutions, and Social Capital: the Maghribi Traders Reappraised (Economic History Review, 2012).
+- T. Kuran — The Long Divergence: How Islamic Law Held Back the Middle East (2011): вакф и партнёрства.
+- Плиний Старший — «Естественная история», кн. XII: жалоба на утечку денег в Индию.
+- J. V. Murra — «вертикальный архипелаг» (статья 1972 г.).
+- J. W. Chaffee — The Thorny Gates of Learning in Sung China: A Social History of Examinations (1985).
+- Михна аль-Мамуна (833–ок. 848) и независимость улемов — по The New Cambridge History of Islam, т. 1.
+- Ф. Бернье — «Путешествия по империи Великих Моголов» (1670).
+- I. Habib — The Agrarian System of Mughal India (1963): мансабы, джагиры, обмер Тодар Мала.
+- G. W. Conrad, A. A. Demarest — Religion and Empire: The Dynamics of Aztec and Inca Expansionism (1984): гипотеза «раздельного наследования».
+- Леонардо Пизанский (Фибоначчи) — «Книга абака» (Liber Abaci, 1202).
+- Брахмагупта — «Брахма-спхута-сиддханта» (628): правила действий с нулём.
+- P.-É. Will, R. Bin Wong — Nourish the People: The State Civilian Granary System in China, 1650–1850 (1991).
+- Прорыв дамб Хуанхэ Ду Чуном (1128) и смена русла — по The Cambridge History of China, т. 5; Ling Zhang — The River, the Plain, and the State: An Environmental Drama in Northern Song China, 1048–1128 (2016).
+- Ибн аль-Асир — «Полный свод истории»; Ала ад-Дин Ата-Мелик Джувейни — «История завоевателя мира»: монгольские походы в Хорезм и Хорасан.
+- Взятие Багдада Хулагу (1258) — по The New Cambridge History of Islam, т. 3.
+- Хроники Х. де Бетансоса и П. Сьесы де Леона: война Уаскара и Атауальпы; Кахамарка (1532).
+- Походы Аурангзеба на Декан (1681–1707), взятие Дели Надир-шахом (1739) — по The New Cambridge History of India.
+- Хайцзинь и вокоу; частичная отмена 1567 г. (Юэган) — по The Cambridge History of China, т. 8.
+- А. Мэддисон — The World Economy: Historical Statistics (2003): оценки ВВП на душу для Китая, Индии, Западной Азии.
+- S. Broadberry, J. Custodis, B. Gupta — India and the Great Divergence: An Anglo-Indian Comparison of GDP per capita, 1600–1871 (Explorations in Economic History, 2015).
+- W. H. Moreland — India at the Death of Akbar (1920): оценка населения.
+- N. D. Cook — Demographic Collapse: Indian Peru, 1520–1620 (1981).
+- J. Z. Lee, Wang Feng — One Quarter of Humanity: Malthusian Mythology and Chinese Realities, 1700–2000 (1999).
+- ЮНЕСКО — Qhapaq Ñan, Andean Road System (объект Всемирного наследия, 2014).
+- Абдул Хамид Лахори — «Падшах-наме»: строительство гробницы Мумтаз-Махал и Павлиний трон.
+- Самарра как аббасидская столица (836–892) — по The New Cambridge History of Islam, т. 1; A. Northedge — The Historical Topography of Samarra (2005).
+- Доклад Линь Жуня (1562) о содержании минского императорского клана — по The Cambridge History of China, т. 8.
+- Аль-Умари — «Пути взоров по государствам городов»: хадж Мансы Мусы (1324).
+- B. A. Elman — A Cultural History of Civil Examinations in Late Imperial China (2000).
+- Битва при Тумубао (1449), строительство минской стены — по The Cambridge History of China, т. 7; A. Waldron — The Great Wall of China: From History to Myth (1990).
+- Население Китая в XVIII в. (ок. 300 млн к концу века) — по The Cambridge History of China, т. 9; C. McEvedy, R. Jones — Atlas of World Population History (1978).
+
+## Глава 7. Феодальная Европа
+
+- Domesday Book (1086) и Англосаксонская хроника (запись под 1085 г.) — опись Вильгельма Завоевателя.
+- M. T. Hodgen — Domesday Water Mills // Antiquity, 1939 (≈5 600 мельниц).
+- H. C. Darby — Domesday England (1977): население, структура держаний.
+- Адальберон Ланский — «Поэма королю Роберту» (ок. 1030): три сословия.
+- C. McEvedy, R. Jones — Atlas of World Population History (1978): население Европы 1000–1300 гг.
+- O. J. Benedictow — The Black Death 1346–1353: The Complete History (2004).
+- M. Bloch — Avènement et conquêtes du moulin à eau // Annales, 1935: мельница и баналитет.
+- L. White Jr. — Medieval Technology and Social Change (1962): тяжёлый плуг, хомут, трёхполье, тезис о стремени.
+- P. Sawyer, R. H. Hilton — Technical Determinism: The Stirrup and the Plough // Past & Present, 1963; B. Bachrach — критика тезиса Уайта.
+- B. H. Slicher van Bath — The Agrarian History of Western Europe, A.D. 500–1850 (1963): урожайность сам-3–4.
+- Джоселин Брейклондский — Хроника аббатства Бери-Сент-Эдмундс (ветряная мельница, ок. 1191).
+- В. Смил — «Энергия и цивилизация»: мускульная энергия, водяное колесо.
+- Джордано да Пиза — проповедь 1306 г. об изобретении очков.
+- Уолтер из Хенли — трактат «Hosbondrie» (ок. 1280): надзор за барщинными работами.
+- Счета поместий епископов Винчестерских (Winchester Pipe Rolls): переход от барщины к найму.
+- C. Dyer — Standards of Living in the Later Middle Ages (1989): бремя ренты и поборов.
+- R. Brenner — Agrarian Class Structure and Economic Development (Past & Present, 1976): «политическое накопление».
+- Устав святого Бенедикта (VI в.); описание аббатства Клерво (XII в.); цистерцианцы и конверсы.
+- Этьен Буало — «Книга ремёсел» (ок. 1268): уставы парижских цехов.
+- S. R. Epstein — Craft Guilds, Apprenticeship and Technological Change (J. Econ. History, 1998).
+- S. Ogilvie — The European Guilds: An Economic Analysis (2019).
+- Капитулярии Карла Великого (ок. 793–794): денежная реформа, фунт = 20 солидов = 240 денариев.
+- P. Spufford — Money and its Use in Medieval Europe (1988): серебряные рудники, гроссо, флорин, дукат, векселя.
+- R. S. Lopez — The Commercial Revolution of the Middle Ages, 950–1350 (1971): ярмарки Шампани, коммерческие техники.
+- P. Dollinger — The German Hansa (1964).
+- D. Puga, D. Trefler — International Trade and Institutional Change: Medieval Venice's Response to Globalization (QJE, 2014): коллеганца.
+- Леонардо Пизанский (Фибоначчи) — «Liber Abaci» (1202).
+- Лука Пачоли — «Summa de arithmetica» (1494): описание двойной записи.
+- I. Origo — The Merchant of Prato: Francesco di Marco Datini (1957).
+- Николай Орем — «Трактат о деньгах» (De moneta, ок. 1360).
+- Дж. Виллани — «Новая хроника»; E. S. Hunt — A New Look at the Dealings of the Bardi and Peruzzi with Edward III (J. Econ. History, 1990).
+- Magna Carta (1215): статьи о «общем совете королевства» и о суде равных.
+- H. J. Berman — Law and Revolution: The Formation of the Western Legal Tradition (1983): спор об инвеституре, каноническое право.
+- Грациан — «Декрет» (Concordia discordantium canonum, ок. 1140).
+- A. Greif — Institutions and the Path to the Modern Economy (2006): система общинной ответственности.
+- J. L. van Zanden, E. Buringh, M. Bosker — The Rise and Decline of European Parliaments, 1188–1789 (Economic History Review, 2012).
+- Грамота архиепископа Фридриха Гамбургского голландским поселенцам (ок. 1106): условия колонизации болот.
+- R. Bartlett — The Making of Europe: Conquest, Colonization and Cultural Change, 950–1350 (1993): внутренняя колонизация, Ostsiedlung.
+- Список переводов Герарда Кремонского, составленный его учениками (после 1187): переводы с арабского в Толедо.
+- E. Buringh, J. L. van Zanden — Charting the "Rise of the West": Manuscripts and Printed Books in Europe (J. Econ. History, 2009).
+- S. Broadberry, B. Campbell, A. Klein, M. Overton, B. van Leeuwen — British Economic Growth, 1270–1870 (2015).
+- M. M. Postan — The Medieval Economy and Society (1972): мальтузианская интерпретация.
+- W. C. Jordan — The Great Famine: Northern Europe in the Early Fourteenth Century (1996): голод 1315–1317 гг.
+- Движение «Божьего мира» и «Божьего перемирия» (конец X — XI в.).
+- J. Sumption — The Hundred Years War (т. 1–2, 1990–1999): шевоше Чёрного принца 1355 г., «роты».
+- M. Barber — The Trial of the Templars (1978): арест тамплиеров 1307 г.
+- Ф. Клозенер, Я. Твингер фон Кёнигсхофен — страсбургские хроники (погром 1349 г.).
+- Ордонанс о работниках (1349) и Статут о работниках (1351).
+- J. Gimpel — The Cathedral Builders (Les bâtisseurs de cathédrales, 1958): масштаб добычи камня во Франции 1050–1350 гг. (оценка автора).
+- H. Kraus — Gold Was the Mortar: The Economics of Cathedral Building (1979).
+- W. C. Jordan — Louis IX and the Challenge of the Crusade (1979): финансы седьмого крестового похода.
+- A. J. Taylor — The Welsh Castles of Edward I (1986): стоимость валлийских замков.
+- E. H. Phelps Brown, S. V. Hopkins — Seven Centuries of the Prices of Consumables, Compared with Builders' Wage-Rates (Economica, 1956).
+- G. Clark — A Farewell to Alms (2007; рус. «Прощай, нищета»): пересчёт реальных зарплат.
+- A. Maddison — The World Economy: Historical Statistics (2003): доход на душу в Западной Европе 1000 и 1500 гг.
+- J. Hatcher — Mortality in the Fifteenth Century: New Evidence from Canterbury (Economic History Review, 1986): монахи Крайст-Черч.
+- Подушный налог 1377 г. (Poll Tax returns): оценка населения Англии после чумы.
+
+## Глава 8. Коммерческая революция и Великие открытия
+- «Roteiro» — анонимный дневник первого плавания Васко да Гамы (1497–1499): приём в Каликуте.
+- Каса-де-Контратасьон (Севилья, 1503); манильские галеоны (с 1571).
+- C. McEvedy, R. Jones — Atlas of World Population History (1978): население Европы 1450–1700.
+- Slave Voyages — Trans-Atlantic Slave Trade Database: объём трансатлантической работорговли.
+- A. Zacuto — Almanach perpetuum (Лейрия, 1496): таблицы склонения солнца.
+- G. Mercator — карта мира 1569 г. (Nova et aucta orbis terrae descriptio).
+- L. Pacioli — Summa de arithmetica (Венеция, 1494).
+- J. de Vries, A. van der Woude — The First Modern Economy (1997): торф, ветряные мельницы, флейт.
+- Патент Корнелиса Корнелисзона на ветряную лесопилку (1594).
+- P. J. Bakewell — Miners of the Red Mountain: Indian Labor in Potosí, 1545–1650 (1984): амальгамация, мита.
+- B. de Las Casas — Brevísima relación de la destrucción de las Indias (1552); «Новые законы» 1542 г. об энкомьенде.
+- F. Mendels — Proto-industrialization: The First Phase of the Industrialization Process (Journal of Economic History, 1972).
+- J. R. Bruijn, F. S. Gaastra, I. Schöffer — Dutch-Asiatic Shipping in the 17th and 18th Centuries (1979–1987): численность отправленных ВОС.
+- J. de Vries — The Industrious Revolution (2008).
+- R. C. Allen — The Great Divergence in European Wages and Prices from the Middle Ages to the First World War (Explorations in Economic History, 2001).
+- S. W. Mintz — Sweetness and Power (1985): сахарная революция, плантации.
+- E. J. Hamilton — American Treasure and the Price Revolution in Spain, 1501–1650 (1934): революция цен.
+- M. de Azpilcueta — Comentario resolutorio de cambios (1556); J. Bodin — Réponse aux paradoxes de M. de Malestroit (1568): ранняя количественная теория денег.
+- D. O. Flynn, A. Giráldez — Born with a «Silver Spoon»: The Origin of World Trade in 1571 (Journal of World History, 1995): китайский спрос на серебро.
+- M. Drelichman, H.-J. Voth — Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II (2014): асьенто, хурос, банкротства.
+- A. Smith — The Wealth of Nations (1776), кн. IV, отступление об Амстердамском банке.
+- L. Petram — The World's First Stock Exchange (2014): ВОС, Исаак Ле Мер, запрет 1610 г.
+- A. Goldgar — Tulipmania: Money, Honor, and Knowledge in the Dutch Golden Age (2007).
+- Тордесильясский договор (1494); Утрехтская уния (1579) и Акт об отречении (1581).
+- J. I. Israel — The Dutch Republic: Its Rise, Greatness, and Fall, 1477–1806 (1995): регенты, веротерпимость, беженцы.
+- Хартия ВОС (1602); завоевание островов Банда Я. П. Куном (1621).
+- Английский Навигационный акт (1651); мануфактурная политика Ж.-Б. Кольбера.
+- D. Acemoglu, S. Johnson, J. Robinson — The Rise of Europe: Atlantic Trade, Institutional Change, and Economic Growth (American Economic Review, 2005).
+- A. W. Crosby — The Columbian Exchange (1972).
+- N. Nunn, N. Qian — The Potato's Contribution to Population and Urbanization (Quarterly Journal of Economics, 2011).
+- J. de Vries — Barges and Capitalism: Passenger Transportation in the Dutch Economy, 1632–1839 (1981).
+- Осушение Бемстера (1612), Я. А. Леегватер; Лейденский университет (1575); амстердамская газета «Courante uyt Italien, Duytslandt, &c.» (1618).
+- J. Hemming — The Conquest of the Incas (1970): Кахамарка, выкуп Атауальпы.
+- W. M. Denevan (ed.) — The Native Population of the Americas in 1492 (2-е изд., 1992).
+- A. Koch, C. Brierley, M. Maslin, S. Lewis — Earth system impacts of the European arrival and Great Dying in the Americas after 1492 (Quaternary Science Reviews, 2019).
+- Третий Лимский собор (1583) о кипу; аутодафе Диего де Ланды в Мани (1562).
+- N. Nunn — The Long-Term Effects of Africa's Slave Trades (Quarterly Journal of Economics, 2008); N. Nunn, L. Wantchekon — The Slave Trade and the Origins of Mistrust in Africa (American Economic Review, 2011).
+- Альгамбрский эдикт (1492), изгнание евреев из Португалии (1497); изгнание морисков (1609–1614); Индекс запрещённых книг (1559).
+- «Испанская ярость» в Антверпене (1576); осада Антверпена (1585).
+- P. H. Wilson — Europe's Tragedy: A History of the Thirty Years War (2009).
+- Медная монета вельон: перечеканка 1603 г., снижение номинала 1628 г.
+- Эскориал (строительство 1563–1584); Версаль (перенос двора в 1682 г.); «Машина Марли» (1680-е, А. де Виль, Р. Суалем).
+- G. Parker — The Military Revolution: Military Innovation and the Rise of the West, 1500–1800 (1988); The Army of Flanders and the Spanish Road, 1567–1659 (1972).
+- Английский Статут о монополиях (1624).
+- M. González de Cellorigo — Memorial de la política necesaria y útil restauración a la República de España (1600): арбитристы.
+- A. Maddison — The World Economy: Historical Statistics (2003): ВВП на душу 1500–1700 (Нидерланды, Испания, Англия, Китай).
+- J. de Vries — European Urbanization, 1500–1800 (1984): доля горожан в Нидерландах.
+- E. A. Wrigley, R. S. Schofield — The Population History of England, 1541–1871 (1981): продолжительность жизни.
+- K. Pomeranz — The Great Divergence (2000): дельта Янцзы и Англия в XVIII в.
+
+## Глава 9. Институты, наука и бегство из мальтузианской ловушки
+
+- Основание Королевского общества (Грешем-колледж, 28 ноября 1660; хартия 1662); журнал «Philosophical Transactions» (с 1665); Р. Гук — Micrographia (1665).
+- Славная революция: высадка Вильгельма Оранского в Торбее (5 ноября 1688); Билль о правах (1689).
+- Основание Банка Англии (1694): заём короне в 1,2 млн фунтов.
+- Машина Т. Ньюкомена у замка Дадли (1712).
+- T. R. Malthus — An Essay on the Principle of Population (1798).
+- E. A. Wrigley, R. S. Schofield — The Population History of England, 1541–1871 (1981): население Англии 1700–1800.
