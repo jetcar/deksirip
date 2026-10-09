@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import re
+import shutil
 import subprocess
 import textwrap
 from pathlib import Path
@@ -83,6 +84,9 @@ def main() -> None:
     video = args.output / f"{stem}.mp4"
     cover(title, image)
     (args.output / f"{stem}.txt").write_text(description(title, args.audio_dir / f"{stem}.chapters.txt"), encoding="utf-8")
+    subtitles = args.audio_dir / f"{stem}.srt"
+    if subtitles.exists():
+        shutil.copyfile(subtitles, args.output / f"{stem}.srt")
     subprocess.run(
         [
             ffmpeg_tool("ffmpeg"), "-y", "-loglevel", "error",
