@@ -26,3 +26,7 @@ book/video/
 book/tools/client_secret.json
 book/tools/youtube_token.json
 __pycache__/
+
+# Shorts: rendered videos and downloaded Audio Library music
+book/shorts/out/
+book/shorts/music/

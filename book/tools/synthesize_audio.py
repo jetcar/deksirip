@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import json
 import re
 import shutil
 import subprocess
@@ -88,11 +89,24 @@ def chunks(text: str) -> list[str]:
     return result
 
 
+def cues_path(piece: Path) -> Path:
+    return piece.with_suffix(".json")
+
+
 async def speak(text: str, voice: str, target: Path) -> None:
+    """Write the audio and, next to it, the sentence timings the TTS service reports."""
     for attempt in range(1, RETRIES + 1):
         try:
-            await edge_tts.Communicate(text, voice=voice, rate="+0%").save(str(target))
+            cues = []
+            with target.open("wb") as audio:
+                async for chunk in edge_tts.Communicate(text, voice=voice, rate="+0%").stream():
+                    if chunk["type"] == "audio":
+                        audio.write(chunk["data"])
+                    elif chunk["type"] == "SentenceBoundary":
+                        start = chunk["offset"] / 10_000_000
+                        cues.append({"start": start, "end": start + chunk["duration"] / 10_000_000, "text": chunk["text"]})
             if target.stat().st_size > 0:
+                cues_path(target).write_text(json.dumps(cues, ensure_ascii=False), encoding="utf-8")
                 return
         except Exception as error:  # network hiccups from the TTS service
             if attempt == RETRIES:
@@ -126,8 +140,48 @@ def timestamp(seconds: float) -> str:
     return f"{hours}:{rest // 60:02}:{rest % 60:02}" if hours else f"{rest // 60:02}:{rest % 60:02}"
 
 
+def srt_time(seconds: float) -> str:
+    millis = int(round(seconds * 1000))
+    hours, rest = divmod(millis, 3_600_000)
+    minutes, rest = divmod(rest, 60_000)
+    return f"{hours:02}:{minutes:02}:{rest // 1000:02},{rest % 1000:03}"
+
+
+def caption_lines(cue: dict, limit: int = 84) -> list[dict]:
+    """Split a long sentence into caption-sized parts, sharing its time by length."""
+    words = cue["text"].split()
+    parts: list[str] = []
+    line = ""
+    for word in words:
+        if line and len(line) + 1 + len(word) > limit:
+            parts.append(line)
+            line = word
+        else:
+            line = f"{line} {word}".strip()
+    if line:
+        parts.append(line)
+    total = sum(len(p) for p in parts) or 1
+    start = cue["start"]
+    span = cue["end"] - cue["start"]
+    result = []
+    for part in parts:
+        end = start + span * len(part) / total
+        result.append({"start": start, "end": end, "text": part})
+        start = end
+    return result
+
+
+def srt(cues: list[dict]) -> str:
+    lines = [line for cue in cues for line in caption_lines(cue)]
+    blocks = []
+    for index, cue in enumerate(lines, start=1):
+        end = min(cue["end"], lines[index]["start"]) if index < len(lines) else cue["end"]
+        blocks.append(f"{index}\n{srt_time(cue['start'])} --> {srt_time(end)}\n{cue['text']}\n")
+    return "\n".join(blocks)
+
+
 async def synthesize(source: Path, voice: str, output: Path, outro: str | None) -> Path:
-    """Write <chapter>.mp3 and <chapter>.chapters.txt (section timestamps for video descriptions)."""
+    """Write <chapter>.mp3, <chapter>.srt and <chapter>.chapters.txt (section timestamps)."""
     output.mkdir(parents=True, exist_ok=True)
     target = output / f"{source.stem}.mp3"
     parts = sections(source)
@@ -137,24 +191,29 @@ async def synthesize(source: Path, voice: str, output: Path, outro: str | None) 
     pieces: list[tuple[str, Path]] = []
     for index, (title, chunk) in enumerate(jobs, start=1):
         piece = output / f".{source.stem}.{index:03}.mp3"
-        if not piece.exists() or piece.stat().st_size == 0:
+        if not piece.exists() or piece.stat().st_size == 0 or not cues_path(piece).exists():
             await speak(chunk, voice, piece)
         print(f"  {source.stem}: {index}/{len(jobs)}", flush=True)
         pieces.append((title, piece))
     marks: list[str] = []
+    cues: list[dict] = []
     elapsed = 0.0
     previous = None
     for title, piece in pieces:
         if title and title != previous:
             marks.append(f"{timestamp(elapsed)} {title}")
             previous = title
+        for cue in json.loads(cues_path(piece).read_text(encoding="utf-8")):
+            cues.append({**cue, "start": cue["start"] + elapsed, "end": cue["end"] + elapsed})
         elapsed += duration(piece)
     with target.open("wb") as audio:
         for _, piece in pieces:
             audio.write(piece.read_bytes())
     (output / f"{source.stem}.chapters.txt").write_text("\n".join(marks) + "\n", encoding="utf-8")
+    (output / f"{source.stem}.srt").write_text(srt(cues), encoding="utf-8")
     for _, piece in pieces:
         piece.unlink(missing_ok=True)
+        cues_path(piece).unlink(missing_ok=True)
     return target
 
 
