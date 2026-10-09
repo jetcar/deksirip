@@ -18,3 +18,11 @@ Thumbs.db
 
 # Audiobook MP3s are published as GitHub release assets
 book/audio/
+
+# Generated YouTube videos
+book/video/
+
+# YouTube API secrets
+book/tools/client_secret.json
+book/tools/youtube_token.json
+__pycache__/
