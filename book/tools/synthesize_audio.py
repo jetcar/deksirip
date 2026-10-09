@@ -8,6 +8,8 @@ import json
 import re
 import shutil
 import subprocess
+import sys
+import time
 from pathlib import Path
 
 import edge_tts
@@ -180,7 +182,11 @@ def srt(cues: list[dict]) -> str:
     return "\n".join(blocks)
 
 
-async def synthesize(source: Path, voice: str, output: Path, outro: str | None) -> Path:
+class Incomplete(Exception):
+    """The time budget ran out; finished pieces stay on disk and the next run continues."""
+
+
+async def synthesize(source: Path, voice: str, output: Path, outro: str | None, deadline: float | None = None) -> Path:
     """Write <chapter>.mp3, <chapter>.srt and <chapter>.chapters.txt (section timestamps)."""
     output.mkdir(parents=True, exist_ok=True)
     target = output / f"{source.stem}.mp3"
@@ -192,6 +198,8 @@ async def synthesize(source: Path, voice: str, output: Path, outro: str | None) 
     for index, (title, chunk) in enumerate(jobs, start=1):
         piece = output / f".{source.stem}.{index:03}.mp3"
         if not piece.exists() or piece.stat().st_size == 0 or not cues_path(piece).exists():
+            if deadline and time.monotonic() > deadline:
+                raise Incomplete(f"{index - 1}/{len(jobs)}")
             await speak(chunk, voice, piece)
         print(f"  {source.stem}: {index}/{len(jobs)}", flush=True)
         pieces.append((title, piece))
@@ -234,13 +242,19 @@ async def main() -> None:
     parser.add_argument("--voice", default="ru-RU-SvetlanaNeural")
     parser.add_argument("--output", type=Path, default=OUTPUT)
     parser.add_argument("--outro", help="text read after the chapter, e.g. a support note")
+    parser.add_argument("--budget", type=float, help="seconds to work before stopping; rerun to continue")
     args = parser.parse_args()
+    deadline = time.monotonic() + args.budget if args.budget else None
     if bool(args.chapter) == bool(args.all):
         parser.error("укажите ровно один из параметров: --chapter или --all")
     for source in targets(args.chapter, args.all):
         if args.skip_existing and (args.output / f"{source.stem}.mp3").exists():
             continue
-        print(await synthesize(source, args.voice, args.output, args.outro), flush=True)
+        try:
+            print(await synthesize(source, args.voice, args.output, args.outro, deadline), flush=True)
+        except Incomplete as done:
+            print(f"НЕ ЗАВЕРШЕНО: {source.stem} {done} — запустите ещё раз, чтобы продолжить", flush=True)
+            sys.exit(3)
 
 
 if __name__ == "__main__":
