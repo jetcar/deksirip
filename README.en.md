@@ -14,6 +14,16 @@ This is not a finished theory or a political program. The goal is to formulate a
 6. [critique/29-personal-property-and-housing.en.md](critique/29-personal-property-and-housing.en.md) — personal property, housing, and dachas.
 7. [critique/posts/10-master-post-v2.en.md](critique/posts/10-master-post-v2.en.md) — the current text for requesting public criticism.
 
+## The book "Where Did the Surplus Go" (in Russian)
+
+A popular-science history of the economy, from hunter-gatherers to the age of automation. One question runs through every era: where did society direct its surplus — into tools, knowledge and trust, or into palaces, wars and rent. The final chapter links the book's conclusions to the model in this repository.
+
+- **Audiobook on YouTube — full playlist, start to finish:** https://www.youtube.com/playlist?list=PLOsSoEL_1--Y
+- Text: the [book/](book/) folder, plan in [book/00-plan.md](book/00-plan.md). The first version is complete; the second (fact-checking, a "Cost in grain and lives" section) is in progress, see [book/v2-plan.md](book/v2-plan.md).
+- Support the project: https://buymeacoffee.com/ownerless
+
+Concept and thesis by the repository author; the text was prepared with AI and narrated with a synthetic voice.
+
 ## Why this model
 
 The purpose is to improve quality of life for society as a whole and make useful work more effective by reducing pointless jobs, oversized administration, and work performed mainly to preserve private profit. People should be able to contribute to projects they consider necessary or meaningful.
