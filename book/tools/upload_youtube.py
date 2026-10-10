@@ -103,16 +103,22 @@ def sync_playlist(folder: Path, interactive: bool) -> None:
         ).execute()["id"]
         store.write_text(json.dumps({"id": playlist_id}), encoding="utf-8")
         print(f"  плейлист создан: https://www.youtube.com/playlist?list={playlist_id}")
-    present: set[str] = set()
+    items: dict[str, str] = {}  # video id -> playlist item id
     page = None
     while store.stat().st_mtime < time.time() - 60:  # a just-created playlist is not listable yet, and empty anyway
         response = youtube.playlistItems().list(
-            part="contentDetails", playlistId=playlist_id, maxResults=50, pageToken=page
+            part="id,contentDetails", playlistId=playlist_id, maxResults=50, pageToken=page
         ).execute()
-        present.update(item["contentDetails"]["videoId"] for item in response["items"])
+        items.update({item["contentDetails"]["videoId"]: item["id"] for item in response["items"]})
         page = response.get("nextPageToken")
         if not page:
             break
+    replaced = {old for path in folder.glob("[0-9][0-9]-*.replaced.json")
+                for old in json.loads(path.read_text(encoding="utf-8"))}
+    for video_id in replaced & items.keys():  # drop superseded versions from the playlist (the videos stay)
+        youtube.playlistItems().delete(id=items.pop(video_id)).execute()
+        print(f"  из плейлиста убрана старая версия {video_id}")
+    present = set(items)
     position = 0  # chapters already in the playlist before this one
     for record in records:
         video_id = json.loads(record.read_text(encoding="utf-8"))["id"]
@@ -131,11 +137,17 @@ def sync_playlist(folder: Path, interactive: bool) -> None:
         print(f"  в плейлист: {record.name.removesuffix('.uploaded.json')}")
 
 
-def upload(stem: str, folder: Path, interactive: bool) -> str:
+def upload(stem: str, folder: Path, interactive: bool, replace: bool = False) -> str:
     video = folder / f"{stem}.mp4"
     meta = folder / f"{stem}.txt"
     thumbnail = folder / f"{stem}.png"
     record = folder / f"{stem}.uploaded.json"
+    if record.exists() and replace:  # remember the old id so the playlist swaps it out
+        history = folder / f"{stem}.replaced.json"
+        old_ids = json.loads(history.read_text(encoding="utf-8")) if history.exists() else []
+        old_ids.append(json.loads(record.read_text(encoding="utf-8"))["id"])
+        history.write_text(json.dumps(old_ids), encoding="utf-8")
+        record.unlink()
     if record.exists():
         video_id = json.loads(record.read_text(encoding="utf-8"))["id"]
         print(f"Уже загружено: https://youtu.be/{video_id}")
@@ -186,9 +198,10 @@ def main() -> None:
     parser.add_argument("--chapter", help="chapter file name without .md")
     parser.add_argument("--folder", type=Path, default=ROOT / "video")
     parser.add_argument("--login", action="store_true", help="allow the browser sign-in flow")
+    parser.add_argument("--replace", action="store_true", help="upload a new version and swap it into the playlist")
     args = parser.parse_args()
     if args.chapter:
-        upload(Path(args.chapter).stem, args.folder, args.login)
+        upload(Path(args.chapter).stem, args.folder, args.login, args.replace)
         if args.folder.resolve() == (ROOT / "video").resolve():  # chapters only, not shorts
             sync_playlist(args.folder, args.login)
     elif args.login:

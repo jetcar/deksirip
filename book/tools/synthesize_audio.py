@@ -91,6 +91,23 @@ def chunks(text: str) -> list[str]:
     return result
 
 
+def strip_accents(text: str) -> str:
+    return text.replace("́", "")
+
+
+def silence(seconds: float, output: Path) -> Path:
+    """An MP3 pause in the TTS stream's own format, so pieces concatenate cleanly."""
+    path = output / f".silence-{seconds:.2f}.mp3"
+    if not path.exists():
+        subprocess.run(
+            [ffmpeg_tool("ffmpeg"), "-y", "-loglevel", "error", "-f", "lavfi",
+             "-i", "anullsrc=r=24000:cl=mono", "-t", f"{seconds}", "-c:a", "libmp3lame", "-b:a", "48k",
+             "-id3v2_version", "0", "-write_xing", "0", "-f", "mp3", str(path)],  # bare frames: no tag mid-stream
+            check=True,
+        )
+    return path
+
+
 def cues_path(piece: Path) -> Path:
     return piece.with_suffix(".json")
 
@@ -106,7 +123,7 @@ async def speak(text: str, voice: str, target: Path) -> None:
                         audio.write(chunk["data"])
                     elif chunk["type"] == "SentenceBoundary":
                         start = chunk["offset"] / 10_000_000
-                        cues.append({"start": start, "end": start + chunk["duration"] / 10_000_000, "text": chunk["text"]})
+                        cues.append({"start": start, "end": start + chunk["duration"] / 10_000_000, "text": strip_accents(chunk["text"])})
             if target.stat().st_size > 0:
                 cues_path(target).write_text(json.dumps(cues, ensure_ascii=False), encoding="utf-8")
                 return
@@ -186,7 +203,10 @@ class Incomplete(Exception):
     """The time budget ran out; finished pieces stay on disk and the next run continues."""
 
 
-async def synthesize(source: Path, voice: str, output: Path, outro: str | None, deadline: float | None = None) -> Path:
+async def synthesize(
+    source: Path, voice: str, output: Path, outro: str | None, deadline: float | None = None,
+    stress: bool = False, pause: float = 0.0,
+) -> Path:
     """Write <chapter>.mp3, <chapter>.srt and <chapter>.chapters.txt (section timestamps)."""
     output.mkdir(parents=True, exist_ok=True)
     target = output / f"{source.stem}.mp3"
@@ -200,8 +220,13 @@ async def synthesize(source: Path, voice: str, output: Path, outro: str | None, 
         if not piece.exists() or piece.stat().st_size == 0 or not cues_path(piece).exists():
             if deadline and time.monotonic() > deadline:
                 raise Incomplete(f"{index - 1}/{len(jobs)}")
+            if stress:
+                from stress import accent
+                chunk = accent(chunk)
             await speak(chunk, voice, piece)
         print(f"  {source.stem}: {index}/{len(jobs)}", flush=True)
+        if pause and pieces and title != pieces[-1][0]:  # a breath between sections
+            pieces.append((title, silence(pause, output)))
         pieces.append((title, piece))
     marks: list[str] = []
     cues: list[dict] = []
@@ -211,7 +236,8 @@ async def synthesize(source: Path, voice: str, output: Path, outro: str | None, 
         if title and title != previous:
             marks.append(f"{timestamp(elapsed)} {title}")
             previous = title
-        for cue in json.loads(cues_path(piece).read_text(encoding="utf-8")):
+        timings = cues_path(piece)
+        for cue in json.loads(timings.read_text(encoding="utf-8")) if timings.exists() else []:
             cues.append({**cue, "start": cue["start"] + elapsed, "end": cue["end"] + elapsed})
         elapsed += duration(piece)
     with target.open("wb") as audio:
@@ -243,6 +269,8 @@ async def main() -> None:
     parser.add_argument("--output", type=Path, default=OUTPUT)
     parser.add_argument("--outro", help="text read after the chapter, e.g. a support note")
     parser.add_argument("--budget", type=float, help="seconds to work before stopping; rerun to continue")
+    parser.add_argument("--stress", action="store_true", help="place Russian stress marks with RUAccent")
+    parser.add_argument("--pause", type=float, default=0.0, help="seconds of silence between sections")
     args = parser.parse_args()
     deadline = time.monotonic() + args.budget if args.budget else None
     if bool(args.chapter) == bool(args.all):
@@ -251,7 +279,7 @@ async def main() -> None:
         if args.skip_existing and (args.output / f"{source.stem}.mp3").exists():
             continue
         try:
-            print(await synthesize(source, args.voice, args.output, args.outro, deadline), flush=True)
+            print(await synthesize(source, args.voice, args.output, args.outro, deadline, args.stress, args.pause), flush=True)
         except Incomplete as done:
             print(f"НЕ ЗАВЕРШЕНО: {source.stem} {done} — запустите ещё раз, чтобы продолжить", flush=True)
             sys.exit(3)
