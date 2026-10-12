@@ -122,6 +122,7 @@ def build(thesis: dict) -> Path:
         thesis["text"],
         "",
         f"{BOOK_TITLE}. {title}" + (f": {link}" if link else " — полная глава на канале."),
+        "Telegram: https://t.me/kuda_ushel_izlishek",
         f"Поддержать проект: {DONATE_URL}",
         "",
         "Текст подготовлен с помощью ИИ по замыслу автора канала.",

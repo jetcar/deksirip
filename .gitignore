@@ -30,3 +30,5 @@ __pycache__/
 # Shorts: rendered videos and downloaded Audio Library music
 book/shorts/out/
 book/shorts/music/
+book/tools/telegram_token.txt
+book/tools/telegram.json

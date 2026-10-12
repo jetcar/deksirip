@@ -112,18 +112,26 @@ def cues_path(piece: Path) -> Path:
     return piece.with_suffix(".json")
 
 
+PIECE_TIMEOUT = 300  # seconds; the service sometimes stops answering mid-stream
+
+
+async def stream_piece(text: str, voice: str, target: Path) -> list[dict]:
+    cues = []
+    with target.open("wb") as audio:
+        async for chunk in edge_tts.Communicate(text, voice=voice, rate="+0%").stream():
+            if chunk["type"] == "audio":
+                audio.write(chunk["data"])
+            elif chunk["type"] == "SentenceBoundary":
+                start = chunk["offset"] / 10_000_000
+                cues.append({"start": start, "end": start + chunk["duration"] / 10_000_000, "text": strip_accents(chunk["text"])})
+    return cues
+
+
 async def speak(text: str, voice: str, target: Path) -> None:
     """Write the audio and, next to it, the sentence timings the TTS service reports."""
     for attempt in range(1, RETRIES + 1):
         try:
-            cues = []
-            with target.open("wb") as audio:
-                async for chunk in edge_tts.Communicate(text, voice=voice, rate="+0%").stream():
-                    if chunk["type"] == "audio":
-                        audio.write(chunk["data"])
-                    elif chunk["type"] == "SentenceBoundary":
-                        start = chunk["offset"] / 10_000_000
-                        cues.append({"start": start, "end": start + chunk["duration"] / 10_000_000, "text": strip_accents(chunk["text"])})
+            cues = await asyncio.wait_for(stream_piece(text, voice, target), PIECE_TIMEOUT)
             if target.stat().st_size > 0:
                 cues_path(target).write_text(json.dumps(cues, ensure_ascii=False), encoding="utf-8")
                 return
