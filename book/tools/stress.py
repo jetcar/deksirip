@@ -79,10 +79,30 @@ def _drop_single_vowel_stress(match: re.Match) -> str:
     return word.replace("+", "") if sum(ch in VOWELS for ch in word) <= 1 else word
 
 
-def accent(text: str) -> str:
-    """Return text with U+0301 after each stressed vowel."""
-    marked = "\n".join(_accentizer().process_all(line) if line.strip() else line for line in text.split("\n"))
-    marked = _apply_overrides(marked)
+WORD = re.compile(r"[\w+]+(?:-[\w+]+)*")
+
+
+def _homographs_only(original: str, marked: str) -> str:
+    """Keep RUAccent's marks only on homographs ("за́мок"/"замо́к"); the voice reads other words better unaided."""
+    homographs = _accentizer().omographs
+    source = WORD.findall(original)
+    accented = WORD.findall(marked)
+    if len(source) != len(accented):  # tokenisation drifted: safer to mark nothing
+        return original
+    chosen = iter(
+        acc if acc.replace("+", "").lower().replace("ё", "е") in homographs else src
+        for src, acc in zip(source, accented)
+    )
+    return WORD.sub(lambda _: next(chosen), original)
+
+
+def accent(text: str, homographs_only: bool = True) -> str:
+    """Return text with U+0301 after the stressed vowel of homographs and dictionary words."""
+    lines = []
+    for line in text.split("\n"):
+        marked = _accentizer().process_all(line) if line.strip() else line
+        lines.append(_homographs_only(line, marked) if homographs_only else marked)
+    marked = _apply_overrides("\n".join(lines))
     marked = re.sub(r"[\w+]+", _drop_single_vowel_stress, marked)
     return re.sub(r"\+(\w)", rf"\1{ACUTE}", marked)
 

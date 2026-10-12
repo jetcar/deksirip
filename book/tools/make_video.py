@@ -60,6 +60,7 @@ def description(title: str, chapters: Path) -> str:
 Содержание:
 {marks}
 
+Telegram: https://t.me/kuda_ushel_izlishek
 Поддержать проект: {DONATE_URL}
 
 Замысел и тезис — автора канала; текст подготовлен с помощью ИИ, озвучка — синтезированным голосом. Возможны ошибки — пишите о них в комментариях.
