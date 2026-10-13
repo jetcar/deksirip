@@ -11,3 +11,17 @@
 ## Статус
 
 Готов план. Написана глава 1; главы лежат в `chapters/`.
+
+## Аудио и видео
+
+Готовые файлы глав лежат в `media/`: озвучка (`.mp3`), субтитры (`.srt`), обложка (`.png`) и видео с обложкой и вшитыми субтитрами (`.mp4`).
+
+Озвучка делается локально синтезатором RHVoice (голос `aleksandr-hq`), без внешних сервисов:
+
+```bash
+sudo apt install rhvoice rhvoice-russian ffmpeg
+pip install pillow
+python novel-materia/tools/make_media.py --chapter 01-minus-sorok-sem-tysyach
+```
+
+Параметры: `--voice` (другой голос RHVoice, например `artemiy` или `mikhail`), `--rate` (темп в процентах, по умолчанию 125), `--no-video` (только аудио и субтитры).
