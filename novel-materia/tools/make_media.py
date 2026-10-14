@@ -160,7 +160,8 @@ def narrate(source: Path, voice: str, rate: int, output: Path) -> tuple[Path, Pa
         )
     subtitles = output / f"{source.stem}.srt"
     subtitles.write_text(
-        "\n".join(f"{i}\n{srt_time(a)} --> {srt_time(b)}\n{t}\n" for i, (a, b, t) in enumerate(cues, start=1)),
+        "\n".join(f"{i}\n{srt_time(a)} --> {srt_time(b)}\n{t.replace('-', '\u2011')}\n"  # no line break at «какого-то»
+                  for i, (a, b, t) in enumerate(cues, start=1)),
         encoding="utf-8",
     )
     return audio, subtitles, elapsed
