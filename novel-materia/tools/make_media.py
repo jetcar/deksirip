@@ -205,7 +205,11 @@ def chapter_title(source: Path) -> str:
 
 
 def font(name: str, size: int) -> ImageFont.FreeTypeFont:
-    return ImageFont.truetype(str(FONTS / name), size)
+    path = FONTS / name
+    if not path.is_file():  # no system DejaVu (e.g. Windows): use the copy bundled with matplotlib
+        import matplotlib
+        path = Path(matplotlib.get_data_path()) / "fonts" / "ttf" / Path(name).name
+    return ImageFont.truetype(str(path), size)
 
 
 def thimble(draw: ImageDraw.ImageDraw, x: int, y: int, scale: float) -> None:

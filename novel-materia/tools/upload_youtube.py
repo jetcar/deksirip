@@ -17,6 +17,7 @@ commit them so the next run (anywhere) does not upload a chapter twice.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import time
@@ -83,16 +84,19 @@ def teaser(source: Path, limit: int = 600) -> str:
 
 def upload(youtube, stem: str, privacy: str, replace: bool = False) -> str:
     record = OUTPUT / f"{stem}.uploaded.json"
-    replaced: list[str] = []
-    if record.exists():
-        known = json.loads(record.read_text(encoding="utf-8"))
-        if not replace or known.get("renarrated"):
-            print(f"{stem}: уже загружено https://youtu.be/{known['id']}")
-            return known["id"]
-        replaced = known.get("replaced", []) + [known["id"]]
     video = OUTPUT / f"{stem}.mp4"
     if not video.is_file():
         raise SystemExit(f"Нет {video} — сначала make_media.py")
+    digest = hashlib.sha256(video.read_bytes()).hexdigest()
+    replaced: list[str] = []
+    if record.exists():
+        known = json.loads(record.read_text(encoding="utf-8"))
+        if not replace or known.get("sha256") == digest:
+            if "sha256" in known and not known.get("captions"):
+                add_captions(youtube, stem, record)  # an upload that stopped before its subtitles
+            print(f"{stem}: уже загружено https://youtu.be/{known['id']}")
+            return known["id"]
+        replaced = known.get("replaced", []) + [known["id"]]
     source = CHAPTERS / f"{stem}.md"
     title = f"{BOOK_TITLE}. {chapter_title(source)}"
     description = f"{teaser(source)}\n\n—\n{BOOK_DESCRIPTION}"
@@ -117,9 +121,9 @@ def upload(youtube, stem: str, privacy: str, replace: bool = False) -> str:
         if status:
             print(f"  {stem}: {int(status.progress() * 100)}%", flush=True)
     video_id = response["id"]
-    entry = {"id": video_id, "title": title}
-    if replace:
-        entry |= {"renarrated": True, "replaced": replaced}
+    entry = {"id": video_id, "title": title, "sha256": digest}
+    if replaced:
+        entry["replaced"] = replaced
     record.write_text(json.dumps(entry, ensure_ascii=False) + "\n", encoding="utf-8")
     cover = OUTPUT / f"{stem}.png"
     if cover.is_file():
@@ -127,15 +131,23 @@ def upload(youtube, stem: str, privacy: str, replace: bool = False) -> str:
             youtube.thumbnails().set(videoId=video_id, media_body=MediaFileUpload(str(cover))).execute()
         except Exception as error:  # custom thumbnails need a phone-verified channel
             print(f"  обложка не установлена: {error}")
+    add_captions(youtube, stem, record)
+    print(f"{stem}: загружено https://youtu.be/{video_id}")
+    return video_id
+
+
+def add_captions(youtube, stem: str, record: Path) -> None:
+    """Attach the chapter's subtitles to its uploaded video and note that in the record."""
+    entry = json.loads(record.read_text(encoding="utf-8"))
     subtitles = OUTPUT / f"{stem}.srt"
     if subtitles.is_file():
         youtube.captions().insert(
             part="snippet",
-            body={"snippet": {"videoId": video_id, "language": "ru", "name": "Русский"}},
+            body={"snippet": {"videoId": entry["id"], "language": "ru", "name": "Русский"}},
             media_body=MediaFileUpload(str(subtitles), mimetype="application/octet-stream"),
         ).execute()
-    print(f"{stem}: загружено https://youtu.be/{video_id}")
-    return video_id
+    entry["captions"] = True
+    record.write_text(json.dumps(entry, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
 def sync_playlist(youtube, privacy: str) -> None:
@@ -209,7 +221,7 @@ def main() -> None:
     target.add_argument("--all", action="store_true", help="every chapter that has a video and is not uploaded yet")
     parser.add_argument("--login", action="store_true", help="allow the browser sign-in flow")
     parser.add_argument("--privacy", choices=["public", "unlisted", "private"], default="public")
-    parser.add_argument("--replace", action="store_true", help="upload again chapters not yet re-uploaded")
+    parser.add_argument("--replace", action="store_true", help="upload again chapters whose video changed since their upload")
     parser.add_argument("--hide-replaced", action="store_true", help="make private old videos replaced by --replace")
     args = parser.parse_args()
 
