@@ -26,3 +26,14 @@ python novel-materia/tools/make_media.py --chapter 01-minus-sorok-sem-tysyach
 ```
 
 Параметры: `--voice` (другой голос RHVoice, например `artemiy` или `mikhail`), `--rate` (темп в процентах, по умолчанию 125), `--no-video` (только аудио и субтитры).
+
+### YouTube
+
+Отдельный плейлист «Материальный вопрос — аудиокнига» на том же канале, что и первая книга (тот же `book/tools/client_secret.json` и токен):
+
+```
+pip install google-api-python-client google-auth-oauthlib
+python novel-materia/tools/upload_youtube.py --login --all
+```
+
+Скрипт загружает каждую главу из `media/`, у которой ещё нет `<глава>.uploaded.json`, с обложкой и субтитрами, создаёт плейлист (`media/playlist.json`) и раскладывает главы по порядку. Файлы `*.uploaded.json` и `playlist.json` нужно закоммитить, чтобы главы не загружались повторно. Если положить содержимое `youtube_token.json` в переменную окружения `YOUTUBE_TOKEN_JSON`, загрузка работает без браузера, в том числе из ежечасной задачи.
