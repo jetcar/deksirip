@@ -7,8 +7,8 @@ YOUTUBE_TOKEN_JSON environment variable (its JSON content), which lets a non-int
     pip install google-api-python-client google-auth-oauthlib
     python novel-materia/tools/upload_youtube.py --login --all      # first run: browser sign-in, every chapter
     python novel-materia/tools/upload_youtube.py --chapter 15-noch-v-laboratorii
-    python novel-materia/tools/upload_youtube.py --all --replace     # re-narrated: upload again, swap in playlist
-    python novel-materia/tools/upload_youtube.py --all --hide-replaced
+    python novel-materia/tools/upload_youtube.py --all --replace     # re-narrated: upload again, swap in playlist,
+                                                                      # make the old videos private
 
 What was uploaded is recorded in novel-materia/media/<stem>.uploaded.json and media/playlist.json;
 commit them so the next run (anywhere) does not upload a chapter twice.
@@ -21,12 +21,15 @@ import hashlib
 import json
 import os
 import time
+from datetime import datetime, timedelta
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
 from googleapiclient.http import MediaFileUpload
 
 from make_media import BOOK_TITLE, CHAPTERS, OUTPUT, blocks, chapter_title
@@ -228,13 +231,20 @@ def main() -> None:
     youtube = build("youtube", "v3", credentials=credentials(args.login))
     stems = ([Path(args.chapter).stem] if args.chapter
              else sorted(path.stem for path in OUTPUT.glob("[0-9][0-9]-*.mp4")))
-    if args.hide_replaced:
+    try:
+        if not args.hide_replaced:
+            for stem in stems:
+                upload(youtube, stem, args.privacy, args.replace)
         sync_playlist(youtube, args.privacy)
-        hide_replaced(youtube, stems)
-        return
-    for stem in stems:
-        upload(youtube, stem, args.privacy, args.replace)
-    sync_playlist(youtube, args.privacy)
+        if args.replace or args.hide_replaced:
+            hide_replaced(youtube, stems)
+    except HttpError as error:
+        if "quotaExceeded" not in str(error):
+            raise
+        reset = datetime.now(ZoneInfo("America/Los_Angeles")).replace(hour=0, minute=0, second=0, microsecond=0)
+        reset = (reset + timedelta(days=1)).astimezone()
+        raise SystemExit(f"Дневная квота YouTube API исчерпана. Она обновится {reset:%d.%m в %H:%M}; "
+                         "запустите ту же команду снова — она продолжит с того же места.")
 
 
 if __name__ == "__main__":
