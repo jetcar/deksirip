@@ -17,15 +17,14 @@
 
 Готовые файлы глав лежат в `media/`: озвучка (`.mp3`), субтитры (`.srt`), обложка (`.png`) и видео с обложкой и вшитыми субтитрами (`.mp4`).
 
-Озвучка делается локально синтезатором RHVoice (голос `aleksandr-hq`), без внешних сервисов:
+Озвучка делается локально нейросетевым синтезатором Silero (модель `v5_ru`, голос `eugene`), без внешних сервисов; модель скачивается один раз:
 
 ```bash
-sudo apt install rhvoice rhvoice-russian ffmpeg
-pip install pillow
+pip install silero omegaconf torch pillow   # и ffmpeg с libass
 python novel-materia/tools/make_media.py --chapter 01-minus-sorok-sem-tysyach
 ```
 
-Параметры: `--voice` (другой голос RHVoice, например `artemiy` или `mikhail`), `--rate` (темп в процентах, по умолчанию 125), `--no-video` (только аудио и субтитры).
+Параметры: `--voice` (другой голос Silero: `aidar`, `baya`, `kseniya`, `xenia`), `--engine rhvoice` (старый синтезатор RHVoice, голос `aleksandr-hq`, `--rate` — темп в процентах), `--no-video` (только аудио и субтитры). Обложка `.png` создаётся, только если её ещё нет.
 
 ### YouTube
 
@@ -36,4 +35,4 @@ pip install google-api-python-client google-auth-oauthlib
 python novel-materia/tools/upload_youtube.py --login --all
 ```
 
-Скрипт загружает каждую главу из `media/`, у которой ещё нет `<глава>.uploaded.json`, с обложкой и субтитрами, создаёт плейлист (`media/playlist.json`) и раскладывает главы по порядку. Файлы `*.uploaded.json` и `playlist.json` нужно закоммитить, чтобы главы не загружались повторно. Если положить содержимое `youtube_token.json` в переменную окружения `YOUTUBE_TOKEN_JSON`, загрузка работает без браузера, в том числе из ежечасной задачи.
+Скрипт загружает каждую главу из `media/`, у которой ещё нет `<глава>.uploaded.json`, с обложкой и субтитрами, создаёт плейлист (`media/playlist.json`) и раскладывает главы по порядку. После переозвучки `--all --replace` загружает главы заново и меняет их в плейлисте, а `--all --hide-replaced` делает старые видео приватными. Файлы `*.uploaded.json` и `playlist.json` нужно закоммитить, чтобы главы не загружались повторно. Если положить содержимое `youtube_token.json` в переменную окружения `YOUTUBE_TOKEN_JSON`, загрузка работает без браузера, в том числе из ежечасной задачи.

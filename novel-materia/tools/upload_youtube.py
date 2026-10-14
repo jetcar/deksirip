@@ -7,6 +7,8 @@ YOUTUBE_TOKEN_JSON environment variable (its JSON content), which lets a non-int
     pip install google-api-python-client google-auth-oauthlib
     python novel-materia/tools/upload_youtube.py --login --all      # first run: browser sign-in, every chapter
     python novel-materia/tools/upload_youtube.py --chapter 15-noch-v-laboratorii
+    python novel-materia/tools/upload_youtube.py --all --replace     # re-narrated: upload again, swap in playlist
+    python novel-materia/tools/upload_youtube.py --all --hide-replaced
 
 What was uploaded is recorded in novel-materia/media/<stem>.uploaded.json and media/playlist.json;
 commit them so the next run (anywhere) does not upload a chapter twice.
@@ -41,7 +43,7 @@ BOOK_DESCRIPTION = (
     "«Материальный вопрос» — роман-аудиокнига. Тимофей еле сводит концы с концами, пока не находит "
     "напёрсток, дающий власть над веществом. Вместо того чтобы сражаться со злом, он чинит, делает, "
     "меняет и считает — и пытается понять, как эта сила работает, и научить ей других. "
-    "Комедия с элементами эротики, 18+. Озвучено синтезатором речи RHVoice."
+    "Комедия с элементами эротики, 18+. Озвучено синтезатором речи Silero."
 )
 
 
@@ -79,12 +81,15 @@ def teaser(source: Path, limit: int = 600) -> str:
     return text.replace("*", "")
 
 
-def upload(youtube, stem: str, privacy: str) -> str:
+def upload(youtube, stem: str, privacy: str, replace: bool = False) -> str:
     record = OUTPUT / f"{stem}.uploaded.json"
+    replaced: list[str] = []
     if record.exists():
-        video_id = json.loads(record.read_text(encoding="utf-8"))["id"]
-        print(f"{stem}: уже загружено https://youtu.be/{video_id}")
-        return video_id
+        known = json.loads(record.read_text(encoding="utf-8"))
+        if not replace or known.get("renarrated"):
+            print(f"{stem}: уже загружено https://youtu.be/{known['id']}")
+            return known["id"]
+        replaced = known.get("replaced", []) + [known["id"]]
     video = OUTPUT / f"{stem}.mp4"
     if not video.is_file():
         raise SystemExit(f"Нет {video} — сначала make_media.py")
@@ -112,7 +117,10 @@ def upload(youtube, stem: str, privacy: str) -> str:
         if status:
             print(f"  {stem}: {int(status.progress() * 100)}%", flush=True)
     video_id = response["id"]
-    record.write_text(json.dumps({"id": video_id, "title": title}, ensure_ascii=False) + "\n", encoding="utf-8")
+    entry = {"id": video_id, "title": title}
+    if replace:
+        entry |= {"renarrated": True, "replaced": replaced}
+    record.write_text(json.dumps(entry, ensure_ascii=False) + "\n", encoding="utf-8")
     cover = OUTPUT / f"{stem}.png"
     if cover.is_file():
         try:
@@ -146,17 +154,24 @@ def sync_playlist(youtube, privacy: str) -> None:
         store.write_text(json.dumps({"id": playlist_id}) + "\n", encoding="utf-8")
         print(f"плейлист создан: https://www.youtube.com/playlist?list={playlist_id}")
         time.sleep(5)  # a just-created playlist is not writable for a moment
+    records = sorted(OUTPUT.glob("[0-9][0-9]-*.uploaded.json"))
+    stale = {old for record in records for old in json.loads(record.read_text(encoding="utf-8")).get("replaced", [])}
     present: set[str] = set()
     page = None
     while True:
         response = youtube.playlistItems().list(
             part="contentDetails", playlistId=playlist_id, maxResults=50, pageToken=page
         ).execute()
-        present |= {item["contentDetails"]["videoId"] for item in response["items"]}
+        for item in response["items"]:
+            if item["contentDetails"]["videoId"] in stale:
+                youtube.playlistItems().delete(id=item["id"]).execute()
+                print(f"  из плейлиста убрано старое видео {item['contentDetails']['videoId']}")
+            else:
+                present.add(item["contentDetails"]["videoId"])
         page = response.get("nextPageToken")
         if not page:
             break
-    for position, record in enumerate(sorted(OUTPUT.glob("[0-9][0-9]-*.uploaded.json"))):
+    for position, record in enumerate(records):
         video_id = json.loads(record.read_text(encoding="utf-8"))["id"]
         if video_id in present:
             continue
@@ -172,6 +187,21 @@ def sync_playlist(youtube, privacy: str) -> None:
     print(f"плейлист: https://www.youtube.com/playlist?list={playlist_id}")
 
 
+def hide_replaced(youtube, stems: list[str]) -> None:
+    """Make private the old videos that re-narrated uploads replaced."""
+    for stem in stems:
+        record = OUTPUT / f"{stem}.uploaded.json"
+        if not record.exists():
+            continue
+        for old in json.loads(record.read_text(encoding="utf-8")).get("replaced", []):
+            found = youtube.videos().list(part="status", id=old).execute()["items"]
+            if not found or found[0]["status"]["privacyStatus"] == "private":
+                continue
+            status = found[0]["status"] | {"privacyStatus": "private"}
+            youtube.videos().update(part="status", body={"id": old, "status": status}).execute()
+            print(f"{stem}: старое видео {old} стало приватным")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     target = parser.add_mutually_exclusive_group(required=True)
@@ -179,13 +209,19 @@ def main() -> None:
     target.add_argument("--all", action="store_true", help="every chapter that has a video and is not uploaded yet")
     parser.add_argument("--login", action="store_true", help="allow the browser sign-in flow")
     parser.add_argument("--privacy", choices=["public", "unlisted", "private"], default="public")
+    parser.add_argument("--replace", action="store_true", help="upload again chapters not yet re-uploaded")
+    parser.add_argument("--hide-replaced", action="store_true", help="make private old videos replaced by --replace")
     args = parser.parse_args()
 
     youtube = build("youtube", "v3", credentials=credentials(args.login))
     stems = ([Path(args.chapter).stem] if args.chapter
              else sorted(path.stem for path in OUTPUT.glob("[0-9][0-9]-*.mp4")))
+    if args.hide_replaced:
+        sync_playlist(youtube, args.privacy)
+        hide_replaced(youtube, stems)
+        return
     for stem in stems:
-        upload(youtube, stem, args.privacy)
+        upload(youtube, stem, args.privacy, args.replace)
     sync_playlist(youtube, args.privacy)
 
 

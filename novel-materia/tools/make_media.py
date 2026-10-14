@@ -1,7 +1,8 @@
-"""Narrate a chapter of «Материальный вопрос» with offline RHVoice and build an MP3, subtitles and a video.
+"""Narrate a chapter of «Материальный вопрос» with an offline synthesizer and build an MP3, subtitles and a video.
 
-Needs `RHVoice-test` with the Russian voices (Debian/Ubuntu: `apt install rhvoice rhvoice-russian`),
-ffmpeg with libass, and Pillow. Everything runs locally, no network service is used.
+The default engine is Silero (`pip install silero omegaconf`, voice `eugene`); `--engine rhvoice` uses
+`RHVoice-test` with the Russian voices (Debian/Ubuntu: `apt install rhvoice rhvoice-russian`).
+Needs ffmpeg with libass and Pillow. Synthesis runs locally; Silero downloads its model once.
 
     python novel-materia/tools/make_media.py --chapter 01-minus-sorok-sem-tysyach
 """
@@ -93,6 +94,31 @@ def speak(text: str, voice: str, rate: int, target: Path) -> Path:
     return target
 
 
+SILERO_RATE = 48000
+SILERO_LIMIT = 800  # the model refuses much longer inputs
+
+
+def silero_speaker(voice: str):
+    """A function writing `text` spoken by the Silero voice into a WAV file."""
+    import torch
+    from silero import silero_tts
+
+    model, _ = silero_tts(language="ru", speaker="v5_ru")
+
+    def say(text: str, target: Path) -> Path:
+        parts = textwrap.wrap(text, SILERO_LIMIT, break_long_words=False) if len(text) > SILERO_LIMIT else [text]
+        audio = torch.cat([model.apply_tts(text=part, speaker=voice, sample_rate=SILERO_RATE,
+                                           put_accent=True, put_yo=True) for part in parts])
+        with wave.open(str(target), "wb") as out:
+            out.setnchannels(1)
+            out.setsampwidth(2)
+            out.setframerate(SILERO_RATE)
+            out.writeframes((audio.clamp(-1, 1) * 32767).short().numpy().tobytes())
+        return target
+
+    return say
+
+
 def caption_parts(text: str, start: float, end: float) -> list[tuple[float, float, str]]:
     """Long sentences become several captions, sharing the sentence's time by length."""
     count = -(-len(text) // CUE_CHARS)
@@ -115,7 +141,7 @@ def srt_time(seconds: float) -> str:
     return f"{hours:02}:{minutes:02}:{rest // 1000:02},{rest % 1000:03}"
 
 
-def narrate(source: Path, voice: str, rate: int, output: Path) -> tuple[Path, Path, float]:
+def narrate(source: Path, engine: str, voice: str, rate: int, output: Path) -> tuple[Path, Path, float]:
     """Write <stem>.mp3 and <stem>.srt; return their paths and the duration."""
     items: list[tuple[str, float]] = []  # (spoken text, pause after it)
     for kind, text in blocks(source):
@@ -131,10 +157,14 @@ def narrate(source: Path, voice: str, rate: int, output: Path) -> tuple[Path, Pa
 
     with tempfile.TemporaryDirectory() as work:
         work_dir = Path(work)
-        with ThreadPoolExecutor() as pool:
-            pieces = list(pool.map(
-                lambda job: speak(job[1][0], voice, rate, work_dir / f"{job[0]:05}.wav"), enumerate(items)
-            ))
+        if engine == "silero":
+            say = silero_speaker(voice)
+            pieces = [say(text, work_dir / f"{index:05}.wav") for index, (text, _) in enumerate(items)]
+        else:
+            with ThreadPoolExecutor() as pool:
+                pieces = list(pool.map(
+                    lambda job: speak(job[1][0], voice, rate, work_dir / f"{job[0]:05}.wav"), enumerate(items)
+                ))
         with wave.open(str(pieces[0])) as first:
             params = first.getparams()
         joined = work_dir / "chapter.wav"
@@ -222,7 +252,8 @@ def video(audio: Path, subtitles: Path, image: Path, target: Path) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--chapter", required=True, help="file name in chapters/, with or without .md")
-    parser.add_argument("--voice", default="aleksandr-hq")
+    parser.add_argument("--engine", choices=["silero", "rhvoice"], default="silero")
+    parser.add_argument("--voice", help="voice of the engine (default: eugene for Silero, aleksandr-hq for RHVoice)")
     parser.add_argument("--rate", type=int, default=125, help="RHVoice speech rate in percent")
     parser.add_argument("--output", type=Path, default=OUTPUT)
     parser.add_argument("--no-video", action="store_true")
@@ -231,13 +262,15 @@ def main() -> None:
     source = CHAPTERS / f"{Path(args.chapter).stem}.md"
     if not source.is_file():
         raise SystemExit(f"Глава не найдена: {source}")
-    audio, subtitles, seconds = narrate(source, args.voice, args.rate, args.output)
+    voice = args.voice or ("eugene" if args.engine == "silero" else "aleksandr-hq")
+    audio, subtitles, seconds = narrate(source, args.engine, voice, args.rate, args.output)
     print(f"{audio} ({seconds / 60:.1f} мин)")
     print(subtitles)
     if args.no_video:
         return
     image = args.output / f"{source.stem}.png"
-    cover(chapter_title(source), image)
+    if not image.is_file():
+        cover(chapter_title(source), image)
     target = args.output / f"{source.stem}.mp4"
     video(audio, subtitles, image, target)
     print(target)
