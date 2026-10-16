@@ -1,0 +1,8 @@
+[submodule "novel"]
+	path = novel
+	url = https://github.com/jetcar/novel.git
+	branch = main
+[submodule "novel-materia"]
+	path = novel-materia
+	url = https://github.com/jetcar/novel-materia.git
+	branch = main
