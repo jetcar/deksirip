@@ -10,10 +10,10 @@
 
 ## Озвучка и YouTube
 
-Как у первой книги, только голос женский (Silero `xenia`) и свой плейлист «Шестой пункт — аудиокнига» на том же канале:
+Голос — Microsoft Edge `ru-RU-SvetlanaNeural` через `edge-tts`, как у книги по экономике (нужен интернет; при ошибке 403 обновить пакет: `pip install -U edge-tts`). Офлайн-запасные варианты: `--engine silero` (голос `xenia`) и `--engine rhvoice`. Свой плейлист «Шестой пункт — аудиокнига» на том же канале:
 
 ```bash
-pip install silero omegaconf torch pillow google-api-python-client google-auth-oauthlib   # и ffmpeg с libass
+pip install edge-tts pillow google-api-python-client google-auth-oauthlib   # и ffmpeg с libass
 python novel-shestoy-punkt/tools/make_media.py --chapter 01-stakan-vody
 python novel-shestoy-punkt/tools/upload_youtube.py --all            # первый раз: --login
 ```
