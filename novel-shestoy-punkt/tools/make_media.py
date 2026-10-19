@@ -1,8 +1,9 @@
-"""Narrate a chapter of «Шестой пункт» with an offline synthesizer and build an MP3, subtitles and a video.
+"""Narrate a chapter of «Шестой пункт» and build an MP3, subtitles and a video.
 
-The default engine is Silero (`pip install silero omegaconf`, voice `xenia`); `--engine rhvoice` uses
-`RHVoice-test` with the Russian voices (Debian/Ubuntu: `apt install rhvoice rhvoice-russian`).
-Needs ffmpeg with libass and Pillow. Synthesis runs locally; Silero downloads its model once.
+The default engine is Microsoft Edge neural voices (`pip install edge-tts`, voice `ru-RU-SvetlanaNeural`),
+as for the economics book; it needs the network. Offline alternatives: `--engine silero`
+(`pip install silero omegaconf torch`, voice `xenia`) and `--engine rhvoice` (`RHVoice-test`,
+Debian/Ubuntu: `apt install rhvoice rhvoice-russian`). Needs ffmpeg with libass and Pillow.
 
     python novel-shestoy-punkt/tools/make_media.py --chapter 01-stakan-vody
 """
@@ -14,6 +15,7 @@ import re
 import subprocess
 import tempfile
 import textwrap
+import time
 import wave
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
@@ -94,6 +96,39 @@ def speak(text: str, voice: str, rate: int, target: Path) -> Path:
     return target
 
 
+EDGE_RETRIES = 5
+EDGE_WORKERS = 4
+EDGE_TIMEOUT = 120  # seconds; the service sometimes stops answering mid-stream
+
+
+def edge_speaker(voice: str):
+    """A function writing `text` spoken by the Edge neural voice into a 24 kHz mono WAV file."""
+    import asyncio
+
+    import edge_tts
+
+    def say(text: str, target: Path) -> Path:
+        mp3 = target.with_suffix(".mp3")
+        for attempt in range(1, EDGE_RETRIES + 1):
+            try:
+                asyncio.run(asyncio.wait_for(edge_tts.Communicate(text, voice=voice).save(str(mp3)), EDGE_TIMEOUT))
+                if mp3.stat().st_size > 0:
+                    break
+            except Exception as error:  # network hiccups from the TTS service
+                if attempt == EDGE_RETRIES:
+                    raise
+                print(f"  retry {attempt}: {error}", flush=True)
+            time.sleep(5 * attempt)
+        subprocess.run(
+            ["ffmpeg", "-y", "-loglevel", "error", "-i", str(mp3), "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le",
+             str(target)],
+            check=True,
+        )
+        return target
+
+    return say
+
+
 SILERO_RATE = 48000
 SILERO_LIMIT = 800  # the model refuses much longer inputs
 
@@ -160,6 +195,12 @@ def narrate(source: Path, engine: str, voice: str, rate: int, output: Path) -> t
         if engine == "silero":
             say = silero_speaker(voice)
             pieces = [say(text, work_dir / f"{index:05}.wav") for index, (text, _) in enumerate(items)]
+        elif engine == "edge":
+            say = edge_speaker(voice)
+            with ThreadPoolExecutor(EDGE_WORKERS) as pool:
+                pieces = list(pool.map(
+                    lambda job: say(job[1][0], work_dir / f"{job[0]:05}.wav"), enumerate(items)
+                ))
         else:
             with ThreadPoolExecutor() as pool:
                 pieces = list(pool.map(
@@ -264,8 +305,9 @@ def video(audio: Path, subtitles: Path, image: Path, target: Path) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--chapter", required=True, help="file name in chapters/, with or without .md")
-    parser.add_argument("--engine", choices=["silero", "rhvoice"], default="silero")
-    parser.add_argument("--voice", help="voice of the engine (default: xenia for Silero, anna for RHVoice)")
+    parser.add_argument("--engine", choices=["edge", "silero", "rhvoice"], default="edge")
+    parser.add_argument("--voice",
+                        help="voice of the engine (default: ru-RU-SvetlanaNeural for Edge, xenia for Silero, anna for RHVoice)")
     parser.add_argument("--rate", type=int, default=125, help="RHVoice speech rate in percent")
     parser.add_argument("--output", type=Path, default=OUTPUT)
     parser.add_argument("--no-video", action="store_true")
@@ -274,7 +316,7 @@ def main() -> None:
     source = CHAPTERS / f"{Path(args.chapter).stem}.md"
     if not source.is_file():
         raise SystemExit(f"Глава не найдена: {source}")
-    voice = args.voice or ("xenia" if args.engine == "silero" else "anna")
+    voice = args.voice or {"edge": "ru-RU-SvetlanaNeural", "silero": "xenia", "rhvoice": "anna"}[args.engine]
     audio, subtitles, seconds = narrate(source, args.engine, voice, args.rate, args.output)
     print(f"{audio} ({seconds / 60:.1f} мин)")
     print(subtitles)
