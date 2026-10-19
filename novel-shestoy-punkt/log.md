@@ -1,0 +1,1 @@
+- 2026-10-19 20:02 — глава 01 «Стакан воды»: https://youtu.be/5H_Xohscc3w; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; codex сначала упал без codex-code-mode-host.exe — скопирован из пакета приложения в ~/.local/bin. Глава 02 отложена: коммит моложе 30 минут.
