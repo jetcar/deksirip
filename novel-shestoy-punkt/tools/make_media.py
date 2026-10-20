@@ -3,7 +3,7 @@
 The default engine is Microsoft Edge neural voices (`pip install edge-tts`, voice `ru-RU-SvetlanaNeural`),
 as for the economics book; it needs the network. Offline alternatives: `--engine silero`
 (`pip install silero omegaconf torch`, voice `xenia`) and `--engine rhvoice` (`RHVoice-test`,
-Debian/Ubuntu: `apt install rhvoice rhvoice-russian`). Needs ffmpeg with libass and Pillow.
+Debian/Ubuntu: `apt install rhvoice rhvoice-russian`). Needs ffmpeg and Pillow.
 
     python novel-shestoy-punkt/tools/make_media.py --chapter 01-stakan-vody
 """
@@ -289,13 +289,10 @@ def cover(title: str, target: Path) -> None:
     image.save(target)
 
 
-def video(audio: Path, subtitles: Path, image: Path, target: Path) -> None:
-    style = ("FontName=DejaVu Sans,FontSize=15,PrimaryColour=&H00DCE8EE,OutlineColour=&H00161412,"
-             "BorderStyle=1,Outline=1.2,Shadow=0,MarginV=34,MarginL=60,MarginR=60")
-    escaped = str(subtitles).replace("\\", "/").replace(":", "\\:").replace("'", "\\'")
+def video(audio: Path, image: Path, target: Path) -> None:
+    """The cover over the narration; the subtitles go to YouTube as a separate caption track."""
     subprocess.run(
-        ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "4", "-i", str(image), "-i", str(audio),
-         "-vf", f"subtitles='{escaped}':force_style='{style}'",
+        ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "1", "-i", str(image), "-i", str(audio),
          "-c:v", "libx264", "-tune", "stillimage", "-preset", "veryfast", "-crf", "28", "-pix_fmt", "yuv420p",
          "-c:a", "aac", "-b:a", "96k", "-shortest", "-movflags", "+faststart", str(target)],
         check=True,
@@ -326,7 +323,7 @@ def main() -> None:
     if not image.is_file():
         cover(chapter_title(source), image)
     target = args.output / f"{source.stem}.mp4"
-    video(audio, subtitles, image, target)
+    video(audio, image, target)
     print(target)
 
 
