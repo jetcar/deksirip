@@ -15,7 +15,7 @@ from pathlib import Path
 import edge_tts
 
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2] / "book"
 OUTPUT = ROOT / "audio"
 MAX_CHARS = 9_000
 RETRIES = 5

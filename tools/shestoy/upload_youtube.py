@@ -1,15 +1,15 @@
 """Upload the chapter videos of «Шестой пункт» to YouTube and keep them in their own playlist.
 
-Uses the same OAuth client and token as the first book (book/tools/client_secret.json and
-book/tools/youtube_token.json), so the channel login is shared. The token can also come from the
+Uses the same OAuth client and token as the first book (tools/secrets/client_secret.json and
+tools/secrets/youtube_token.json), so the channel login is shared. The token can also come from the
 YOUTUBE_TOKEN_JSON environment variable (its JSON content), which lets a non-interactive job upload.
 
     pip install google-api-python-client google-auth-oauthlib
-    python novel-shestoy-punkt/tools/upload_youtube.py --login --all      # first run: browser sign-in, every chapter
-    python novel-shestoy-punkt/tools/upload_youtube.py --chapter 15-noch-v-laboratorii
-    python novel-shestoy-punkt/tools/upload_youtube.py --all --replace     # re-narrated: upload again, swap in playlist,
+    python tools/shestoy/upload_youtube.py --login --all      # first run: browser sign-in, every chapter
+    python tools/shestoy/upload_youtube.py --chapter 15-noch-v-laboratorii
+    python tools/shestoy/upload_youtube.py --all --replace     # re-narrated: upload again, swap in playlist,
                                                                       # make the old videos private
-    python novel-shestoy-punkt/tools/upload_youtube.py --all --update-descriptions  # rewrite descriptions of uploaded videos
+    python tools/shestoy/upload_youtube.py --all --update-descriptions  # rewrite descriptions of uploaded videos
 
 What was uploaded is recorded in novel-shestoy-punkt/media/<stem>.uploaded.json and media/playlist.json;
 commit them so the next run (anywhere) does not upload a chapter twice.
@@ -36,8 +36,8 @@ from googleapiclient.http import MediaFileUpload
 from make_media import BOOK_TITLE, CHAPTERS, OUTPUT, blocks, chapter_title
 
 REPO = Path(__file__).resolve().parents[2]
-CLIENT_SECRET = REPO / "book" / "tools" / "client_secret.json"
-TOKEN = REPO / "book" / "tools" / "youtube_token.json"
+CLIENT_SECRET = REPO / "tools" / "secrets" / "client_secret.json"
+TOKEN = REPO / "tools" / "secrets" / "youtube_token.json"
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.force-ssl",  # captions, playlists

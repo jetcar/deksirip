@@ -1,7 +1,7 @@
 """Upload a chapter video built by make_video.py to YouTube, public or scheduled by the release queue.
 
-Setup: put the OAuth "Desktop app" client JSON at tools/client_secret.json; the first run opens
-a browser to sign in and pick the book's channel, then the token is kept in tools/youtube_token.json.
+Setup: put the OAuth "Desktop app" client JSON at tools/secrets/client_secret.json; the first run opens
+a browser to sign in and pick the book's channel, then the token is kept in tools/secrets/youtube_token.json.
 """
 
 from __future__ import annotations
@@ -22,8 +22,8 @@ from googleapiclient.http import MediaFileUpload
 from synthesize_audio import CHAPTER_PATTERN, ROOT
 
 TOOLS = Path(__file__).resolve().parent
-CLIENT_SECRET = TOOLS / "client_secret.json"
-TOKEN = TOOLS / "youtube_token.json"
+CLIENT_SECRET = TOOLS.parent / "secrets" / "client_secret.json"
+TOKEN = TOOLS.parent / "secrets" / "youtube_token.json"
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.force-ssl",  # captions
