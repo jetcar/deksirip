@@ -8,3 +8,4 @@
 - 2026-10-20 03:02 — глава 08 «Колечко»: https://youtu.be/Hu5_qSUItlk; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc
 - 2026-10-20 04:04 — глава 09: https://youtu.be/Y1tTyd4pBTA; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc
 - 2026-10-20 05:02 — глава 10 «Эстетика Плюс»: https://youtu.be/AeCC3OhumFA; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; квота YouTube API исчерпана после загрузки видео — субтитры не добавлены и в плейлист не внесена (нужен повтор `upload_youtube.py --chapter 10-estetika-plyus` после 10:00)
+- 2026-10-20 06:03 — глава 11 «Доброволец»: https://youtu.be/FMkK7rWb-kY; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; квота YouTube API исчерпана после загрузки видео — субтитры не добавлены и в плейлист не внесена (нужен повтор `upload_youtube.py --chapter 11-dobrovolets` после 10:00; глава 10 тоже ждёт повтора)
