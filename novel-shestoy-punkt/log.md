@@ -5,3 +5,4 @@
 - 2026-10-20 00:04 — глава 05: https://youtu.be/HGSviScKIK8; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; глава 06 пропущена — коммит моложе 30 минут
 - 2026-10-20 01:02 — глава 06: https://youtu.be/ncJ21NZUcTs; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; глава 07 отложена (менялась < 30 мин назад)
 - 2026-10-20 02:12 — глава 07: https://youtu.be/Qff_7Uhbdvs; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; глава 08 отложена (менялась < 30 мин назад)
+- 2026-10-20 03:02 — глава 08 «Колечко»: https://youtu.be/Hu5_qSUItlk; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc
