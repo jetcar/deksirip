@@ -1,11 +1,10 @@
-"""Narrate a chapter of «Шестой пункт» and build an MP3, subtitles and a video.
+"""Narrate a chapter of «Материальный вопрос» with an offline synthesizer and build an MP3, subtitles and a video.
 
-The default engine is Microsoft Edge neural voices (`pip install edge-tts`, voice `ru-RU-SvetlanaNeural`),
-as for the economics book; it needs the network. Offline alternatives: `--engine silero`
-(`pip install silero omegaconf torch`, voice `xenia`) and `--engine rhvoice` (`RHVoice-test`,
-Debian/Ubuntu: `apt install rhvoice rhvoice-russian`). Needs ffmpeg and Pillow.
+The default engine is Silero (`pip install silero omegaconf`, voice `eugene`); `--engine rhvoice` uses
+`RHVoice-test` with the Russian voices (Debian/Ubuntu: `apt install rhvoice rhvoice-russian`).
+Needs ffmpeg and Pillow. Synthesis runs locally; Silero downloads its model once.
 
-    python novel-shestoy-punkt/tools/make_media.py --chapter 01-stakan-vody
+    python tools/materia/make_media.py --chapter 01-minus-sorok-sem-tysyach
 """
 
 from __future__ import annotations
@@ -15,22 +14,21 @@ import re
 import subprocess
 import tempfile
 import textwrap
-import time
 import wave
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2] / "novel-materia"
 CHAPTERS = ROOT / "chapters"
 OUTPUT = ROOT / "media"
-BOOK_TITLE = "Шестой пункт"
-BOOK_SUBTITLE = "Материальный вопрос, книга вторая · аудиокнига"
+BOOK_TITLE = "Материальный вопрос"
+BOOK_SUBTITLE = "Роман · аудиокнига"
 FONTS = Path("/usr/share/fonts/truetype")
 SIZE = (1920, 1080)
 BACKGROUND = (22, 24, 28)
-ACCENT = (214, 120, 132)
+ACCENT = (205, 160, 92)
 TEXT = (238, 232, 220)
 MUTED = (150, 146, 138)
 
@@ -94,39 +92,6 @@ def speak(text: str, voice: str, rate: int, target: Path) -> Path:
         input=text.encode("utf-8"), check=True, capture_output=True,
     )
     return target
-
-
-EDGE_RETRIES = 5
-EDGE_WORKERS = 4
-EDGE_TIMEOUT = 120  # seconds; the service sometimes stops answering mid-stream
-
-
-def edge_speaker(voice: str):
-    """A function writing `text` spoken by the Edge neural voice into a 24 kHz mono WAV file."""
-    import asyncio
-
-    import edge_tts
-
-    def say(text: str, target: Path) -> Path:
-        mp3 = target.with_suffix(".mp3")
-        for attempt in range(1, EDGE_RETRIES + 1):
-            try:
-                asyncio.run(asyncio.wait_for(edge_tts.Communicate(text, voice=voice).save(str(mp3)), EDGE_TIMEOUT))
-                if mp3.stat().st_size > 0:
-                    break
-            except Exception as error:  # network hiccups from the TTS service
-                if attempt == EDGE_RETRIES:
-                    raise
-                print(f"  retry {attempt}: {error}", flush=True)
-            time.sleep(5 * attempt)
-        subprocess.run(
-            ["ffmpeg", "-y", "-loglevel", "error", "-i", str(mp3), "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le",
-             str(target)],
-            check=True,
-        )
-        return target
-
-    return say
 
 
 SILERO_RATE = 48000
@@ -195,12 +160,6 @@ def narrate(source: Path, engine: str, voice: str, rate: int, output: Path) -> t
         if engine == "silero":
             say = silero_speaker(voice)
             pieces = [say(text, work_dir / f"{index:05}.wav") for index, (text, _) in enumerate(items)]
-        elif engine == "edge":
-            say = edge_speaker(voice)
-            with ThreadPoolExecutor(EDGE_WORKERS) as pool:
-                pieces = list(pool.map(
-                    lambda job: say(job[1][0], work_dir / f"{job[0]:05}.wav"), enumerate(items)
-                ))
         else:
             with ThreadPoolExecutor() as pool:
                 pieces = list(pool.map(
@@ -253,14 +212,6 @@ def font(name: str, size: int) -> ImageFont.FreeTypeFont:
     return ImageFont.truetype(str(path), size)
 
 
-def ring(draw: ImageDraw.ImageDraw, x: int, y: int, scale: float) -> None:
-    """A thin silver-and-copper ring seen at an angle."""
-    width, height = int(300 * scale), int(180 * scale)
-    band = int(26 * scale)
-    draw.ellipse((x, y, x + width, y + height), outline=(196, 196, 204), width=band)
-    draw.arc((x, y, x + width, y + height), start=200, end=340, fill=(184, 115, 72), width=band // 2)
-
-
 def thimble(draw: ImageDraw.ImageDraw, x: int, y: int, scale: float) -> None:
     """A simple thimble: a domed body with rows of dimples and a rim."""
     width, height = int(260 * scale), int(330 * scale)
@@ -285,7 +236,7 @@ def cover(title: str, target: Path) -> None:
     for line in textwrap.wrap(title, width=26):
         draw.text((left + 60, y), line, font=font("dejavu/DejaVuSerif-Bold.ttf", 66), fill=ACCENT)
         y += 86
-    ring(draw, 1440, 470, 1.1)
+    thimble(draw, 1500, 400, 0.95)
     image.save(target)
 
 
@@ -302,9 +253,8 @@ def video(audio: Path, image: Path, target: Path) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--chapter", required=True, help="file name in chapters/, with or without .md")
-    parser.add_argument("--engine", choices=["edge", "silero", "rhvoice"], default="edge")
-    parser.add_argument("--voice",
-                        help="voice of the engine (default: ru-RU-SvetlanaNeural for Edge, xenia for Silero, anna for RHVoice)")
+    parser.add_argument("--engine", choices=["silero", "rhvoice"], default="silero")
+    parser.add_argument("--voice", help="voice of the engine (default: eugene for Silero, aleksandr-hq for RHVoice)")
     parser.add_argument("--rate", type=int, default=125, help="RHVoice speech rate in percent")
     parser.add_argument("--output", type=Path, default=OUTPUT)
     parser.add_argument("--no-video", action="store_true")
@@ -313,7 +263,7 @@ def main() -> None:
     source = CHAPTERS / f"{Path(args.chapter).stem}.md"
     if not source.is_file():
         raise SystemExit(f"Глава не найдена: {source}")
-    voice = args.voice or {"edge": "ru-RU-SvetlanaNeural", "silero": "xenia", "rhvoice": "anna"}[args.engine]
+    voice = args.voice or ("eugene" if args.engine == "silero" else "aleksandr-hq")
     audio, subtitles, seconds = narrate(source, args.engine, voice, args.rate, args.output)
     print(f"{audio} ({seconds / 60:.1f} мин)")
     print(subtitles)

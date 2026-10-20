@@ -14,8 +14,8 @@
 
 ```bash
 pip install edge-tts pillow google-api-python-client google-auth-oauthlib   # и ffmpeg
-python novel-shestoy-punkt/tools/make_media.py --chapter 01-stakan-vody
-python novel-shestoy-punkt/tools/upload_youtube.py --all            # первый раз: --login
+python tools/shestoy/make_media.py --chapter 01-stakan-vody
+python tools/shestoy/upload_youtube.py --all            # первый раз: --login
 ```
 
 Файлы глав (`.mp3`, `.srt`, `.png`, `.mp4`) ложатся в `media/`; `*.uploaded.json` и `playlist.json` нужно закоммитить, чтобы главы не загружались повторно.

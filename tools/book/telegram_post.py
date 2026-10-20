@@ -1,6 +1,6 @@
 """Post to the book's Telegram channel through its bot.
 
-Setup: the bot token in tools/telegram_token.txt; the bot is an admin of the channel with posting rights.
+Setup: the bot token in tools/secrets/telegram_token.txt; the bot is an admin of the channel with posting rights.
   --text FILE                 post a prepared message (Telegram HTML)
   --pending                   list released chapters not yet announced
   --chapter STEM --summary S  announce a released chapter and remember it
@@ -21,7 +21,7 @@ from synthesize_audio import ROOT
 from upload_youtube import chapter_order, chapter_release
 
 TOOLS = Path(__file__).resolve().parent
-TOKEN = TOOLS / "telegram_token.txt"
+TOKEN = TOOLS.parent / "secrets" / "telegram_token.txt"
 CHANNEL = "@kuda_ushel_izlishek"
 VIDEO = ROOT / "video"
 PLAYLIST_URL = "https://www.youtube.com/playlist?list=" + (
