@@ -9,6 +9,7 @@ YOUTUBE_TOKEN_JSON environment variable (its JSON content), which lets a non-int
     python novel-shestoy-punkt/tools/upload_youtube.py --chapter 15-noch-v-laboratorii
     python novel-shestoy-punkt/tools/upload_youtube.py --all --replace     # re-narrated: upload again, swap in playlist,
                                                                       # make the old videos private
+    python novel-shestoy-punkt/tools/upload_youtube.py --all --update-descriptions  # rewrite descriptions of uploaded videos
 
 What was uploaded is recorded in novel-shestoy-punkt/media/<stem>.uploaded.json and media/playlist.json;
 commit them so the next run (anywhere) does not upload a chapter twice.
@@ -50,6 +51,26 @@ BOOK_DESCRIPTION = (
     "начиная с собственного тела. Клиники, чёрный рынок колечек, опыты над людьми и драки тех, кто умеет. "
     "18+. Озвучено синтезатором речи Microsoft Edge (голос Светлана)."
 )
+FIRST_BOOK = REPO / "novel-materia" / "media" / "playlist.json"
+DONATE_URL = "https://buymeacoffee.com/ownerless"
+
+
+def links() -> str:
+    """Where to go next: this book's playlist, the first book's playlist, support."""
+    lines = []
+    store = OUTPUT / "playlist.json"
+    if store.exists():
+        playlist_id = json.loads(store.read_text(encoding="utf-8"))["id"]
+        lines.append(f"Вся книга — плейлист: https://www.youtube.com/playlist?list={playlist_id}")
+    if FIRST_BOOK.exists():
+        playlist_id = json.loads(FIRST_BOOK.read_text(encoding="utf-8"))["id"]
+        lines.append(f"Первая книга, «Материальный вопрос»: https://www.youtube.com/playlist?list={playlist_id}")
+    lines.append(f"Поддержать автора: {DONATE_URL}")
+    return "\n".join(lines)
+
+
+def description(source: Path) -> str:
+    return f"{teaser(source)}\n\n{links()}\n\n—\n{BOOK_DESCRIPTION}"[:5000]
 
 
 def credentials(interactive: bool) -> Credentials:
@@ -103,13 +124,12 @@ def upload(youtube, stem: str, privacy: str, replace: bool = False) -> str:
         replaced = known.get("replaced", []) + [known["id"]]
     source = CHAPTERS / f"{stem}.md"
     title = f"{BOOK_TITLE}. {chapter_title(source)}"
-    description = f"{teaser(source)}\n\n—\n{BOOK_DESCRIPTION}"
     request = youtube.videos().insert(
         part="snippet,status",
         body={
             "snippet": {
                 "title": title[:100],
-                "description": description[:5000],
+                "description": description(source),
                 "categoryId": ENTERTAINMENT,
                 "defaultLanguage": "ru",
                 "defaultAudioLanguage": "ru",
@@ -163,7 +183,8 @@ def sync_playlist(youtube, privacy: str) -> None:
         playlist_id = youtube.playlists().insert(
             part="snippet,status",
             body={
-                "snippet": {"title": PLAYLIST_TITLE, "description": BOOK_DESCRIPTION, "defaultLanguage": "ru"},
+                "snippet": {"title": PLAYLIST_TITLE, "description": f"{BOOK_DESCRIPTION}\n\n{links()}",
+                            "defaultLanguage": "ru"},
                 "status": {"privacyStatus": privacy},
             },
         ).execute()["id"]
@@ -203,6 +224,34 @@ def sync_playlist(youtube, privacy: str) -> None:
     print(f"плейлист: https://www.youtube.com/playlist?list={playlist_id}")
 
 
+def update_descriptions(youtube, stems: list[str]) -> None:
+    """Rewrite the description of each uploaded chapter video and of the playlist."""
+    for stem in stems:
+        record = OUTPUT / f"{stem}.uploaded.json"
+        if not record.exists():
+            continue
+        video_id = json.loads(record.read_text(encoding="utf-8"))["id"]
+        found = youtube.videos().list(part="snippet", id=video_id).execute()["items"]
+        if not found:
+            continue
+        snippet = found[0]["snippet"]
+        text = description(CHAPTERS / f"{stem}.md")
+        if snippet.get("description") == text:
+            continue
+        snippet["description"] = text
+        youtube.videos().update(part="snippet", body={"id": video_id, "snippet": snippet}).execute()
+        print(f"{stem}: описание обновлено")
+    store = OUTPUT / "playlist.json"
+    if store.exists():
+        playlist_id = json.loads(store.read_text(encoding="utf-8"))["id"]
+        found = youtube.playlists().list(part="snippet", id=playlist_id).execute()["items"]
+        text = f"{BOOK_DESCRIPTION}\n\n{links()}"
+        if found and found[0]["snippet"].get("description") != text:
+            snippet = found[0]["snippet"] | {"description": text}
+            youtube.playlists().update(part="snippet", body={"id": playlist_id, "snippet": snippet}).execute()
+            print("плейлист: описание обновлено")
+
+
 def hide_replaced(youtube, stems: list[str]) -> None:
     """Make private the old videos that re-narrated uploads replaced."""
     for stem in stems:
@@ -227,12 +276,17 @@ def main() -> None:
     parser.add_argument("--privacy", choices=["public", "unlisted", "private"], default="public")
     parser.add_argument("--replace", action="store_true", help="upload again chapters whose video changed since their upload")
     parser.add_argument("--hide-replaced", action="store_true", help="make private old videos replaced by --replace")
+    parser.add_argument("--update-descriptions", action="store_true",
+                        help="rewrite the descriptions of already uploaded videos and the playlist")
     args = parser.parse_args()
 
     youtube = build("youtube", "v3", credentials=credentials(args.login))
     stems = ([Path(args.chapter).stem] if args.chapter
              else sorted(path.stem for path in OUTPUT.glob("[0-9][0-9]-*.mp4")))
     try:
+        if args.update_descriptions:
+            update_descriptions(youtube, stems)
+            return
         if not args.hide_replaced:
             for stem in stems:
                 upload(youtube, stem, args.privacy, args.replace)
