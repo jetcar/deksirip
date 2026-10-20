@@ -7,3 +7,4 @@
 - 2026-10-20 02:12 — глава 07: https://youtu.be/Qff_7Uhbdvs; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; глава 08 отложена (менялась < 30 мин назад)
 - 2026-10-20 03:02 — глава 08 «Колечко»: https://youtu.be/Hu5_qSUItlk; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc
 - 2026-10-20 04:04 — глава 09: https://youtu.be/Y1tTyd4pBTA; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc
+- 2026-10-20 05:02 — глава 10 «Эстетика Плюс»: https://youtu.be/AeCC3OhumFA; плейлист https://www.youtube.com/playlist?list=PLBF8-HsK1ANc; квота YouTube API исчерпана после загрузки видео — субтитры не добавлены и в плейлист не внесена (нужен повтор `upload_youtube.py --chapter 10-estetika-plyus` после 10:00)
