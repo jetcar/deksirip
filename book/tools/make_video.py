@@ -16,6 +16,7 @@ from synthesize_audio import ROOT, ffmpeg_tool
 BOOK_TITLE = "Куда ушёл излишек"
 BOOK_SUBTITLE = "История экономики от охотников-собирателей до наших дней"
 DONATE_URL = "https://buymeacoffee.com/ownerless"
+PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLOsSoEL_1--Y"
 FONTS = Path("C:/Windows/Fonts")
 SIZE = (1920, 1080)
 BACKGROUND = (24, 22, 19)
@@ -60,6 +61,7 @@ def description(title: str, chapters: Path) -> str:
 Содержание:
 {marks}
 
+Вся книга — плейлист: {PLAYLIST_URL}
 Telegram: https://t.me/kuda_ushel_izlishek
 Поддержать проект: {DONATE_URL}
 
