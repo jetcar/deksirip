@@ -2,7 +2,7 @@
 
 On Saturday I didn't open the booth.
 
-Well, I opened it: I raised the shutter, the pigeons took off, everything the way it's supposed to be. But I didn't sit down behind the counter. I flipped the sign on the counter to BACK IN AN HOUR, picked up my notebook and went for a walk around the market.
+Okay, technically I opened it: I raised the shutter, the pigeons took off, everything the way it's supposed to be. But I didn't sit down behind the counter. I flipped the sign on the counter to BACK IN AN HOUR, picked up my notebook and went for a walk around the market.
 
 It was a strange feeling. For twelve years I'd sat in that booth, and the market had come to me on its own: one person at a time, one broken thing at a time. I knew the market the way a cashier knows it: by faces, by hands, by what's in the shopping bag. But I'd never once walked through it to ask.
 
@@ -14,7 +14,7 @@ Greg the butcher is huge and bald, in a white apron that never has any blood on 
 
 "Greg," I said. "Can I ask you something? In your work, what breaks the most? Or gets in your way?"
 
-Greg looked at me over the side of pork he was cutting up.
+Greg looked at me over the hog carcass he was cutting up.
 
 "What, you're taking a survey?"
 
@@ -44,7 +44,7 @@ I wrote in my notebook: "Greg. Knives. If they didn't go dull: half an hour of s
 
 ---
 
-Next came the flowers. Roxanne the flower girl, skinny, in fingerless gloves, was trimming rose stems with a pair of pruning shears that squeaked every time she squeezed them.
+Next came the flowers. Roxanne from the flower stall, skinny, in fingerless gloves, was trimming rose stems with a pair of pruning shears that squeaked every time she squeezed them.
 
 "Pruners," she said right away, before I'd finished the question. "This is my third pair this year. They rust. From the water. I've got my hands in water all day. You buy a new pair, three months later it's rusty and the spring snaps."
 
@@ -62,7 +62,7 @@ The bread stalls. Stefan, the bearded baker.
 
 The old newspaper man by the entrance.
 
-"Glasses," he said. "My glasses get scratched. I can't see what I'm selling anymore. New ones cost too much. I'm on a pension."
+"Glasses," he said. "My glasses get scratched. I can't see what I'm selling anymore. New ones cost too much. I'm on a fixed income."
 
 A woman with shopping bags who was walking by and heard what I was asking:
 
@@ -128,7 +128,7 @@ A knife goes dull because its edge, thin as paper, gets bent over. With every bl
 
 So the steel had to be hard only at the very edge, in a thin strip. And farther in, in the body of the blade, soft and springy, so it could take a blow. Blacksmiths have been doing this for hundreds of years: they harden the edge and leave the spine soft. But they do it roughly, by eye, by the color the steel turns as it heats.
 
-I had a diagram. And the thimble.
+But I had a diagram. And the thimble.
 
 I laid Greg's knife on the counter, put on the thimble and spent a long time, twenty minutes or so, just feeling it. The steel was simple carbon steel, honest but soft: it was a cheap knife, Greg had bought it at this same market. The carbon sat in the steel few and far between, like raisins in a cheap fruitcake. Under my left hand I had two thermoses (these days I brought three to the market, full of boiling water), and slowly, a sliver at a time, I started gathering carbon toward the edge: from the body of the blade and from the spine, where nobody needed it. That made the spine even softer. All the better: a soft spine takes a blow.
 
@@ -142,7 +142,7 @@ When I took the knife back to Greg, at first he didn't get it. He looked at it, 
 
 "No," I said. "Try it."
 
-Greg tried it. Right in front of me he broke down half a hog, and with every cut his face changed. At the end he stopped, held the knife up to the light and looked at the edge. The edge was the same as when he'd started. Not a single nick.
+Greg tried it. Right in front of me he broke down half a hog carcass, and with every cut his face changed. At the end he stopped, held the knife up to the light and looked at the edge. The edge was the same as when he'd started. Not a dent.
 
 "What is this?" Greg asked quietly.
 
@@ -164,9 +164,9 @@ I thought about my pierogi. About how pierogi are dough and meat, and how the me
 
 Greg handed me six bags in cash and a sack with six and a half pounds of pork shoulder in it. To be honest, that was more than six bags' worth. I didn't argue. Greg, I think, knew it too.
 
-I walked back to the booth with a sack of meat in my hand and thought: so there it is. I'd gotten paid in food for a repair. Not by Mrs. Mazur, but by somebody else entirely. And once again I had no way to figure out whether it was fair. Meat in pierogi? A knife in meat? It turned out that every thing was worth something different depending on what you traded it for.
+I walked back to the booth with a sack of meat in my hand and thought: so there it is. I'd gotten paid in food for a repair. Not by Mrs. Mazur, but by somebody else entirely. And once again I had no way to figure out whether it was fair. What's meat worth in pierogi? What's a knife worth in meat? It turned out that every thing was worth something different depending on what you traded it for.
 
-I wrote on a receipt: "Knife: six bags and meat. How much is meat in pierogi? Don't know. Greg knows. I don't. How do you count it?"
+I wrote on a receipt: "Knife: six bags and meat. What's meat in bags? Don't know. Greg knows. I don't. How do you count it?"
 
 So every thing had its own price, depending on what you traded it for.
 
@@ -174,11 +174,11 @@ So every thing had its own price, depending on what you traded it for.
 
 On Sunday the market got by without me, and I got by without the market. I boiled a piece of Greg's pork shoulder (no pierogi, just meat, like a rich man) and ate it with bread, slowly, sitting at the table instead of standing at the stove. Then I took the pea out of my father's tackle box.
 
-Six grams. On paper, a hundred and eighty bags. In going on two weeks it hadn't bought me a single fried meat pie. It sat there among the bobbers, heavy and useless, like a rich relative who never comes to visit.
+Six grams. On paper, a hundred and eighty bags. In ten days it hadn't bought me a single fried meat pie. It sat there among the bobbers, heavy and useless, like a rich relative who never comes to visit.
 
 And a cheap knife from our own market, which I'd reworked yesterday in an hour, had brought me six bags and six and a half pounds of meat.
 
-I set the pea on the table next to the plate that still had a piece of pork on it, and looked at the two things for a long time. Gold is valuable because there's so little of it. The knife was valuable because Greg needed it. The rare thing, nobody would take off my hands. The needed thing, he'd bought before I finished naming the price.
+I set the pea on the table next to the plate that still had a piece of pork on it, and looked at the two things for a long time. Gold is valuable because there's so little of it. The knife was valuable because Greg needed it. The rare thing, nobody would take off my hands. The needed thing, he'd bought without a second thought.
 
 Lugnut jumped up on the table and looked first at the pea, then at the meat. He thought it over. And reached for the meat.
 
@@ -194,13 +194,13 @@ By Sunday lunchtime, the whole market.
 
 On Monday morning there was a line at my booth.
 
-It was the first line in twelve years. My booth had never had a line before: two people at most, and one of them was usually Ashot. Now there were eight. Then twelve. Butchers with knives. Roxanne the flower girl with her pruners and two more pairs from her friends. Lottie with her fish scaler. Stefan the baker with his sheet pans, four of them, stacked up, heavy. The old newspaper man with his glasses. The woman with the pot. The boy with the scooter.
+It was the first line in twelve years. My booth had never had a line before: two people at most, and one of them was usually Ashot. Now there were eight. Then twelve. Butchers with knives. Roxanne from the flower stall with her pruners and two more pairs from her friends. Lottie with her fish scaler. Stefan the baker with his sheet pans, four of them, stacked up, heavy. The old newspaper man with his glasses. The woman with the pot. The boy with the scooter.
 
 I worked like never before in my life.
 
 I switched on the soldering iron first thing and set a lump of rosin on the tip: for Ashot, for the line, for myself. The booth smelled of pine, like a sauna. I carried each thing to the back shelf, turned my back and counted to a hundred before I handed it over. Somebody asked how I did it. "Cold hardening," I said, and tapped a thermos. "New technology." The man nodded: the thermos on the counter explained everything. People are happy to believe in technology if it's sitting out where they can see it and you pour boiling water into it. Still, turning toward the shelf for the twentieth time, I remembered Bull: "You'll be the payment." And Lenny Kurgan's container out back of this same market. You can see a line from a long way off. A line is an advertisement too, only you never know who's reading it.
 
-Roxanne's pruners: the steel was stainless, but cheap. It had tiny specks of something foreign in it, soft, like crumbs in butter, and the rust started right there, from the inside, like a cavity. What they're called, Val told me that evening: sulfides, sulfur; they add it so the steel is easier to cut on a lathe. I squeezed those specks out to the surface as a yellowish film and wiped it off with a rag. Not all of them, as many as I could. It was like pitting cherries. Then I made the spring over again, out of the same steel, but with the right lattice.
+Roxanne's pruners: the steel was stainless, but cheap. It had tiny specks of something foreign in it, soft, like crumbs in butter, and the rust started right there, from the inside, like a cavity. Val told me that evening what they're called: sulfides, sulfur; they add it so the steel is easier to cut on a lathe. I squeezed those specks out to the surface as a yellowish film and wiped it off with a rag. Not all of them, as many as I could. It was like pitting cherries. Then I made the spring over again, out of the same steel, but with the right lattice.
 
 The fish scaler: I built the teeth back up with metal from the back of it and hardened them along the edge, like Greg's knife.
 
@@ -218,13 +218,13 @@ And by lunchtime on Monday it dawned on me that I was dying.
 
 ---
 
-Not really, of course. But I was so hungry my hands were shaking. The thermoses had run out by ten in the morning. I ran to the meat-pie stand by the gate for boiling water (they filled me up out of pity), and that ran out by eleven. The boiling water was the pie man's, and so was the gas; I promised to take a look at his vent hood. Mrs. Mazur's hand pies had run out by nine. The pork shoulder was sitting at home, raw, forty minutes away by bus.
+Not really, of course. But I was so hungry my hands were shaking. The thermoses had run out by ten in the morning. I ran to the meat-pie stand by the gate for boiling water (they filled my thermoses out of pity), and that ran out by eleven. The boiling water was the pie man's, and so was the gas; I promised to take a look at his vent hood. Mrs. Mazur's hand pies had run out by nine. The pork shoulder was sitting at home, raw, forty minutes away by bus.
 
 I ate four fried meat pies. Then two fried meat buns. Then a package of cookies from the kiosk. Then I drank a quart of sweet tea.
 
 The line didn't get any shorter.
 
-People stood there, shifting from foot to foot. Some had waited an hour. Some left and came back. Somebody started arguing about who was ahead of whom. The woman with the pot told the man with the knife he was cutting in line. The man with the knife said his meat was getting warm. Stefan the baker said he still had two sheet pans and could wait, but not till evening, because in the evening he had to bake.
+People stood there, shifting from foot to foot. Some had waited an hour. Some left and came back. Somebody started arguing about who was ahead of whom. The woman with the pot told the man with the knife he was cutting in line. The man with the knife said he had meat sitting out. Stefan the baker said he still had two sheet pans and could wait, but not till evening, because in the evening he had to bake.
 
 Suddenly something became clear to me, something I hadn't figured into the plan for my new life at all.
 
@@ -240,19 +240,19 @@ And for the first time in twelve years I flipped the sign to CLOSED in the middl
 
 "I'm sorry," I said to the line. "I can't do any more. Not today. Tomorrow, first thing."
 
-The line grumbled. Not too loudly (people at our market have known me a long time), but it grumbled. Somebody said, "Isn't that always the way." Somebody said, "I stood here an hour." Stefan the baker came up without a word and set his two remaining sheet pans down behind my counter.
+The line grumbled. Not too loudly (people at our market have known me a long time), but it grumbled. Somebody said, "Typical." Somebody said, "I've been standing here an hour." Stefan the baker came up without a word and set his two remaining sheet pans down behind my counter.
 
 "Tomorrow," he said. "First thing. I'm first."
 
 And he left.
 
-The line thought it over and did the same. Five minutes later, behind my counter there were eight knives, three pairs of pruners, two pots and somebody's meat grinder. Each one with a slip of paper with a name written on it. Like a coat check.
+The line thought it over and did the same. Five minutes later, behind my counter there were eight knives, three pairs of pruners, two pots and somebody's meat grinder. Each one tagged with a slip of paper and a name. Like a coat check.
 
 I looked at that pile and understood that tomorrow would be the same. And the day after. And that I wasn't going to be able to keep up.
 
 ---
 
-That evening Val called. On Thursday, at the door, "Timothy" had somehow quietly turned into "Tim." I couldn't even remember which of us had started it. Over the phone it sounded unfamiliar and very nice.
+That evening Val called. On Thursday, at the door, "Timothy" had somehow quietly turned into "Tim." I couldn't even remember which of us had started it. Over the phone, "Tim" still sounded new, and very nice.
 
 "So," she said. "How's our iron-carbon diagram? Come in handy?"
 
@@ -264,7 +264,7 @@ I told her about Greg's knife. About hardening with my fingers. About the needle
 
 "It's carburizing and hardening. You pulled the carbon to the edge; in a factory that's hours in a furnace. And then you made martensite. No heat and no water. You just went and reshaped the lattice." She paused. "Tim, on Saturday you did by hand what a factory needs a furnace, a quench tank and a three-man shift to do."
 
-"What I understand is that I did it in an hour and two thermoses," I said. "And then thirty more of them. And now I've got a line I can't keep up with, and I've eaten so many fried meat pies that I think they could sell me back to the pie stand for parts."
+"What I know is, I did it in an hour and two thermoses," I said. "And then thirty more things. And now I've got a line I can't keep up with, and I've eaten so many fried meat pies that I think they could sell me back to the pie stand for parts."
 
 Val laughed.
 
@@ -278,9 +278,9 @@ Val laughed.
 
 "I don't mean the thimble," said Val. "I mean maybe not everything you do has to be done by you."
 
-"Then by who?" I asked. "There's only one thimble."
+"Then who?" I asked. "There's only one thimble."
 
-"I'm a chemist," said Val. "I ask the questions. The answers are for you practical types."
+"I'm a chemist," said Val. "I ask the questions. Answers are your department. You practical types."
 
 I hung up and spent a long time thinking about who, besides me, could do what I do. The answer was nobody. I didn't understand yet that I was asking the wrong question.
 
@@ -302,7 +302,7 @@ Then a woman came up with a boot. I recognized her: she'd brought me an umbrella
 
 She walked right past Ashot's booth and got in my line.
 
-"I heard," she said to me, over the head of a man with a knife, "you're doing heel tips now that don't wear down?"
+"I heard you do heel tips now," she said to me, over the head of a man with a knife. "The kind that don't wear down?"
 
 I'd never done anything of the kind. Not once. I didn't understand rubber: the same spaghetti as plastic. But somebody had evidently decided that if I could make a knife that didn't go dull, I could make a heel tip that didn't wear down. At the market, rumors travel faster than knowledge.
 
@@ -310,7 +310,7 @@ I looked across the aisle at Ashot.
 
 Ashot was sitting on his stool with a hammer in his hand, looking at the woman. Then he slowly turned his eyes to me.
 
-He didn't say a word. But I saw his face. And I understood that yesterday, while I was so happy about my line, I'd been taking the bread out of his mouth. Not on purpose. Not with my own hands. But I had.
+He didn't say a word. But I saw his face. And I understood that yesterday, while I was so happy about my line, I'd been taking the food off his table. Not on purpose. Not with my own hands. But I had.
 
 The woman with the boot was standing in my line.
 
