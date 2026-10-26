@@ -92,6 +92,7 @@ Output:
 | кот Шуруп | Lugnut the cat | steals shiny things |
 | мама Тимы | Tim's mom | calls from the country |
 | Семён Аркадьевич | Mr. Abrams (Sy Abrams) | owns Tim's booth (a row of booths) at the market; not to be confused with Arkady Semyonovich of ch. 5 |
+| Аркадий Семёнович | Professor Arkin | Tim's old crystallography professor ("Nagel, without structure there are no properties"); first appears ch. 2, recurs ch. 3–5 |
 
 ## Characters — book 2 (*Rule Six*)
 
@@ -131,7 +132,7 @@ Output:
 | Савельев, Кира | Savell, Kira | police officers |
 | Ремизов | Ray Remy | murdered rival pawnbroker |
 
-Book 1 places and recurring phrases: рынок Гранска → the Granton market; будка → the booth; «Ремонт всего» (sign) → "We Fix Everything"; мясные ряды → the meat aisle; тётка с семечками → the sunflower-seed lady; пирожок (с капустой/картошкой) → hand pie (cabbage/potato); считать столбиком → thinking "in a column"; квитанция (Tim's notes) → receipt; микрозайм → payday loan; гаечный ключ на двенадцать → half-inch wrench; левая резьба → left-hand thread.
+Book 1 places and recurring phrases: рынок Гранска → the Granton market; будка → the booth; «Ремонт всего» (sign) → "We Fix Everything"; мясные ряды → the meat aisle; тётка с семечками → the sunflower-seed lady; пирожок (с капустой/картошкой) → hand pie (cabbage/potato); считать столбиком → thinking "in a column"; квитанция (Tim's notes) → receipt; микрозайм → payday loan; гаечный ключ на двенадцать → half-inch wrench; левая резьба → left-hand thread; ложка «Общепит» → a CAFETERIA spoon (stamped on the handle); тетрадка «Испытания» → the "Trials" notebook; разница (купить vs сделать) → "the difference"; стояк → the riser (heating riser); батарея → radiator; аварийка → the emergency line; котельная → the boiler; седло крана → the (faucet) seat; кладовка-«приют» → the closet, "the shelter"; валенки (Zoya) → felt-lined boots; форточка → transom window.
 
 Street names (book 2): Театральная → Theater Street; Садовая → Garden Street; Литейная → Foundry Street; Горная → Ridge Street; Кирова → Kerr Street; Ленина → Lincoln Avenue; Строителей → Builders Avenue.
 
@@ -148,3 +149,4 @@ Businesses: «Белый лотос» → the White Orchid (salon); «Эстет
 ## Progress log
 
 - Book 1, ch. 1 «Минус сорок семь тысяч» → "Minus Forty-Seven Thousand" — done. Notes: «Не брать» → "Don't Answer"; «давайте синхронизируемся» → "let's circle back"; "pelmeni in broth is soup" → "Pierogi count as soup if you drink the water they were boiled in"; «сапожник без сапог» → "the cobbler's children go barefoot… I'm the cobbler's children of everything at once" (sets up Ashot the cobbler); набойка на зонт → a new tip on an umbrella; 5 kg → eleven pounds; 12 mm wrench → half-inch wrench; Semyon Arkadyevich → Mr. Abrams. Review: fixed debt wording, Ashot's 'half a bag', reshape wordplay (market/rebuild), calques; ok otherwise.
+- Book 1, ch. 2 «Всё, что под рукой» → "Everything at Hand" — done. Notes: «Общепит» stamp → CAFETERIA ("Cafeteria spoons outlive people"); "Chinese" kitchen scale → no-name (no countries); grams kept for the scale and the nutrition label (220 cal/100 g × 800 g = 1,760 calories); Tim's notes numbered "One:/Two:" as in ch. 1; «Девятое: болт» (screw→bolt pun on Шуруп) → "Nine: the nut." (Lugnut/nut); Shurup's name-joke («ввинчивается… вывинтить невозможно») → wedges himself in like a seized lug nut, "can't get him out without a breaker bar and a lot of swearing"; «шаманство» → "a rain dance"; Arkady Semyonovich → Professor Arkin; «Гвоздев» in his line → "Nagel"; the source's early, unexplained «насос без крана» in the frost paragraph smoothed to "Something was pulling heat… like a pump with no shutoff valve" and the radiator-heat paragraph lightly reordered for logic (no content cut); only unit change: «в каждом сантиметре» → "every inch". Review: pending.
