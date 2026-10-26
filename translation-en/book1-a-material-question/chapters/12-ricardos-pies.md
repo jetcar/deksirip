@@ -20,9 +20,9 @@ I opened up. Mrs. Mazur was standing on the landing. She had a pot covered with 
 
 "Timothy," said Mrs. Mazur. "You have company."
 
-"This is Val. She… we're working on something."
+"This is Val. She… we're doing chemistry."
 
-"Working on something," Mrs. Mazur repeated, in the tone of a woman who had been alive for seventy-one years and knew exactly what people work on in a kitchen at eight o'clock at night. She handed me the pot. "Cabbage. And egg. I baked enough for two. I had a feeling."
+"Chemistry," Mrs. Mazur repeated, in the tone of a woman who had been alive for seventy-one years and knew all about chemistry in a kitchen at eight o'clock at night. She handed me the pot. "Cabbage. And egg. I baked enough for two. I had a feeling."
 
 "You couldn't have known."
 
@@ -42,7 +42,7 @@ Mrs. Mazur looked at the hand. Then at Val. Then at the purple stains on her fin
 
 "I eat," I said.
 
-"He eats pierogi," Mrs. Mazur told Val, as if I weren't there. "Pierogi aren't food. They're despair."
+"He eats pierogi," Mrs. Mazur told Val, as if I weren't there. "Frozen pierogi aren't food. They're despair."
 
 Val laughed. Mrs. Mazur gave her a careful look, then nodded her approval, the way cooks nod when the dough has risen just right, and said:
 
@@ -88,7 +88,7 @@ I stopped baking when my father died and Mom moved in with Aunt Wanda. Baking fo
 
 "Let's test it," said Val. Her eyes had the same fire in them as the day she'd cracked my copper sulfate secret. "Mrs. Mazur, do you have any dough at home?"
 
-"I always have dough," Mrs. Mazur said with dignity. "I don't live on pierogi."
+"I always have dough," Mrs. Mazur said with dignity. "I don't live on frozen pierogi."
 
 ---
 
@@ -100,15 +100,15 @@ Mrs. Mazur rolled up the sleeves of her bathrobe. I took off the thimble and was
 
 "On the windowsill," said Val. "Where I can see it."
 
-I put it on the windowsill. That was only fair: without it. Just hands.
+I put it on the windowsill. Which was fair. No thimble. Just hands.
 
 "Go," said Val, and started the timer.
 
 Mrs. Mazur shaped hand pies the way she'd been shaping them for fifty years: fast, even, without looking, talking to Val the whole time about how young people nowadays don't eat anything. I shaped them the way I had ten years ago: also fast, also even, but in silence and in a sweat. My hands were remembering. Slowly at first, then faster.
 
-"Your crimp's too fine," Mrs. Mazur said without turning her head. "Like a seamstress. It's a hand pie, not a dress."
+"You crimp like a seamstress," Mrs. Mazur said without turning her head. "Too fine. It's a hand pie, not a dress."
 
-"Twenty-seven minutes," said Val. "The test subject is on number six. The test subject is sweating."
+"Twenty-seven minutes in," said Val. "The test subject is on number six. The test subject is sweating."
 
 Around the eighth pie I caught my fingers reaching for the windowsill on their own, to ask the dough to be a little more cooperative. I pulled my hand back. I understood dough even worse than I understood wood, and if it had listened to me, Mrs. Mazur would have spent a week chipping charcoal off her sheet pan.
 
@@ -136,11 +136,11 @@ Mrs. Mazur looked at my fourteen as if I'd just taken her own dough and made a k
 
 I was beaming. I don't think I'd ever been that proud of a single repair in my whole life.
 
-"Great," said Val. "So Tim bakes better than Mrs. Mazur."
+"Great," said Val. "So Timothy bakes better than Mrs. Mazur."
 
-"Faster," Mrs. Mazur corrected her, wounded. "Not better. Faster."
+"Faster," Mrs. Mazur corrected her, stung. "Not better. Faster."
 
-"Fine. Faster," Val agreed. "And Tim's faster at fixing things too, right? Mrs. Mazur, can you fix an iron?"
+"Fine. Faster," Val agreed. "And Timothy's faster at fixing things too, right? Mrs. Mazur, can you fix an iron?"
 
 "I can," said Mrs. Mazur. "I take it to Timothy."
 
@@ -150,7 +150,7 @@ Mrs. Mazur thought about it.
 
 "I could change a fuse. If somebody showed me. In an hour."
 
-"Okay," said Val, and wrote something down. "So Tim bakes faster and fixes faster. He's better at everything. Right?"
+"Okay," said Val, and wrote something down. "So Timothy bakes faster and fixes faster. He's better at everything. Right?"
 
 "Right," I said.
 
@@ -184,15 +184,15 @@ I didn't say anything.
 
 "Half a bag."
 
-"So each of her hand pies costs her less than a twentieth of a bag. Yours cost you a third. You're the faster baker, but her pie costs her six times less than yours costs you."
+"So each of her hand pies costs her less than a twentieth of a bag. Yours cost you a third. You're the faster baker, but her pie costs her about a sixth of what yours costs you."
 
-"I wouldn't change any fuse anyway," Mrs. Mazur snorted. "I've got my show on. I'm watching it for the third time."
+"I wouldn't be changing any fuses anyway," Mrs. Mazur snorted. "My show's on. I'm on my third time through it."
 
 "All the more reason," said Val.
 
 She set her pencil down on the table.
 
-"It's called 'comparative advantage,'" she said. "An economist named Ricardo came up with it two hundred years ago, with wine and cloth. We had to take economics sophomore year. I passed and forgot everything except this, because it was the only thing in the whole course that looked like a law of nature instead of an opinion. It doesn't matter who's better at everything. What matters is what costs whom less. You fix, she bakes, you trade, and you both end up with more than if each of you did everything yourselves."
+"It's called 'comparative advantage,'" she said. "An economist named Ricardo came up with it two hundred years ago, using wine and cloth as his example. We had to take economics sophomore year. I passed and forgot everything except this, because it was the only thing in the whole course that looked like a law of nature instead of an opinion. It doesn't matter who's better at everything. What matters is who it costs less. You fix, she bakes, you trade, and you both end up with more than if each of you did everything yourselves."
 
 "Ricardo's pies," I said.
 
@@ -216,7 +216,7 @@ Only here's what was strange. If that was true, why was there so little of it? W
 
 "I don't know. Probably not."
 
-"There you go. So if Judy's iron breaks, she'll go to the store and buy a new one. And a neighbor could be taking your blood pressure. Instead, you'll go to the clinic and sit in the waiting room for three hours."
+"There you go. So if Judy's iron breaks, she'll go to the store and buy a new one. And a neighbor could take your blood pressure, but instead you'll go to the clinic and sit in the waiting room for three hours."
 
 "I don't need my blood pressure taken."
 
@@ -272,7 +272,7 @@ How many hand pies is an iron? We argued about it for ten minutes. Mrs. Mazur sa
 
 "Twenty-five!" said Mrs. Mazur. "That's over two hours of shaping for me."
 
-"And two minutes of fixing for me," I said.
+"And it took me two minutes to fix," I said.
 
 "And it pays off for both of you," said Val. "There's your Ricardo. But here's the problem: for Mrs. Mazur the iron is twenty-five hand pies, and for you it's two minutes. So what's my hour of chemistry worth?"
 
@@ -296,7 +296,7 @@ Mrs. Mazur thought about it. Then she said, very reluctantly, the way people say
 
 "Pete Palmer. He was an accountant at the plant. Numbers, he really does know: who owes whom how much, going back to the nineties. It's everything else he knows wrong."
 
-"But you two aren't speaking."
+"But you two are on the outs."
 
 "So we'll make up," said Mrs. Mazur. "If he's the one keeping the notebook, he can't go around saying I owe him. It'll be right there in writing."
 
@@ -310,7 +310,7 @@ Val looked at her with admiration.
 
 In the morning, before the market, I called Mikey. Mikey knew how to set up group chats. Fifteen minutes later we had a group. Mikey named it "Stairwell Three Exchange." I suggested just "The Exchange," without the stairwell, because maybe someday…
 
-"Tim," said Mikey. "Let's do the stairwell first."
+"Tim," said Mikey. "Let's start with the stairwell."
 
 He was right.
 
@@ -354,7 +354,7 @@ I bake faster than Mrs. Mazur. But baking costs me more. So she's the one who sh
 
 It was like that first night, when I figured out that bending is cheap and breaking is expensive. Only it wasn't about steel. It was about people.
 
-I wrote: "Not who does it better. Who it costs less." And underlined it.
+I wrote: "Not who's better at it. Who it costs less." And underlined it.
 
 Then I thought for a while and added at the bottom of the page:
 
