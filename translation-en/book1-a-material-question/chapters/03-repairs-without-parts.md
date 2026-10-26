@@ -4,11 +4,11 @@ For breakfast I ate eight of Mrs. Mazur's hand pies, three sandwiches, a can of 
 
 That was the first problem of the day. The second was waiting for me on the stairs.
 
-On my way down, out of habit, I ran my hand along the railing. Ours is iron, welded together out of angle stock back when the building went up, and painted maybe fifteen times since, in layers, like a cake. The thimble was on my finger. I'd put it on back in the apartment, I'm not sure why. I guess it's like a wedding ring in the first few days: you're scared to take it off in case you lose it, and you're not used to wearing it.
+On my way down, out of habit, I ran my hand along the railing. Ours is iron, welded together out of angle iron back when the building went up, and painted maybe fifteen times since, in layers, like a cake. The thimble was on my finger. I'd put it on back in the apartment, I'm not sure why. I guess it's like a wedding ring in the first few days: you're scared to take it off in case you lose it, and you're not used to wearing it.
 
 Through the railing I could feel the stairs, and off to one side, in the wall, very close, the water riser. The same one, with the thin spot on the second floor.
 
-I stopped on the second-floor landing. This was where Old Pete lived: Pete Palmer, a retiree who knew the truth about everything except what was actually going on. His door was padded with cracked leatherette and decorated with a sign: "DON'T RING. I KNOW."
+I stopped on the second-floor landing. This was where Old Pete lived: Pete Palmer, a retiree who knew the truth about everything except what was actually going on. His door was padded with leatherette and decorated with a sign: "DON'T RING. I KNOW."
 
 The riser ran right behind that door, through his bathroom. I put my palm flat against the wall where I could sense the pipe, and through the brick I felt the thin spot. Rust had eaten almost all the way through the steel; what was left was a crust as thick as an eggshell. In a year, maybe two, it would burst (at night, most likely, and in winter, most likely), and the water would go down to the first floor, into the basement, into the wiring.
 
@@ -40,17 +40,17 @@ I didn't have an answer. I put the notebook in my pocket and went to the market.
 
 The market greeted me the usual way: the sunflower-seed lady nodded. Everything was the same as always, except me. And that, it turned out, showed.
 
-"You didn't get enough sleep," Ashot said from across the aisle.
+"You look like you didn't sleep," Ashot said from across the aisle.
 
 "I didn't sleep at all."
 
-"Ah," said Ashot, understandingly. "A woman?"
+"Ah," Ashot said knowingly. "A woman?"
 
 "A radiator."
 
 Ashot looked at me with pity, the way you'd look at a man who spends his nights with a radiator, and went back to his shoe.
 
-I sat down behind my counter and started thinking about how to work.
+I sat down behind my counter and started figuring out how I was going to work now.
 
 It wasn't as simple a question as it seemed. Last night I'd realized I could fix metal almost instantly. A wrench, a handle, a faucet: each of those would take a minute. But if somebody brings me a watch, and I take it, touch it with my finger and hand it back working ten seconds later, then, first of all, he won't believe I did anything, and second of all, he'll tell the whole market. In a week, people from TV would show up. In two weeks, people who weren't from TV, but had very serious faces.
 
@@ -84,7 +84,7 @@ She paid and left. I watched her go and realized that for five seconds of work I
 
 But right away I thought that I used to care. It used to be that my twenty minutes set the price, and my ribs out of the dumpster, and my soldering iron. Now the only thing setting the price was what the umbrella was worth to the person. And if I honestly charged for my time, the umbrella would cost pennies. But if I charged for the result…
 
-I wrote: "Price for what? For the time, or for the thing working?" I thought about it and added: "If for time, I go broke. If for the result, am I robbing people?"
+On the back of a receipt I wrote: "Price for what? For the time, or for the thing working?" I thought about it and added: "If for time, I go broke. If for the result, am I robbing people?"
 
 Again, no answer. The notebook was slowly turning into a collection of questions without answers, like an exam I'd flunked once, long ago.
 
@@ -92,7 +92,7 @@ Again, no answer. The notebook was slowly turning into a collection of questions
 
 By eleven I'd finished nine jobs. Usually by eleven I've done three.
 
-A watch with a cracked balance staff: half a minute, and then another five minutes pretending to poke at it with tweezers. Mrs. Mazur's iron: she brought it in a string bag along with another pot of hand pies. The heating element had burned out, and I joined the break while holding the iron in my fist, pretending to check the cord with a multimeter. A frying pan whose handle had fallen off. Two jacket zippers. A garage padlock with a snapped spring. That one I had to work at: the spring was hardened, stiff, and while I was knitting it back together, my hand got so hot I nearly dropped the whole thing on the floor.
+A watch with a cracked balance staff: half a minute, and then another five minutes pretending to poke at it with tweezers. Mrs. Mazur's iron: she brought it in a string bag along with another pot of hand pies. The heating element had burned out, and I joined the break, holding it in my fist while I pretended to check the cord with a multimeter. A frying pan whose handle had fallen off. Two jacket zippers. A garage padlock with a snapped spring. That one I had to work at: the spring was hardened, stiff, and while I was knitting it back together, my hand got so hot I nearly dropped the whole thing on the floor.
 
 The hunger was building. I ate Mrs. Mazur's hand pies, then went and got a fried meat pie from the stand by the gate. Then a second one.
 
@@ -114,7 +114,7 @@ I did some quick math, and for once college actually came in handy. A calorie is
 
 I wrote: "Heat from the thermos! Cheaper than food. Get more thermoses." And underlined it.
 
-Then I looked over at the next counter, where Ashot kept an electric kettle, and thought that an electric kettle was basically a bottomless thermos, as long as you stood next to an outlet.
+Then I looked across the aisle at Ashot's counter, where he kept an electric kettle, and thought that an electric kettle was basically a bottomless thermos, as long as you stood next to an outlet.
 
 But I set that thought aside. There was one outlet in my booth, it belonged to Mr. Abrams, and it ran through a meter that Mr. Abrams checked personally and with suspicion. Energy, as it turns out, always belongs to somebody.
 
@@ -162,25 +162,25 @@ After lunch, Mikey came by.
 
 Mikey Kravitz lives in my building, on the third floor, right under my apartment. He's fifteen, skinny as a screwdriver, wears a hoodie with the hood up in any weather, and talks in that special tone teenagers use with grown-ups when they're sure ahead of time that grown-ups don't understand anything. Usually they're right.
 
-Mikey put a phone on the counter. The screen was cracked into a web: the classic spiderweb you get when it lands on a corner.
+Mikey put a phone on the counter. The screen was cracked into a web: the classic pattern you get when it lands on a corner.
 
 "Hey, Tim," he said. "How much?"
 
 "To replace the screen?"
 
-"Yeah. Only I don't have money. I have this much."
+"Yeah. But I don't have money. I've got this much."
 
-He named a sum. It was about a third of what a new screen cost, and that was the cheapest kind, the knockoff that starts showing everything in green after a month.
+He named a sum. It was about a third of what a new screen cost, and that's for the cheapest kind, the knockoff that starts showing everything in green after a month.
 
 I looked at the phone. Then at Mikey. Mikey was looking off to the side with the expression of a person who isn't asking for anything but is really hoping.
 
-Here's what I thought. A screen is glass. I understood glass better than wood, but worse than metal. Glass is sand, silicon and oxygen, melted together so fast that the atoms didn't have time to line up into a lattice and froze in a jumble, like a crowd at a bus stop. Professor Arkin told us about it in his second lecture, and that was the only lecture I remembered, because he brought a bottle to it and smashed it on the lectern. "There," he said, looking at the pieces. "An amorphous solid. A liquid that forgot how to flow."
+Here's what I thought. A screen is glass. I understood glass better than wood, but worse than metal. Glass is sand (silicon and oxygen) melted so fast that the atoms didn't have time to line up into a lattice and froze in a jumble, like a crowd at a bus stop. Professor Arkin told us about it in his second lecture, and that was the only lecture I remembered, because he brought a bottle to it and smashed it on the lectern. "There," he said, looking at the pieces. "An amorphous solid. A liquid that forgot how to flow."
 
 If glass is a liquid that forgot how to flow, then maybe you could remind it. Just a little. Just along the cracks.
 
 "Leave it," I said. "Come back in an hour."
 
-Mikey left. I laid the phone on the counter screen-up, covered it with my palm and put on the thimble.
+Mikey left. I laid the phone on the counter screen-up, covered it with my palm and turned the thimble on my finger.
 
 Glass was strange. Nothing like metal. Metal felt like an even brick wall, and glass felt like sand that had suddenly frozen in mid-motion. The cracks in it stood out clearly, like rips in fabric. I asked them to close. Carefully. The edges reached toward each other, reluctantly, slowly, as if the glass really were remembering that it used to be liquid. It took about three minutes and a lot of effort. I could feel the thermos under my left hand going cold.
 
@@ -222,7 +222,7 @@ That's when I realized that in my zeal I'd fused the screen protector and the sc
 
 Mikey gave me the look teenagers give grown-ups when they realize the grown-ups are lying to them and decide not to say so out loud. For now.
 
-"Thanks," he said, and paid me the third he had.
+"Thanks," he said, and paid me what he had, the whole third.
 
 "That's too much," I said. "Keep half."
 
@@ -254,11 +254,11 @@ I figured out what had happened, though not right away. Plastic had gone the way
 
 Mikey raised his eyebrows. Apparently he hadn't expected a grown-up to admit it was his fault. To be honest, it surprised me too.
 
-I dug into the drawer where I kept parts from the phones I'd taken apart from the shelter and found a latch that looked about right. A real one, from the factory. I put it in with my hands and tweezers, honestly. It took ten minutes. The phone turned on.
+I dug into the drawer of parts I'd salvaged from dead phones in the shelter and found a latch that looked about right. A real one, from the factory. I put it in with my hands and tweezers, honestly. It took ten minutes. The phone turned on.
 
 Then I gave Mikey all his money back.
 
-"That's for it breaking," I said. "Repairs are guaranteed. Doesn't work, money back."
+"That's for the breakdown," I said. "Repairs are guaranteed. Doesn't work, money back."
 
 Mikey looked at the money, then at me.
 
@@ -288,21 +288,21 @@ Take for the day: eleven bags. Minus the money I'd given back to Mikey: ten and 
 
 Spent on food: two and a half bags. Mrs. Mazur's hand pies were free, except I still owed her for the iron, or rather, she didn't owe me, I owed her something for the hand pies, or the other way around; I'd completely lost track of who owed whom what. The meat pies. The sardines. It was a lot. But the take was bigger.
 
-If this kept up until Friday, I'd have… I counted on my fingers and stopped smiling. Net for the day came to eight bags. Two more days until Friday. Twenty-four bags, and that's if I didn't eat. I'd still be fifty-six short of eighty. A whole freezer full of pierogi.
+If this kept up until Friday, I'd have… I counted on my fingers and stopped smiling. Net for the day came to eight bags. Counting today and the two days left until Friday: twenty-four bags, and that's if I didn't eat any more than today. I'd still be fifty-six short of eighty. A whole freezer full of pierogi.
 
 But twenty-four isn't zero. And with Bull, I'd learned over the years, a conversation with something in your hand and a conversation with empty hands are two different conversations.
 
-Even so, the idea broke down in three more places.
+Even so, the plan had three more cracks in it.
 
 One: Ashot. Today I'd done nine jobs before lunch and another ten after. Nineteen jobs in a day. Some of them were people who used to go to Ashot, or to the repair shop around the corner, or would have just thrown the broken thing out and bought a new one. If I worked like this every day, in a month Ashot wouldn't have any customers left. Neither would the shop around the corner. I wasn't taking anything from them by force, but if people stopped coming to them, it would amount to the same thing.
 
 Two: suspicions. Ashot, Mikey, Mrs. Stern. Three people in two days. If it kept up, in a week the whole market would know there was something off about Tim from We Fix Everything. And somebody would definitely want to find out exactly what.
 
-Three: plastic. And wood. And everything I didn't understand. Today had shown that when I take on something I don't know, I leave it worse than I found it. Mikey could have gotten mad and gone around telling everyone that Tim takes your money and breaks your phone. Good thing he didn't. But next time it might not be Mikey; it might be somebody else. Somebody who won't say "Nobody values what's free," but will say, "Give me my money back, and something for pain and suffering."
+Three: plastic. And wood. And everything I didn't understand. Today had shown that when I take on something I don't know, I leave it worse than I found it. Mikey could have gotten mad and gone around telling everyone that Tim takes your money and breaks your phone. Good thing he didn't. But next time it might not be Mikey; it might be somebody else. Somebody who wouldn't say "Nobody values what's free," but would say, "Give me my money back, and something for pain and suffering."
 
 I wrote in the notebook:
 
-"One: you can make a lot of money. But only on what I understand. Metal: yes. Glass: yes, but hard. Plastic: no. Electronics: only by hand, the old way.
+"One: I can make a lot of money. But only off what I understand. Metal: yes. Glass: yes, but hard. Plastic: no. Electronics: only by hand, the old way.
 
 Two: heat from the thermos is cheaper than food. Carry thermoses.
 
@@ -332,7 +332,7 @@ Let it squeal. If it suddenly stopped squealing, Ashot would be the first to kno
 
 On the way home I bought two more bags of pierogi, ate both at home without even taking my jacket off, and fell asleep like that. Before I drifted off, I thought that tomorrow I needed to buy two more thermoses. And also figure out what to do about Ashot.
 
-And also that, for the first time in years, it seemed, I was a little less afraid of Friday.
+And also that, for the first time in years, I seemed to be a little less afraid of Friday.
 
 It was a strange feeling. I lay in the dark trying to decide whether I liked it or not.
 
