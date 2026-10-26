@@ -84,7 +84,7 @@ I didn't want to move out. My booth sits in a good spot, between the entrance an
 
 "Twenty," I repeated.
 
-"Starting on the first."
+"Starting the first."
 
 He left. I redid the column. What was left for the debt came to three and a half bags a week. Exactly the amount leaking out of the bucket.
 
