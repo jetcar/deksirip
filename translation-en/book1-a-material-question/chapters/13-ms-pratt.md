@@ -2,7 +2,7 @@
 
 At ten o'clock on Friday morning a woman came up to my booth in a gray coat, carrying a gray folder and wearing glasses that immediately fogged up.
 
-That was the first thing I learned about her: her glasses fog up. It was cold outside, October was almost over, and in my booth the soldering iron had been heating since morning and three thermoses of boiling water stood on the counter like coffee urns at a church supper. The woman stepped into the warmth, and her glasses went white. She took them off, wiped them with a handkerchief and put them back on. They fogged up again. She took them off again and looked at me without them: squinting, closely, the way you look at a document you suspect has an error in it.
+That was the first thing I learned about her: her glasses fog up. It was cold outside, October was almost over, and in my booth the soldering iron had been heating since morning and three thermoses of boiling water stood on the counter like coffee urns at a church supper. The woman stepped into the warmth, and her glasses went white. She took them off, wiped them with a handkerchief and put them back on. They fogged up again. She took them off again and looked at me without them: squinting, intently, the way you look at a document you suspect has an error in it.
 
 "Nagel, Timothy?" she asked.
 
@@ -32,7 +32,7 @@ Somebody had read it and filed a complaint.
 
 I didn't know who. Maybe the repair shop around the corner, whose customers I'd taken. Maybe one of my neighbors in the row of booths, out of envy. Maybe Lenny Kurgan: he had his reasons not to like me. Or maybe just somebody who didn't like the line. There are people like that: they see a line, they file a complaint.
 
-"Do you have registration documents?" asked Ms. Pratt.
+"Are you registered? Do you have a business license?" asked Ms. Pratt.
 
 "No," I said honestly.
 
@@ -40,7 +40,7 @@ I didn't know who. Maybe the repair shop around the corner, whose customers I'd 
 
 "No."
 
-"A record of income and expenses?"
+"Do you keep books? A record of income and expenses?"
 
 "Yes," I said, and reached under the counter.
 
@@ -72,7 +72,7 @@ Ms. Pratt slowly raised her head.
 
 "It's philosophy."
 
-"Philosophy," Ms. Pratt repeated. She put the receipts back on the counter, carefully, in a stack, squaring the edges. "Mr. Nagel. Over the past week, if I'm reading your records correctly, you earned roughly three or four times as much as in any week before that. Is that so?"
+"Philosophy," Ms. Pratt repeated. She put the receipts back on the counter, carefully, in a stack, squaring the edges. "Mr. Nagel. Over the past week, if I'm reading your records correctly, you earned roughly three or four times as much as in any week before that. Is that correct?"
 
 "Roughly."
 
@@ -80,7 +80,7 @@ Ms. Pratt slowly raised her head.
 
 "No taxes," I agreed. There was no point lying to her. She had the face of someone who'd heard every explanation in the world and hadn't believed a single one.
 
-"That's called unlicensed commercial activity," said Ms. Pratt. "A fine. Back taxes for the entire period. And if the amounts are large, a different agency."
+"That's called unlicensed commercial activity," said Ms. Pratt. "A fine. Back taxes for the entire period. And if the amounts are significant, a referral to a different agency."
 
 The line behind her stopped exchanging looks and froze.
 
@@ -104,7 +104,7 @@ Ms. Pratt turned around.
 
 "What association?"
 
-"The Exchange," said Old Pete with dignity, as if it were the name of a major corporation. "Of Stairwell Number Three, 17 Factory Street. Mr. Nagel is a member. Here are the books."
+"The Exchange," said Old Pete with dignity, as if it were the name of a major corporation. "The Stairwell Three Exchange. 17 Factory Street. Mr. Nagel is a member. Here are the books."
 
 He set his ledger on my counter, on top of the receipts, and opened it to the first page.
 
@@ -180,7 +180,7 @@ In the line, between a butcher from the next aisle over and a woman with a meat 
 
 In her other hand she was holding a broken watch bracelet. Metal, thin, with an openwork clasp.
 
-"Sorry to butt in," she said to Ms. Pratt. "I'm an attorney. Goldie."
+"Excuse me for interrupting," she said to Ms. Pratt. "I'm an attorney. Goldie."
 
 She didn't give a last name. At the time I didn't pay any attention to that.
 
@@ -188,7 +188,7 @@ She didn't give a last name. At the time I didn't pay any attention to that.
 
 Ms. Pratt looked at Goldie with the expression of someone who has just had her own job explained to her, very politely.
 
-"I do know," she said. "Only it isn't an 'amended statement,' it's a return for the prior period. Under the standard rules, not the new ones: the rate's different. And it only counts in mitigation if he comes in on his own before I write up my report."
+"I do know," she said. "Only it isn't an 'amended statement,' it's a return for the prior period. Under the standard rules, not the new ones: the rate's different. And it only counts as a mitigating factor if he comes in on his own before I issue my report."
 
 "You're right," said Goldie, not the least bit embarrassed. And I realized the two of them were playing some kind of game at my booth, and I was the board.
 
@@ -196,7 +196,7 @@ Ms. Pratt looked at Goldie with the expression of someone who has just had her o
 
 ---
 
-Twelve minutes later I was self-employed. My payday loan had also come through in twelve minutes, once. That had gone just as fast, and a lot worse.
+Twelve minutes later I was self-employed. My payday loan had come through in twelve minutes too, back then. Just as fast, and a lot more expensive.
 
 Goldie did everything herself. She took my phone (old, with a screen I'd replaced myself at some point), downloaded the app, typed in my information from my driver's license, took a picture of me right there in front of the booth, pressed some buttons and handed the phone back.
 
@@ -208,7 +208,7 @@ Goldie did everything herself. She took my phone (old, with a screen I'd replace
 
 Ms. Pratt stood beside her with her lips pressed together.
 
-"I'm a woman of principle," she confirmed. "But reasonable. Mr. Nagel, you have one week. In one week I expect your return. If everything's honest, the fine will be minimal. If not…"
+"I'm a woman of principle," she confirmed. "But reasonable. Mr. Nagel, you have one week. I'll expect your return by next Friday. If everything's honest, the fine will be minimal. If not…"
 
 "It'll be honest," I said.
 
@@ -230,7 +230,7 @@ She gave me a suspicious look.
 
 "No," I said. "It's…" I thought about it. "It's on the house. Through the app. I'll ring it up for zero right now."
 
-Goldie laughed. Briefly, unexpectedly, as if she hadn't expected to laugh herself.
+Goldie laughed. Briefly, as if it had caught her by surprise too.
 
 Ms. Pratt looked at me for a long time. Then she took off her glasses and set them on the counter.
 
@@ -248,7 +248,7 @@ I didn't have a coating. But I did have glass. And I knew glass was a liquid tha
 
 I put on the thimble, touched the lens and asked its surface (only the very surface, to a depth no eye could ever see) to become ever so slightly uneven. Not rough: that would have made the glasses cloudy. Covered instead with tiny, even, identical dimples, smaller than a wavelength of light. That was in *Crystal Physics*, in a chapter I'd read because of a picture of a moth's eye. The eye can't see dimples that small, but water can, and it spreads through them like water through a sponge.
 
-It was hard. Glass remembered grudgingly, as always. I held a picture in my head: a smooth field, and on it tiny, tiny pits, like the marks raindrops leave in sand, only shrunk ten thousand times over. The thermos under my left hand went cold. I ate a hand pie from the pot Mrs. Mazur had sent over with Mikey that morning. Then I did the second lens.
+It was hard. Glass remembered grudgingly, as always. I held a picture in my head: a smooth field, and on it tiny, tiny pits, like the marks raindrops leave in sand, only shrunk a hundred thousand times over. The thermos under my left hand went cold. I ate a hand pie from the pot Mrs. Mazur had sent over with Mikey that morning. Then I did the second lens.
 
 Ten minutes or so. Two thermoses. Two hand pies.
 
@@ -274,11 +274,11 @@ Ms. Pratt looked at the two of us over the top of her glasses. It was the look o
 
 "I'll look into it," she said. "Whether that technology is in the registry."
 
-She paid. Half a bag. I rang up the receipt (the first of my life), the app beeped, and somewhere deep in the bowels of the government my half a bag split into mine and not mine.
+She paid. Half a bag. I rang up the receipt (my first ever), the app beeped, and somewhere deep in the bowels of the government my half a bag split into mine and not mine.
 
 Ms. Pratt took her receipt, folded it in four and put it in her folder.
 
-"Good day, Mr. Nagel," she said. "One week."
+"Good morning, Mr. Nagel," she said. "One week."
 
 And she left.
 
@@ -346,7 +346,7 @@ I looked at the card. "GOLDIE. Business Legal Services." That was all.
 
 "An attorney," I repeated. "It says so right here."
 
-"It says what she does," said Ashot. "Not whose she is. No last name. When a person in a coat like that doesn't put her last name on the card, it means her last name is known at our market."
+"It says what she does," said Ashot. "Not whose she is. No last name. When a person in a coat like that doesn't put her last name on the card, it means everybody at our market already knows her last name."
 
 I looked in the direction Goldie had gone. She was already out of sight.
 
@@ -362,7 +362,7 @@ Not bags. Taxes.
 
 It was a strange feeling: for the first time in my life, figuring out how much I owed not to Bull, not to Ashot, not to Mrs. Mazur, but to the government. The government isn't a person. You can't feed it hand pies, and you can't talk it into waiting a month by fixing its valve. All it wants is money. Only money.
 
-Naturally I didn't have twelve years of receipts: I'd always lost them. The only ones that survived were the ones with thoughts on the back. I worked out the earlier years from my old column, thirty bags a week, converted the bags into money and multiplied by the rate. Ms. Pratt had said the rate for the past would be different, a little higher. It came out to more than I'd hoped, but less than I'd feared.
+Naturally I didn't have twelve years of receipts: I'd always lost them. The only ones that survived were the ones with thoughts on the back. I worked out the earlier years from my old math in a column: thirty bags a week. I converted the bags into money and multiplied by the rate. Ms. Pratt had said the rate for the past would be different, a little higher. It came out to more than I'd hoped, but less than I'd feared.
 
 And then a thought came to me.
 
@@ -370,7 +370,7 @@ The Exchange works on the inside. Inside the stairwell, inside the market, betwe
 
 Then there's the outside. The rent Mr. Abrams collects. The debt Bull collects. The tax Ms. Pratt collects. The electricity the meter counts. That's the outside world. It doesn't know Mrs. Mazur and doesn't eat her hand pies. It only takes money.
 
-And come to think of it, it doesn't just take. Taxes pay for the clinic, where Judy takes people's blood pressure for a paycheck, not for hand pies. Taxes patch the road Bull drives his old blue sedan on. Taxes keep the Poly going, and the library, where Mrs. Nicholls lends out books for nothing. Meanwhile the blood pressure pills Judy recommends are sold at the pharmacy, and the pharmacy doesn't take hand pies: the pharmacist doesn't know Mrs. Mazur. The outside world is an exchange too. Just a very big one. Everybody there is a stranger to everybody else, so its measure isn't a hand pie. It's money.
+And come to think of it, it doesn't just take. Taxes pay for the clinic, where Judy takes people's blood pressure for a paycheck, not for hand pies. Taxes patch the road Bull drives his old blue sedan on. Taxes keep the Poly going, and the library, where Mrs. Nicholls lends out books for nothing. And the blood pressure pills Judy recommends are sold at the pharmacy, and the pharmacy doesn't take hand pies: the pharmacist doesn't know Mrs. Mazur. The outside world is an exchange too. Just a very big one. Everybody there is a stranger to everybody else, so its measure isn't a hand pie. It's money.
 
 I wrote in my notebook: "Inside: hand pies. Outside: money. Money is for people you don't know personally."
 
