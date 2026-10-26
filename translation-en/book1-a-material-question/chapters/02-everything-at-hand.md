@@ -2,11 +2,11 @@
 
 I live on the fourth floor of a five-story walk-up that has everything an old building is supposed to have: a peeling stairwell, mailboxes with the little doors pried off, and a smell that can't be described but that you could recognize with your eyes closed anywhere on earth. It's the smell of cats, cabbage and other people's memories.
 
-My apartment is a one-bedroom, and I rent it. The landlady lives in another town and communicates with me exclusively through bank transfers. Once a month I send her money, and she sends back a smiley face. In three years, it's the most stable relationship of my life.
+My apartment is one room plus a kitchen, and I rent it. The landlady lives in another town and communicates with me exclusively through bank transfers. Once a month I send her money, and she sends back a smiley face. In three years, it's the most stable relationship of my life.
 
-My door doesn't shut. Or rather, it shuts if you throw your shoulder into it, but then it won't open, and if you don't throw your shoulder into it, it stands ajar, as if it has opinions of its own. I wedge a chair under the knob. The chair wobbles too. It's not an apartment, it's a museum of decisions put off until later.
+My door doesn't shut. Or rather, it shuts if you throw your shoulder into it, but then it won't open, and if you don't throw your shoulder into it, it stands ajar, as if it has opinions of its own. I wedge a chair under the knob. The chair wobbles too. It's not an apartment, it's a museum of postponed decisions.
 
-That evening I set the bag with Mrs. Stern's lamp on the windowsill, put three bags of pierogi in the freezer, wedged the chair under the door and sat down on the couch.
+That evening I set the shopping bag with Mrs. Stern's lamp on the windowsill, put three bags of pierogi in the freezer, wedged the chair under the door and sat down on the couch.
 
 The thimble was in my shirt pocket. I could feel it through the fabric: warm, heavy, patient.
 
@@ -26,17 +26,17 @@ The first question to test was a simple one: where does the material come from?
 
 That afternoon I'd bent the wrench, and the wrench had stayed a wrench. It hadn't grown, and it hadn't shrunk. But I'd judged that by eye. And the eye is a bad instrument. It sees what it wants to see.
 
-I put a teaspoon on the scale. An ordinary stainless steel one, with CAFETERIA stamped on the handle. Cafeteria spoons outlive people.
+I put a teaspoon on the scale. An ordinary stainless-steel one, with CAFETERIA stamped on the handle. Cafeteria spoons outlive people.
 
 Twenty-four grams.
 
 I put on the thimble.
 
-The world took its step, and right away things got crowded: I could feel everything. The scale: plastic, thin wires, a little circuit board with beads of solder. The table: particleboard, sawdust pressed together with glue, nasty to the touch, like chewing paper. The spoon: dense, orderly, with a strict lattice in which iron, chromium and nickel were mixed together like raisins in a bun.
+The world stepped, and right away things got crowded: I could feel everything. The scale: plastic, thin wires, a little circuit board with beads of solder. The table: particleboard, sawdust pressed together with glue, nasty to the touch, like chewing paper. The spoon: dense, orderly, with a strict lattice in which iron, chromium and nickel were mixed together like raisins in a bun.
 
 I took the spoon in my hand and thought that I wanted to make it flat. Not a spoon, a plate.
 
-The steel gave. Slowly, stickily. I had to hold the thought the way you hold a heavy grocery bag: the moment I let up, the movement stopped. Half a minute later a flat steel plate with a handle was lying in my palm. Warm. Almost hot.
+The steel gave. Slowly, like taffy. I had to hold the thought the way you hold a heavy grocery bag: the moment I let up, the movement stopped. Half a minute later a flat steel plate with a handle was lying in my palm. Warm. Almost hot.
 
 I put it on the scale.
 
@@ -106,7 +106,7 @@ I tried. The brass didn't want to become steel. It moved over to the spindle and
 
 But the knob stopped wobbling.
 
-I turned it. It worked. A brass sleeve around a steel spindle is, if you think about it, just a plain bearing. Good doorknobs come with one on purpose. Without meaning to, I'd made the knob better than it was when it left the factory.
+I turned it. It worked. A brass sleeve around a steel spindle is, if you think about it, just a bushing. Good doorknobs come with one on purpose. Without meaning to, I'd made the knob better than it was when it left the factory.
 
 The hunger was small. About a sandwich's worth. I wrote:
 
@@ -144,7 +144,7 @@ I stood there looking at the dry faucet.
 
 It was a very educational moment. It taught me more than the whole notebook of trials. The power doesn't do what you do. It does what you mean. And if what you mean is fuzzy ("make it stop leaking"), it'll carry that out fuzzily. However it understands it.
 
-It's like customers. A guy says, "Make it stop making noise," and you could just snip the speaker wire. It'll stop making noise. But that's not what he meant.
+Same thing with customers. A guy says, "Make it stop making noise," and you could just snip the speaker wire. It'll stop making noise. But that's not what he meant.
 
 It took me twenty minutes and another half a bag of pierogi to open the seat back up: carefully, all the way around, exactly as much as needed, holding in my head not "make it stop leaking" but a very specific picture: "a ring, an opening this size, an edge like this, smooth." The water ran. The dripping stopped.
 
@@ -186,11 +186,11 @@ Then I noticed I could see my breath.
 
 I got up, went over to the radiator and put my hand on it. The radiator was ice-cold.
 
-Not warm, not cool, but ice-cold, like metal outdoors in winter. Beads of condensation stood out on it. I looked at the window: the inside of the glass was covered with a thin white pattern of frost. Something was pulling heat out of everything like a pump with no shutoff valve: out of the radiator, out of the air, out of the glass itself.
+Not warm, not cool, but ice-cold, like metal outdoors in winter. Beads of condensation stood out on it. I looked at the window: the inside of the glass was covered with a thin white pattern of frost. Something was pulling heat out of everything: out of the radiator, out of the air, out of the glass itself.
 
 And that's when it dawned on me that I wasn't hungry.
 
-I'd made a dozen thin spoons and a razor, I'd had the thimble on all evening, and for the last half hour I hadn't been hungry at all. I'd been cold. The cold was coming from the radiator, and the radiator, it seemed, was cold because of me. Without noticing, I'd been taking heat not from myself but from it. From the metal right under my knee. From the hot water running up the heating riser through the whole building. And from the look of it, I'd been taking not as much as I needed but as much as was on offer. A dozen spoons don't cost that much. The thimble pulled like a pump with no shutoff valve, and everything that hadn't gone into the spoons had gone somewhere. Not into the spoons, and not into me; I'd have been cooked. In the margin I wrote: "Where to?"
+I'd made a dozen thin spoons and a razor, I'd had the thimble on all evening, and for the last half hour I hadn't been hungry at all. I'd been cold. The cold was coming from the radiator, and the radiator, it seemed, was cold because of me. Without noticing, I'd been taking heat not from myself but from it. From the metal right under my knee. From the hot water running up the heating riser through the whole building. And from the look of it, I'd been taking not as much as I needed but as much as was on offer. A dozen spoons don't cost that much. The thimble pulled like a pump with no shutoff valve, and everything that hadn't gone into the spoons had gone somewhere else. Not into me, either; I'd have been cooked. In the margin I wrote: "Where to?"
 
 Somebody knocked on the door.
 
@@ -200,15 +200,15 @@ The knock came again: short, demanding, the kind of knock that only comes from o
 
 I took off the thimble, shoved it in my pocket and moved the chair. The door, as always, swung halfway open by itself.
 
-On the landing stood Mrs. Mazur from the fifth floor. In a bathrobe, with a wool shawl around her shoulders and her old felt-lined boots on her feet. She was holding a pot covered with a dish towel.
+On the landing stood Mrs. Mazur from the fifth floor. In a bathrobe, a wool shawl around her shoulders, and felt-lined boots. She was holding a pot covered with a dish towel.
 
 "Timothy," she said. "Is your radiator warm?"
 
 "No," I said truthfully.
 
-"Mine neither. Nothing. The whole riser, top to bottom. I called the emergency line, and they say everything's fine at the boiler, there's pressure. How can there be pressure and no heat? They're lying, like always. I thought maybe you'd know. You fix things."
+"Mine neither. It's out. The whole riser, top to bottom. I called the emergency line, and they say everything's fine at the boiler, there's pressure. How can there be pressure and no heat? They're lying, as usual. I thought maybe you'd know. You fix things."
 
-I looked at her and tried to figure out what to say. I couldn't tell her the truth. Lying didn't feel right either: she was standing on a cold landing in her felt boots at two in the morning, hoping I'd know what was wrong. And I really did know.
+I looked at her and tried to figure out what to say. I couldn't tell her the truth. Lying didn't feel right either: she was standing on a cold landing in those boots at two in the morning, hoping I'd know what was wrong. And I really did know.
 
 "Probably air in the system," I said. "An air lock. I'll bleed it, and it'll get going."
 
@@ -228,13 +228,13 @@ She held out the pot. I took it.
 
 And she went back upstairs, her boots shuffling on the steps.
 
-I shut the door. Wedged it with the chair that was now missing a leg and stood on three. That was fine; it held. I opened the pot. Inside were twelve hand pies, golden brown, still warm. She must have baked them that evening and then brought me the most valuable thing she had.
+I shut the door. Wedged it with the chair, which was down to three legs now. It held. I opened the pot. Inside were twelve hand pies, golden brown, still warm. She must have baked them that evening and then brought me the most valuable thing she had.
 
 I ate four of them standing by the ice-cold radiator. The radiator was slowly warming up. Somewhere above me, on the fifth floor, Mrs. Mazur was probably feeling her own radiator right now and thinking that Timothy from 42 was a good boy who knew everything.
 
 I felt ashamed and amused at the same time. Amused because I'd just discovered a free source of energy, and it turned out to be Mrs. Mazur's radiator. Ashamed for the same reason.
 
-I wrote: "Ten: you can take heat from metal nearby. From the radiator. Then no hunger. BUT! The radiator isn't mine. Mrs. Mazur is cold. It takes extra. Keep an eye on it."
+I wrote: "Ten: you can take heat from metal nearby. From the radiator. Then no hunger. BUT! The radiator isn't mine. Mrs. Mazur is cold. The thimble takes more than it needs. Watch that."
 
 I thought about it and underlined "isn't mine."
 
@@ -248,7 +248,7 @@ By four in the morning I was sitting in the kitchen, taking stock.
 
 Lugnut the cat (I have one, I forgot to mention, though strictly speaking the cat doesn't belong to me, he belongs to himself) was sitting on the windowsill next to Mrs. Stern's lamp, watching me with yellow eyes. Lugnut is gray and scruffy, with one torn ear, and he comes and goes through the transom window. I never adopted him. He just took hold, the way mold does, or a habit. I named him Lugnut because he wedges himself in anywhere (the closet, a bag, under the couch), and once he's in there, you can't get him out without a breaker bar and a lot of swearing.
 
-Toward morning I did one last thing. I had one silver spoon, my grandmother's. The only one left from the set; Mom sold the rest during the hard years and kept this one "to remember her by." Silver felt different from everything else: soft, warm, like butter. It wanted to change. I thought I could make a ring out of this spoon for my mom. She always said she had nothing of her mother's except a spoon, and you can't wear a spoon.
+Toward morning I did one last thing. I had one silver spoon, my grandmother's. The only one left from the set; Mom sold the rest during the hard years and kept this one "to remember her by." Silver felt different from everything else: soft, warm, like butter. It wanted to change. I thought I could make a ring out of this spoon for my mom. She always said she had nothing of Grandma's except a spoon, and you can't wear a spoon.
 
 I made a ring out of the handle: thin, simple, a smooth band. The rest of the spoon I rolled into a little silver bar. Let it sit there; silver doesn't go to waste. It took hardly anything out of me: silver is soft, and it barely resisted. I set the ring on the table and went to put the kettle on.
 
@@ -278,7 +278,7 @@ On the other hand, the doorknob: almost two bags of difference. The faucet: two 
 
 In other words: not earning. Not spending.
 
-I opened the notebook again, and on the last page, where people usually write phone numbers and passwords, I made a list of everything in my apartment that was broken. It came to thirty-two items. Next to each one I wrote a number: how many bags it would cost to buy a new one or call somebody in. The washing machine that won't spin out. The fridge that revs for takeoff but never goes anywhere. The zipper on my jacket. Winter boots that let in water. Knives that won't cut. A frying pan with the handle broken off. The door. The chair. The faucet, already crossed off.
+I opened the notebook again, and on the last page, where people usually write phone numbers and passwords, I made a list of everything in my apartment that was broken. It came to thirty-two items. Next to each one I wrote a number: how many bags it would cost to buy a new one or call somebody in. The washing machine that won't spin. The fridge that revs for takeoff but never goes anywhere. The zipper on my jacket. Winter boots that let in water. Knives that won't cut. A frying pan with the handle broken off. The door. The chair. The faucet, already crossed off.
 
 I added up the column.
 
@@ -288,7 +288,7 @@ More than a third of the debt. Not money I was going to get, but money I'd have 
 
 I sat over that number while it got light outside, and somewhere on a garage roof, probably, Lugnut was sitting and admiring my grandmother's ring.
 
-Ninety-one bags isn't fifteen thousand by Friday. Bull won't take a repaired doorknob from me. A payday loan doesn't accept pierogi. Debt is the part of life no thimble can reshape, because it isn't made of metal. It's made of agreements between people, and to change it, you need other people.
+Ninety-one bags isn't fifteen thousand by Friday. Bull won't take a repaired doorknob from me. Payday lenders don't take pierogi. Debt is the part of life no thimble can reshape, because it isn't made of metal. It's made of agreements between people, and to change it, you need other people.
 
 But if I spend less, I'll have more left over. And if I have more left over, then…
 
