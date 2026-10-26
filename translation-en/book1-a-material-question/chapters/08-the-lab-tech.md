@@ -14,7 +14,7 @@ I rode to the end of the line, transferred to a bus going back and got home a li
 
 I had to think anyway.
 
-Here's what I thought. If I'd gone in, she would have seen me. On camera. On the record. And after that I wouldn't be a man with a secret anymore. I'd be a man whose secret somebody else knew. Professor Stern had spent thirty years making sure that happened as rarely as possible. Glen had spent twenty years the same way. Probably. And I, eight days in, had very nearly caved to the first lab tech who told me, "You're lying."
+Here's what I thought. If I'd gone in, she would have seen me. On camera. On the record. And after that I wouldn't be a man with a secret anymore. I'd be a man whose secret somebody else knew. Professor Stern had spent thirty years keeping the list of people who knew down to two. Glen had probably spent the last twenty years the same way. And I, eight days in, had very nearly caved to the first lab tech who told me, "You're lying."
 
 On the other hand, I'd written it in my own notebook: "do it where people can see." And then I hadn't gone to the place where people would see.
 
@@ -50,7 +50,7 @@ She looked past me, into the apartment. At the chair made out of a bed. At the s
 
 "Mrs. Nicholls at the library," said Val. "She's my aunt. Not by blood, but close enough. I called her at home and told her you owed me a book. She looked you up by your library card. She said you're the first person in years who's come back to read and not just to look something up. She had nothing but nice things to say about you."
 
-"They're not supposed to give out readers' addresses."
+"They're not supposed to give out patrons' addresses."
 
 "They're not," Val agreed. "That's why I said you owed me. Aunt Tess never forgives a debt." She paused. "And I really do think you owe me, by the way. A crystal, for starters."
 
@@ -58,7 +58,7 @@ I stepped aside, and she came in.
 
 ---
 
-Lugnut appeared from the other room immediately, as if he'd been waiting. He circled Val, sniffed her bag, sniffed her thermos, sniffed her boots, and then sat down in front of her and stared up at her face. Or not exactly her face. A little higher.
+Lugnut came out of the main room immediately, as if he'd been waiting. He circled Val, sniffed her bag, sniffed her thermos, sniffed her boots, and then sat down in front of her and stared up at her face. Or not exactly her face. A little higher.
 
 "He's looking at my pencil," said Val.
 
@@ -104,7 +104,7 @@ Val didn't move. Then she slowly reached out, stopped the recording and scrolled
 
 "Again," she said quietly.
 
-"The solution's done. Everything extra already—"
+"This solution doesn't want to anymore. Everything extra—"
 
 "I know. I brought more."
 
@@ -136,7 +136,7 @@ Val wrote it down. She wrote fast, without looking at the page.
 
 "Why?"
 
-"Because it's a limitation. Tricks without limitations are just tricks. You've got a limitation. So it's real."
+"Because it's a limitation. Magic with no limits is a magic trick. You've got limits. So it's real."
 
 Number three was energy. That was the most interesting part, because I'd thought about it a lot myself. Val tucked one of her lab thermometers under my arm, like a fever thermometer, and asked me to weld two spoons together. I welded them. My temperature went up almost a degree, and I got so hungry I could have eaten the spoons. Then she filled a big pot with cold water from the tap, stuck the second thermometer in it, put my left hand on the pot and asked me to weld two pieces of copper wire, thin as hairs.
 
@@ -144,7 +144,7 @@ Number three was energy. That was the most interesting part, because I'd thought
 
 I knew how. The water in the pot went from tap-cold to nearly freezing; a thin skin of ice formed around the edge, and the outside of the pot fogged over. My temperature didn't go up. I was barely hungry at all.
 
-"Three liters, about fifteen degrees, plus a little ice," Val muttered over her notebook. "Seventy calories or so. That's plenty for the wires. For the spoons it'd take a bathtub." She tapped her pen on the page. "But the spoons don't add up. To melt the seam between two spoons, a couple of calories would do it. You're paying fifteen hundred. They're not in the spoons. They're not in you; the thermometer would have caught that. So where did they go?"
+"Three liters, down from about fifteen Celsius, plus a little ice," Val muttered over her notebook. "Fifty calories or so. That's plenty for the wires. For the spoons it'd take a bathtub." She tapped her pen on the page. "But the spoons don't add up. To melt the seam between two spoons, a couple of calories would do it. You're paying fifteen hundred. They're not in the spoons. They're not in you; the thermometer would have caught that. So where did they go?"
 
 I didn't know. I wrote it down for myself too: "Where to?" For the second time.
 
@@ -154,11 +154,11 @@ Val sat over her notebook, working something out. For a long time. Then she look
 
 "Welded some spoons."
 
-"You took heat out of water that was colder than this kitchen, and you turned it into work. With no engine. Not even a refrigerator."
+"You took heat out of water that was colder than this kitchen, and you turned it into work. With no engine. No heat sink."
 
-"I've got a refrigerator," I said. "A quiet one."
+"I've got a sink," I said. "It doesn't even drip anymore."
 
-"Not that kind! In thermodynamics, the refrigerator is the cold side, the place you dump heat. Heat flows from hot to cold all by itself, and you can only squeeze work out of it along the way. But you squeezed it out of the cold side. That's a perpetual motion machine of the second kind. The second law of thermodynamics. You can't break it. Not ever. Not anywhere. And you…" She looked at me with completely crazy eyes. "Maybe you're not breaking the law. Maybe this… this thing of yours… is dumping entropy somewhere. Someplace. I don't know where. But if I find out, that's the top prize in physics. No. Three top prizes. Never mind, it doesn't matter, I'm joking. Timothy. What's that on your finger?"
+"Not that kind! A heat sink is the cold side, the place you dump heat. Heat flows from hot to cold all by itself, and you can only squeeze work out of it along the way. But you squeezed it out of the cold side. That's a perpetual motion machine of the second kind. The second law of thermodynamics. You can't break it. Not ever. Not anywhere. And you…" She looked at me with wild eyes. "Maybe you're not breaking the law. Maybe this… this thing of yours… is dumping entropy somewhere. Someplace. I don't know where. But if I find out, that's the top prize in physics. No. Three top prizes. Never mind, it doesn't matter, I'm joking. Timothy. What's that on your finger?"
 
 She'd finally noticed.
 
@@ -166,7 +166,7 @@ She'd finally noticed.
 
 I spent a long time deciding what to tell her.
 
-I sat on my iron chair across from a woman I'd seen exactly twice in my life, a woman with gray eyes, purple stains on her fingers and a notebook with three pages of questions. On the table stood thermoses, beakers, the scale, crystals, the welded spoons and two copper wires. Lugnut was asleep on the shelf, holding down one of her spare pencils with his paw. It was past midnight.
+I sat on my iron chair across from a woman I'd seen exactly twice in my life, a woman with gray eyes, purple stains on her fingers and a notebook with three pages of questions. The table was covered with thermoses, beakers, the scale, crystals, the welded spoons and two copper wires. Lugnut was asleep on the shelf, holding down one of her spare pencils with his paw. It was past midnight.
 
 I thought: if I tell her, there's no going back. If I don't, she'll leave and maybe never come back. And I'll be left with thirty-one notebooks I only half understand, a thimble I use by guesswork and questions nobody can answer.
 
@@ -182,11 +182,11 @@ Val looked at the thimble. She didn't touch it.
 
 "What was his name?" she asked.
 
-"Stern. Professor Ephraim Stern."
+"Stern. Professor Stern."
 
 Val slowly raised her eyes.
 
-"Stern," she repeated. "From solid-state physics. He taught an elective for us senior year. On defects in crystals. People said he was nuts. That he had a lab at home nobody knew about. That he'd turned down three grants because he didn't want to answer to anybody." She paused. "In his class I got the only B of my life. He said I jump to conclusions."
+"Stern," she repeated. "Professor Stern, from solid-state physics. He taught an elective for us senior year. On defects in crystals. People said he was nuts. That he had a lab at home nobody knew about. That he'd turned down three grants because he didn't want to answer to anybody." She paused. "In his class I got the only B of my life. He said I jump to conclusions."
 
 "Was he right?"
 
@@ -196,7 +196,7 @@ She reached for the thimble. Stopped. Looked at me.
 
 "May I?"
 
-"Go ahead."
+"You may."
 
 She picked it up. Put it on her finger. Waited.
 
@@ -226,7 +226,7 @@ The idea was hers, but I could tell right away it was the right one. Val knows c
 
 And Val's department has a graveyard. That's what she called it. An analytical balance under its glass cover that broke five years ago. A fume hood whose fan doesn't work. A rotary evaporator (I didn't even know what that was) that leaks. A drying oven with no thermostat. A centrifuge that shakes so hard people are afraid to turn it on. There's no money for repairs. There's even less money for new equipment. The department runs on whatever's left over from the last century, and every year there's less of it left.
 
-"Every broken instrument is experiments nobody will run," said Val. "Papers nobody will write. Students who'll never see how it really works. It all just gathers dust in a corner under a cover. Like money sitting in a safe that you can't spend."
+"Every broken instrument means experiments nobody will run," said Val. "Papers nobody will write. Students who'll never see how it really works. It all just gathers dust in a corner under a cover. Like money sitting in a safe that you can't spend."
 
 "Like gold without papers," I said.
 
@@ -250,9 +250,7 @@ Val looked at me like a student who'd suddenly said something on an exam that wa
 
 "You're bargaining against yourself," she said.
 
-"I'm bargaining honestly."
-
-"Two hours of repairs for one hour of chemistry," I said. "And the first balance is on the house. For the crystal."
+"I'm bargaining honestly," I said. "Two hours of repairs for one hour of chemistry. And the first balance is on the house. For the crystal."
 
 "Same thing," said Val. "Fine. Two for one. But you still owe me a crystal. Grown slowly. So I have time to watch." She reached her hand across the table. "Deal."
 
@@ -298,7 +296,7 @@ There were buttons on the floor at our feet. Hers, from her blouse: small, mothe
 
 And Lugnut came out of the other room with a button in his teeth from his stash. He added it to the pile, like somebody chipping in.
 
-Then the hunger hit me, as if I'd welded another two spoons. The power had taken what it wanted, on its own and without asking.
+Then the hunger hit me, as if I'd welded another two spoons. The power had collected its fee all by itself, without asking.
 
 My shirt fell open. So did her blouse.
 
@@ -354,9 +352,9 @@ Val listened very seriously.
 
 "But?" I said.
 
-"But first I want to understand who I'd be keeping going with," she said. "I jump to conclusions. Professor Stern gave me a B for it. I don't want to jump with you. You're too interesting an experiment to ruin by rushing."
+"But first I want to know who I'd be doing it with," she said. "I jump to conclusions. Professor Stern gave me a B for it. I don't want to jump to conclusions about you. You're too interesting an experiment to ruin by rushing."
 
-I laughed. So did she. And then she kissed me one more time, slowly, for a long time, until I stopped being sure where the kitchen ended, and stepped back.
+I laughed. So did she. And then she kissed me one more time, slowly, for a long time, until I stopped being sure where the kitchen ended. Then she stepped back.
 
 Nothing fell. I was holding the valve in my head with everything I had.
 
@@ -376,11 +374,11 @@ Lugnut jumped down from the shelf, walked over, picked the pencil up in his teet
 
 Lugnut thought it over. He put the pencil back. He walked off.
 
-It was the first time in his life that Lugnut had ever returned something shiny. I decided he'd understood too: this one wasn't his. It belonged to somebody.
+It was the first time in his life that Lugnut had ever put back something shiny he'd already picked up. I decided he'd understood too: this one wasn't his. It belonged to somebody.
 
-I covered Val with my work jacket. The one without buttons. And I sat down across from her on the iron chair and watched her sleep and thought.
+I covered Val with my work jacket. It didn't have any buttons to lose. And I sat down across from her on the iron chair and watched her sleep and thought.
 
-I thought that today, for the first time, I hadn't gone where I'd promised to go and had still ended up where I needed to be. That the knowledge I didn't have had come to me on its own, in a bag with a tripod sticking out of it. That there wasn't a single bag of pierogi in this deal, and somehow I'd come out ahead. And so, it seemed, had she. How can both people come out ahead if nobody paid anybody? I couldn't come up with an answer, so I wrote down the question.
+I thought that for once I'd skipped the place I'd promised to go and still ended up where I needed to be. That the knowledge I didn't have had come to me on its own, in a bag with a tripod sticking out of it. That there wasn't a single bag of pierogi in this deal, and somehow I'd come out ahead. And so, it seemed, had she. How can both people come out ahead if nobody paid anybody? I couldn't come up with an answer, so I wrote down the question.
 
 And I thought about the buttons. About how the power listens not only to what I ask for but to what I want. And that is much more dangerous.
 
@@ -404,4 +402,4 @@ In the morning Val woke up, looked at me, then at the jacket on her shoulders, t
 
 "I do," I said. "By hand."
 
-"Good," said Val. "By hand, I like that better."
+"Good," said Val. "I like 'by hand' better."
