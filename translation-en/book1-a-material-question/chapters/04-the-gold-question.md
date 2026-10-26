@@ -10,7 +10,7 @@ What the alchemists dreamed about was gold.
 
 I sat up on the couch. Lugnut slid off my feet in disgust and stalked away into the dark, muttering something catlike and insulting.
 
-I should say here that I'd known from the very first day that gold was a bad idea. I'd even written it down in the notebook: "Gold — test it. But carefully. Hard to sell." But it's one thing to know an idea is bad in the daytime, on a full stomach, when Friday is still a long way off. It's something else at two-thirty in the morning, when Friday is one day away and bad ideas start to look like good ones, the way in the dark a cat can pass for a dog.
+I should say here that I'd known from the very first day that gold was a bad idea. I'd even written it down in the notebook: "Gold — test it. But carefully. Hard to sell." But it's one thing to know an idea is bad in the daytime, on a full stomach, when Friday is still a long way off. It's something else at two-thirty in the morning, when Friday is one day away and bad ideas start to look like good ones, the way a cat can pass for a dog in the dark.
 
 I told myself: just test it. Don't sell anything. Just find out whether it can be done.
 
@@ -18,7 +18,7 @@ And I went looking for lead.
 
 ---
 
-I had lead. My father's tackle box sits in the closet, between the shelter for broken things and the vacuum cleaner I've been promising myself to fix for three years now. My father went fishing every summer while he was healthy, and the box was just the way he'd left it: hooks in little plastic cases, line on spools, bobbers like fat little toy soldiers, and sinkers. Lots of sinkers. He used to cast them himself, in a spoon, on the gas stove, and my mom would yell that nobody could eat out of that spoon anymore.
+I had lead. My father's tackle box sits in the closet, between the shelter for broken things and the vacuum cleaner I've been promising myself to fix for three years now. My father went fishing every summer while he was healthy, and the box was just the way he'd left it: hooks in their little boxes, line on spools, bobbers like fat little toy soldiers, and sinkers. Lots of sinkers. He used to cast them himself, in a spoon, on the gas stove, and my mom would complain that nobody could eat out of that spoon anymore.
 
 I took a handful of sinkers. Heavy, gray, soft: you can scratch lead with a fingernail. The closet floor is bare concrete and ice-cold, and I'd surrendered my slippers to Lugnut back in September, so I'd gone in after the box wearing my father's knee-high rubber fishing boots. I sat down at the table in them just like that. Put the sinkers down, sat down and put on the thimble.
 
@@ -44,7 +44,7 @@ At first I didn't feel anything. The lattice, the atoms, the retirees on the bea
 
 I'd found a nucleus.
 
-It was like running into a wall. No, not a wall: a mountain. Everything above it, up in the lattice, was loose, soft, obedient. But down here was something so dense and so compressed that I felt it not as a thing but as pressure. As if I'd pressed my finger against a spring wound all the way down, and the spring had answered: "Don't even think about it."
+It was like running into a wall. No, not a wall: a mountain. Everything above it, up in the lattice, was loose, soft, obedient. But down here was something so dense and so compressed that I felt it not as a thing but as pressure. As if I'd pressed my finger against a spring compressed as far as it would go, and the spring had answered: "Don't even think about it."
 
 I thought about it.
 
@@ -54,7 +54,7 @@ The first thing I understood was that I didn't have the energy. Not a drop. I fe
 
 The thimble understood that too. And it started looking for somewhere to get more.
 
-I didn't have time to stop it. I didn't even know you could stop it. It pulled the way it had pulled from the radiator two nights before, only not heat this time, something faster and meaner. On the table stood the kettle, plugged into an extension cord, and the extension cord (the one wrapped in electrical tape, with a bare copper spot I've been promising myself to tape up for three years) was lying under my left palm. Bare spot up. The live wire.
+I didn't have time to stop it. I didn't even know you could stop it. It pulled the way it had pulled from the radiator this time last night, only not heat this time, something faster and meaner. On the table stood the kettle, plugged into an extension cord, and the extension cord (the one wrapped in electrical tape, with a bare copper spot I've been promising myself to tape up for three years) was lying under my left palm. Bare spot up. The live wire.
 
 I felt current running through the cord. Not like a shock: like water through a hose, if the hose had suddenly turned into one of your own veins. The current came out of the outlet, out of the wall, through the old fuses in my front hall, out of the panel on the first floor, out of the cable under the street, and all of it came rushing through my left palm, through my chest, through my right arm into the thimble and on into that one tiny point in the lead. The metal ran unbroken all the way to the panel and past it: the copper in the extension cord, then the aluminum in the walls. Like the riser from my faucet, only longer.
 
@@ -66,7 +66,7 @@ Not just mine. The strip of light from the landing vanished from under my front 
 
 Then I figured out why. The fuses in my front hall were old, the porcelain kind, and instead of a proper fuse, one of them had a bit of copper wire jammed in it, put there by my landlady's husband back when the fuses blew once. Copper wire doesn't blow. So the next thing in line tripped: the breaker for the whole stairwell, in the panel on the first floor. The protection worked. It just wasn't mine.
 
-I sat at the table in total darkness and silence, quiet as the country. My hand was burning. My left palm was burning. There was a smell in my nose, not of something burnt but of something sharp and fresh, like after a thunderstorm. The thimble on my finger was so hot I couldn't take it off: it had stuck.
+I sat at the table in total darkness and silence, quiet like out in the country. My hand was burning. My left palm was burning. There was a smell in my nose, not of something burnt but of something sharp and fresh, like after a thunderstorm. The thimble on my finger was so hot I couldn't take it off: it had stuck.
 
 And on the table in front of me, something was glowing faintly.
 
@@ -78,19 +78,19 @@ I sat and watched the glow slowly fade. About three minutes later it was complet
 
 The power came back a little after four. The property management company had gotten their on-call electrician out of bed in the middle of the night. He swore down on the first floor for a long time, flipped the breaker in the panel back on and left without ever figuring out what had tripped it. I silently apologized to him and promised myself I'd never do anything like that again. That was the first promise of the night. I made a few more after it.
 
-When the lights came on, the first thing I did was look at my hand. The thimble had cooled down and come off. Under it, my finger had a red ring around it, like from a ring that's too tight. My left palm was red too, but in one piece. I touched it and decided I'd gotten off easy. A man who grabs a live wire with his bare hand is supposed to end up on the floor. I wasn't on the floor.
+When the lights came on, the first thing I did was look at my hand. The thimble had cooled down and come off. Under it, my finger had a red ring around it, the kind a too-tight ring leaves. My left palm was red too, but in one piece. I touched it and decided I'd gotten off easy. A man who grabs a live wire with his bare hand is supposed to end up on the floor. I wasn't on the floor.
 
 I looked down. I had on my father's rubber boots.
 
-And that's when I understood how close it had been. Current always looks for the ground. If I'd been sitting barefoot on a concrete floor, it would have found the shortest way: through my palm, through my heart, through my legs, into the floor. And the thimble wouldn't have had time to do anything. But in rubber boots, the current had no ground. It had nowhere to go but the thimble. The thimble became my ground. It turned the current into something else the moment it came in, right there in my palm, and pulled it through me like water through a pipe, without letting it soak the walls. My father never once in his life went fishing without his boots. So in a way he'd come along with me this time too. That was comforting and terrifying at the same time. The insulation on the extension cord had melted like a candle, and the kettle wouldn't turn on anymore, so I had to take somebody else's out of the shelter. The copper wire in the front hall had turned into a black blob. In the morning I screwed in real fuses.
+And that's when I understood how close it had been. Current always looks for the ground. If I'd been sitting barefoot on a concrete floor, it would have found the shortest way: through my palm, through my heart, through my legs, into the floor. And the thimble wouldn't have had time to do anything. But in rubber boots, the current had no ground. It had nowhere to go but the thimble. The thimble became my ground. It turned the current into something else the moment it came in, right there in my palm, and pulled it through me like water through a pipe, without letting it soak the walls. My father never once in his life went fishing without his boots. So in a way he'd come along with me this time too. That was comforting and terrifying at the same time. The insulation on the extension cord had melted like a candle, and the kettle wouldn't turn on anymore, so I had to take somebody else's out of the shelter and plug it straight into the wall. The copper wire in the front hall had turned into a black blob. In the morning I screwed in real fuses.
 
 Then I looked at the lead ball.
 
-It looked like an ordinary lead ball. I picked it up, put on the thimble (carefully, the way you pick up a hot frying pan) and looked inside.
+It looked like an ordinary lead ball. I picked it up, put on the thimble (carefully, the way you'd put on a hot frying pan, if you ever had to) and looked inside.
 
 Lead, lead, lead, retirees on a beach. And at the very center, a tiny point, smaller than a poppy seed, that was something else entirely. Not lazy, not sleepy. Warm, even, heavy, and somehow pleased with itself. I didn't know what gold felt like; I'd never touched it with the thimble before. But somehow I knew right away that this was it.
 
-A speck. One speck of gold. I'd asked for a single nucleus. The thimble, as always, had taken extra and made as much as the stairwell's worth of power would buy before the breaker tripped. A pump with no shutoff valve. Price: the lights out in the whole stairwell for an hour and a half, a burned palm, and two years of my life, which I think I lost from fright.
+A speck. One speck of gold. I'd asked for a single nucleus. The thimble, as always, had taken extra and made as much as the stairwell's worth of power would buy before the breaker tripped. A pump with no shutoff valve. Price: the lights out in the whole stairwell for an hour and a half, a burned palm, and two years of my life, which I'm pretty sure got scared off me.
 
 And one more thing. Around the speck, the lead was somehow wrong. As if it had been shaken. The atoms stood unevenly, as if they'd been shoved, and here and there in the lattice were tiny gaps that hadn't been there before. Nearly everything I'd taken out, the thimble had stuffed back into the neighboring lead nuclei, and that made them not quite lead anymore. But something had flown out of there while I was pulling out my little bricks. Something I hadn't caught and didn't understand.
 
@@ -118,11 +118,11 @@ And I also had a box of old military-surplus boards. I'd bought it about three y
 
 It wasn't an exaggeration.
 
-I hauled the box into the kitchen, dumped the boards, the connectors and a scatter of little gold-plated pins out onto the table, filled the kettle all the way, switched it on and sat down to work.
+I hauled the box into the kitchen, dumped the boards, the connectors and a scatter of little gold-plated pins out onto the table, filled the shelter kettle all the way, plugged it into the wall, switched it on and sat down to work.
 
 It was a completely different kind of work from the night before. I didn't have to break any nuclei. The gold was already gold; all I had to do was gather it together. Separate it from the copper, the nickel, the tin it had been laid onto as a thin film all those years ago. And different metals, as I already knew, don't like to mix. The gold sat on the copper like butter on bread, and when I asked, it came off almost willingly.
 
-I'd take a connector in my left hand, keep my right hand on the hot side of the kettle (my own kettle, my own electricity, my own meter; I'd made a point of checking that in this apartment it was me, not the building, who paid for the power) and gather. The gold flowed off the contacts toward the center of my palm in a thin, almost invisible film, curled up and turned into a small yellow drop.
+I'd take a connector in my right hand, the one with the thimble, keep my left hand on the hot side of the kettle (the shelter's kettle, but my own electricity, my own meter; I'd made a point of checking that in this apartment it was me, not the building, who paid for the power) and gather. The gold flowed off the contacts toward the center of my palm in a thin, almost invisible film, curled up and turned into a small yellow drop.
 
 The kettle went cold. I boiled it again. And again. Over the course of the morning I must have boiled it thirty times. The meter out on the landing, I imagine, was surprised.
 
@@ -136,7 +136,7 @@ I knew roughly what gold went for, because I'd once fixed a scale at a jewelry s
 
 Six grams: a hundred and eighty bags.
 
-Fifty-six bags for Friday, and enough left over for exactly half of the whole debt.
+Fifty-six bags for Friday, and enough left over for half of the whole debt.
 
 I sat over that pea and, I think, didn't breathe for about ten minutes.
 
@@ -146,11 +146,11 @@ I know what you're thinking. I was thinking the same thing. Why not stop right t
 
 I went to the pawn shop.
 
-There's only one pawn shop in our part of town: a small one on the ground floor of a walk-up apartment building, with bars on the windows and a sign that says TOP PRICES PAID FOR GOLD, which has been hanging there as long as I can remember and has never once been true. Behind the glass sat a girl with long nails and the face of someone who had seen everything and appraised all of it below market value.
+There's only one pawn shop in our part of town: a small one on the ground floor of a walk-up apartment building, with bars on the windows and a sign that says TOP PRICES PAID FOR GOLD, which has been hanging there as long as I can remember and has never once been true. Behind the glass sat a clerk, a girl with long nails and the face of someone who had seen everything and appraised all of it below market value.
 
 I put the pea on the counter.
 
-The girl looked at it, then at me, then at it again. She picked it up with tweezers, put a drop of something from a little bottle on it, looked at it through a loupe. Then she set the pea on a special scale and looked at me again. Differently this time.
+She looked at it, then at me, then at it again. She picked it up with tweezers, put a drop of something from a little bottle on it, looked at it through a loupe. Then she set the pea on a special scale and looked at me again. Differently this time.
 
 "What's this?" she asked.
 
@@ -162,13 +162,13 @@ The girl looked at it, then at me, then at it again. She picked it up with tweez
 
 "Is it a piece of jewelry?"
 
-"No. It's a bar. Well, this."
+"No. It's bullion. Sort of. This is it."
 
 "Do you have papers for the bar?"
 
 "What papers?"
 
-The girl sighed the sigh people sigh over someone who doesn't understand how the world works.
+The clerk sighed the sigh people sigh over someone who doesn't understand how the world works.
 
 "Hon. Bars are sold with a certificate. With a stamp. With a serial number. And this thing of yours, nobody can even tell what purity it is. The color's like the picture in a textbook; you never see that in jewelry. And it's soft: I ran my nail over it and it left a mark. That means it's purer than anything I've seen in here in five years. Nobody brings in gold this clean. Stuff like this only gets made at a refinery. Or…" She didn't finish.
 
@@ -178,7 +178,7 @@ The girl sighed the sigh people sigh over someone who doesn't understand how the
 
 "Report it to who?"
 
-She looked at me for a very long time. The way you'd look at someone who had just asked why a traffic light needs a red.
+She looked at me for a very long time. The way you'd look at someone who had just asked why traffic lights have red.
 
 I took back my pea and left.
 
@@ -202,13 +202,13 @@ I didn't leave it there.
 
 ---
 
-Lenny Kurgan ran a shipping container out behind the market with a sign on it: BUY & SELL. SCRAP METAL. BATTERIES. Everybody at the market knew Lenny took anything and asked no questions. Everybody at the market also knew Lenny paid a third of the real price, and sometimes didn't pay at all, if you were weak enough to argue with him. I sold him copper wire from an old motor once. He weighed it on a scale that had clearly been fixed by me and clearly been ruined by somebody else, and paid me for a pound when there were four and a half.
+Lenny Kurgan ran a shipping container out behind the market with a sign on it: BUY & SELL. SCRAP METAL. BATTERIES. Everybody at the market knew Lenny took anything and asked no questions. Everybody at the market also knew Lenny paid a third of the real price, and sometimes didn't pay at all, if you were too weak to argue with him. I sold him copper wire from an old motor once. He weighed it on a scale that had clearly been fixed by me and clearly been ruined by somebody else, and paid me for a pound when there were four and a half.
 
 But a third of a hundred and eighty is sixty bags. And I needed fifty-six.
 
 I told myself: just this once. Hand over the pea, get sixty, give fifty-six to Bull, and the rest goes to pierogi. And never again.
 
-That was probably the fourth "never" in twenty-four hours. I was starting to notice that my "never" worked about like a washer in a faucet: it holds until somebody turns on the water.
+That was probably the fourth "never" in twenty-four hours. I was starting to notice that my "never" worked about like the cheap washer in my faucet: it holds until there's real pressure on it.
 
 Lenny's container smelled of rust, acid and tobacco. Inside it was dark and cramped. On the floor lay old batteries, coils of wire, copper pipe, and in the corner, behind a table, sat Lenny himself: as wide as his container, bald, with a gold tooth he'd supposedly made himself out of rings people had sold him.
 
@@ -248,11 +248,11 @@ He turned toward the door of the container and called, not loudly:
 
 "Sarge."
 
-A man I'd never seen before appeared from around the outside wall. He was younger than Lenny and thinner, but he looked the way people look when they get called quietly and come right away. He stood in the doorway. The container had only one door.
+A man I'd never seen before appeared from around the outside wall. He was younger than Lenny and thinner, but he looked the way people look when they get called quietly and come right away. He stood in the doorway. The container had only one door anybody used.
 
 "So here's how it is," Lenny said kindly. "I'll take the pea off your hands. I'll give you… let's say fifteen bags. Since we're neighbors. And you tell me where it came from. And you bring me more. We'll work together. I'm your market, you're my supplier. Good deal."
 
-"Fifteen?" I said. "That's twelve times less."
+"Fifteen?" I said. "That's a twelfth of what it's worth."
 
 "So go to the bank," Lenny said. "Go on. Tell them about your boards."
 
@@ -264,7 +264,7 @@ And that's when I understood that I'd made my mistake not today but right at the
 
 Lenny didn't move his hand.
 
-"Too late to change your mind, Timmy," he said. "You already came."
+"Too late to change your mind, Timmy," he said. "You're already here."
 
 ---
 
@@ -276,7 +276,7 @@ The table was metal: welded together from square tubing, with a sheet-iron top p
 
 I put my hand on the edge of the table. I'd put the thimble on back at the pawn shop (I seemed to have stopped taking it off at all), and I felt the tabletop, thin and ringing, and Lenny's palm on it, heavy and warm. And the pea under the palm, dense and indifferent to whose it was.
 
-I didn't touch Lenny. Even in that moment I remembered: nothing living. But the tabletop wasn't living.
+I didn't touch Lenny. Even in that moment I remembered: don't touch the living. But the tabletop wasn't alive.
 
 I asked it to sag. Just a little, right under the pea. The steel under Lenny's palm gently gave way, a dimple formed, the pea rolled into it, and the dimple sank further, right through the tabletop, and the pea dropped to the floor at my feet with a ring, like a coin.
 
@@ -338,13 +338,13 @@ The bolt: a noodle. The garage wall: a curtain. Works when I'm scared. Why? And 
 
 That last question nagged at me. The bolt had been as thick as a wrist, and the garage wall was a whole wall. Normally something like that would have taken me a long time, a lot of strength and a lot of pierogi. But in the garages it all happened instantly, almost without thinking. As if fear itself had opened some door inside me, and the power came through it faster.
 
-I didn't know what to do with that. It needed remembering. It needed telling to somebody. Who?
+I didn't know what to do with that. I needed to remember it. I needed to tell somebody. Who?
 
 I looked at the pea, lying on the table and glinting dully in the lamplight. Pretty. Heavy. Useless.
 
 Then I remembered the speck out on the balcony, in the coffee can, behind the skis. And whatever had flown out of the lead while I was making that speck. And "ask somebody who knows."
 
-All my questions over these three days ran into the same wall. I didn't understand what I was doing. I knew how to do it (with my hands, by feel, the way I always had). But I didn't understand it. Which meant that every time I did something new, I risked doing something that couldn't be undone afterward. Breaking Mikey's phone was nothing. But blacking out a whole stairwell? And whatever flew out of the lead?
+All my questions over these three days ran into the same wall. I didn't understand what I was doing. I knew how to do it (with my hands, by feel, the way I always had). But I didn't understand it. Which meant that every time I did something new, I risked doing something that couldn't be undone afterward. Breaking Mikey's phone was one thing. But blacking out a whole stairwell? And whatever flew out of the lead?
 
 I needed books. I needed somebody who knew matter better than I did. To be honest, I needed Professor Arkin.
 
@@ -352,7 +352,7 @@ Professor Arkin probably wasn't in the department anymore. But the department wa
 
 The Poly.
 
-And only then did it hit me that I'd never made it to the market today. Minus eight bags. Tomorrow was Friday. Bull would get what was left of yesterday's eight bags instead of eighty, and an honest face, since that's the only kind I've got. Mrs. Stern would get her lamp and maybe a question I didn't know how to ask yet. And then the Poly.
+And only then did it hit me that I'd never made it to the market today. Minus eight bags. Tomorrow was Friday. Bull would get whatever was left of yesterday's eight bags instead of eighty, and an honest face, since that's the only kind I've got. Mrs. Stern would get her lamp and maybe a question I didn't know how to ask yet. And then the Poly.
 
 I wrote: "Tomorrow: Bull. Lamp. Then the Poly. The library. Reference books. Maybe somebody."
 
