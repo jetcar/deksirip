@@ -10,7 +10,7 @@ He stopped at my counter, right in front of the line. The line went quiet. Every
 
 "I've got a line."
 
-"I see," said Ashot. "I see you've got a line. Yesterday I saw you had a line. Today I see I don't have a line. I see a woman who has brought me her shoes for fifteen years, and today she's standing in yours. I see a lot of things, Tim. Can I have a minute?"
+"I see," said Ashot. "I see you've got a line. Yesterday I saw you had a line. Today I see I don't have a line. I see a woman who's been bringing me her shoes for fifteen years, and today she's standing in yours. I see a lot of things, Tim. Can I have a minute?"
 
 The woman with the boot looked down. The man with the knife in front of her pretended to be studying the We Fix Everything sign.
 
@@ -18,7 +18,7 @@ I came out of the booth.
 
 ---
 
-We went around behind my counter, over to the wall where the crates are stacked. Ashot sat down on one. I sat on another. People with shopping bags kept going by along the aisle next to us, and the market hummed around us the way it always does, and at the same time it seemed to have gone quiet, listening.
+We went around behind my counter, over to the wall where the crates are stacked. Ashot sat down on one. I sat on another. The aisle was between us, and people with shopping bags kept going by along it, and the market hummed around us the way it always does, and at the same time it seemed to have gone quiet, listening.
 
 "How much did you make yesterday?" Ashot asked.
 
@@ -40,11 +40,11 @@ Ashot looked at me for a long time. Then he said:
 
 "It doesn't matter, Tim. It doesn't matter what you do. What matters is what people think. They think everything you've got is better. Knives, better. Pruners, better. So heel tips must be better too. People don't know the difference. They go where the line is."
 
-That was true, and it made me feel sick. Yesterday I'd thought the line was a reward. That people were coming to me because I did good work. But it turned out a line is also a force: it pulls everything around it along behind it. It even pulls in things I have nothing to do with.
+That was true, and it made me feel sick. Yesterday I'd thought the line was a reward. That people were coming to me because I did good work. But it turned out a line is also a force: it drags everything nearby along with it, even things I have nothing to do with.
 
 "I didn't mean to," I said.
 
-"I know you didn't mean to," said Ashot. "You're not like that. I've known you twelve years. You're not capable of meaning to. You're too honest to mean to." He sighed. "But that doesn't change anything. You didn't mean to, and I made one and a half bags."
+"I know you didn't mean to," said Ashot. "You're not like that. I've known you twelve years. You don't have it in you. You're too honest for that." He sighed. "But that doesn't change anything. You didn't mean to, and I made one and a half bags."
 
 ---
 
@@ -62,7 +62,7 @@ I raised my head and looked at my line. Twelve people. They stood there shifting
 
 And I thought: who's minding that line right now? Nobody. I'm sitting on a crate with Ashot. The line's on its own, with nobody in charge. In five minutes somebody's going to shove somebody, and there'll be a scene. And yesterday, while I was working, I wasn't minding the line either: I was inside the booth with my back to the people and the thimble on my finger. Yesterday the line had been on its own too. Yesterday people had argued about who was first, and I couldn't look up, because I was holding the steel's lattice in my head.
 
-I was doing the work. But nobody was doing all the rest. Talking to people. Writing things down. Setting a price. Explaining what would be ready by lunch and what would be ready tomorrow. Telling the woman with the pot, "Five minutes, and I'll take you." Smiling.
+I was doing the work. But nobody was doing all the rest. Talking to people. Writing things down. Setting a price. Explaining what would be ready by lunch and what would be ready tomorrow. Telling the woman with the pot, "Five minutes and I'll be right with you." Smiling.
 
 And Ashot had all of that. For twenty years that was exactly what he'd been good at: talking to people so they believed him. I'd seen it two weeks ago, when he stole my customer with the handbag. She'd gone to him because he looked like a man who knew everything about leather.
 
@@ -70,7 +70,7 @@ I reached into my jacket pocket, where I kept old receipts. I went through them:
 
 "Ashot sells. I make. Which one matters more?"
 
-I looked at that line. Two weeks ago it had felt like a grudge. Ashot had stolen my customer, taken two bags for my rivet and given me one. I'd thought at the time: he's stealing from me.
+I looked at those words. Two weeks ago it had felt like a grudge. Ashot had stolen my customer, taken two bags for my rivet and given me one. I'd thought at the time: he's stealing from me.
 
 And now I was sitting across from him, and I had a line I couldn't hold together, and he had an empty booth and a pair of hands that knew how to hold a line together.
 
@@ -114,7 +114,7 @@ Ashot haggled with me the way he haggles with everybody. And I haggled with Asho
 
 "Ashot, that's highway robbery."
 
-"It's not robbery. It's the market. Without me, your line gets into fights and you go hungry. With me, your line stands still and you work."
+"It's not robbery. It's the market. Without me, your line gets into fights and you go hungry. With me, your line behaves and you work."
 
 "A tenth," I said.
 
@@ -130,7 +130,7 @@ Ashot haggled with me the way he haggles with everybody. And I haggled with Asho
 
 "A quarter," I said. "And whatever people from my line give you is all yours. Heel tips, soles, bags."
 
-Ashot narrowed his eyes. I could see him calculating. He calculates faster than I do: not in a column, but all at once, the way musicians read music. Twelve people in my line. Each one waits twenty minutes or so. If one in three hands him a shoe while they're waiting…
+Ashot narrowed his eyes. I could see him calculating. He calculates faster than I do: not in a column, but all at once, the way a musician sight-reads. Twelve people in my line. Each one waits twenty minutes or so. If one in three hands him a shoe while they're waiting…
 
 "A quarter," said Ashot. "And you make me a hammer yourself. One that won't break. This one's had a crack in it since spring."
 
@@ -162,7 +162,7 @@ Ashot went back to my line, and for the first time I saw how he works. Really sa
 
 He didn't stand in front of the line. He went into it. He walked up to the man with the knife and said:
 
-"A knife? Tim'll have it done by lunch. Goes dull? You cut meat? Beef, pork? Pork, so the bone's soft, we'll make the edge a little thinner." He didn't know a thing about edges. He'd just heard me explaining it yesterday to a butcher from the next aisle over. But it sounded as if he'd done nothing for twenty years but harden knives. "That'll be four bags. No, it's not expensive. You won't have to sharpen this knife for ten years. What do you spend on whetstones now, a month? There, you see. I'm writing it down. Last name?"
+"A knife? Tim'll have it done by lunch. Goes dull? You cut meat? Beef, pork? Pork, so the bone's soft, we'll make the edge a little thinner." He didn't know a thing about edges. He'd just heard me explaining it yesterday to a butcher from the next aisle over. But it sounded as if he'd done nothing for twenty years but harden knives. "That'll be four bags. No, it's not expensive. You won't have to sharpen this knife for ten years. What do you spend on whetstones now, a month? There, you see. I'm writing it down. Name?"
 
 The man with the knife gave his last name. Ashot wrote it on a slip of paper, folded the slip, tucked it under the handle of the knife and passed the knife to me over the counter. Without even looking. The way a scrub nurse hands over a scalpel.
 
@@ -170,9 +170,9 @@ Then he went over to the woman with the pot.
 
 "The handle? Five minutes. Tim'll do it between knives. Half a bag. And what's this you've got?" He looked down at her feet. "Boots. The heel's worn down. Let me do it while you wait. Sit down on the crate, take them off. It's fine, it's not cold, I've got slippers."
 
-The woman with the pot, who had come to get a handle fixed, was sitting on a crate five minutes later in Ashot's slippers while Ashot, in his booth, tapped a new heel tip onto her boot. The pot sat at my place. The woman looked perfectly happy.
+The woman with the pot, who had come to get a handle fixed, was sitting on a crate five minutes later in Ashot's slippers while Ashot, in his booth, tapped a new heel tip onto her boot. The pot stayed on my counter. The woman looked perfectly happy.
 
-Then he went over to the woman with the boot. The one who'd brought him her shoes for fifteen years and today had gotten in my line.
+Then he went over to the woman with the boot. The one who'd been bringing him her shoes for fifteen years and today had gotten in my line.
 
 "Mrs. Petrie," he said. He knew her name. He knew everybody's name. "You're here for me."
 
@@ -180,7 +180,7 @@ The woman blushed.
 
 "Ashot, I thought… people are saying Timothy makes heel tips that…"
 
-"Timothy does iron," said Ashot. "Heel tips, I do. We're together now. He does iron, I do everything else. Give me the boot."
+"Timothy does iron," said Ashot. "Heel tips, I do. We're partners now. He does iron, I do everything else. Give me the boot."
 
 She gave him the boot. He went back to his booth. I watched him sit down on his stool, pick up his hammer and go to work. And his face was completely different from an hour before. Calm. The face of a man who has a boot in his hands again.
 
@@ -214,7 +214,7 @@ I stared at him.
 
 That was something I never would have come up with. Never. Because I didn't know how a heel is put together. I didn't know that rubber wears down to a certain point, and past that there's nothing left to wear down. I didn't know how heel tips go on or why they come off. I knew steel. Ashot knew heels.
 
-But together we knew a forever heel tip.
+But between the two of us, we knew how to make a forever heel tip.
 
 "Can you do it?" Ashot asked. "A plate. Thin. Won't bend, won't break. Shaped to the heel. With holes for my nails."
 
@@ -224,7 +224,7 @@ But together we knew a forever heel tip.
 
 ---
 
-I made the first plate at my place, with my back to the aisle and the soldering iron smelling of rosin, out of a broken-off piece of a steel ruler that Ashot dug out of his box. As thick as a coin, hard at the rim, like Greg's knife, and springy in the middle, so it wouldn't crack under the heel, with four holes for the nails. It cost me a hand pie and half a thermos.
+I made the first plate at my booth, with my back to the aisle and the soldering iron smelling of rosin, out of a broken-off piece of a steel ruler that Ashot dug out of his box. As thick as a coin, hard at the rim, like Greg's knife, and springy in the middle, so it wouldn't crack under the heel, with four holes for the nails. It cost me a hand pie and half a thermos.
 
 Ashot took it, turned it over, tapped it with his fingernail and spent a long time looking at my soldering iron.
 
@@ -242,7 +242,7 @@ By lunchtime Ashot had a line.
 
 Not like mine: a smaller one. But a line. People who were waiting in mine with their knives handed Ashot their shoes while they waited. People who'd heard about the "forever heel tip" went to him, and he'd say, "Yes, forever, it's our joint technology, Tim does the iron, I do everything else." And he charged twice as much for it as for a regular heel tip. And nobody argued, because it was "forever."
 
-I made plates between knives. It was cheap. Ashot had enough scrap in his booth for a hundred pairs: his whole life he'd never thrown away old taps, nails, steel shanks, buckles. An old tap is practically a plate already: bend it to fit the heel, spread the metal apart for the holes, harden the rim. Half a thermos for three pairs. The nails and buckles I didn't touch: fusing little bits together is like gluing a cup back together out of crumbs. He had his own shelter, the same as I did. Only mine was for broken things, and his was for metal that would come in handy someday.
+I made plates between knives. It was cheap. Ashot had enough scrap in his booth for a hundred pairs: his whole life he'd never thrown away old taps, nails, steel shanks, buckles. An old tap is practically a plate already: bend it to fit the heel, open up holes for the nails, harden the rim. Half a thermos for three pairs. The nails and buckles I didn't touch: fusing little bits together is like gluing a cup back together out of crumbs. He had his own shelter, the same as I did. Only mine was for broken things, and his was for metal that would come in handy someday.
 
 It came in handy.
 
@@ -256,7 +256,7 @@ He saw the line from a long way off, first at my booth, then at Ashot's, and cam
 
 "It is," I said.
 
-"Then we ought to revisit the rent. It's a good spot, plenty of people. Another twenty percent, starting the first. On top of the twenty already."
+"Then we ought to revisit the rent. It's a good spot, plenty of people. Another twenty percent, starting the first. On top of the twenty we already settled on."
 
 I opened my mouth to say something. Something that would probably have started with "I'm sorry."
 
@@ -292,21 +292,21 @@ Mr. Abrams left. I watched him go and couldn't believe it.
 
 "I've been at this market longer than you," said Ashot. "I know everything. That's my job, Tim. Not just heels. People. You fix iron. I fix people. A little."
 
-I thought he was right. And that this was something I couldn't do at all. And that it was probably worth no less than the thimble.
+I thought he was right. And that this was something I couldn't do at all. And that it was probably worth every bit as much as the thimble.
 
 ---
 
 That evening we sat on the crates behind my booth and counted.
 
-Ashot pulled two plastic shot glasses and a bottle of something dark out from under his counter. He poured. We clinked. It was something homemade, from the old country, and it hit like a rabbit punch.
+Ashot pulled two plastic shot glasses and a bottle of something dark out from under his counter. He poured. We clinked glasses. It was something homemade, from the old country, and it hit like a rabbit punch.
 
-I counted my take. Forty-four bags. Minus a quarter for Ashot: thirty-three. Yesterday I'd made twenty-two and given up by lunch. Today, twice that, and I'd lasted till evening and was still on my feet. Even though Ashot had taken a quarter.
+I counted my take. Forty-four bags. Minus a quarter for Ashot: thirty-three. Yesterday I'd made twenty-two and given up by lunch. Today I'd brought in twice that, and I'd lasted till evening and was still on my feet. Even though Ashot had taken a quarter.
 
 At first I didn't see how that was possible. Then I did. Yesterday I'd been pulled away twenty times: by the line, by arguments, by "so when will it be ready?" Today, not once. I worked. Just worked. One thing after another. Ashot passed me a knife with a slip of paper over the counter, I did it and passed it back, he gave it to the customer, took the money and said, "Thank you, come again." I didn't even see the people. All I saw was steel.
 
 And at eleven, when my hands started shaking, Ashot went off to the meat-pie stand without a word and came back with a full kettle and a bag of fried meat pies. "You'll look at their vent hood on Thursday," he said. "I worked it out. Boiling water till closing is on them." I ate six fried meat pies and drank three thermoses. Ashot kept count of how much I ate, and for the first time, I think, he understood why I'm always so skinny.
 
-And Ashot counted his take. Eight bags for his own work: heel tips, soles, forever heel tips at twice the price. The plates, by the way, I'd been giving him for free. I realized that on the second shot. Ashot had realized it that morning. Plus a quarter of mine: eleven. Nineteen. Against one and a half yesterday. Against six on a good day.
+Then Ashot counted his take. Eight bags for his own work: heel tips, soles, forever heel tips at twice the price. The plates, by the way, I'd been giving him for free. I realized that on the second shot. Ashot had realized it that morning. Plus a quarter of mine: eleven. Nineteen. Against one and a half yesterday. Against six on a good day.
 
 He looked at that number for a long time. Then he poured another.
 
@@ -316,7 +316,7 @@ He looked at that number for a long time. Then he poured another.
 
 We were quiet for a while.
 
-"How is that?" asked Ashot. "You gave to me. And you've got more. I took from you. And I've got more too. That's not how it works."
+"How is that?" asked Ashot. "You gave me a quarter. And you've got more. I took from you. And I've got more too. That's not how it works."
 
 I looked at the glass in my hand.
 
@@ -372,7 +372,7 @@ As I was leaving, Ashot called after me:
 
 He'd remembered it. After one reading.
 
-I walked home thinking that today something very important had happened, I was pretty sure. Not the thimble. Not the hardening. Not the forever heel tip. It was that for the first time in my life I'd worked with somebody instead of alone. And that turned out to be every bit as good as a miracle.
+I walked home thinking that something very important had happened today. I was pretty sure of it. Not the thimble. Not the hardening. Not the forever heel tip. It was that for the first time in my life I'd worked with somebody instead of alone. And that turned out to be just as good as a miracle.
 
 Lugnut was waiting for me at home. He was sitting on the windowsill, looking at me with suspicion, as if he could smell Ashot's bottle on me.
 
