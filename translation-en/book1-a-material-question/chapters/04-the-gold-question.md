@@ -18,7 +18,7 @@ And I went looking for lead.
 
 ---
 
-I had lead. My father's tackle box sits in the closet, between the shelter for broken things and the vacuum cleaner I've been promising myself to fix for three years now. My father went fishing every summer while he was healthy, and the box was just the way he'd left it: hooks in their little boxes, line on spools, bobbers like fat little toy soldiers, and sinkers. Lots of sinkers. He used to cast them himself, in a spoon, on the gas stove, and my mom would complain that nobody could eat out of that spoon anymore.
+I had lead. My father's tackle box sits in the closet, between the shelter for broken things and the vacuum cleaner I've been promising myself I'd fix for three years now. My father went fishing every summer while he was healthy, and the box was just the way he'd left it: hooks in their little boxes, line on spools, bobbers like fat little toy soldiers, and sinkers. Lots of sinkers. He used to cast them himself, in a spoon, on the gas stove, and my mom would complain that nobody could eat out of that spoon anymore.
 
 I took a handful of sinkers. Heavy, gray, soft: you can scratch lead with a fingernail. The closet floor is bare concrete and ice-cold, and I'd surrendered my slippers to Lugnut back in September, so I'd gone in after the box wearing my father's knee-high rubber fishing boots. I sat down at the table in them just like that. Put the sinkers down, sat down and put on the thimble.
 
