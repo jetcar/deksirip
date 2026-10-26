@@ -1,6 +1,6 @@
 # Chapter 5. A Pharmacy for Iron
 
-Bull showed up on Friday at 10:02. I know exactly, because I'd been watching the clock since eight.
+Bull showed up on Friday at 10:02. I know for a fact, because I'd been watching the clock since eight.
 
 I'd pictured him from his voice many times, and of course I'd pictured him wrong. On the phone Bull was huge and bald, in a leather jacket, with a chain around his neck and a habit of cracking his knuckles. In real life he turned out to be medium height, in an old windbreaker, with neatly trimmed graying temples and the tired face of an accountant whose quarterly report won't balance. The only thing I'd gotten right was the hands. Bull's hands were big and heavy, and under his nails was a black rim that no soap ever gets out. You only see that on people who work on cars.
 
@@ -12,7 +12,7 @@ It was the first time we'd laid eyes on each other. It was a strange feeling, li
 
 I put an envelope on the counter. In the envelope were eight bags: everything I'd made on Wednesday, minus food, minus food again.
 
-Bull opened the envelope and counted without taking the money out, with one flick of his thumb, the way people count who have counted a great deal of other people's money in their lives. Then he looked at me.
+Bull opened the envelope and counted without taking the money out, with one flick of his thumb, the way somebody counts who's handled a lot of other people's money in his time. Then he looked at me.
 
 "What's this?"
 
@@ -34,7 +34,7 @@ Bull gave me a long look. Then he looked at my counter. Then at me again.
 
 "Being sick'll do that."
 
-"Sure," Bull agreed. "A different kind of sick." He was quiet for a moment. "All right. A week. Next Friday. Eighty minus eight. If it's not there, I pass you along. I told you who to."
+"Sure," Bull agreed. "A different kind of sick." He was quiet for a moment. "All right. A week. Next Friday. Eighty minus eight. If it's not there, I pass you along. I told you who."
 
 "You told me."
 
@@ -42,7 +42,7 @@ Bull gave me a long look. Then he looked at my counter. Then at me again.
 
 "I understand."
 
-He stuck the envelope in his pocket, turned around and left. I watched him walk down the aisle between the stalls, and I noticed that when he passed the meat counter he stopped for a second and looked at the price tag, the way people look who haven't bought anything for themselves in a long time.
+He stuck the envelope in his pocket, turned around and left. I watched him walk down the aisle between the stalls, and I noticed that when he passed the meat counter he stopped for a second and looked at the price tag, like a man who hasn't bought himself anything in a long time.
 
 Then he went out to the parking lot and got into an old blue sedan, and the sedan started on the third try, with a sound like somebody coughing inside it.
 
@@ -54,7 +54,7 @@ I don't know why I wrote that down. Habit, probably. When something coughs, a re
 
 Mrs. Stern came at eleven.
 
-I'd fixed the lamp first thing that morning, before Bull, and it was, to be honest, the first repair in three days I'd done in a completely ordinary way, without any thimble. I wanted it like that. For some reason it seemed wrong to use that thing to fix the very object it had lived in.
+I'd fixed the lamp first thing that morning, before Bull, and it was, to be honest, the first repair in three days I'd done in a completely ordinary way, without any thimble. I wanted it that way. For some reason it seemed wrong to use that thing to fix the very object it had lived in.
 
 The problem turned out to be nothing, just like I'd told her the first day: the contacts in the socket had corroded down to a green crust. I sanded them clean, bent the spring back up, checked the switch and the cord. The lamp came on with a warm yellow light, and I sat in the booth and just looked at that light for a few minutes. It was a very old kind of light. An incandescent bulb gives off something like candlelight, only more honest.
 
@@ -104,7 +104,7 @@ And I thought about something else. If Mrs. Stern had come an hour earlier, Bull
 
 After lunch I closed the booth and took the bus to the Poly.
 
-I had three reasons. The first was books. I needed to understand at least something about how the things I was touching were put together. Not with my hands; with my head. I needed reference books on metals, on crystals, on polymers, which I knew only looked like spaghetti. The second was Professor Arkin. If he was still teaching, maybe I could ask him a couple of questions. No details. Just casually, in passing.
+I had three reasons. The first was books. I needed to understand at least something about how the things I was touching were put together. Not with my hands; with my head. I needed reference books on metals, on crystals, on polymers, about which all I knew was that they looked like spaghetti. The second was Professor Arkin. If he was still teaching, maybe I could ask him a couple of questions. No details. Just casually, in passing.
 
 The third reason was in my backpack, in a coffee can, wrapped in three plastic bags and a wool sock.
 
@@ -122,7 +122,7 @@ The Poly was right where I'd left it twelve years ago, and it looked as if it ha
 
 I looked at the photo, and it seemed to me he was looking straight at my shirt pocket.
 
-"Well," I told him silently, "I didn't steal it. I was given it. I think."
+"Well," I told him silently, "I didn't steal it. Somebody gave it to me. I think so, anyway."
 
 Professor Stern didn't answer. Obituaries rarely do.
 
@@ -130,13 +130,13 @@ Professor Stern didn't answer. Obituaries rarely do.
 
 The Poly library was probably the cheapest store in Granton. I figured that out about ten minutes after I walked in.
 
-Everything I needed was here. Whole shelves of it. A three-volume reference on physical metallurgy. *Crystal Physics*. *The Chemistry of High-Molecular-Weight Compounds*, which, as I worked out from the table of contents, was plastic: my spaghetti. *The Structure of Matter*. *The Properties of Wood*: that one I grabbed right away, in memory of the chair that was standing on three legs at my place now.
+Everything I needed was here. Whole shelves of it. A three-volume reference on physical metallurgy. *Crystal Physics*. *The Chemistry of High-Molecular-Weight Compounds*, which, as I worked out from the table of contents, was plastic: my spaghetti. *The Structure of Matter*. *The Properties of Wood*: that one I grabbed right away, in memory of the chair back home that was down to three legs.
 
 I walked along the shelves like a sick man in a pharmacy: for rust, volume three; for brittleness, *The Structure of Matter*; for cracks, the chapter on dislocations. A pharmacy for iron, except you write your own prescriptions.
 
 And all of it cost zero.
 
-The librarian, a middle-aged woman in a knit cardigan, made me a library card in five minutes, after I showed her my driver's license and my old student ID, which for some reason I still carried around in my backpack. She looked at the ID, at the last semester sticker, at the date, and raised her eyebrows.
+The librarian, an older woman in a knit cardigan, made me a library card in five minutes, after I showed her my driver's license and my old student ID, which for some reason I still carried around in my backpack. She looked at the ID, at the last semester sticker, at the date, and raised her eyebrows.
 
 "Twelve years?" she said. "Decided to come back?"
 
@@ -182,7 +182,7 @@ The chemistry department was on the third floor, at the end of a long hallway th
 
 I knocked.
 
-"It's open!" a woman's voice called. "If you're here about a grade, I don't have it. If you're here for reagents, don't have those either. If you're here for the Geiger counter, I have it, but you can't have it."
+"It's open!" a woman's voice called. "If you're here to beg for a passing grade, there aren't any. If you're here for reagents, don't have those either. If you're here for the Geiger counter, I have it, but you can't have it."
 
 I opened the door.
 
@@ -198,7 +198,7 @@ At the nearest bench sat a young woman writing something in a thick logbook. She
 
 "What if I really need it?"
 
-"Everybody really needs it. Day before yesterday a freshman came in to test his phone, because he read online that phones irradiate your brain. I tested it. The phone was fine. The brain wasn't, but this thing doesn't pick that up." She took off her glasses and rubbed the bridge of her nose. "What've you got?"
+"Everybody really needs it. Day before yesterday a freshman came in to test his phone, because he read online that phones fry your brain. I tested it. The phone was fine. The brain wasn't, but this thing doesn't pick that up." She took off her glasses and rubbed the bridge of her nose. "What've you got?"
 
 I took off my backpack, took out the coffee can, took the sock out of the can, the bags out of the sock, the lead ball out of the bags. I put it on the bench.
 
@@ -226,9 +226,9 @@ She switched it on. It started to crackle: quietly, sparsely, a click every seco
 
 She held the probe up to the ball.
 
-The crackling sped up. Not by much: the clicks came faster, about twice as fast. She looked at the needle, then at me, then at the needle again.
+The crackling sped up. Not by much: about twice as many clicks. She looked at the needle, then at me, then at the needle again.
 
-"Well, now," she said.
+"Huh," she said.
 
 "Is that bad?"
 
@@ -242,7 +242,7 @@ The crackling sped up. Not by much: the clicks came faster, about twice as fast.
 
 "Then where's it from?"
 
-I looked at her. She had a very smart face. Not in the sense of pretty, though it was pretty too, but in the sense that something behind it was running all the time. Like a booth with the soldering iron left plugged in. She looked at me, at the ball, at the sock, and I could see theories clicking through her head one after another and getting thrown out one after another.
+I looked at her. She had a very smart face. Not in the sense of pretty, though it was pretty too, but in the sense that something behind it was running all the time. Like my booth when the soldering iron's on. She looked at me, at the ball, at the sock, and I could see theories clicking through her head one after another and getting thrown out one after another.
 
 "I don't know," I said.
 
@@ -274,11 +274,11 @@ Val turned away to put the container in the safe, and with nothing better to do,
 
 Copper sulfate. I recognized it right away. In sixth grade, every kid in the country grows copper sulfate on a string. I grew some too, on the windowsill, for two weeks, and I ended up with a crystal the size of a pea, while Kevin Sommers got one the size of a fist, because Kevin added something secret to his and never told anyone. I was terribly jealous of him back then.
 
-I remembered how copper sulfate grows. It was probably the only thing in chemistry I remembered with my hands. A solution holding more salt than it can hold on to. The salt wants to come out. All it needs is a place to come out onto: a seed, a little crystal on a string. And then the molecules, one by one, fall into line on it, layer after layer, and the crystal grows. Slowly. Over weeks.
+I remembered how copper sulfate grows. It was probably the only thing in chemistry I remembered with my hands. A solution with more salt in it than it can hold. The salt wants to come out. All it needs is a place to come out onto: a seed, a little crystal on a string. And then the molecules, one by one, fall into line on it, layer after layer, and the crystal grows. Slowly. Over weeks.
 
 The salt wants to come out. That was the main thing. It doesn't have to break anything. It just has to be allowed.
 
-The thimble was on my finger: I'd never taken it off after the reading room. I reached out and, I don't know why (out of the same childhood jealousy of Kevin Sommers, probably), dipped the rim of the thimble into the solution, right where the thread hung.
+The thimble was on my finger: I hadn't taken it off since the reading room. I reached out and, I don't know why (out of the same childhood jealousy of Kevin Sommers, probably), dipped the rim of the thimble into the solution, right where the thread hung.
 
 The solution. Warm, supersaturated, full of blue molecules jostling each other and wanting to fall into line. And the little crystal on the thread, small, lopsided, with one crooked face.
 
@@ -318,7 +318,7 @@ I'd never in my life seen an expression like the one on her face. It was a mix o
 
 "I'm lying."
 
-She straightened up. Took off her glasses. Set them on the bench very carefully, the way you set down something you don't want to break by accident right now.
+She straightened up. Took off her glasses. Set them on the bench very carefully, the way you set down something you don't trust yourself not to break just now.
 
 "Listen, Mr. Fix-Everything," she said. "I don't know how you did that. Swapped the beaker while my back was turned? Sleight of hand? I've been in chemistry ten years; I've seen a lot of tricks. Students swap test tubes during lab exams so smoothly any magician would be jealous. But I'll tell you this." She jabbed a purple-stained finger at me. "The solution got paler. The copper went into the crystal. That's not a swap: I made this solution myself, I know its color. And copper sulfate doesn't grow that fast. It just doesn't grow like that. Ever. Under any conditions. So either I've lost my mind, or you're about to do that again."
 
@@ -346,7 +346,7 @@ No ball. The ball had stayed behind in a lead safe, with a woman who wore a penc
 
 I walked to the bus stop and thought.
 
-I thought that today, for the first time, I'd done what I'd promised myself I wouldn't: I'd shown it. Not on purpose, but I'd shown it. To someone I'd met for the first time. And that this person was the first one who, seeing the impossible, hadn't gotten scared and hadn't wanted to sell it. Suspicious, sure, very much so. But not to catch me; to understand. The dearest thing about that copper sulfate wasn't measured in pierogi. Val had seen it.
+I thought that today, for the first time, I'd done what I'd promised myself I wouldn't: I'd shown it. Not on purpose, but I'd shown it. To someone I'd met for the first time. And that this person was the first one who, seeing the impossible, hadn't gotten scared and hadn't wanted to sell it. Suspicious, sure, very much so. But not to catch me; to understand. The dearest thing about that copper sulfate wasn't measured in pierogi. It was that Val had seen it.
 
 I thought that the copper sulfate had cost me almost nothing. Because it wanted to grow on its own. Whereas I bend steel for hand pies, because steel doesn't want to. So the cheapest thing of all is to help things do what they already want to do. That was a new thought, and I wrote it down right there at the bus stop, on the back of my library card, because I'd run out of receipts: "What wants to happen anyway: nearly free. What doesn't: expensive. Look for what the thing wants. And don't get greedy: the solution only wants to give up the extra."
 
@@ -358,11 +358,11 @@ I looked at that line. It clearly didn't belong on a library card, where you're 
 
 I didn't cross it out.
 
-The bus came, and I took a window seat. Next to me sat a woman with two bags that smelled of fried fish. Suddenly I was terribly hungry: not from magic, just hungry, the way everybody gets hungry on a Friday evening. It was almost pleasant. Ordinary human hunger, the kind you don't have to pay for with any miracle.
+The bus came, and I took a window seat. Next to me sat a woman with two bags that smelled of fried fish. Suddenly I was terribly hungry: not from magic, just hungry, the way everybody gets hungry on a Friday evening. It was actually kind of nice. Ordinary human hunger, the kind you don't have to pay for with any miracle.
 
 Lugnut was waiting for me at home. He was sitting on the windowsill, looking at me reproachfully, as if he knew I'd spent the whole day with another woman.
 
-"It was work," I told him.
+"It was for work," I told him.
 
 Lugnut turned away.
 
@@ -370,6 +370,6 @@ I put on a pot of pierogi to boil, opened *Crystal Physics* to the first page an
 
 The preface said: "This book is intended for those who want to understand, not merely memorize."
 
-I thought that meant me. For the first time in twelve years, something meant me.
+I figured that was about me. For the first time in twelve years, something was about me.
 
 The pierogi boiled over, by the way. But by then that didn't surprise anybody.
