@@ -2,13 +2,13 @@
 
 On Wednesday I'd been forty-three short. Now, on Friday evening, I had forty-three. I was twenty-nine short.
 
-I counted them three times: in the kitchen, on my iron chair, with the money laid out on the table in stacks, like a game of solitaire. Saturday, Monday, Wednesday, Thursday: eight apiece. Five from Mrs. Stern. Six from the market today, because it started raining after lunch, and when it rains people don't bring their broken things in; they stay home and break new ones. Forty-three altogether. Minus nothing. I honestly hadn't touched that money, not even when I really wanted a fried meat pie.
+I counted them three times: in the kitchen, on my iron chair, with the money laid out on the table in stacks, like a game of solitaire. Saturday, Monday, Wednesday, Thursday: eight apiece. Five from Mrs. Stern. Six from the market today, because it started raining after lunch, and when it rains people don't bring their broken things in; they stay home and break things there. Forty-three altogether. Minus nothing. I honestly hadn't touched that money, not even when I really wanted a fried meat pie.
 
 Forty-three out of seventy-two. More than half. But less than I needed.
 
 I sat over the stacks and thought about how a week ago I'd had eight, and I'd been ashamed handing them over. Now I had five times that, and I was still ashamed. It was some kind of law that wasn't in any of Professor Stern's notebooks. Debt is set up so that you're always ashamed, no matter how much you bring. Because what you're bringing isn't what you have. It's what you're short.
 
-On Thursday evening I'd been at the chemistry department with Val. This time I'd gotten off the bus. I spent two hours fixing the analytical balance, the one that had sat under its glass cover for five years. The thin steel knife-edge that the beam rocks on was damaged. I spent about forty minutes straightening it, slowly, one face at a time. Val sat next to me and watched. The balance was on the house, for the crystal, but Val still spent an hour telling me about the iron-carbon phase diagram anyway, "as an advance, so you'll have something to check your work against," and for the first time in my life I understood why one steel snaps and another one bends. It was the second-best evening I'd had in years, after Wednesday. And that was even without the kissing. Well, almost without: there was one kiss, at the door, before the security guard started rattling his keys.
+On Thursday evening I'd been at the chemistry department with Val. This time I'd gotten off the bus. I spent two hours fixing the analytical balance, the one that had sat under its glass cover for five years. The thin steel knife-edge that the beam rocks on was damaged. I spent about forty minutes straightening it, slowly, one face at a time. Val sat next to me and watched. The balance was on the house, for the crystal, but Val still spent an hour telling me about the iron-carbon phase diagram, "as an advance, so you'll have something to check your work against," and for the first time in my life I understood why one steel snaps and another one bends. It was the second-best evening I'd had in years, after Wednesday. And that was even without the kissing. Well, almost without: there was one kiss, at the door, before the security guard started rattling his keys.
 
 But the balance didn't earn me a single bag. I'd known that going in; that was our deal. And still, on Friday evening, sitting over forty-three bags, I thought that if I'd charged money for the balance, I'd have a couple more bags right now.
 
@@ -84,15 +84,15 @@ I stood under the streetlight next to the man who called me every week from the 
 
 "What would the repair cost?" I asked. "The valve, the seat?"
 
-"Head's got to come off," said Bull. "Lap the valves, new valve, maybe a new seat. Parts, labor. Thirty bags or so, if we're counting your way. If I do it myself, fifteen. But I don't have fifteen. And I don't have time to pull the head, either; tomorrow morning I've got to be on the other side of town. I'll take the bus. What else am I going to do."
+"Head's got to come off," said Bull. "Lap the valves, new valve, maybe a new seat. Parts, labor. Thirty bags or so, if we're counting your way. If I do it myself, fifteen. But I don't have fifteen. And I don't have time to pull the head, either; tomorrow morning I've got to be on the other side of town. I'll take the bus. What else am I gonna do?"
 
-Thirty bags. Almost exactly what I was short of seventy-two.
+Thirty bags. Almost exactly what I was still short.
 
 I thought about it. Thought fast, the way you do when the decision has already shown up and your head hasn't signed off on it yet.
 
 "George," I said. "Upstairs in my apartment I've got wrenches, a socket set, everything we'd need. I've been fixing things for twelve years. Cars aren't my line, but I know how an engine works. Let's pull the head right here. Right now."
 
-"It's nighttime."
+"It's dark out."
 
 "There's a streetlight."
 
@@ -132,13 +132,13 @@ About halfway through, Mrs. Mazur came out into the yard with a pot.
 
 "Timothy," she said, looking down at us from the front stoop. "Who's that?"
 
-"George," I said. "He's… a friend of mine."
+"George," I said. "He's… somebody I know."
 
 "Debt collector," said Bull, without looking up. He never lied about himself. I figured that out later.
 
 Mrs. Mazur was quiet for a moment. Then she came down off the stoop and set the pot on the fender, next to the open engine bay.
 
-"Eat," she said. "Both of you. They're cabbage. It's cold out. And they're not free," she added, looking at Bull. "Timothy's going to take a look at my iron on Monday. Again."
+"Eat," she said. "Both of you. Cabbage hand pies. It's cold out. And they're not free," she added, looking at Bull. "Timothy's going to take a look at my iron on Monday. Again."
 
 And she left.
 
@@ -206,7 +206,7 @@ Bull was quiet for a long time.
 
 "Take it," he said at last. In a completely bewildered voice. That's probably how you'd answer if somebody asked to borrow your own shadow.
 
-I put my other hand, the left one, on the engine block (solid cast iron, warm, heavy) and took. Slowly. Holding the valve in my head: the professor's kind, not the engine's. Holding an exact picture in my head: the valve, round and true, with a smooth forty-five-degree face, like in the reference book. The seat: a ring, even, no pits, matching the valve like a lid on a jar.
+I put my other hand, the left one, on the engine block (solid cast iron, warm, heavy) and took. Slowly, keeping the valve in my head barely open (the professor's kind, not the engine's). In my head I held an exact picture: the valve, round and true, with a smooth forty-five-degree face, like in the reference book. The seat: a ring, even, no pits, matching the valve like a lid on a jar.
 
 There wasn't enough metal. What had burned away was gone; it had gone out the tailpipe, and there was no getting it back. I took a little steel from the valve's thick stem, where there was more than it needed, and moved it to the edge of the face. The stem got a little thinner. The face was whole. I meant to do the same thing with the seat: take steel from its outer edge, since that was hidden in the aluminum anyway.
 
@@ -226,7 +226,7 @@ I took off the thimble and put it in my pocket. I was shaking. The engine's heat
 
 Bull bent over the cylinder head. He looked at the valve. He touched it with a finger. He turned the head toward the light, toward Mikey. He looked again. Then he took a little caliper out of his pocket (mechanics always have a caliper in a pocket somewhere) and measured the valve stem where he could get at it.
 
-"Stem's thinner," he said. "Eight thousandths. It'll wobble in the guide. Burn oil."
+"Stem's thinner," he said. "Eight thou. It'll wobble in the guide. Burn oil."
 
 "It already burns oil," I said. "You said so yourself."
 
@@ -240,7 +240,7 @@ Bull opened his mouth, closed it and looked at the face of the valve again.
 
 "That's…" He raised his eyes to me. "Timothy. What is this?"
 
-I thought about what to say. And I decided not to lie. Not because I'm such an honest guy, but because Bull didn't lie. He'd told Mrs. Mazur "debt collector" when he could have said "a friend." He'd told me about his shop when he didn't have to. Lying to a man like that just seemed wrong. Same as with Mikey.
+I thought about what to say. And I decided not to lie. Not because I'm such an honest guy, but because Bull didn't lie. He'd told Mrs. Mazur "debt collector" when he could have said "somebody I know." He'd told me about his shop when he didn't have to. Lying to a man like that just seemed wrong. Same as with Mikey.
 
 "I can move metal around," I said. "From one place to another. By hand. Don't ask me how; I don't really know myself yet. But I can."
 
@@ -286,7 +286,7 @@ Bull looked at me.
 
 "That's not a fair trade. You're giving me more."
 
-"No," I said. "You're giving me what I need more. I can make fifteen bags in two days. I can't make a month for any amount of money. A month means I stop being scared every Friday and start thinking."
+"No," I said. "You're giving me the thing I need more. I can make fifteen bags in two days. I can't make a month for any amount of money. A month means I stop being scared every Friday and start thinking."
 
 He was quiet. So was I.
 
@@ -328,7 +328,7 @@ I looked at him.
 
 "You know… that. The valve thing."
 
-I didn't know what to say. I didn't know myself whether it could be taught. Mrs. Stern couldn't do it. Val couldn't do it. Professor Stern wrote that it's like an ear for music. Some people have it, some don't.
+I didn't know what to say. I didn't know myself whether it could be taught. Mrs. Stern couldn't do it. Val couldn't do it. Professor Stern had written that it was like an ear for music. Some people have it, some don't.
 
 "I don't know, Mikey," I said honestly. "I don't know if it can be taught."
 
@@ -350,7 +350,7 @@ But everything had changed.
 
 Today I'd understood something I'd been feeling for a long time but couldn't put into words. I needed money a lot less often than I'd thought. Today I'd bought a month without paying a single bag for it. What money was actually for, then, I couldn't say yet. Rent, interest, Bull's bosses: they don't take payment in valves. But where the line was, I didn't know.
 
-But the rest of the world ran on money, and I made money when I did something for other people. So here was the question: what could I do for other people that there'd be a lot of call for? Not fixing things one at a time, but making something everybody needed?
+Still, the rest of the world ran on money, and I made money when I did something for other people. So here was the question: what could I do for other people that there'd be a lot of call for? Not fixing things one at a time, but making something everybody needed?
 
 I opened my notebook to a clean page and wrote at the top: "What everybody needs."
 
