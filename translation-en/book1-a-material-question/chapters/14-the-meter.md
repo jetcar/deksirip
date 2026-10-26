@@ -2,13 +2,13 @@
 
 The electric bill came at the beginning of December. Six and a half bags. It was usually one and a half.
 
-At first I decided it was a mistake. I read it again. I looked at the numbers, at the rate, at my last name. Then I went out on the landing and looked at the meter. The little wheel inside wasn't creeping along anymore. It was spinning. Like the propeller on a little plane getting ready to take off straight out of the panel.
+At first I figured it was a mistake. I read it again. I looked at the numbers, at the rate, at my last name. Then I went out on the landing and looked at the meter. The little wheel inside wasn't creeping along anymore. It was spinning. Like the propeller on a little plane getting ready to take off straight out of the panel.
 
 Six and a half bags. That wasn't ruin. That was a couple of hours at the market. But it was more than four times as much as always, and the bill looked at me the way Old Pete would have if he'd been keeping the books on my electricity.
 
 I knew where all that had come from. I just hadn't thought anybody would notice.
 
-I'd taken my return for the prior years to Ms. Pratt myself, two days before the deadline, and she'd checked it right there in front of me, without taking off her glasses, which didn't fog up anymore. On Friday I'd given Bull twenty-nine bags plus interest. He counted them twice and said, "You're the first one who ever paid up before I started calling." Starting on the first, the rent on the booth had gone up twenty percent. All of that was the outside. And now the electricity had shown up from the outside too.
+I'd taken my back returns to Ms. Pratt myself, two days before the deadline, and she'd checked it right there in front of me, without taking off her glasses, which didn't fog up anymore. On Friday I'd given Bull twenty-nine bags plus interest. He counted them twice and said, "You're the first one who ever paid up before I started calling." Starting on the first, the rent on the booth had gone up twenty percent. All of that was coming at me from outside. And now the electricity had joined in.
 
 ---
 
@@ -26,13 +26,13 @@ Now I knew how to hold the valve. Professor Stern had taught me. If you hold a p
 
 I did the math. I did it carefully, the way Val had taught me. One bag of pierogi is seventeen hundred and sixty calories. Converted into electricity, that's about two kilowatt-hours. Two kilowatt-hours at our rate come to… I looked at an old electric bill… about a twentieth of a bag.
 
-So electricity cost a twentieth of what pierogi did. For the same energy.
+So electricity was twenty times cheaper than pierogi. For the same energy.
 
 I sat up on the couch. Looked at the outlet. Then at the bill again.
 
-A twentieth.
+Twenty times.
 
-I'd already tried the kettle. But a kettle is a liter every three minutes, and then you sit and wait for the next one to boil. An outlet is a kettle with no bottom and no waiting. Food at a twentieth of the price, food I'd been pouring out a liter at a time.
+I'd already tried the kettle. But a kettle is a liter every three minutes, and then you sit and wait for the next one to boil. An outlet is a kettle with no bottom and no waiting. Food twenty times cheaper, food I'd been pouring out a liter at a time.
 
 ---
 
@@ -40,7 +40,7 @@ I made myself a cord.
 
 That was harder than it sounds. Electricity isn't heat in a kettle. You can't touch it with your bare hands. Even the night the thimble ran so much current through me that the whole stairwell went dark, my palm burned for two days afterward. And I'd only lived through it because I'd been sitting there in my father's rubber boots. I had no desire to do it again.
 
-So I made a separate cord. Heavy copper wire, insulated. A plug on one end, and its own breaker, so that if anything went wrong, my breaker would trip instead of the whole stairwell's. On the other end, two short copper leads, wrapped in electrical tape everywhere except the very tips. I held them by the tape in my right hand, with the bare tips pressed against the thimble on my middle finger, one on each side, so they touched neither each other nor my skin. The circuit closed through the thimble, not through me. A plain piece of copper in its place would have shorted them out, and the breaker would have clicked off that same second. The thimble took exactly as much as I opened the valve for.
+So I made a separate cord. Heavy copper wire, insulated. A plug on one end, and its own breaker, so that if anything went wrong, my breaker would trip instead of the whole stairwell's. On the other end, two short copper leads, wrapped in electrical tape everywhere except the very tips. I held both of them by the tape in my right hand, pinched between my thumb and forefinger, with the bare tips pressed against the thimble on my middle finger, one on each side, so they touched neither each other nor my skin. The circuit closed through the thimble, not through me. A plain piece of copper in its place would have shorted them out, and the breaker would have clicked off that same second. The thimble took exactly as much as I opened the valve for.
 
 The first rule I wrote down for myself: boots on, rubber mat underfoot, hands off the radiator and the faucets. Current always looks for the ground. If it has a road through me into the floor, it'll take it, and the thimble won't have time to do anything. If there's no road, the thimble is all it has left. I could feel the current running through the copper. Steady. Calm. Like water through a pipe with the valve opened a quarter turn.
 
@@ -60,7 +60,7 @@ Six and a half bags.
 
 I ran the numbers again. It worked out that I'd been drawing a kilowatt and a half from the outlet for five or six hours every evening. That was a lot. It was as if a small workshop were running in my apartment. Which, strictly speaking, it was.
 
-Electricity cost a twentieth of what pierogi did. That was exactly why I'd stopped holding myself back. You don't begrudge what's cheap, so you use so much of it that it stops being cheap. Not a disaster. The disaster came the next day, and not in an envelope.
+Electricity was twenty times cheaper than pierogi. That was exactly why I'd stopped holding myself back. You don't begrudge what's cheap, so you use so much of it that it stops being cheap. Not a disaster. The disaster came the next day, and not in an envelope.
 
 I sat over the bill and thought it was the same story as the gold. Only backward. The gold had been expensive, but I couldn't sell it. The electricity was cheap, but it turned out I needed so much of it that cheap turned into expensive.
 
@@ -70,7 +70,7 @@ I wrote in my notebook: "Cheap in bulk is expensive." I looked at it. It was obv
 
 The next day, the property management company came to see me.
 
-The property management company came in the persons of two people. A woman in a puffer jacket with a tablet, who introduced herself as Margo Sorensen, and a young electrician in a blue jacket with lettering on the back. The electrician's name was Corey. He was serious, the way all young electricians are, and he carried a little toolbox that he held as if there were something fragile inside.
+The property management company turned out to be two people. A woman in a puffer jacket with a tablet, who introduced herself as Margo Sorensen, and a young electrician in a blue jacket with lettering on the back. The electrician's name was Corey. He was serious, the way all young electricians are, and he carried a little toolbox that he held as if there were something fragile inside.
 
 "Mr. Nagel," said Ms. Sorensen, looking at her tablet. "Last month your usage was more than four times the average for the building."
 
@@ -88,7 +88,7 @@ The property management company came in the persons of two people. A woman in a 
 
 I thought about what to say.
 
-And just then a voice came from the stairs above, from Mrs. Mazur's floor.
+And just then a voice came from upstairs, from Mrs. Mazur's.
 
 "They do it on purpose," said Old Pete.
 
@@ -96,11 +96,11 @@ He was coming down the stairs in his coat and hat, with his ledger under his arm
 
 "Who does what on purpose?" asked Ms. Sorensen.
 
-"You do," said Old Pete. "Property management. You put this meter in on purpose. I know. It counts faster. Mine counts faster too. Everybody's in the stairwell counts faster. That's so everybody will pay more later."
+"You do," said Old Pete. "Property management. You put this meter in on purpose. I know. It counts faster. Mine counts faster too. Everybody's in the building. That's so everybody will pay more later."
 
 "Mr. Palmer," Ms. Sorensen said wearily. "Last month your meter charged you exactly what it always does."
 
-"That's because I turn off the lights," said Old Pete. "Timothy doesn't. So you went after him."
+"That's because I turn off the lights," said Old Pete. "Timothy doesn't. So you're picking on him."
 
 He walked on past us and down the stairs without waiting for an answer. It was the first time I'd ever heard Old Pete stand up for me. Even if it came with a conspiracy theory.
 
@@ -110,7 +110,7 @@ Meanwhile, Corey the electrician checked the meter. He hooked some instrument wi
 
 "The meter's fine," he said. "It's counting right. Everything it shows, you used."
 
-"That's what I said," I said.
+"Told you," I said.
 
 Corey closed his toolbox and gave me a long look.
 
@@ -130,13 +130,13 @@ Corey looked at the cord for a long time. Then at me. Then back at the cord. He 
 
 "It hasn't yet."
 
-"I'm not putting that 'yet' in my report," said Corey. "But the wiring in your building is thirty years old. The riser for the power is aluminum. Your floor has one line for three apartments. When you draw a kilowatt and a half for five hours, the voltage drops for your neighbors on the line."
+"I'm not putting that 'yet' in my report," said Corey. "But the wiring in your building is thirty years old. The risers are aluminum. And your whole floor, three apartments, is on one line. When you draw a kilowatt and a half for five hours, the voltage drops for your neighbors on the line."
 
 "Drops?"
 
-"Drops," said Corey. "The aluminum splices heat up, the resistance goes up, and you lose voltage across them. All three apartments at once. The lights go dim. The fridge in 41 hums and doesn't start on the first try." He paused. "And aluminum heats up under a load like that. Especially at the splices. I looked in the panel. It's already turned dark in there. If this keeps up, there'll be a fire. Not today. But there will be."
+"Drops," said Corey. "The aluminum splices heat up, the resistance goes up, and you lose voltage across them. All three apartments at once. The lights go dim. The fridge in 41 hums and doesn't start on the first try." He paused. "And aluminum heats up under a load like that. Especially at the splices. I looked in the panel. Your connections are already scorched. If this keeps up, there'll be a fire. Not today. But there will be."
 
-I stood in the doorway and felt my back go cold.
+I stood in the doorway and felt a chill run down my back.
 
 "Katie told me," I said slowly, "that her sewing machine keeps stopping in the evenings. I thought it was the machine."
 
@@ -146,7 +146,7 @@ I stood in the doorway and felt my back go cold.
 
 After they left, I sat down on the iron chair and looked at my copper cord for a long time.
 
-Energy always belongs to somebody. I'd written that down the very first night, when I chilled Mrs. Mazur's radiator. Afterward I'd promised myself to keep an eye on it. And I had: on heat, on other people's engines, on the boiling water from the pie stand. But electricity I hadn't kept an eye on. Because the electricity was mine. I paid for it. My meter, my apartment, my cord.
+Energy always belongs to somebody. I'd figured that out the very first night, when I chilled Mrs. Mazur's radiator. Afterward I'd promised myself to keep an eye on it. And I had: on heat, on other people's engines, on the boiling water from the meat-pie stand. But electricity I hadn't kept an eye on. Because the electricity was mine. I paid for it. My meter, my apartment, my cord.
 
 The line, though, wasn't mine. The line was shared. Three apartments. And when I pulled a kilowatt and a half out of it, Katie in 40 couldn't finish hemming somebody's pants, and in 41 the light over the stove went out on neighbors I knew only by their doormat. I paid for the current, but I didn't pay for what I took from the neighbors. That bill didn't come to me. It came to them. As a flickering lightbulb. As a stalled sewing machine. And then, maybe, as a fire.
 
@@ -166,7 +166,7 @@ I called Val.
 
 "I haven't tried."
 
-"Silicon is sand. Well, almost. Sand is quartz, silicon dioxide. If you tear the oxygen off the silicon, you've got silicon. At a plant, they do it in arc furnaces, at two thousand degrees Celsius, with carbon. That takes a huge amount of energy. And then it still has to be purified, for a long time, and it's complicated and expensive. A solar cell is just very pure silicon in two layers: one with a little boron in it, the other with a little phosphorus. Light hits it, and a current shows up between the layers." Her eyes were blazing. "You can feel atoms. You can throw everything extra out of the silicon. You can make silicon purer than they do at the plant."
+"Silicon is sand. Well, almost. Sand is quartz, silicon dioxide. If you tear the oxygen off the silicon, you've got silicon. At a plant, they do it in arc furnaces, at two thousand degrees Celsius, with carbon. That takes a huge amount of energy. And then it still has to be purified, for a long time, and it's complicated and expensive. A solar cell is just very pure silicon in two layers: a thin one on top with a little phosphorus in it, and underneath, the rest, with a little boron. Light hits it, and a current shows up between the layers." Her eyes were blazing. "You can feel atoms. You can throw everything extra out of the silicon. You can make silicon purer than they do at the plant."
 
 "Tearing the oxygen off is breaking," I said. "Breaking is expensive. You wrote that down yourself."
 
@@ -180,7 +180,7 @@ I thought about it. And I remembered the fridge. "Some savings happen once. Some
 
 "And how much do I give?"
 
-Val opened her notebook and started calculating. She calculated for a long time, muttering to herself about binding energy, kilowatt-hours and square meters. Then she looked up.
+Val opened her notebook and started calculating. She calculated for a long time, muttering to herself about bond energies, kilowatt-hours and square meters. Then she looked up.
 
 "A square meter of panel," she said. "If you pull it from the outlet, that's about ten bags on your electric bill. Once. And then it gives back…" She looked out the window at the gray December sky. "Not much in winter. A lot in summer. On average, about four bags' worth of electricity a year. Every year. For twenty years."
 
@@ -192,7 +192,7 @@ I looked at her. Then at my balcony. My balcony faced south. I knew that because
 
 "Only I can't pull it from the outlet," I said. "The line's shared. Corey says fire."
 
-"Then do it at night," said Val. "At night everybody's asleep, and the line's free. And slowly. Not a kilowatt and a half: half a kilowatt. Every night. For a long time."
+"Then do it at night," said Val. "At night everybody's asleep, and the line's free. And slowly. Half a kilowatt, not a kilowatt and a half. Every night. For a long time."
 
 I thought that was right. At night the neighbors are asleep. Their fridges start up without me in the way. Katie isn't sewing. The neighbors in 41 aren't cooking. And if I draw slowly, the line doesn't heat up.
 
@@ -202,15 +202,15 @@ I thought that was right. At night the neighbors are asleep. Their fridges start
 
 ---
 
-We collected the sand on Saturday, at the city beach, which in December was empty, wet and gray. Two buckets. Val picked out the whitest sand, the quartz, and I hauled the buckets. We probably looked crazy: two grown-ups in jackets shoveling sand on an empty beach in the rain. A man walking his dog went by and stared at us for a long time.
+We collected the sand on Saturday, at the city beach, which in December was empty, wet and gray. Two buckets. Val picked out the whitest sand, the quartz, and I hauled the buckets. We probably looked crazy: two grown-ups in jackets scooping up sand on an empty beach in the rain. A man walking his dog went by and stared at us for a long time.
 
-"It's for the cat," Val told him.
+"Cat litter," Val told him.
 
 The man nodded and left. Apparently a cat that needed two buckets of river sand didn't surprise him.
 
 At home we spread the sand out on sheet pans from Stefan the baker: I'd straightened his, and he'd paid me with two old ones. Val opened her notebook and started explaining.
 
-"First, separate the quartz from everything else," she said. "Clay, iron, mica. You can do that: different substances don't mix, you just sort them out. Then tear off the oxygen. That's the expensive part. That's all night. Then line the silicon up into a crystal. That's cheap, it wants to. Like copper sulfate."
+"First, separate the quartz from everything else," she said. "Clay, iron, mica. You can do that: different materials don't mix, you just sort them out. Then tear off the oxygen. That's the expensive part. That's all night. Then line the silicon up into a crystal. That's cheap, it wants to. Like copper sulfate."
 
 "What about the boron and phosphorus?"
 
@@ -228,11 +228,11 @@ I laughed.
 
 The first panel took me four nights.
 
-It was the hardest work of my life. Harder than the valve. Harder than Greg's knife. Because in quartz, the silicon holds on to its oxygen the way Bull held the wheel of his old blue sedan once it finally started: with everything he had, and with no intention of letting go.
+It was the hardest work of my life. Harder than Bull's engine valve. Harder than Greg's knife. Because in quartz, the silicon holds on to its oxygen the way Bull held the wheel of his old blue sedan once it finally started: with everything he had, and with no intention of letting go.
 
 I sat in the kitchen at night on the iron chair, in my father's boots, with my feet on the mat. The copper tips were pressed against the thimble on my right hand, and my left palm lay on the sheet pan of sand. The valve was barely cracked, a third of what I drew in the evenings. Half a kilowatt. Slowly. A handful of sand a night. I could feel the oxygen tearing away from the silicon (grudgingly, resisting, the way a bandage comes off) and drifting off into the air. What stayed behind was silicon: gray, shiny and brittle as cast iron.
 
-Sometimes, toward morning, when I got too tired to hold the valve steady, the thimble tried to take more. Then I'd take the cord away and draw heat from the room instead. From the air. By dawn the kitchen windows would be covered with frost on the inside, white ferns, like at Aunt Wanda's out in the country. I kept my hand well away from the radiator and looked at it the way you'd look at somebody else's wallet. The colder my kitchen got, the more heat the radiator handed over to me instead of passing it down the riser. So from the air I took only a little, just enough to make it to morning, and then went straight back to the cord. Lugnut moved under the blanket to sleep and came out only to eat, giving me looks of disapproval.
+Sometimes, toward morning, when I got too tired to hold the valve steady, the thimble tried to take more. Then I'd take the cord away and draw heat from the room instead. From the air. By dawn the kitchen windows would be covered with frost on the inside, white ferns, like at Aunt Wanda's out in the country. I kept my hand well away from the radiator and looked at it the way you'd look at somebody else's wallet. The colder my kitchen got, the more heat the radiator handed over to me instead of passing it down the riser. So from the air I took only a little, just enough to make it to morning, and then went straight back to the cord. Lugnut took to sleeping under the blanket and came out only to eat, giving me looks of disapproval.
 
 By the fourth morning I had a wafer. As thin as window glass, gray-blue, with a metallic shine. A square as wide as my hand is long. It wasn't much. But it was silicon.
 
@@ -246,7 +246,7 @@ Val came over on Wednesday evening (she came on Wednesdays anyway), picked the w
 
 I could see her eyes burning. It wasn't the same fire as with the copper sulfate. It was something else. Hunger. The hunger of a scientist who's waited her whole life to have something in her hands that nobody else has.
 
-"This could be published," she said. Slowly. As if she were tasting the word. "If I find an analyzer. If I can prove the purity. That's a paper. A real one. In a journal. Not the department's annual collection: a real journal."
+"This could be published," she said. Slowly. As if she were tasting the word. "If I find an analyzer. If I can prove the purity. That's a paper. A real one. In a journal. Not the department's in-house bulletin: a real journal."
 
 "And how will you explain where the silicon came from?"
 
@@ -278,13 +278,13 @@ I held it in my hand for a long time. The silver felt soft and warm, like butter
 
 Val looked at the little bar. Then at me.
 
-"If you don't want to, don't," she said. "We can use copper. It'll be a little worse."
+"If you don't want to, we don't have to," she said. "We can use copper. It'll be a little worse."
 
 I thought about it. I thought about Grandma, who could shape forty hand pies in the time it took you to blink. About how the spoon had spent twenty years in Mom's cupboard "to remember her by," and then on my shelf. About how remembering isn't when a thing sits there. Remembering is when a thing works.
 
 A thing should work, not sit around. That's what Professor Stern used to say.
 
-"Let's use it," I said.
+"We have to," I said.
 
 I pinched off a crumb of the bar, smaller than a grain of rice, drew it out into threads finer than a hair and laid them across the front side, branching like the veins on a leaf. Grandma's spoon settled onto the silicon as a fine silver mesh and gleamed under the lamp. I put the rest back in the little case of hooks. There was enough left for a lot more squares like this one. Not for all of them.
 
@@ -322,7 +322,7 @@ I looked at her. She looked at me. No teasing. No hiding behind chemistry. Strai
 
 "What experiment?" I asked. My voice had gone hoarse.
 
-"You'll find out," said Val. "Come. And this time, be on time. I remember that Wednesday."
+"You'll find out," said Val. "Be there. And this time, on time. I remember that Wednesday."
 
 I thought that this time I'd get off the bus.
 
