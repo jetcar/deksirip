@@ -62,7 +62,7 @@ I took out the sheet. The bear looked at Val. Val looked at the bear.
 
 "Me too. What's it for?"
 
-Val took a box off the shelf and set it down in front of me. Inside the box was a skein of thread. Shiny, smooth, the color of baked milk. I touched a strand. It slid between my fingers like water.
+Val took a box off the shelf and set it down in front of me. Inside the box was a skein of thread. Shiny, smooth, the color of heavy cream. I touched a strand. It slid between my fingers like water.
 
 "Silk," I said.
 
@@ -96,7 +96,7 @@ For thirty years, Professor Stern had written that precision equals understandin
 
 "And if nothing changes?"
 
-"Then Professor Stern was wrong, and that's a result too." She pushed up her glasses. "In science, 'nothing changed' is an answer too. It's just that nobody wants to publish it."
+"Then Professor Stern was wrong, and that's a result too." She pushed up her glasses. "In science, 'nothing changed' is an answer. It's just that nobody wants to publish it."
 
 I looked at the table. At the columns: "Eaten, in hand pies," "Strength, in grams," "Time, in minutes," "Notes." The last column was the widest.
 
@@ -118,7 +118,7 @@ I ate two hand pies while I made it. Sweat broke out on my temples. Half a therm
 
 Val tied the thread to a ring stand and hung an unbent paper clip from the bottom of it as a hook. On the hook she hung a plastic flask and poured water into it from a graduated cylinder. "A hundred milliliters is a hundred grams, plus the flask, which is forty," she said. "I'm not hanging the weights from the analytical balance on a thread. Those are for tweezers." Forty grams, the empty flask. Fifty. A hundred. At a hundred and twenty, the thread quietly came apart in the middle, as if it were tired.
 
-"A hundred and twenty grams," Val wrote down. "Two hand pies and half a thermos. Six minutes. Note: 'Looks like a loofah from a bathhouse where they wash in misery.'"
+"A hundred and twenty grams," Val wrote down. "Two hand pies and half a thermos. Six minutes. Note: 'Looks like a loofah from a bathhouse where people go to scrub off despair.'"
 
 "That's not a scientific note."
 
@@ -186,7 +186,7 @@ I looked at her. She was standing by the bench with her notebook, with the penci
 
 "I'm holding it."
 
-"Don't," she said. "I've changed my mind. Hold only the most important part. Not on me. Not on you. Us: by hand only. And everything else…"
+"Don't," she said. "I've changed my mind. Hold only the most important part. Don't use it on me. Don't use it on yourself. Us: hands only. And everything else…"
 
 She swept her hand around the lab.
 
@@ -212,7 +212,7 @@ The back room behind the lab was a small room with no window. It held a set of s
 
 "I noticed," I said, because it had squeaked when she sat down on it.
 
-I spread out what was left of the sheet. The bear ended up at our feet.
+I spread out what was left of the sheet. The bear ended up down at the foot.
 
 Val took off her glasses and set them on the shelf, next to the coffee can. It was strange. Without her glasses she looked younger and somehow more defenseless. She looked at me nearsightedly and laughed.
 
@@ -236,7 +236,7 @@ Val watched this with her eyebrows raised.
 
 I didn't interrupt.
 
-Her skin was warm, and where a vein beat under it, hot. I touched her only with my hands. That was hard, because the power wanted more. It wanted to understand Val the way I understood the sheet and the silicon: from the inside, down to the chain. I could feel the thimble reaching for her, for her skin, for her warmth, and I held it back. I held it the way I'd never held it before. Rule Six. Hands only. Only what a hand can do. Val seemed to understand what was going on with me, because she took my hand, the one with the thimble, and laid it on her waist, on the waistband of her jeans. On the metal button.
+Her skin was warm, and where a vein beat under it, hot. I touched her only with my hands. That was hard, because the power wanted more. It wanted to understand Val the way I understood the sheet and the silicon: from the inside, down to the chain. I could feel the thimble reaching for her, for her skin, for her warmth, and I held it back. I held it the way I'd never held it before. My rule. Hands only. Only what a hand can do. Val seemed to understand what was going on with me, because she took my hand, the one with the thimble, and laid it on her waist, on the waistband of her jeans. On the metal button.
 
 "Here," she said. "This one, you may."
 
@@ -250,7 +250,7 @@ The shank of the button on her jeans bent open a little and let go of the button
 
 She took her jeans off herself. She stepped out of them as if they were a puddle and stood there in front of me in her underwear, barefoot on the cold linoleum, curling her toes.
 
-Her underwear wasn't like in the movies. For some reason that's what I remember best. The bra was plain, gray, cotton, with one slightly stretched-out strap that kept slipping off her left shoulder, and she kept fixing it without noticing. And the panties were black lace, with a tiny bow in front, from a completely different set, from a different life. As if she'd gotten dressed that morning as a lab tech and then changed her mind halfway.
+Her underwear wasn't the kind you see in the movies. For some reason that's what I remember best. The bra was plain, gray, cotton, with one slightly stretched-out strap that kept slipping off her left shoulder, and she kept fixing it without noticing. And the panties were black lace, with a tiny bow in front, from a completely different set, from a different life. As if she'd gotten dressed that morning as a lab tech and then changed her mind halfway.
 
 Val followed my gaze and blushed. For the first time all evening.
 
@@ -258,15 +258,15 @@ Val followed my gaze and blushed. For the first time all evening.
 
 "You're not an idiot," I said. My voice had gone hoarse again.
 
-"That I know," said Val. "I meant the bow."
+"That I know," said Val. "I meant about the bow."
 
-I looked at her and couldn't look enough. In the back room there was one bulb burning, over the sink, and it laid a warm yellow light on Val's skin, and the shadows were blue. She was thin, all lines: sharp collarbones, narrow wrists with purple reagent stains, a narrow waist, with a red mark under her ribs left by the waistband of her jeans. Goose bumps on her shoulders. A mole on her left shoulder blade, shaped like a comma: I saw it when she turned to put down her glasses. Her hair, which she usually keeps up with a pencil, lay on her shoulders, dark and heavy, and she kept pushing it off her face with the same gesture she uses to push up her glasses, when there aren't any glasses.
+I looked at her and couldn't look enough. In the back room there was one bulb burning, over the sink, and it laid a warm yellow light on Val's skin, and the shadows were blue. She was thin, all lines: sharp collarbones, slender wrists with purple reagent stains, a narrow waist, with a red mark under her ribs left by the waistband of her jeans. Goose bumps on her shoulders. A mole on her left shoulder blade, shaped like a comma: I saw it when she turned to toss her sweater onto the shelf. Her hair, which she usually keeps up with a pencil, lay on her shoulders, dark and heavy, and she kept pushing it off her face with the same gesture she uses to push up her glasses, when there aren't any glasses.
 
 She was beautiful. Not like a picture. Like something you're seeing for the first time and know you're going to remember for the rest of your life, a piece at a time.
 
 And I stood there, afraid.
 
-Not of her. Of myself. The thimble was reaching for her again, for the warmth of her skin, for the steady beat under her collarbone, the same way it had reached for the sheet and the silicon. It wanted to understand her from the inside, down to the chain. And I held it back, harder than I'd ever held it. Rule Six. Don't touch the living. Her least of all. Now least of all. It suddenly hit me that if the power did even one thing wrong right now, I would never forgive myself, and my hands went cold.
+Not of her. Of myself. The thimble was reaching for her again, for the warmth of her skin, for the steady beat under her collarbone, the same way it had reached for the sheet and the silicon. It wanted to understand her from the inside, down to the chain. And I held it back, harder than I'd ever held it. My rule. Don't touch the living. Her least of all. Now least of all. It suddenly hit me that if the power did even one thing wrong right now, I would never forgive myself, and my hands went cold.
 
 Val noticed. She always notices everything.
 
@@ -288,7 +288,7 @@ Not on Val. On her, I held it to the very end, the way you hold something cupped
 
 The first thing I felt was that nothing was squeaking under us anymore. The cot springs, which three generations of lab techs knew by heart, went quiet. Then the canvas under Val's back spread out to half its thickness, light as sailcloth, and pulled tight as a drumhead: canvas is cotton too. Then the aluminum frame gave, softly, like wax, and flowed outward, spreading wide. The legs sank, grew shorter, spread out. The tubes got thinner, and the cot got lower and nearly twice as wide: there wasn't any more metal than before; it had just spread out. The head of it rose and curved into a wave, like a crest. The springs went from straight to coiled, soft and tight, and settled inside, under the canvas, in even rows. I didn't know what I was doing, but the power knew what I wanted. And what I wanted, apparently, was for us to have room and for nothing to squeak.
 
-And the sheet under us flowed. What was left of the cotton with the faded bear unwound its spirals and laid its chains lengthwise, tight, right up against each other, booth to booth. Under our palms, under her back, under our knees, cotton was turning into silk. Smooth, cool, slippery. The bear stayed. But now he shone.
+And the sheet under us flowed. What was left of the cotton with the faded bear unwound its spirals and laid its chains lengthwise, tight, right up against each other, booth to booth. Under our hands, under us, cotton was turning into silk. Smooth, cool, slippery. The bear stayed. But now he shone.
 
 Only then did I realize what I was paying for all this with. Or rather, who was paying. The radiator against the wall, which a minute ago had been as hot as a stove, was ice-cold. Frost had formed on the pipe under the sink. A little more and the water in that pipe would freeze, and ice cracks cast iron. I understood that at once, and at once I stopped taking from there. I checked myself, really checked, the way you check your pockets: from Val, not a drop of warmth. Around her I was holding the valve so tight my fingers cramped. The Poly was paying. With the building's heat. I thought I'd have to work it off in fume hoods sometime, and forgot about it almost right away.
 
@@ -306,7 +306,7 @@ And she laughed so hard that we both had to stop for a while.
 
 At midnight we heard footsteps.
 
-Far off at first, on the stairs. Shuffling, heavy. Then the jingle of keys. Then a voice mumbling something to the tune of an old song. Gus was doing his rounds. Third floor last. Last had arrived.
+Far off at first, on the stairs. Shuffling, heavy. Then the jingle of keys. Then a voice mumbling something to the tune of an old song. Gus was doing his rounds. Third floor last. And now it was last.
 
 We froze. Val with her hair down, wrapped in the silk bear; me next to her, in nothing but my socks. We both looked at the door of the back room. The door was shut. Latched. And the latch, I knew for a fact, was held on by a single nail.
 
@@ -370,7 +370,7 @@ I didn't know what to say. I kept quiet and listened.
 
 She turned her head and looked at me. Nearsightedly, but very intently.
 
-"I want to understand it," she said. "Not watch you do it. Understand it. Today I watched the curve go down, and it was better than… " She hesitated. "Almost as good as everything else."
+"I want to understand it," she said. "Not watch you do it. Understand it. Today I watched the curve go down, and it was better than…" She hesitated. "Almost as good as everything else."
 
 "Almost?"
 
@@ -378,9 +378,9 @@ She turned her head and looked at me. Nearsightedly, but very intently.
 
 Then she said, more quietly:
 
-"I'm afraid of one thing. That I'll end up just being next to you. The way I am with Dr. Andrews. You work the miracle, and I write it down in the notebook and write the acknowledgments. 'Timothy Nagel reshaped the cellulose; lab technician Finch added water to the flask.' I don't want to be the water in the flask."
+"I'm afraid of one thing. That I'll end up as your assistant. The way I am for Dr. Andrews. You work the miracle, and I write it down in the notebook and write the acknowledgments. 'Timothy Nagel reshaped the cellulose; lab technician Finch added water to the flask.' I don't want to be the water in the flask."
 
-"You're not the water in the flask," I said. "Without you I'd still be making loofahs out of misery."
+"You're not the water in the flask," I said. "Without you I'd still be making loofahs out of despair."
 
 "You're saying that now," said Val. "In bed."
 
@@ -390,7 +390,7 @@ She laughed. But not all the way.
 
 I thought she was right. Not that I'd deceive her. But that this was how it was set up. The power was mine. The thimble was mine. However much Val knew, she was next to the miracle, not inside it. And all of a sudden I remembered my notebook, the last line: "Need more hands. Where?" The word "Where" had turned out to be underlined twice.
 
-"Listen," I said. "In one of the twenty-something volumes, the ones where the professor stopped being afraid to write, there's a line. That the thimble isn't a source, it's an amplifier. That the ability itself is something lots of people have, only it's quiet."
+"Listen," I said. "In volume twenty-something, the ones where the professor stopped being afraid to write, there's a line. That the thimble isn't a source, it's an amplifier. That the ability itself is something lots of people have, only it's quiet."
 
 "I read that."
 
@@ -474,7 +474,7 @@ He put a check mark in the log. Next to my name, in the "Time out" column. Then 
 
 "Uh-huh," said Gus, and wrote something into his crossword.
 
-We came out onto the front steps. It was snowing. Val took my hand and said she was about to die of embarrassment. And she didn't die. Instead she laughed so loud, there on the steps, that a cap of snow slid off the spruce.
+We came out onto the front steps. It was snowing. Val took my hand and said she was about to die of embarrassment. She didn't. Instead she laughed so loud, there on the steps, that a cap of snow slid off the spruce.
 
 ---
 
@@ -484,11 +484,11 @@ Mom called at eleven, when I was already on the bus home.
 
 "On the bus, Mom."
 
-"On a Sunday? At eleven?" A pause. I could hear her listening to the bus: the engine, the doors, the next stop being announced. "You didn't sleep at home?"
+"On a Sunday? At eleven?" A pause. I could hear her listening to the bus: the engine, the doors, the next stop being announced. "You didn't come home last night?"
 
 I looked out the window at the snow, at the town, at the spruce by the Poly, which had already slid away behind us. And I said:
 
-"Not at home, Mom."
+"No, Mom. Not home."
 
 Mom was quiet for a long time. Then she said:
 
