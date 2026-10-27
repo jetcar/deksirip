@@ -1,6 +1,6 @@
 # Chapter 19. The Lockpick
 
-On the second of January, at nine in the morning, somebody was shouting out in the yard.
+On January second, at nine in the morning, somebody was shouting out in the yard.
 
 It wasn't the shouting that woke me. It was Lugnut. He was sitting on my chest, looking me in the face the way a cat looks at you when his bowl is empty and something more interesting than the bowl is going on outside the window. Then I heard the shouting. A man's voice, hoarse, with the kind of details they don't print in books.
 
@@ -12,7 +12,7 @@ Now there was nothing left but the car and the couch.
 
 I got dressed and went down.
 
-On New Year's Eve, Val and I had stood on Mrs. Mazur's balcony with plates of napoleon and watched the fireworks. The whole yard was full of light and smoke. I remember thinking it was the best New Year's of my life. I didn't know that somewhere down below, by the garages, at that very minute, Mikey was holding somebody else's padlock in his palm.
+On New Year's Eve, Val and I had stood on Mrs. Mazur's balcony with slices of napoleon and watched the fireworks. The whole yard was full of light and smoke. I remember thinking it was the best New Year's of my life. I didn't know that somewhere down below, by the garages, at that very minute, Mikey was holding somebody else's padlock in his palm.
 
 ---
 
@@ -44,7 +44,7 @@ I gave him back the padlock and looked up. At the third floor of our building. R
 
 Mikey didn't open right away. First I knocked. Then I said through the door, "Mikey, it's me. Just me." Then the door opened on the chain, and Mikey's eye showed in the crack. Red, as if he hadn't slept.
 
-"Mom's on shift," he said. "Till tonight."
+"Mom's at work," he said. "Till tonight."
 
 "I'm not here for your mom."
 
@@ -66,7 +66,7 @@ After the paper clip at Mrs. Mazur's, he couldn't sleep. He lay there thinking: 
 
 A minute. Without a thimble, through the body of the lock. I hadn't known that was possible. It's a small spring, and letting it go is downhill, and he'd been practicing for five days. But still. A minute.
 
-"It won't go back to the way it was," I said. "Soft steel doesn't harden itself again. It has to be hardened all over. Did you know that?"
+"It won't go back to the way it was," I said. "Soft steel doesn't harden itself again. It has to be hardened all over again. Did you know that?"
 
 Mikey shook his head.
 
@@ -114,7 +114,7 @@ I hadn't called him. He came out on his own. In a hoodie, no hat, his ears red. 
 
 "I opened it. On New Year's Eve. On a bet. I didn't take anything. But I opened it. And it's because of me the padlock won't hold."
 
-It got so quiet by the garages that you could hear a crow scratching around on a roof.
+It got so quiet by the garages that you could hear a crow scratching around on the roof.
 
 "Opened it with what?" asked Sommers.
 
@@ -124,7 +124,7 @@ Mikey looked at me. I understood that he didn't know what to say. That "I asked 
 
 Sommers looked at his hands. At me. At Hank. At the padlock without a single scratch on it.
 
-"With your hands," he repeated, and typed it in. I could see that he typed exactly those words. "Did you take anything?"
+"With your hands," he repeated, and typed it in. I could see that he typed exactly that: "with my hands." "Did you take anything?"
 
 "No."
 
@@ -138,7 +138,7 @@ Mikey was quiet for a moment.
 
 And he left. I never did figure out whether he believed it or not. I don't think he'd figured it out himself.
 
-But I figured out something else. Today I wasn't the one who'd been spotted. Today it was Mikey. And on Sommers's tablet it was written down in three words: "with my hands."
+But I figured out something else. Today I wasn't the one who'd lit up. Today it was Mikey. And on Sommers's tablet it was written down in three words: "with my hands."
 
 ---
 
@@ -146,7 +146,7 @@ That evening there was a meeting in the stairwell.
 
 It was Old Pete's idea. He said that since "an emergency incident has occurred involving a member of the collective," there had to be minutes. He wrote out a notice by hand and posted it on the first floor by the mailboxes, with a copy on his own door, under DON'T RING. I KNOW. "GENERAL MEETING. AGENDA: RESPONSIBILITY. ATTENDANCE MANDATORY."
 
-Everybody came. Mrs. Mazur with hand pies. Judy the nurse from the third floor, old Shirley with her knitting, Katie from 40 with thread between her teeth, because she was in the middle of hemming somebody's pants. Val: I'd called her, and she'd come all the way across town, a scarf on over the sweater she wore around the house. Mikey's mom, Lana, came. Straight from her shift at the bread plant, in a jacket that smelled of warm bread. With the face of somebody who'd found out everything about her son on one single day. And Mikey. He sat on a step between the second and third floors, his arms around his knees, looking at the floor.
+Everybody came. Mrs. Mazur with hand pies. Judy the nurse from the third floor, old Shirley with her knitting, Katie from 40 with thread between her teeth, because she was in the middle of hemming somebody's pants. Val: I'd called her, and she'd come all the way across town, a scarf on over the sweater she wore around the house. Mikey's mom, Lana, came. Straight from her shift at the bread plant, in a jacket that smelled of warm bread. With the face of somebody who'd found out everything about her son all at once, today. And Mikey. He sat on a step between the second and third floors, his arms around his knees, looking at the floor.
 
 Hank came too. Nobody had invited him, but Old Pete said the injured party had the right.
 
@@ -226,7 +226,7 @@ Everybody raised their hands. Hank, after a pause.
 
 Everybody raised their hands.
 
-"Three. So does whoever taught them, if he knew the student could do it and didn't tell him where the edge is."
+"Three. So does the one who taught him, if he knew the student could do it and didn't tell him where the edge is."
 
 Everybody raised their hands. I raised mine first.
 
@@ -250,7 +250,7 @@ Hank looked at him for a long time.
 
 "Words," he said. "Words won't get me my welder back."
 
-"I know," said Mikey. "I'll work it off. I'll make the padlock over. And the doors. Your left hinge is rusted, it's going to fall off soon. I saw it. Tim will help me. But I'll do it myself. So it's me."
+"I know," said Mikey. "I'll work it off. I'll fix your padlock. And the doors. Your left hinge is rusted, it's going to fall off soon. I saw it. Tim will help me. But I'll do it myself. It has to be me."
 
 Hank looked at me.
 
@@ -262,7 +262,7 @@ Hank was quiet. Then he waved his hand: not "get lost," but something else, half
 
 I thought about it. You can't make a welder out of nothing. A vise you can, out of scrap metal, but it wouldn't be the same vise, not the one from twenty years of collecting. Tools you can buy. New. For money. The outside world only takes money. I'd written that down once already.
 
-I ran the numbers. The welder: forty bags or so, if it's not new. Two cases of tools: the same again. My half: a week of good days. Mikey's: twenty Saturdays or so.
+I ran the numbers. The welder: forty bags or so, if we buy used. Two cases of tools: the same again. My half: a week of good days. Mikey's: a lot of Saturdays.
 
 "The tools, in money," I said. "Split down the middle. Half from me, under rule three. Half from Mikey; he'll work it off. And I'll make you a vise myself, if you don't turn your nose up at it, out of scrap from the junkyard. It'll be better than your old one."
 
@@ -270,7 +270,7 @@ Lana flinched.
 
 "We don't have the money," she said quietly. "Timothy, we really don't."
 
-"Mikey will," I said. "He'll spend six months of Saturdays with us at the market. Writing up orders. That's paid work. And Mikey gives the money to Hank. It's not a gift. It's a job."
+"Mikey will," I said. "He'll spend his Saturdays with us at the market. Writing up orders. That's paid work. And Mikey gives the money to Hank. It's not a gift. It's a job."
 
 Lana looked at her son. Mikey was looking at his mother.
 
@@ -294,7 +294,7 @@ I stopped.
 
 She nodded. Not angrily. Tiredly.
 
-"I work nights," she said. "The bread plant, two shifts on, two off. He's on his own. So he sits in front of his monitors. I thought: well, fine, at least he's home. And it turns out he's been going to see you. Bending paper clips." She paused. "I'm not against it. Honestly. You're better for him than those monitors. But next time, ask. It matters to me."
+"I work nights," she said. "Twelve-hour shifts at the bread plant, two on, two off. He's on his own. So he sits in front of his monitors. I thought: well, fine, at least he's home. And it turns out he's been going to see you. Bending paper clips." She paused. "I'm not against it. Honestly. You're better for him than those monitors. But next time, ask. It matters to me."
 
 I'd heard that before. Val, the night of the buttons: "Ask. It matters to me." My rule: don't touch without permission. I'd thought it was only about bodies. It turned out it was also about other people's kids.
 
@@ -316,11 +316,11 @@ I called Ashot that same evening. His booth was closed until the fifth, but I kn
 
 I didn't say anything. The whole market already knew, it turned out. The market always knows everything before the police do.
 
-"I am not asking," said Ashot. "Let him come. Half a bag a Saturday, and a meat pie. The meat pie is from me. Sorting heel tips I will not let him do: I have my own system there, he would not understand it. But writing, fine. And one more thing, Tim." He paused. "Tell him not to touch my padlock. I have been hanging it up for twenty years. I am used to it."
+"I'm not asking," said Ashot. "Let him come. Half a bag a Saturday, and a meat pie. The meat pie is from me. Sorting heel tips I won't let him do: I have my own system there, he wouldn't understand it. But writing, fine. And one more thing, Tim." He paused. "Tell him not to touch my padlock. I've been hanging it up for twenty years. I'm used to it."
 
 "I'll tell him," I said.
 
-"And tell him," Ashot added, "if he wants to touch something with his hands, let him touch leather. Leather was alive once. You have to treat it right. Maybe he will learn something."
+"And tell him," Ashot added, "if he wants to touch something with his hands, let him touch leather. Leather was alive once. You have to treat it right. Maybe he'll learn something."
 
 I didn't tell him that leather isn't alive, it's what's left of something alive. Ashot, I think, knew that himself. He'd just been treating it right for thirty years.
 
@@ -358,7 +358,7 @@ Without a thimble, Mikey couldn't have turned the rust back into iron: that's up
 
 At first Hank stood by the doors with a thermos and didn't say anything. Then, still without a word, he brought out a second cup and poured Mikey some tea. Then he said, without looking at us:
 
-"You know why I spend more time here than at home? My wife's been gone six years. It's quiet at home. Out here there's metal. It's never quiet with metal. It creaks, it rusts, it breaks. It always needs something." He paused. "So what I need is for something to need me."
+"You know why I spend more time here than at home? My wife's been gone six years. It's quiet at home. Out here there's metal. It's never quiet with metal. It creaks, it rusts, it breaks. It always needs something." He paused. "So what I need is for somebody to need me."
 
 Mikey stopped hammering. Then he started again. More quietly.
 
@@ -388,7 +388,7 @@ By lunchtime the hinge had stopped creaking. The door swung smoothly, at the pus
 
 That night I sat in the kitchen writing in my notebook. Lugnut came back from somewhere with Old Pete's pen in his teeth, set it on the table and lay down beside it. I didn't take it away from him.
 
-I wrote down Old Pete's three rules. Word for word. Then I looked at the third: "So does whoever taught them, if he knew the student could do it and didn't tell him where the edge is."
+I wrote down Old Pete's three rules. Word for word. Then I looked at the third: "Three. So does the one who taught him, if he knew the student could do it and didn't tell him where the edge is."
 
 I knew. I didn't tell him. Half the welder is mine.
 
