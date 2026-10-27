@@ -1,0 +1,392 @@
+{
+  "/home/user/deksirip/novel-materia/chapters/01-minus-sorok-sem-tysyach.md": {
+    "mtime": 1792990171.72081,
+    "seen": 1793096060.9669933,
+    "ast_hash": "f68de52c4a739143a5b87f35f8800cbc",
+    "semantic_hash": "f68de52c4a739143a5b87f35f8800cbc"
+  },
+  "/home/user/deksirip/novel-materia/chapters/02-vsyo-chto-pod-rukoy.md": {
+    "mtime": 1792990171.7216184,
+    "seen": 1793096060.9670024,
+    "ast_hash": "fc69b4c50af5194623eb532f7ff5fea1",
+    "semantic_hash": "fc69b4c50af5194623eb532f7ff5fea1"
+  },
+  "/home/user/deksirip/novel-materia/chapters/03-remont-bez-zapchastey.md": {
+    "mtime": 1792990171.7244987,
+    "seen": 1793096060.9670062,
+    "ast_hash": "de0e8c9ab473ea1c9c8d56528a2457cf",
+    "semantic_hash": "de0e8c9ab473ea1c9c8d56528a2457cf"
+  },
+  "/home/user/deksirip/novel-materia/chapters/04-zolotoy-vopros.md": {
+    "mtime": 1792990171.7268057,
+    "seen": 1793096060.9670088,
+    "ast_hash": "1edb05ac8fd1a29e2a23679c4d2052b2",
+    "semantic_hash": "1edb05ac8fd1a29e2a23679c4d2052b2"
+  },
+  "/home/user/deksirip/novel-materia/chapters/05-apteka-dlya-zheleza.md": {
+    "mtime": 1792990171.7277727,
+    "seen": 1793096060.9670105,
+    "ast_hash": "f1a2a725569571686dc1f4b3b1679982",
+    "semantic_hash": "f1a2a725569571686dc1f4b3b1679982"
+  },
+  "/home/user/deksirip/novel-materia/chapters/06-tetradi-shterna.md": {
+    "mtime": 1792990171.7283313,
+    "seen": 1793096060.9670124,
+    "ast_hash": "60eb9bb8b50e511ab61a47b66f7d3d8f",
+    "semantic_hash": "60eb9bb8b50e511ab61a47b66f7d3d8f"
+  },
+  "/home/user/deksirip/novel-materia/chapters/07-sdelat-a-ne-kupit.md": {
+    "mtime": 1792990171.7293146,
+    "seen": 1793096060.967014,
+    "ast_hash": "c06e792d40683c2393af74757ed4387c",
+    "semantic_hash": "c06e792d40683c2393af74757ed4387c"
+  },
+  "/home/user/deksirip/novel-materia/chapters/08-laborantka.md": {
+    "mtime": 1792990171.7303777,
+    "seen": 1793096060.9670157,
+    "ast_hash": "84d3a981148a9380794c84b807f1977f",
+    "semantic_hash": "84d3a981148a9380794c84b807f1977f"
+  },
+  "/home/user/deksirip/novel-materia/chapters/09-kollektor.md": {
+    "mtime": 1792990171.7312644,
+    "seen": 1793096060.9670172,
+    "ast_hash": "82d611ae0101a2993b492fce9bdc14f4",
+    "semantic_hash": "82d611ae0101a2993b492fce9bdc14f4"
+  },
+  "/home/user/deksirip/novel-materia/chapters/10-to-chto-nuzhno-vsem.md": {
+    "mtime": 1792990171.7318525,
+    "seen": 1793096060.967019,
+    "ast_hash": "d85320c76adc5423b0324f4c980ce4c7",
+    "semantic_hash": "d85320c76adc5423b0324f4c980ce4c7"
+  },
+  "/home/user/deksirip/novel-materia/chapters/11-sosed-po-rynku.md": {
+    "mtime": 1792990171.7324884,
+    "seen": 1793096060.9670208,
+    "ast_hash": "dd2e1c09cad746f4b9a0596509b6f687",
+    "semantic_hash": "dd2e1c09cad746f4b9a0596509b6f687"
+  },
+  "/home/user/deksirip/novel-materia/chapters/12-pirogi-rikardo.md": {
+    "mtime": 1792990171.73454,
+    "seen": 1793096060.9670227,
+    "ast_hash": "957c739cb1004bc867e5d93d866ff21c",
+    "semantic_hash": "957c739cb1004bc867e5d93d866ff21c"
+  },
+  "/home/user/deksirip/novel-materia/chapters/13-nina-petrovna.md": {
+    "mtime": 1792990171.7364585,
+    "seen": 1793096060.967024,
+    "ast_hash": "28dd66cb976c3c42fd89156f4b214cc0",
+    "semantic_hash": "28dd66cb976c3c42fd89156f4b214cc0"
+  },
+  "/home/user/deksirip/novel-materia/chapters/14-schyotchik.md": {
+    "mtime": 1792990171.7394068,
+    "seen": 1793096060.9670258,
+    "ast_hash": "ed8f8228d7b4f8fdbea18d9a7c919c0c",
+    "semantic_hash": "ed8f8228d7b4f8fdbea18d9a7c919c0c"
+  },
+  "/home/user/deksirip/novel-materia/chapters/15-noch-v-laboratorii.md": {
+    "mtime": 1792990171.7404518,
+    "seen": 1793096060.9670272,
+    "ast_hash": "008a14797fbe680d9400333d8f72cac3",
+    "semantic_hash": "008a14797fbe680d9400333d8f72cac3"
+  },
+  "/home/user/deksirip/novel-materia/chapters/16-zlata.md": {
+    "mtime": 1792990171.7404518,
+    "seen": 1793096060.9670286,
+    "ast_hash": "0e9836290b07c7fccfc4c48c2330f229",
+    "semantic_hash": "0e9836290b07c7fccfc4c48c2330f229"
+  },
+  "/home/user/deksirip/novel-materia/chapters/17-vtoroy-nositel.md": {
+    "mtime": 1792990171.7404518,
+    "seen": 1793096060.9670303,
+    "ast_hash": "ea07c7d55620541b9f79ef40fb0e4f5e",
+    "semantic_hash": "ea07c7d55620541b9f79ef40fb0e4f5e"
+  },
+  "/home/user/deksirip/novel-materia/chapters/18-pervyy-uchenik.md": {
+    "mtime": 1792990171.7404518,
+    "seen": 1793096060.9670317,
+    "ast_hash": "bde350b15c6849e8c2ef81fd88774d41",
+    "semantic_hash": "bde350b15c6849e8c2ef81fd88774d41"
+  },
+  "/home/user/deksirip/novel-materia/chapters/19-otmychka.md": {
+    "mtime": 1792990171.7454505,
+    "seen": 1793096060.9670336,
+    "ast_hash": "24b7904f6c9797108b7fc5a9ae02421f",
+    "semantic_hash": "24b7904f6c9797108b7fc5a9ae02421f"
+  },
+  "/home/user/deksirip/novel-materia/chapters/20-snos.md": {
+    "mtime": 1792990171.74624,
+    "seen": 1793096060.967035,
+    "ast_hash": "c5eaa0e8d57e348c0adb643a546b97c2",
+    "semantic_hash": "c5eaa0e8d57e348c0adb643a546b97c2"
+  },
+  "/home/user/deksirip/novel-materia/chapters/21-kopiya.md": {
+    "mtime": 1792990171.7474246,
+    "seen": 1793096060.9670367,
+    "ast_hash": "d362f3f9dac4bac68340bd0f17e22fee",
+    "semantic_hash": "d362f3f9dac4bac68340bd0f17e22fee"
+  },
+  "/home/user/deksirip/novel-materia/chapters/22-masterskaya.md": {
+    "mtime": 1792990171.748082,
+    "seen": 1793096060.9670382,
+    "ast_hash": "974b641fe398c1c08778b9760c1df747",
+    "semantic_hash": "974b641fe398c1c08778b9760c1df747"
+  },
+  "/home/user/deksirip/novel-materia/chapters/23-hod-gleba.md": {
+    "mtime": 1792990171.7488222,
+    "seen": 1793096060.96704,
+    "ast_hash": "6f326c0ca815e8385940bf2b1bf64870",
+    "semantic_hash": "6f326c0ca815e8385940bf2b1bf64870"
+  },
+  "/home/user/deksirip/novel-materia/chapters/24-dopros.md": {
+    "mtime": 1792990171.749146,
+    "seen": 1793096060.9670415,
+    "ast_hash": "943beff12ebdb6858d4ea4ce00f9b724",
+    "semantic_hash": "943beff12ebdb6858d4ea4ce00f9b724"
+  },
+  "/home/user/deksirip/novel-materia/chapters/25-rynok-za-vyhodnye.md": {
+    "mtime": 1792990171.7496872,
+    "seen": 1793096060.9670434,
+    "ast_hash": "35b60bd086a558cb97198317d9880368",
+    "semantic_hash": "35b60bd086a558cb97198317d9880368"
+  },
+  "/home/user/deksirip/novel-materia/chapters/26-chto-delat-s-glebom.md": {
+    "mtime": 1792990171.7500591,
+    "seen": 1793096060.9670448,
+    "ast_hash": "60bae79bd39304f19718bb22bf39749a",
+    "semantic_hash": "60bae79bd39304f19718bb22bf39749a"
+  },
+  "/home/user/deksirip/novel-materia/chapters/27-metodichka.md": {
+    "mtime": 1792990171.750335,
+    "seen": 1793096060.967047,
+    "ast_hash": "a260f4570207e9dca94bfbc9e04f8901",
+    "semantic_hash": "a260f4570207e9dca94bfbc9e04f8901"
+  },
+  "/home/user/deksirip/novel-materia/chapters/28-materialnyy-vopros.md": {
+    "mtime": 1792990171.7507925,
+    "seen": 1793096060.9670484,
+    "ast_hash": "f81ea1c75eddbfa33c68ee652ce0943e",
+    "semantic_hash": "f81ea1c75eddbfa33c68ee652ce0943e"
+  },
+  "bible/premise.md": {
+    "mtime": 1793095741.1021864,
+    "seen": 1793096060.9670503,
+    "ast_hash": "7624d78d505a9fcdc4ca61bfdaec56eb",
+    "semantic_hash": "7624d78d505a9fcdc4ca61bfdaec56eb"
+  },
+  "bible/world/_index.md": {
+    "mtime": 1793095741.3211925,
+    "seen": 1793096060.9670517,
+    "ast_hash": "050adb463d61f483054eb21802f15f91",
+    "semantic_hash": "050adb463d61f483054eb21802f15f91"
+  },
+  "bible/world/avtoservis-byka.md": {
+    "mtime": 1793095703.4094956,
+    "seen": 1793096060.9670534,
+    "ast_hash": "282a6d82b482b2eb84b9315b78f6bcba",
+    "semantic_hash": "282a6d82b482b2eb84b9315b78f6bcba"
+  },
+  "bible/world/dengi-i-doverie.md": {
+    "mtime": 1793095702.5050406,
+    "seen": 1793096060.9670548,
+    "ast_hash": "a91897f91ed7830ed72c9d99effd638f",
+    "semantic_hash": "a91897f91ed7830ed72c9d99effd638f"
+  },
+  "bible/world/dom-gleba.md": {
+    "mtime": 1793095702.5055006,
+    "seen": 1793096060.9670563,
+    "ast_hash": "480e88ecfc171093f1f6db91f89d9058",
+    "semantic_hash": "480e88ecfc171093f1f6db91f89d9058"
+  },
+  "bible/world/dom-timy.md": {
+    "mtime": 1793095703.417015,
+    "seen": 1793096060.967058,
+    "ast_hash": "99075f90de385887fea1dd31ef3eee99",
+    "semantic_hash": "99075f90de385887fea1dd31ef3eee99"
+  },
+  "bible/world/dom-v-michurintse.md": {
+    "mtime": 1793095703.409171,
+    "seen": 1793096060.9670599,
+    "ast_hash": "3fcd0862b4feaaeaaa33ac1e9663591f",
+    "semantic_hash": "3fcd0862b4feaaeaaa33ac1e9663591f"
+  },
+  "bible/world/garazhi-za-domom.md": {
+    "mtime": 1793095702.5056827,
+    "seen": 1793096060.9670615,
+    "ast_hash": "094ebec7ff148cdbc1c796161f2a71bb",
+    "semantic_hash": "094ebec7ff148cdbc1c796161f2a71bb"
+  },
+  "bible/world/garazhi-za-rynkom.md": {
+    "mtime": 1793095702.5049307,
+    "seen": 1793096060.9670632,
+    "ast_hash": "ad8366bb07c523130b22b9e5db4bd704",
+    "semantic_hash": "ad8366bb07c523130b22b9e5db4bd704"
+  },
+  "bible/world/gransk.md": {
+    "mtime": 1793095702.504306,
+    "seen": 1793096060.9670649,
+    "ast_hash": "ed50c07178f6a6c9df53cadce474d95b",
+    "semantic_hash": "ed50c07178f6a6c9df53cadce474d95b"
+  },
+  "bible/world/granskstroyekspertiza.md": {
+    "mtime": 1793095703.414242,
+    "seen": 1793096060.9670663,
+    "ast_hash": "93c1e34a31fdc59d4468ddb85ca68a13",
+    "semantic_hash": "93c1e34a31fdc59d4468ddb85ca68a13"
+  },
+  "bible/world/instruktsiya-niny-petrovny.md": {
+    "mtime": 1793095703.4118028,
+    "seen": 1793096060.967068,
+    "ast_hash": "cfc7fdbde49aae8977e070a901d6efed",
+    "semantic_hash": "cfc7fdbde49aae8977e070a901d6efed"
+  },
+  "bible/world/kolechko.md": {
+    "mtime": 1793095703.4114184,
+    "seen": 1793096060.9670696,
+    "ast_hash": "de290b34599e5ab2636b1c490a9bdc25",
+    "semantic_hash": "de290b34599e5ab2636b1c490a9bdc25"
+  },
+  "bible/world/lampa-shterna.md": {
+    "mtime": 1793095702.5051854,
+    "seen": 1793096060.9670713,
+    "ast_hash": "50d3432ebdb5a5ab4458ee90fef23d2a",
+    "semantic_hash": "50d3432ebdb5a5ab4458ee90fef23d2a"
+  },
+  "bible/world/lombard.md": {
+    "mtime": 1793095703.4155874,
+    "seen": 1793096060.967073,
+    "ast_hash": "e55189f33ed7f5e1a94de30ec5ad0ecb",
+    "semantic_hash": "e55189f33ed7f5e1a94de30ec5ad0ecb"
+  },
+  "bible/world/metodichka.md": {
+    "mtime": 1793095703.4129326,
+    "seen": 1793096060.9670777,
+    "ast_hash": "090b0ac9c724a6a36b99ad97e76e61f2",
+    "semantic_hash": "090b0ac9c724a6a36b99ad97e76e61f2"
+  },
+  "bible/world/naperstok.md": {
+    "mtime": 1793095703.4104111,
+    "seen": 1793096060.9670794,
+    "ast_hash": "406fa538afb28a5ef49cb5dd9278456e",
+    "semantic_hash": "406fa538afb28a5ef49cb5dd9278456e"
+  },
+  "bible/world/novyy-rynok.md": {
+    "mtime": 1793095702.5058177,
+    "seen": 1793096060.967081,
+    "ast_hash": "179773549d65230b3c9a8ba976f700e6",
+    "semantic_hash": "179773549d65230b3c9a8ba976f700e6"
+  },
+  "bible/world/obmennik.md": {
+    "mtime": 1793095703.415244,
+    "seen": 1793096060.9670825,
+    "ast_hash": "c090526e1e4ca118cc134a710f6f511b",
+    "semantic_hash": "c090526e1e4ca118cc134a710f6f511b"
+  },
+  "bible/world/otrabotka-i-vzyskanie.md": {
+    "mtime": 1793095702.5053246,
+    "seen": 1793096060.967084,
+    "ast_hash": "f2a7c66be19029300632a15645b72278",
+    "semantic_hash": "f2a7c66be19029300632a15645b72278"
+  },
+  "bible/world/pelmennaya-valyuta.md": {
+    "mtime": 1793095703.4177961,
+    "seen": 1793096060.9670858,
+    "ast_hash": "33296114df91801ea994e5025cc50567",
+    "semantic_hash": "33296114df91801ea994e5025cc50567"
+  },
+  "bible/world/pirogi-rikardo.md": {
+    "mtime": 1793095702.5053966,
+    "seen": 1793096060.9670873,
+    "ast_hash": "516bf1a87008406fc777e4c919956242",
+    "semantic_hash": "516bf1a87008406fc777e4c919956242"
+  },
+  "bible/world/politekh.md": {
+    "mtime": 1793095702.5051188,
+    "seen": 1793096060.967089,
+    "ast_hash": "8fbd18ecab25e3929de40f4ac0ea7b21",
+    "semantic_hash": "8fbd18ecab25e3929de40f4ac0ea7b21"
+  },
+  "bible/world/pravila-perestroyki.md": {
+    "mtime": 1793095703.4161792,
+    "seen": 1793096060.9670906,
+    "ast_hash": "e8b114925f9ab7cf2a7546ef4201e9e4",
+    "semantic_hash": "e8b114925f9ab7cf2a7546ef4201e9e4"
+  },
+  "bible/world/pravila-podezda.md": {
+    "mtime": 1793095702.5056555,
+    "seen": 1793096060.9670923,
+    "ast_hash": "68f91483e512268ae17ce14be10c6962",
+    "semantic_hash": "68f91483e512268ae17ce14be10c6962"
+  },
+  "bible/world/professorskiy-dom.md": {
+    "mtime": 1793095702.5052938,
+    "seen": 1793096060.9670937,
+    "ast_hash": "df0ac5f929751f385df627062b21cfa7",
+    "semantic_hash": "df0ac5f929751f385df627062b21cfa7"
+  },
+  "bible/world/pustyr-u-avtobazy.md": {
+    "mtime": 1793095703.4173965,
+    "seen": 1793096060.9670954,
+    "ast_hash": "1a201f4883434eeaaaa49aa1d9ef27b9",
+    "semantic_hash": "1a201f4883434eeaaaa49aa1d9ef27b9"
+  },
+  "bible/world/rynok-granska.md": {
+    "mtime": 1793095703.41384,
+    "seen": 1793096060.9670968,
+    "ast_hash": "92b37df11db342f709520d59417dc4ee",
+    "semantic_hash": "92b37df11db342f709520d59417dc4ee"
+  },
+  "bible/world/samozanyatost.md": {
+    "mtime": 1793095702.5054293,
+    "seen": 1793096060.9670987,
+    "ast_hash": "2f810accc7dfe7f35f532f889d9df9fb",
+    "semantic_hash": "2f810accc7dfe7f35f532f889d9df9fb"
+  },
+  "bible/world/skupka-lyokhi.md": {
+    "mtime": 1793095702.5048833,
+    "seen": 1793096060.9671004,
+    "ast_hash": "a6217eac322e537b42ce7a6eb2e196e7",
+    "semantic_hash": "a6217eac322e537b42ce7a6eb2e196e7"
+  },
+  "bible/world/solnechnaya-panel.md": {
+    "mtime": 1793095703.413452,
+    "seen": 1793096060.967102,
+    "ast_hash": "bfd87ebc558df8c392abc8b764c0adc0",
+    "semantic_hash": "bfd87ebc558df8c392abc8b764c0adc0"
+  },
+  "bible/world/sposobnost-kak-slukh.md": {
+    "mtime": 1793095703.41658,
+    "seen": 1793096060.9671035,
+    "ast_hash": "fab3266da393f323330b81116819eb7c",
+    "semantic_hash": "fab3266da393f323330b81116819eb7c"
+  },
+  "bible/world/tetradi-gleba.md": {
+    "mtime": 1793095702.506105,
+    "seen": 1793096060.9671054,
+    "ast_hash": "6f83e1414d559a65c0dbe0a5e8a592aa",
+    "semantic_hash": "6f83e1414d559a65c0dbe0a5e8a592aa"
+  },
+  "bible/world/tetradi-shterna.md": {
+    "mtime": 1793095702.5052333,
+    "seen": 1793096060.967107,
+    "ast_hash": "e0948480be7375f4cb9129b7720be8e2",
+    "semantic_hash": "e0948480be7375f4cb9129b7720be8e2"
+  },
+  "bible/world/tovarishchestvo-novyy-rynok.md": {
+    "mtime": 1793095702.505795,
+    "seen": 1793096060.9671087,
+    "ast_hash": "3b3091bd44a5770e133c9e80147ec6ec",
+    "semantic_hash": "3b3091bd44a5770e133c9e80147ec6ec"
+  },
+  "bible/world/vechnaya-naboyka.md": {
+    "mtime": 1793095702.5053499,
+    "seen": 1793096060.9671104,
+    "ast_hash": "16650fb23a5589b8d49be4fda41bb538",
+    "semantic_hash": "16650fb23a5589b8d49be4fda41bb538"
+  },
+  "bible/world/zhurnal-lery.md": {
+    "mtime": 1793095702.5054762,
+    "seen": 1793096060.9671118,
+    "ast_hash": "db4f0842c350a9a6441c22824e2b651e",
+    "semantic_hash": "db4f0842c350a9a6441c22824e2b651e"
+  }
+}
