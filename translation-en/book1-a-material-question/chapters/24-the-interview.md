@@ -26,7 +26,7 @@ He opened the folder and laid an evidence bag on the desk, sealed, with Old Pete
 
 I told him. The part I could tell.
 
-That I'd been fixing things at the market for twelve years. That in October I'd been in debt, forty-seven thousand, and I'd figured there was gold on old circuit boards. That everybody knows that: people write about it online, they show it on TV. That I'd gathered up old military-surplus connectors by the dumpsters and at the dump, and collected it. On my kettle.
+That I'd been fixing things at the market for twelve years. That in October I'd been in debt, forty-seven thousand, and I'd figured there was gold on old circuit boards. That everybody knows that: people write about it online, they show it on TV. That I'd gathered up old military-surplus connectors by the dumpsters and at the dump, and collected the gold. On my kettle.
 
 "On your kettle," Keyes repeated.
 
@@ -38,7 +38,7 @@ This was where it got hard.
 
 I couldn't say "with the thimble." I couldn't say "reshaped." I could say what people write online: acids, solutions, precipitate. But I'd never done any of that. I'd trip over the second word, and he'd see it.
 
-"I understand metal," I said. "Really well."
+"I understand metal pretty well," I said.
 
 "You understand it."
 
@@ -132,7 +132,7 @@ Keyes put the watch on. Moved his wrist around. Looked at the crooked dent in th
 
 He took a sip of coffee. Winced harder than the first time.
 
-"Coffee in this place goes cold like at some pie stand," he said, looking into the mug.
+"With you around, even the coffee goes cold," he said, looking into the mug. "Like at that meat-pie stand of yours."
 
 I didn't say anything. I took Mrs. Mazur's paper sack out of my pocket, took out a hand pie and ate it. Keyes watched me eat. Then he picked up the pen and wrote on a separate sheet, in big letters: "Reshapes?" And circled the question mark.
 
@@ -150,9 +150,9 @@ Goldie came in without knocking, in her navy coat, with a folder, her ID already
 
 "That Cochran. Just not the one you're thinking of."
 
-Later, in the hallway, she explained. She'd passed the bar five years ago ("Dad said it would come in handy"). Then she'd put her license on inactive status when she became his director on paper. And in January, after that evening in my kitchen, she'd resigned as director and reactivated her license. Bull had signed the retainer agreement with her that morning, on my behalf, on the hood of his sedan. For zero.
+Later, in the hallway, she explained. She'd passed the bar five years ago ("Dad said it would come in handy"). Then she'd put her license on inactive status when she became a director of his company on paper. And in January, after that evening in my kitchen, she'd resigned as director and reactivated her license. Bull had signed the retainer agreement with her that morning, on my behalf, on the hood of his sedan. For zero.
 
-"Like the receipt you wanted to ring up for Ms. Pratt," she said. "It came in handy. Just not for Dad."
+"Like the zero receipt you wanted to ring up for Ms. Pratt," she said. "It came in handy. Just not for Dad."
 
 Now she sat down next to me and for a second put her hand on my elbow. As if checking that I was still there.
 
@@ -188,15 +188,13 @@ She raised her arm. The bracelet, white gold with palladium, with its fine openw
 
 "And how does the author of this report know it's white gold with palladium?"
 
-"Now that's a good question," Goldie said slowly. "Two people know. My client, and an expert I showed the bracelet to. Through his security. At his house."
+"Now that's a good question," Goldie said slowly. "Two people know. My client, and an expert I showed the bracelet to. Through his security people. At his house."
 
-"Name?"
-
-"Then I'll have to interview you as a witness," Keyes said, before she could answer.
+"Name?" Then, before she could answer, Keyes added: "If you give me one, I'll have to interview you as a witness."
 
 "Then not today," said Goldie. "Today I'm an attorney. Tomorrow I'll come in myself. With a statement. Signed. I don't write anonymous letters."
 
-I watched her from the side. She had just pointed a detective at the man who worked for her father. Her father was one of his three clients. Here, in this office, in front of a witness. Her fingers on the folder had gone white. Her voice hadn't.
+I watched her from the side. She had just pointed a detective at her father's supplier. Glen had exactly three clients, and Dad's company was one of them. Here, in this office, in front of a witness. Her fingers on the folder had gone white. Her voice hadn't.
 
 Next to "Reshapes?" on the sheet, Keyes wrote: "Expert. Cochran: tomorrow."
 
@@ -216,7 +214,7 @@ Keyes raised his eyebrows.
 
 "The receipts," he said.
 
-"I can't bring you our records," said Ms. Pratt. "Taxpayer confidentiality. Officially, only on your written request. You'll write me that request tomorrow." She laid a thick printout on the desk. "This, on the other hand, was printed out this morning by the neighbor's boy. From Mr. Nagel's app. With his consent. I checked it against our data. It matches. One thousand eight hundred forty-two receipts, October through March. I counted. Twice. Knife repair. Pruning shears repair. Eyeglasses repair. Repair, repair, repair. Metalwork taken in through Mr. Sarkisian is rung up separately, under Sarkisian; he has his own receipts. Not one receipt for the sale of any item. Not one."
+"I can't bring you our records," said Ms. Pratt. "Taxpayer confidentiality. Officially, only on your written request. You'll write me that request tomorrow." She laid a thick printout on the desk. "This, on the other hand, was printed out this morning by the neighbor's boy. From Mr. Nagel's app. With his consent. I checked it against our data. It matches. One thousand eight hundred forty-two receipts, October through March. I counted. Twice. Knife repair. Pruning shears repair. Eyeglasses repair. Repair, repair, repair. Metal taken in through Mr. Sarkisian is rung up separately, under Sarkisian; he has his own receipts. Not one receipt for the sale of any item. Not one."
 
 She looked at him over her glasses. The ones that didn't fog up anymore.
 
@@ -250,9 +248,9 @@ The lobby was packed.
 
 Bull stood by the front desk in his old windbreaker, holding a list. Behind him stood my people.
 
-Greg the butcher, in his white apron over his jacket and without his knife: they'd taken the knife, sheath and all, at the door. Lottie, her eyes red. Roxanne with a pot of carnations. The same Roxanne who hadn't come to the glass-of-water test on Sunday because carnations mustn't get upset. She'd come to the police. With carnations. Next to her, Stefan the baker, who hadn't texted anything, and had come too.
+Greg the butcher, in his white apron over his jacket and without his knife: they'd taken the knife, sheath and all, at the door. Lottie, her eyes red. Roxanne with a pot of carnations. The same Roxanne who hadn't come to the glass-of-water test on Sunday because carnations mustn't get upset. She'd come to the police. With carnations. Next to her, Stefan the baker, who hadn't texted a word, but had come anyway.
 
-Then the old newspaper man, in his glasses. Double-A. The pie man, in his stained smock. Mrs. Petrie, who'd been bringing Ashot her boots for fifteen years. Ashot, sour as an old boot, because they'd taken his hammer at the door. Mr. Abrams with his leather folder. And Val. She stood by the wall, in a blue sweater under her jacket, with her oilcloth notebook under her arm, and they wouldn't let her upstairs, because officially she wasn't anybody.
+Then the old newspaper man, in his glasses. Double-A. The pie man, in his stained smock. Mrs. Petrie, who'd been bringing Ashot her boots for fifteen years. Ashot, in a mood like an old boot, because they'd taken his hammer at the door. Mr. Abrams with his leather folder. And Val. She stood by the wall, in a blue sweater under her jacket, with her oilcloth notebook under her arm, and they wouldn't let her upstairs, because officially she wasn't anybody.
 
 And one more. Broad, bald, with a gold tooth, in a sheepskin coat. He stood apart from everybody and acted as if he'd just happened to be passing by.
 
@@ -288,11 +286,11 @@ Lenny was quiet. For a very long time. That bolt had been as thick as a wrist. I
 
 Keyes turned to me.
 
-"Once, you said," he said. "To the pawn shop."
+"Just once, you told me," he said. "The pawn shop."
 
 "Twice," I said. "The second time I wasn't selling. I was running away."
 
-Somebody from the market snorted. Ashot said out loud, "That's true. That's how he always does business."
+Somebody from the market snorted. Ashot said out loud, "That's true. That's how he does all his selling."
 
 Keyes didn't laugh. But the corner of his mouth twitched again.
 
@@ -314,9 +312,9 @@ And I thought: not Glen. This winter Glen had left his house twice, and I knew w
 
 The interviews went on until evening.
 
-Goldie had made her request, and Keyes couldn't turn it down. He took four statements on the record: Lenny, Greg, Ashot and Mr. Abrams. The rest wrote out short statements of their own. Greg said Tim had hardened his knife so it never goes dull, and charged him "about what a sharpening costs." Ashot said he'd spent twelve years across the aisle from Tim and that Tim "can't even buy a cheap no-name sole without getting cheated, that's the kind of businessman he is." Mr. Abrams said that Tim paid his rent, late but he paid it, and that "if he were selling gold, he'd pay on time." The old newspaper man wrote one word in his statement: "Oh." And signed it.
+Goldie had made her request, and Keyes couldn't turn it down. He took four statements on the record: Lenny, Greg, Ashot and Mr. Abrams. The rest wrote out short statements of their own. Greg said Tim had hardened his knife so it never goes dull, and charged him "about what a sharpening costs." Ashot said he'd spent twelve years across the aisle from Tim and that Tim "can't even afford a cheap no-name sole, that's the kind of businessman he is." Mr. Abrams said that Tim paid his rent, late but he paid it, and that "if he were selling gold, he'd pay on time." The old newspaper man wrote one word in his statement: "Oh." And signed it.
 
-Keyes drank two more mugs of bad coffee. By the end he was sitting with his head propped on his hand, looking at the list of signatures the way Old Pete looks at a balance that doesn't come out right, but comes out wrong in a good direction.
+Keyes drank two more mugs of bad coffee. By the end he was sitting with his head propped on his hand, looking at the list of signatures the way Old Pete looks at a ledger that won't balance, but is off in the good direction.
 
 At seven in the evening he called me back in.
 
@@ -334,9 +332,9 @@ He stood up and held out his hand. I shook it. His hand was warm, dry, ordinary.
 
 "Right. Twelve years." He nodded at my wobbly chair. "Can you do anything about that?"
 
-"With your permission," I said.
+"With a permit," I said.
 
-"Permission denied," said Keyes. "I'd hate to lose that report. It's been under there since ninety-seven."
+"Permit denied," said Keyes. "I'd hate to lose that report. It's been under there since ninety-seven."
 
 I was already in the doorway when he said to my back:
 
@@ -348,7 +346,7 @@ The analysis, I thought, going down the stairs. It'll show four nines. The clerk
 
 Outside it was dark. March, and the snow still lay in gray humps along the curbs.
 
-Everybody was standing by the front steps. Greg, Lottie, Roxanne with her carnations, Ashot with his hammer back, Stefan, Double-A, the pie man, Mrs. Petrie, Mr. Abrams. Ms. Pratt and Old Pete, arm in arm. Goldie. Bull by his old blue sedan with the bald patches on its fender. Lenny wasn't there. Lenny had left right after giving his statement. Bull said, "He did what he owed. Don't expect any more from him than that. But don't expect any less, either."
+Everybody was standing by the front steps. Greg, Lottie, Roxanne with her carnations, Ashot with his hammer back, Stefan, Double-A, the pie man, Mrs. Petrie, Mr. Abrams. Ms. Pratt and Old Pete, arm in arm. Goldie. Bull by his old blue sedan with the paint worn through on its fender. Lenny wasn't there. Lenny had left right after giving his statement. Bull said, "He did what he owed. Don't expect any more from him than that. But don't expect any less, either."
 
 Val stood under the streetlight. She was wiping her glasses on the end of her scarf, though there was nothing to wipe. Five hours she'd stood there, first in the lobby, then by the steps once they'd cleared the lobby.
 
@@ -360,11 +358,11 @@ Val stood under the streetlight. She was wiping her glasses on the end of her sc
 
 "Goldie says a lot better."
 
-I took the rings out of my pocket and put them on. All four. On the thimble hand. Val watched me put them on, one at a time.
+I took the rings out of my pocket and put them on. All four. Back on the thimble hand. Val watched me put them on, one at a time.
 
 Then she stepped up to me and pressed her forehead into my shoulder. I could feel her shaking. From the cold, probably. Five hours.
 
-"I thought," she said into my jacket, "that if they locked you up, I'd be left with forty pages of excerpts, two tenths of a degree Celsius and somebody else's ring. And no you."
+"I thought," she said into my jacket, "that if they locked you up, I'd be left with forty pages of excerpts, two tenths of a degree and somebody else's ring. And without you."
 
 "The rings are right here. See."
 
@@ -382,7 +380,7 @@ Bull finished chewing.
 
 "And Lenny?"
 
-"Lenny's owed me since my first year collecting. His mother was sick, so I didn't lean on him. Let it ride. He remembers." Bull grinned. "A debt's a debt. Sometimes it just takes a while to come back around."
+"Lenny's owed me since my first year collecting. His mother was sick, so I didn't lean on him. Let it ride. He remembers." Bull smirked. "One good turn deserves another. Sometimes it just takes a while."
 
 Goldie was standing next to us.
 
@@ -394,7 +392,7 @@ Goldie was standing next to us.
 
 "No regrets?"
 
-"I signed something without reading it once," said Goldie. "There won't be a second time."
+"Once, I signed something without reading it," said Goldie. "There won't be a second time."
 
 "And the notebooks?" asked Val.
 
@@ -410,11 +408,11 @@ At home Lugnut was sitting on the windowsill. No pen on him.
 
 I found nothing under the couch. The police had looked under the couch themselves. Lugnut has more than one stash; I've known that since October. It took me half an hour to find the second one: in my father's old felt-lined boot, up on the shelf over the hall closet. Inside were a snap from my work shirt, a shiny jar lid, a scrap of the silk thread from the lab (sample number four), and Keyes's pen. Metal, engraved: "To Scott. Happy anniversary."
 
-The ring from Grandma's spoon wasn't there. Not in this one either.
+The ring from Grandma's spoon wasn't there. It wasn't in this one either.
 
 I took out the pen. Lugnut watched me from the windowsill like I was a man who'd broken into somebody else's apartment and was pawing through somebody else's things.
 
-"This isn't yours," I said. "It was a gift from his wife."
+"This isn't yours," I said. "It was a gift. From his wife."
 
 Lugnut turned away. Offended.
 
@@ -430,7 +428,7 @@ Then I sat down in the kitchen and opened my notebook. The one with the hand pie
 
 "Analysis: four nines. Later."
 
-"Until the lease runs out: three weeks."
+"Until the market's lease runs out: three weeks."
 
 I closed the notebook. Looked at my hands. At the thimble. At the four rings, warm. Growing.
 
@@ -440,4 +438,4 @@ Three weeks. The vacant lot behind the truck depot. A thousand joints. Eight stu
 
 It was madness.
 
-But for twelve years I'd been fixing madness for half a bag. It was time to build some over a weekend.
+But for twelve years I'd been fixing madness for half a bag. It was time to build some in a weekend.
