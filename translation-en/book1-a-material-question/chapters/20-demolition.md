@@ -2,17 +2,17 @@
 
 The news came on Thursday, January fifteenth, at ten thirty, along with a meat pie.
 
-The pie man brought it over himself, the way he did every Thursday since I'd started looking after his vent hood in exchange for boiling water. Only this time he didn't say "Enjoy." He set the meat pie on the counter, wiped his hands on his apron and said:
+The pie man brought it over himself, the way he had every Thursday ever since I'd started looking after his vent hood in exchange for boiling water. Only this time he didn't say "Enjoy." He set the meat pie on the counter, wiped his hands on his apron and said:
 
-"That's it, Timothy. They decided."
+"That's it, Timothy. It's decided."
 
-"Who decided what?"
+"Decided what?"
 
 "The city council. Last night." He pulled a folded newspaper out of his pocket: the local one, the free one they stuff into everybody's mailbox. "Here. Page three."
 
 On page three, under a photo of Cochran holding a shovel beside some other foundation pit, it said: "Central Market to make way for modern shopping and entertainment complex. By decision of the city council, the land lease with the market's operator will not be renewed. Demolition is scheduled to begin in April."
 
-Below that, in small print: "Based on an assessment finding the market's structures to be in unsatisfactory condition." And below that, in very small print: the market operator would remain open through the end of March.
+Below that, in small print: "Based on an assessment finding the market's structures to be in unsatisfactory condition." And below that, in very small print: the market would stay open through the end of March.
 
 I read it twice. Then I looked at my booth. At the shutter that creaks on purpose. At the bolt Glen had polished to a mirror and I'd smoothed back down to "roughly." At the counter I'd knocked together myself, years ago, which hadn't budged in twelve years.
 
@@ -20,7 +20,7 @@ Unsatisfactory condition.
 
 "Nobody ever looked at my booth," I said.
 
-"Nobody looked at anybody's," said the pie man. "I've been here sixteen years. Nobody came to see me. Not with paperwork, not without."
+"Nobody looked at anybody's," said the pie man. "I've been here sixteen years. Nobody came to see me. With paperwork or without."
 
 He stood there a while longer. Then he said, more quietly:
 
@@ -38,13 +38,13 @@ Nobody was working. That is, everybody was standing behind their counters, but n
 
 Greg the butcher stood at his counter holding a knife, the one that doesn't go dull, and didn't cut. Lottie was crying by the fish counter, quietly, wiping her eyes with her sleeve. Roxanne sat on a crate among her carnations, staring at nothing. Stefan the baker went up and down the aisles with the newspaper, showing everybody page three, as if once everybody had seen it, it would stop being true.
 
-Ashot sat in his booth and didn't knock.
+Ashot sat in his booth and wasn't tapping.
 
-That was the scariest part. For twelve years I'd heard that knocking: tap, tap-tap, tap. Ashot knocks when he works, when he's angry, when he's thinking, when he's haggling. Even when he isn't saying anything, he knocks. And now he sat there with the hammer that doesn't break and stared at the sole he was holding in his other hand.
+That was the scariest part. For twelve years I'd heard that tapping: tap, tap-tap, tap. Ashot taps when he works, when he's angry, when he's thinking, when he's haggling. Even when he isn't saying anything, he taps. And now he sat there with the hammer that doesn't break and stared at the sole he was holding in his other hand.
 
 I went over.
 
-"March," said Ashot, without looking up. "Arsen's got three more years. Sixth year, then residency. I figured I'd make it. With your heel tips, I'd make it. I even started putting a little aside."
+"March," said Ashot, without looking up. "Arsen's got three more years. He's in his last year of medical school, then residency. I figured I'd make it. With your heel tips, I'd make it. I even started putting a little aside."
 
 "Ashot…"
 
@@ -60,9 +60,9 @@ I couldn't find anything to say. I set half of my second meat pie on his counter
 
 ---
 
-That evening everybody gathered at the meat-pie stand.
+That evening everybody gathered at the meat-pie place.
 
-Nobody planned it. Nobody called anybody. It's just that at seven, when the market closes, nobody went home. Everybody drifted over to the meat-pie stand, the way people drift into the kitchen when there's trouble in the house. The pie man slid the bolt on the door, set three kettles out on the tables and said, "Tonight it's on the house. Tomorrow we'll see."
+Nobody planned it. Nobody called anybody. It's just that at seven, when the market closes, nobody went home. Everybody drifted over to the meat-pie place, the way people drift into the kitchen when there's trouble in the house. The pie man slid the bolt on the door, set three kettles out on the tables and said, "Tonight it's on the house. Tomorrow we'll see."
 
 There were forty or so of us. Half the market. Greg, Lottie, Roxanne, Stefan, Ashot. The old newspaper man in the glasses I'd fixed for him once. Two women from the produce aisle. A guy who sells batteries and shoelaces, whom everybody calls Double-A, though nobody knows why. And Mr. Abrams.
 
@@ -74,7 +74,7 @@ At first I didn't recognize him. He was standing in the corner by the window wit
 
 So it turns out landlords stand in line too. Their place in line is just further back.
 
-There was a lot of talking. And shouting. Somebody wanted to write to the district attorney. Somebody wanted to go out to the square with signs. Somebody wanted to go to the newspaper, even though the newspaper was the very one with Cochran and the shovel. Stefan the baker proposed that nobody leave their booths when the machines came, and let them knock everything down with the people inside. Lottie said she wasn't giving up her booth, because her husband had sold fish in it for twenty years, and now she did, and her husband would never forgive her.
+There was a lot of talking. And shouting. Somebody wanted to write to the district attorney. Somebody wanted to go out to the square with signs. Somebody wanted to go to the newspaper, even though the newspaper was the very one with Cochran and the shovel. Stefan the baker proposed that nobody leave their booths when the machines came, and let them knock everything down with the people inside. Lottie said she wasn't giving up her booth, because her husband had sold fish in it for twenty years, and now she did, and her husband would never have forgiven her.
 
 "The assessment," said the old newspaper man. He said it quietly, but everybody stopped talking. "They write 'unsatisfactory condition.' Who did it? Who signed it? If it isn't true, it can be challenged."
 
@@ -84,7 +84,7 @@ Nobody answered.
 
 Without thinking, I looked over at the little corner table by the window. The one where one of Glen's people had spent three weeks drinking bad coffee. Now Double-A was sitting there, crying into his tea.
 
-I sat in the corner with my tea and did the math. I always do the math when I'm scared. On a napkin. In bags. What a booth costs. What a lawyer costs. What rent five times higher in the new center costs. What three more years of Arsen's school cost Ashot.
+I sat in the corner with my tea and did the math. I always do the math when I'm scared. On a napkin. In bags. What a booth costs. What a lawyer costs. What rent five times higher in the new center costs. What three more years of Arsen's school would cost Ashot.
 
 It came out to a lot. It came out to so much that I ran out of bags before I ran out of questions. And my own line at the bottom: Bull, every Friday. With no booth, out of what?
 
@@ -100,7 +100,7 @@ She was standing on the landing in her navy coat, no hat, snow in her hair. No h
 
 "How did you find me?"
 
-"I asked Ashot," said Goldie. "He said, 'If a coat like that is going to Tim's at night, there's trouble.' And he gave me the address."
+"I asked Ashot," said Goldie. "He said, 'If a coat like that is headed to Tim's at night, there's trouble.' And he gave me the address."
 
 I stepped aside to let her in. She came in and stopped in the hallway. She looked over my apartment: the iron chair made out of a bed frame, the shelf, the knives on the strip with magnets out of old speakers, *Crystal Physics* and Professor Stern's volumes. The cat, who had come out of the main room and was looking at her the way he looked at everybody who smelled like strangers.
 
@@ -130,7 +130,7 @@ I sat down across from her, on the stool.
 
 She raised her eyes.
 
-"I went to see Dad. I asked him. He said, 'Goldilocks, it's just a formality. The market has to come down anyway. And you did great, you helped.' He said I'd helped him a lot. That without my signature they'd have had to wait for a real inspection, and that's six months. And that another partner of his had asked very nicely for it to go faster. And he also said the contract with you was a good idea. That if the best craftsman at the market went off to work in the building, the rest wouldn't put up a fight. That I'd thought that up nicely, too."
+"I went to see Dad. I asked him. He said, 'Goldilocks, it's just a formality. The market has to come down anyway. And you did great, you helped.' He said I'd helped him a lot. That without my signature they'd have had to wait for a real inspection, and that's six months. And that another partner of his had asked very nicely for it to go faster. And he also said the contract with you was a good idea. That if the best craftsman at the market went off to work in the building, the rest wouldn't put up a fight. That it was smart of me to think of that too."
 
 Lugnut walked over to her. He sniffed her boots. Then he sat down at her feet and looked up at her. He'd never done that with a stranger.
 
@@ -150,7 +150,7 @@ It came out rude. I hadn't meant it to.
 
 Goldie didn't take offense.
 
-"Because I don't know what to do," she said. "I can go to the district attorney. They'll throw out the assessment and investigate Dad, and me right alongside him. Dad also voted on his own project; that's a violation too. But that won't save the market. The city isn't obligated to renew the lease, and it runs out in March. The assessment was only needed so the operator couldn't demand a renewal. We'd win a year in court and lose the market. I can go to the newspaper. The newspaper is Dad's. You're the only person I know who doesn't go to court or to the newspaper. You just do things. I came to ask: what can be done?"
+"Because I don't know what to do," she said. "I can go to the district attorney. They'll throw out the assessment and investigate Dad, and me right alongside him. Dad also voted on his own project. That's a conflict of interest, another violation. But that won't save the market. The city isn't obligated to renew the lease, and it runs out in March. The assessment was only needed so the operator couldn't demand a renewal. We'd win a year in court and lose the market. I can go to the newspaper. The newspaper is Dad's. You're the only person I know who doesn't go to court or to the newspaper. You just do things. I came to ask: what can be done?"
 
 She didn't ask, "What can you do?" She asked, "What can be done?" I noticed that.
 
@@ -202,7 +202,7 @@ There's sand nearby. A quarry, people say, abandoned about twenty years ago. Out
 
 "Yes," I said. "I can't do it alone. And I'm not saying I'll do it alone."
 
-I ran the numbers on the napkin. The frame of a hangar: a thousand joints. A joint isn't a spoon, it's a beam. Call it ten bags a joint. Ten thousand bags. That's nearly fourteen years of my dinners. Bending is cheap; welding is expensive. So bend, and slide pipe into pipe, the way I did with the chair. And it's still thousands of bags.
+I ran the numbers on the napkin. The frame of a hangar: a thousand joints. A joint isn't a spoon, it's a beam. Call it ten bags a joint. Ten thousand bags. That's a good fifteen years of my dinners. Bending is cheap; welding is expensive. So bend, and slide pipe into pipe, the way I did with the chair. And it's still thousands of bags.
 
 "On my own I'd be building a market like that for ten years," I said, "and I'd eat every bag of pierogi in town."
 
@@ -222,7 +222,7 @@ Goldie was quiet for a long time.
 
 Goldie looked at the napkin. Then at me. Then at the napkin again. She was deciding something. I could see her deciding: fast, precisely, sorting through the options. The way she'd checked the contract, word by word.
 
-"The land," she said. "If it's the city's and nobody wants it, I'll find it. In the name of a vendors' association, so it isn't on any one person. That I know how to do. Only they won't give it out without an auction, and an auction takes a month. But nobody's going to come bid on a dump except us. And it can't be right next to the dump itself: there's a buffer zone, a third of a mile, and you can't sell meat inside it. So we put it farther out, by the truck depot. A building permit is harder. Temporary vendor structures are easier. I'll look into what to call it so it's easier." She paused. "Dad will know the same day I file the application."
+"The land," she said. "If it's the city's and nobody wants it, I'll find it. In the name of a vendors' association, so it isn't on any one person. That I know how to do. Only they won't lease it without an auction, and an auction takes a month. But nobody's going to come bid on a dump except us. And it can't be right next to the dump itself: there's a buffer zone, a third of a mile, and you can't sell meat inside it. So we put it farther out, by the truck depot. A building permit is harder. Temporary vendor structures are easier. I'll look into what to call it so it's easier." She paused. "Dad will know the same day I file the application."
 
 "Will you help?"
 
@@ -244,7 +244,7 @@ No booth, no light. What would be left was Cochran's building, a shop behind a d
 
 It was a guess. I had no way to check it. But it lay down flat and even, like Mrs. Mazur's layers.
 
-For the bolt, he'd left the house. For the market, he hadn't even bothered to leave the house. He'd just made a phone call.
+For the bolt, Glen had left the house. For the market, he hadn't even bothered. He'd just made a phone call.
 
 "Thank you," I said to Goldie.
 
@@ -270,7 +270,7 @@ Ashot. I told him about the vacant lot, about the dump, about the frame out of s
 
 "You will," I said. "Whatever kind you want. Out of shoe soles, if you like."
 
-"Not out of soles," said Ashot. "I've been breathing glue for twenty years. Make it out of something that doesn't smell like glue. How you'll do it, I'm not asking. I'll ask where my booth is. And I'll be the first one to knock out there."
+"Not out of soles," said Ashot. "I've been breathing glue for twenty years. Make it out of something that doesn't smell like glue. How you'll do it, I'm not asking. I'll ask where my booth is. And I'll be the first one tapping away out there."
 
 Greg the butcher. He listened, wiping his knife.
 
@@ -286,7 +286,7 @@ I thought about it.
 
 Greg looked at his knife.
 
-"You made me this knife in half a day," he said. "I sharpened knives for thirty years, and you did it in half a day. That wasn't just hardening, was it? I'll be honest, it stung me at the time."
+"You made me this knife in half a day," he said. "I sharpened knives for thirty years, and you did it in half a day. That wasn't just hardening, was it? I'll be honest, it stung a little, back then."
 
 "Hardening too," I said. "But not only."
 
@@ -348,13 +348,13 @@ Val looked at me over her glasses.
 
 "You did," I said. And she smiled a little.
 
-Val sat next to me, looking at my napkin from the meat-pie stand, which I'd brought to show everybody.
+Val sat next to me, looking at my napkin from the meat-pie place, which I'd brought to show everybody.
 
 "Tim," she said quietly. "Do you understand what this means? Not one thimble. Not just you. It means we need more thimbles. Even weak ones. Even student thimbles. Otherwise Greg will be cooling water, and you'll be bending the frame by yourself."
 
 I looked at her.
 
-"Professor Stern spent his whole life studying how it works," said Val. "Thirty-one notebooks. It's all in there. Or almost all. We've never once tried to understand how it works. Only to use it."
+"Professor Stern spent his whole life studying how it works," said Val. "Thirty-one notebooks. It's all in there. Or almost all. We've never once tried to understand how it's put together. Only to use it."
 
 "You want to copy it."
 
@@ -370,7 +370,7 @@ I picked up the napkin and wrote at the bottom, in my crooked handwriting:
 
 And below that:
 
-"Hands: plenty. Thimbles: none."
+"Hands: plenty. Thimbles: one."
 
 Lugnut, whom Mrs. Mazur had let into the kitchen in honor of "a historic evening," jumped up on the table, looked at the napkin and sat down right on top of it. As if he were signing it.
 
