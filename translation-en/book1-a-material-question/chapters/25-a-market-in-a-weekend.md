@@ -20,7 +20,7 @@ Ms. Pratt drew up the list. Three pages, ruled, numbered. "Item one. Steel pipe,
 
 Old Pete logged it as a historic event.
 
-Everybody worked the dump. Ashot and Greg hauled pipe. Mikey and his class (Lana gave her permission, and five more parents gave theirs) collected bottles in sacks. Lottie sorted glass: "Clear goes on the left, for Hank, he's going to pour something out of it. Green and brown, later." Hank really was pouring. He didn't say "I'm not asking" anymore. He said, "Here, let me."
+Everybody worked the dump. Ashot and Greg hauled pipe. Mikey and his class (Lana gave her permission, and five more parents gave theirs) collected bottles in sacks. Lottie sorted glass: "Clear goes on the left, for Hank, he's going to melt it down and cast something. Green and brown, later." And Hank really was casting. He didn't say "I'm not asking" anymore. He said, "Here, let me."
 
 Val sorted plastic. That was her job, and she wasn't giving it to anybody.
 
@@ -36,11 +36,11 @@ Val wrote: "Plastic. Nagel. Finally."
 
 Energy was the main question. I ran the numbers on a napkin every evening.
 
-The frame: a thousand joints. In January I'd figured ten bags a joint, because I was counting welding. But there was no need to weld. Crimping pipe into pipe is bending, not joining. Bending is cheap. But cheap isn't free. Half a bag a joint, five hundred bags for the lot. The plastic had to be melted, even if only at a hundred and thirty Celsius, and that was a good many hundreds of pounds of it. The glass had to be very nearly melted, and that was the worst of all. If I paid for all that in pierogi, I'd have to eat the whole meatpacking plant. And a thousand kilowatt-hours on the bill came to twenty-five bags. The meatpacking plant against twenty-five bags.
+The frame: a thousand joints. In January I'd figured ten bags a joint, because I was counting welding. But there was no need to weld. Crimping pipe into pipe is bending, not joining. Bending is cheap. But cheap isn't free. Half a bag a joint, five hundred bags for the lot. The plastic had to be melted, even if only at a hundred and thirty Celsius, and that was hundreds and hundreds of pounds of it. The glass had to be very nearly melted, and that was the worst of all. If I paid for all that in pierogi, I'd have to eat the whole meatpacking plant. And a thousand kilowatt-hours on the bill came to twenty-five bags. The meatpacking plant against twenty-five bags.
 
 So: electricity.
 
-There was a transformer at the truck depot. Old, shut off fifteen years or so. Goldie found out whose it was (the city utility's) and in a week she'd arranged a temporary hookup for the construction site, off the pole on the bypass, through a new meter. The association paid. Mr. Abrams took the receipt in personally, as if it were his own rent.
+There was a transformer at the truck depot. Old, shut off fifteen years or so. Goldie found out whose it was (the city utility's) and in a week she'd arranged a fifteen-kilowatt temporary hookup for the construction site, off the pole on the bypass, through a new meter. The association paid. Mr. Abrams took the receipt in personally, as if it were his own rent.
 
 And Corey did the hookup.
 
@@ -54,7 +54,7 @@ And he did check. He put in a panel by the pole. A proper, grown-up one, with a 
 
 And then something interesting happened. The very first night, so I wouldn't have to drag a second wire through the snowdrifts, I did it the way I had back in October, the night of the gold: just the live wire to the thimble, nothing coming back, standing in rubber boots. The thimble is its own ground, after all. And the protection clicked off instantly. Corey came over with a flashlight, looked at the panel, then at me.
 
-"Leak," he said. "Went out one wire and didn't come back on the other. Where's your current going?"
+"Ground fault," he said. "Went out one wire and didn't come back on the other. Where's your current going?"
 
 I couldn't tell him: into the thimble. That the thimble was my ground. That current going into the thimble looks, to the protection, exactly like current going through a man into wet concrete.
 
@@ -66,9 +66,9 @@ And he was right. With the two leads, both of them, pressed to the thimble the w
 
 For the rings, Corey set up separate tables. Nine tables, each with its own line, its own breaker, its own protection and a rubber mat. Everybody with a ring goes to their own table. Nobody touches the next person's. Ms. Pratt wrote it into the instructions as point eight. Corey read it and said, "First safety briefing I've ever seen that says 'state out loud what you want.'" And signed it himself.
 
-By then there were nine rings. Mrs. Stern gave us the silver: Professor Stern's sugar bowl, with his monogram. "For forty years he took his tea without sugar out of that set. Let the thing be of some use now, at least." It was enough for five rings, with some left over. They grew on my hand, two or three at a time, in a chain, each one from the one before. Weaker and weaker, like somebody's retelling. For the construction, Ms. Pratt allowed them to be handed out, signed for: "The instructor is responsible. But there's one instructor and a thousand joints." The last one, the ninth, was so weak that Greg said, "All it does for me is keep the meat cold." But even that was something.
+By then there were nine rings. Mrs. Stern gave us the silver: Professor Stern's sugar bowl, with his monogram. "Forty years he drank his tea without sugar, and that bowl just sat there. Let it be of some use now, at least." It was enough for five rings, with some left over. They grew on my hand, two or three at a time, in a chain, each one from the one before. Weaker and weaker, like somebody's retelling. For the construction, Ms. Pratt agreed to let them go out for the build, signed for: "The instructor is responsible. But there's one instructor and a thousand joints." The last one, the ninth, was so weak that Greg said, "All it does for me is keep the meat cold." But even that was something.
 
-First we tested. On Corey's panel, with the protection on: if current goes through a hand, it trips before it can hurt. I put a ring on first, then Bull. Current went through the ring (faintly, like through a drinking straw) and the protection stayed quiet. Without it I wouldn't have let anybody near.
+First we tested. On Corey's panel, with the protection on: if current goes through a hand, it trips before it can hurt. I went first, then Bull. Current went through the ring (faintly, like through a drinking straw) and the protection stayed quiet. Without it I wouldn't have let anybody near.
 
 ---
 
@@ -84,9 +84,9 @@ Mrs. Stern came. By taxi, in an old coat, with her cane. She sat down on a crate
 
 Goldie came, in jeans and a jacket, with a printout in a plastic sleeve: "Temporary structure. No building permit required. If anyone shows up, send them to me." Nobody showed up. Goldie hung the sleeve on a nail by the entrance and went off to haul bottles.
 
-People came whom I didn't know. Just people from town. Somebody had seen it in the Exchange chat, which was open now: Mikey had taken the password off, "let them look, we've got nothing to hide." Glen was reading it too, of course. We knew that. Old Pete wrote: "Nothing to hide. Decided by majority vote." Somebody had heard about it at the market. Somebody was walking along the bypass and stopped to see what kind of lunatics were digging around in a dump in the freezing cold.
+People I didn't know came too. Just people from town. Somebody had seen it in the Exchange chat, which was open now: Mikey had taken the password off, "let them look, we've got nothing to hide." Glen was reading it too, of course. We knew that. Old Pete wrote: "Nothing to hide. Decided by majority vote." Somebody had heard about it at the market. Somebody was walking along the bypass and stopped to see what kind of lunatics were digging around in a dump in the freezing cold.
 
-Mrs. Mazur's kitchen stood by the entrance. A table made of two pallets, four hot plates running off Corey's panel, eight pots, and Mrs. Mazur in the middle of it all, in a head scarf and apron, with a ladle, like a general on a hill. The hand pies went out in waves. Stefan the baker brought three sheet pans and set up next to her. Two women I didn't know attached themselves to the two of them; they said they were from the building next door, that they baked too, and "Mrs. Mazur, teach us."
+Mrs. Mazur's kitchen stood by the entrance. A table made of two pallets, four hot plates running off Corey's panel, eight pots, and Mrs. Mazur in the middle of it all, in a headscarf and apron, with a ladle, like a general on a hill. The hand pies went out in waves. Stefan the baker brought three sheet pans and set up next to her. Two women I didn't know joined them; they said they were from the building next door, that they baked too, and "Mrs. Mazur, teach us."
 
 "I teach in the open," said Mrs. Mazur. "Dough's over there. Wash your hands over there."
 
@@ -108,11 +108,11 @@ Greg cut sheet iron. You don't cut iron with a butcher knife. Greg cut it with H
 
 Hank poured glass. He'd found an old kiln at the truck depot, for firing some kind of parts, and hooked it up to Corey's line. Lottie's clear glass went in there. Hank poured it into molds he'd welded himself years ago, "back when I still had a welder." What came out weren't windows. They were thick cloudy squares that let light through but not faces. They cooled in the kiln till morning; in the cold, they'd have cracked. Roxanne said that for flowers they were perfect: light, but no sun to scorch them.
 
-And I walked up and down past all of it and did what nobody else could. The heaviest joints, at the corners, where four pipes came together. And the plastic. Two hundred panels, six and a half feet on a side, half a finger thick, twenty jerry cans apiece, which we'd made over the two weeks, had to be set into the frame and their edges woven into one another, like felt, so they'd make a roof. Only I could do that. Val followed me around with a notebook, saying, "This one's polyethylene. This one too. Not this one, that's a coolant jug, it has additives, put it aside." I put it aside.
+And I walked up and down past all of it and did what nobody else could. The heaviest joints, at the corners, where four pipes came together. And the plastic. Two hundred panels, six and a half feet on a side, half a finger thick, twenty jerry cans apiece, which we'd made over the two weeks, had to be set into the frame and their edges woven into one another, like felt, so they'd make a roof. Only I could do that. Val followed me around with a notebook, saying, "This one's polyethylene. This one too. Not this one, that's an antifreeze jug, it has additives, put it aside." I put it aside.
 
-Over Saturday I ate forty-two of Mrs. Mazur's hand pies. Old Pete stopped writing them down at thirty.
+That Saturday I ate forty-two of Mrs. Mazur's hand pies. Old Pete stopped writing them down at thirty.
 
-The rings worked for eight hours. Then they gave out. Not the rings: the people. Ms. Pratt sat down on a crate and said, "Expense not recorded. I can't do any more." Bull lay down right on the tarp and fell asleep. Ashot sat on his shoe-stool, which he'd brought "for the booth," and ate his fourth hand pie in a row. Mikey slept by Mrs. Mazur's kitchen with his head on a sack of bottles.
+The rings worked for eight hours. Then they gave out. Not the rings: the people. Ms. Pratt sat down on a crate and said, "Unbudgeted expense. I can't do any more." Bull lay down right on the tarp and fell asleep. Ashot sat on his shoe-stool, which he'd brought "for the booth," and ate his fourth hand pie in a row. Mikey slept by Mrs. Mazur's kitchen with his head on a sack of bottles.
 
 By nightfall the frame was standing. Bare, rusty, no roof. Like an enormous whale that had washed up on a vacant lot.
 
@@ -140,7 +140,7 @@ And then, at six, as it was getting dark, the frame creaked.
 
 ---
 
-At first I didn't understand. I was standing out in the middle of things, by Mrs. Mazur's kitchen, and had just taken a hand pie from her. Hadn't had time to bite into it. And suddenly the thimble on my finger went warm. On its own. The way it goes warm in only one case.
+At first I didn't understand. I was standing out in the middle of things, by Mrs. Mazur's kitchen, and had just taken a hand pie from her. Hadn't had time to bite into it. And suddenly the thimble on my finger went warm. On its own. The way it only ever goes warm for one reason.
 
 The other one was close.
 
@@ -160,13 +160,13 @@ Frost spread over the pipes. White, fast. It was taking heat from the frame, fro
 
 He was taking heat from living hands. That was something I had never once allowed myself.
 
-I could have run over there, behind the depot. I could have tried to overpower him: my thimble against his. I knew that was wrong. The ninth volume: "If there are ever two of them, and they are in different hands, let those hands know each other. Otherwise it is not science. It is war." If I fought him, he'd be the stronger. He'd had twenty years. I'd had since October. He understood steel down to every face. I worked "roughly."
+I could have run over there, behind the depot. I could have tried to overpower him: my thimble against his. I knew that was wrong. The ninth volume: "If there are ever two of them, and they are in different hands, let those hands know each other. Otherwise it is not science. It is war." If I fought him, he'd be the stronger. He'd had twenty years. I'd had since October. He understood steel down to every face. Me, "roughly."
 
 One on one, I'd lose.
 
 But I wasn't alone.
 
-"Everybody with a ring!" I shouted. "To the frame! Each of you to your own joint! Hold it! Don't do anything, hold! Ask for it to stay the way it is! Out loud! Mr. Abrams, get everybody out from under the roof! Mrs. Stern first!"
+"Everybody with a ring!" I shouted. "To the frame! Each of you to your own joint! Hold it! Don't change anything—hold! Ask for it to stay the way it is! Out loud! Mr. Abrams, get everybody out from under the roof! Mrs. Stern first!"
 
 And they went. And the rest went the other way, toward the exit, behind Mr. Abrams and his folder.
 
@@ -174,11 +174,11 @@ And they went. And the rest went the other way, toward the exit, behind Mr. Abra
 
 Bull went to the left wall, to his own joints. He took hold of a pipe with both hands, ring and all, and said out loud, hoarsely: "My joint. Hold." And the joint stopped giving.
 
-Ms. Pratt went to the corner, where the end wall met the left one. She took hold of a post and said, "Joint one hundred twelve. Hold. Edge: the whole wall." And her joint, even, ruler-straight, set like it had been driven in.
+Ms. Pratt went to the corner where the left wall met the end wall. She took hold of a post and said, "Joint one hundred twelve. Hold. Edge: the whole wall." And her joint, even, ruler-straight, set like it had been driven in.
 
 Ashot grabbed his post by the entrance. "This is my booth. Don't touch it." His voice was the one he uses to name the price of a heel tip: final. The post stopped.
 
-Mikey, with the little-finger ring, the weakest of the first ones, took hold of a pipe and shut his eyes. "Hold. Just hold. Edge: this pipe." The pipe went still.
+Mikey, with the little-finger ring, the weakest of the first ones, took hold of a pipe and shut his eyes. "Hold. Just hold. The edge is this pipe." The pipe went still.
 
 Greg. Hank. Stefan, who didn't wear a ring, just held a post by his oven with his bare hands and said something through his teeth. Mrs. Mazur. Without a ring. She went to the nearest post, wiped her hands on her apron and laid both palms on the cold pipe. Her own palms, cold as always. And said, "Now then. None of that."
 
@@ -186,7 +186,7 @@ And the frame stood fast.
 
 Not right away. For thirty seconds or so it went on creaking, like two people pulling one rope in opposite directions. Through the post I could feel him pulling from the other side. Hard. Precise. Alone. And from this side, nine rings and one Mrs. Mazur were pulling. Every one of them far weaker than him. But there were a lot of them.
 
-I kept my own hand on the post, empty. Just listening. If I'd taken hold myself, it would have turned into one on one again. And each of them held their own joint. Not the whole frame: their own. Their own piece. Their own booth. Their own pipe.
+I kept my own hand on the post, idle. Just listening. If I'd taken hold myself, it would have turned into one on one again. And each of them held their own joint. Not the whole frame: their own. Their own piece. Their own booth. Their own pipe.
 
 Val had told me that in December, in the lab, about hydrogen bonds. One bond is nothing. A thousand is a thread you can't break.
 
@@ -198,7 +198,7 @@ The frame was standing.
 
 ---
 
-I took my hand off the post and walked across the lot toward the truck depot. Not running. Walking. Along my own tracks from the day before, past the heaps of bottles, past Val's DO NOT HEAT. POISON. sign.
+I took my hand off the post and walked across the lot toward the truck depot. Not running. Walking. Along my own tracks from the day before, past the heaps of bottles, past Val's sign, DO NOT HEAT. POISON.
 
 Around the corner of the depot, by the rusty fence, by the rail, stood Glen.
 
@@ -294,4 +294,4 @@ I didn't eat it.
 
 I wrapped it in a napkin and put it in my pocket. I don't know why, exactly.
 
-So there'd be a third time, probably.
+Maybe so there'd be a third time.
