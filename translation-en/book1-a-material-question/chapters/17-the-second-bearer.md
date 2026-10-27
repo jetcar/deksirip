@@ -4,7 +4,7 @@ On Saturday I told Val everything.
 
 We were at her place: the first time I'd ever been to her place, a small room on the other side of town. On the windowsill, copper sulfate crystals were growing in jars, blue as the evening sky, and over the bed hung a periodic table with notes on it in red pen. Val sat on the bed with her feet tucked under her. I sat on a stool across from her. Like an interrogation. I'd picked that seat myself.
 
-I told her about the twelve-bag steak. About thirty times. About "nobody, ever, only you, forever." About the hand on mine, and the snaps. About Cochran, the foundation pit and the corkscrew spoon. About the expert in alloys who'd seen the bracelet. And about Glen: I'd never told her about the line in the notebook that said "Don't search." Now I did. And about the folder on the shelf, next to the business card.
+I told her about the twelve-bag steak. About "thirty times." About "nobody, ever, only you, forever." About the hand on mine, and the snaps. About Cochran, the foundation pit and the corkscrew spoon. About the expert in alloys who'd seen the bracelet. And about Glen: I'd never told her about the line in the notebook that said "Don't search." Now I did. And about the folder on the shelf, next to the business card.
 
 "You didn't say no," said Val.
 
@@ -42,7 +42,7 @@ Then she came over to sit on my stool with me, which meant on my lap, since ther
 
 "Tonight, keep holding it," said Val. "Tonight I want it to be just hands. No science."
 
-It was just hands. I felt better than I had at the Summit, or anywhere else, for that matter. All day Sunday, though, I thought about the folder.
+It was just hands. I felt better than I had at the Summit, or anywhere else. All day Sunday, though, I thought about the folder.
 
 ---
 
@@ -52,7 +52,7 @@ The bolt on the shutter was mine. I'd put it up myself, eight years or so ago: a
 
 Now the bar was shining.
 
-It had been polished to a mirror. Smooth, without a single scratch, as if it had just come off the lathe. No rust. Not a flake. I looked at it and saw my own face: pale, unshaven, mouth hanging open.
+It had been polished to a mirror. Smooth, without a single scratch, as if it had just come off the machine. No rust. Not a flake. I looked at it and saw my own face: pale, unshaven, mouth hanging open.
 
 Over the reflection, thin and deep, in even letters that might have been engraved by a laser, someone had written:
 
@@ -60,11 +60,11 @@ Over the reflection, thin and deep, in even letters that might have been engrave
 
 Under that, a phone number.
 
-I stood in front of the booth and couldn't move. Not because of the words. Because of how it had been done. The rust hadn't been scrubbed off. It was gone: it had turned back into iron, all of it, atom by atom, and settled into the bar so that not a seam was left. I couldn't do that. I could turn rust into iron, but only roughly. With pores. With bubbles. This was a mirror.
+I stood in front of the booth and couldn't move. Not because of the words. Because of how it had been done. The rust hadn't been scrubbed off. It was gone: it had turned back into iron, all of it, atom by atom, and settled into the bar so that not a seam was left. I couldn't do that. I could turn rust into iron, but only "roughly." With pores. With bubbles. This was a mirror.
 
 And then the letters. They hadn't been scratched in. The metal had simply parted and lain down in ridges along the edges, as thin as a hair. As if the bar had decided for itself what would be written on it.
 
-He'd stood right here in the night. At night, when the market's empty and the only light is the streetlight by the meat-pie stand. He'd touched my bolt. A man who, as I'd find out that afternoon, doesn't like leaving his house had come in person: he'd needed to touch it.
+He'd stood right here in the night. At night, when the market's empty and the only light is the streetlight by the meat-pie stand. He'd touched my bolt. A man who doesn't like leaving his house had come in person: he'd needed to touch it.
 
 The heat he'd used belonged to somebody else. There was frost on my shutter and on the back wall of the meat-pie stand, and nowhere else. That's where they keep a pot of broth all night on a low flame. In the morning the broth was cold, and the pie man was cursing loud enough for the whole aisle to hear. Heat always belongs to somebody. This heat had been the meat-pie stand's. Through the bolt, he could have felt the whole shutter, every hinge, every nail and bracket. My booth. From the inside.
 
@@ -82,7 +82,7 @@ Ashot read it. His lips moved. He was silent for a very long time. Then he tappe
 
 "Good steel," he said. "Better than it was." He paused. "But bad handwriting. Angry handwriting. I know people by their heel tips. The way a man writes is the way he walks."
 
-I copied the number into my notebook, and then I smoothed out the letters myself, for half a thermos: the market had no business reading my mail. It didn't come out a mirror. It came out roughly.
+I copied the number into my notebook, and then I smoothed out the letters myself, for half a thermos: the market had no business reading my mail. It didn't come out a mirror. It came out "roughly."
 
 I called at lunchtime.
 
@@ -100,7 +100,7 @@ He hung up.
 
 ---
 
-The car was black, big and quiet. The driver was big and quiet too, in a black jacket, and in forty minutes he didn't say a single word. I sat in the back seat with a paper sack of Mrs. Mazur's hand pies on my knees, thinking that maybe they were taking me somewhere to kill me. Then I figured nobody would take you to get killed in a car like this. You'd mess up the upholstery. Then I figured they probably had another car. For that.
+The car was black, big and quiet. The driver was big and quiet too, in a black jacket, and in forty minutes he didn't say a single word. I sat in the back seat with a paper sack of Mrs. Mazur's hand pies on my knees, thinking that maybe they were taking me somewhere to kill me. Then I figured nobody would take you to get killed in a car like this. They'd mess up the upholstery. Then I figured they probably had another car. For that.
 
 I'd left my phone at home, the way he'd asked. The hand pies I'd brought just in case: the power eats a lot, and I had a feeling this would be a long conversation. All I'd told Mrs. Mazur was that I was going to a meeting. She packed eight and posted in the chat: "For Timothy, for a business meeting. Cabbage. Let them see we're not starving." Old Pete logged me minus eight and opened a new account called "Travel Expenses."
 
@@ -114,7 +114,7 @@ A security guard met me at the door. Also big and quiet. He ran a handheld metal
 
 "No," I said.
 
-The guard looked at me, then at the thimble, then said something into his radio. The radio answered in a quiet, tired voice: "Let him keep it. That's normal."
+The guard looked at me, then at the thimble, then said something into his radio. The radio answered in a quiet, tired voice: "Let him keep it. It's fine."
 
 The guard looked into the sack.
 
@@ -156,9 +156,9 @@ The thimble on my own finger grew warm. I felt it distinctly: the warmth spread 
 
 "Read it, or leafed through it?" asked Glen. "You skipped the formulas. I can tell from the bolt. That's where all the interesting parts are." He came down another step. "Hello, Timothy."
 
-He'd dropped the formalities the moment he saw my thimble.
+He'd gone from "Nagel" to "Timothy" the moment he saw my thimble.
 
-"Hello, Glen," I said. "Should I say the last name too?"
+"Hello, Glen," I said. "Want me to use your last name too?"
 
 "No need," he said. "Nobody here will hear it. Nobody here hears anything at all. Come on up."
 
@@ -214,13 +214,11 @@ When he opened them, the study had gotten colder. Frost appeared on the inside o
 
 Out of an old grinding wheel I'd made a lollipop dropped in the sand. In half an hour, for three bags.
 
-"How?" I asked. My voice cracked, and I was ashamed of it.
+"How?" I asked. My voice came out hoarse, and I was ashamed of it.
 
 "I don't burn lights in this house," said Glen, following my glance to the window. "I need the house warm for something else. My own substation, my own boiler. I buy heat like everybody else. Just more of it."
 
-Then he got to my question.
-
-"Understanding. You know that. Precision equals understanding. You work by 'roughly.' You don't know how the atoms stand in corundum. You don't know why it wants to become exactly this and nothing else, why a face runs at this angle and not some other. You ask, and it does the best it can. Sloppily. I know. I spent twenty years learning it. Crystallography, thermodynamics, the physics of defects. I know every face by name."
+"Understanding," said Glen. "You know that. Precision equals understanding. You work by 'roughly.' You don't know how the atoms stand in corundum. You don't know why it wants to become exactly this and nothing else, why a face runs at this angle and not some other. You ask, and it does the best it can. Sloppily. I know. I spent twenty years learning it. Crystallography, thermodynamics, the physics of defects. I know every face by name."
 
 He laid the lens on the desk next to the crumb.
 
@@ -238,13 +236,13 @@ He was lying. I knew it right away, from the way he said "I'm not afraid." He wa
 
 Glen didn't pretend not to understand.
 
-"Because it was sitting there," he said. "Object Two. In the safe, in the lab, in an old cigar box. The professor never touched it. He worked with the first one: a lot at first, and then, in my last years there, once every six months. He let me use the first one. In his presence, on Fridays. The second one just sat there. Ten years at his place. And some time before that, at his teacher's. Just sitting." Glen looked at his thimble. "A thing should work, not sit around. He said that himself. He said it about everything. About microscopes, about furnaces, about students. About everything but this."
+"Because it was sitting there," he said. "Object Two. In the safe, in the lab, in an old cigar box. The professor never touched it. He worked with the first one: a lot at first, and then, in my last years there, once every six months. He let me use the first one. In his presence, on Fridays. The second one just sat there. Ten years he had it. And some time before that, his teacher had it. Just sitting." Glen looked at his thimble. "A thing should work, not sit around. He said that himself. He said it about everything. About microscopes, about furnaces, about students. About everything but this."
 
-I went still. That was the line Mrs. Stern had given me, in her husband's name. His first; she'd repeated it after him, and I'd repeated it after her. My line. The line that had me pinching a crumb off Grandma's silver for a solar panel. Glen said it the same way I did. In the very same words. And for him it meant something else entirely.
+I went still. It was Mrs. Stern's line. No: his first. She'd only been repeating him, and I'd been repeating her. My line. The line that had me pinching a crumb off Grandma's silver for a solar panel. Glen said it the same way I did. In the very same words. And for him it meant something else entirely.
 
 "Did you tell him?" I asked.
 
-"No." Glen was quiet for a moment. "I left. I said I was going into business. He knew, of course. He couldn't not have known. He never called. Not once. In twenty years."
+"No." Glen was quiet for a moment. "I left. I said I was going into business. He knew, of course. He had to have known. He never called. Not once. In twenty years."
 
 "He wrote something," I said.
 
@@ -262,7 +260,7 @@ Glen looked at me for a long time. His face didn't change. Only the fingers of h
 
 He unclenched his fingers. Looked at the crack. Ran the finger with the thimble along it, and it was gone. The quartz grew back together, smooth, without a trace. Then, without a word, Glen took a second hand pie.
 
-"He was afraid I'd come back," said Glen. "And I was afraid he'd come after me. So that's how we spent twenty years. Being afraid. Both of us."
+"He was afraid I'd show up," said Glen. "And I was afraid he would. So that's how we spent twenty years. Being afraid. Split two ways."
 
 "He died in April," I said.
 
@@ -296,7 +294,7 @@ There it is, I thought. That's what he's afraid of. Not me. The fact that people
 
 "How do you know all this?" I asked. "About my building. About Mrs. Mazur. About the half a volt."
 
-"Your building's chat opens with a link," said Glen. "The boy who set it up didn't even put a password on it. And as for the half a volt, your Mrs. Mazur posted that herself: 'Timothy and Valerie made electricity out of sand, half a volt, congratulations!!!' Three exclamation points." He paused. "Also, one of my people spent three weeks drinking coffee at your meat-pie stand. The coffee there is bad."
+"Anybody with the link can get into your building's chat," said Glen. "The boy who set it up didn't even put a password on it. And as for the half a volt, your Mrs. Mazur posted that herself: 'Timothy and Valerie made electricity out of sand, half a volt, congratulations.' With three exclamation points." He paused. "Also, one of my people spent three weeks drinking coffee at your meat-pie stand. The coffee there is bad."
 
 He went on.
 
@@ -304,15 +302,15 @@ He went on.
 
 "Professor Stern's teacher said there were more than two," I said.
 
-"Rumors," said Glen. Something crossed his face, though, quick as the shadow of a bird. "Nobody can do what we can. Which means we set the price."
+"Rumors," said Glen. Something crossed his face, though, quick as the shadow of a bird. Nobody can do what we can. Which means we set the price.
 
 "And what do I get in return?"
 
 "I'll teach you," said Glen.
 
-I realized that this was the main thing. Not the money. Not thirty times. This.
+I realized that this was the main thing. Not the money. Not the thirty times. This.
 
-"Everything," said Glen. "Crystallography. Defects. Phase diagrams. Alloys. Polymers: I know you don't understand plastic; your cobbler does the rubber for you. I'll teach you. In a year you'll be making lenses out of a handful of powder. In two, things that aren't in any textbook. You'll be able to understand. Really understand. Like the professor. But you'll do things. Like me."
+"Everything," said Glen. "Crystallography. Defects. Phase diagrams. Alloys. Polymers: I know you don't understand plastic; your cobbler does the rubber for you. I'll teach you. In a year you'll be making lenses out of a handful of powder. In two, things that aren't in any textbook. You'll be able to understand. Really understand. Like the professor. But actually do things. Like me."
 
 He was looking at me. His face was almost alive. Almost warm. He wanted very badly, I realized, for me to say yes. Not because of the prices. Because for twenty years he'd had nobody to talk to about the ninth volume.
 
@@ -322,9 +320,9 @@ He was looking at me. His face was almost alive. Almost warm. He wanted very bad
 
 I sat there without saying anything. For a long time.
 
-It was hard. Harder than the Summit. Goldie had offered me money, and I hadn't been able to find anything in the money to buy. Glen was offering what I actually wanted. To understand. To stop working sloppy. To know every face by name. To stop eating three bags on a lollipop dropped in the sand.
+It was hard. Harder than the Summit. Goldie had offered me money, and I couldn't find anything I wanted to buy with it. Glen was offering what I actually wanted. To understand. To stop working sloppy. To know every face by name. To stop eating three bags on a lollipop dropped in the sand.
 
-I thought: he's right, though. If Ashot learns, if Mrs. Mazur learns, if Mikey learns, my booth won't be the only one anymore. The line will scatter. Everybody will have a knife that doesn't go dull. And it'll cost what an ordinary knife costs.
+I thought: he's right, though. If Ashot learns, if Mrs. Mazur learns, if Mikey learns, my booth won't be the only one anymore. The line will melt away. Everybody will have a knife that doesn't go dull. And it'll cost what an ordinary knife costs.
 
 Then I thought: so what?
 
@@ -334,7 +332,7 @@ Then I looked around.
 
 At the cases of sapphires and diamonds, lit from inside. Lit for whom? Who comes here to look at them? At the quartz desk with one single crumb from Mrs. Mazur's hand pie on it. At the white gloves. At the guard outside the door, who isn't allowed to hear anything. At the food in boxes by the gate.
 
-At a man who for twenty years couldn't call his teacher, while his teacher couldn't call him. Both of them afraid. Between the two of them.
+At a man who for twenty years couldn't call his teacher, while his teacher couldn't call him. Both of them afraid. Split two ways.
 
 I thought: this is what "nobody, ever, only you, forever" looks like. This is what it looks like when you're the only one who knows. An empty house with lights inside the display cases. Snow in the yard without a single track.
 
@@ -386,7 +384,7 @@ I thought about it. Underneath, in small letters, I added: "Thanks for the steak
 
 I put it back on the shelf. I'd take it to her myself. There were still two weeks until New Year's. Or I could have Ashot pass it along. No. Myself. This one I had to do myself.
 
-Then I sat down in the kitchen and opened the ninth volume. The one with "all the interesting parts." This time, formulas and all. I read until two in the morning. About how two objects grow warm near each other. About how Professor Stern had put them side by side only once, on a table, back when his teacher was still alive, and got so scared that he locked the second one away in the safe. And never took it out again. Where his teacher had gotten the second one: again, not a word.
+Then I sat down in the kitchen and opened the ninth volume. The one with "all the interesting parts." This time, formulas and all. I read until two in the morning. About how two objects grow warm near each other. About how Professor Stern had had them together only once, on a table, back in his teacher's day, and got so scared that he locked the second one away in the safe. And never took it out again. Where his teacher had gotten the second one: again, not a word.
 
 On the last page of the ninth volume, in his handwriting, unsteady, it said:
 
