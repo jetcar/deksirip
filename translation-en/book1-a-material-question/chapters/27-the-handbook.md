@@ -10,7 +10,7 @@ Keyes called on Wednesday, April eighth, at nine in the morning. I was sitting i
 
 "Is that good or bad?" I asked.
 
-"For you, neither," said Keyes. "Large quantities starts at about sixty times your six grams. You're about as close to it as I am to retirement. There's no crime. I'm closing the case. The pea gets returned to you, signed for, and the silver too. No civil fine either: six grams, for personal use. As for your expert: his attorney sent in a statement saying the tip came from his client. That's a knowingly false report, if you want to go after him. Filing a complaint is your right."
+"For you, neither," said Keyes. "'Large quantity' starts at about sixty times your six grams. You're about as close to it as I am to retirement. There's no crime. I'm closing the case. The pea gets returned to you, signed for, and the silver too. No civil fine either: six grams, for personal use. As for your so-called expert: his attorney sent in a statement saying the tip came from his client. That's a knowingly false report, if you want to go after him. Filing a complaint is your right."
 
 "I don't want to," I said.
 
@@ -104,7 +104,7 @@ Mrs. Mazur brushed the flour off her hands.
 
 Ms. Pratt raised her hand, as if at a meeting.
 
-"I will look at this as a revenue auditor," she said. "At present, shoe repair is expensive, because there are few cobblers and everybody's shoes wear out. If many people learn, simple repairs will get cheaper. That is true. Ashot Sarkisian will lose on the simple jobs. But the complicated ones, the ones that require precision, will get more expensive. Because precision equals understanding. And understanding cannot be downloaded to a phone." She adjusted her glasses. "That's Professor Stern. Volume thirty-one. He worked out there what would happen if everybody learned. He was afraid to publish it. In my view, it is simply economics."
+"I will look at this as a revenue auditor," she said. "At present, shoe repair is expensive, because there are few cobblers and everybody's shoes wear out. If many people learn, simple repairs will get cheaper. That is true. Ashot Sarkisian will lose on the simple jobs. But the complicated ones, the ones that require precision, will get more expensive. Because precision equals understanding. And understanding cannot be downloaded to a phone." She adjusted her glasses. "That is Professor Stern. Volume thirty-one. He worked out there what would happen if everybody learned. He was afraid to publish it. In my view, it is simply economics."
 
 Ashot thought about it.
 
@@ -126,7 +126,7 @@ The second to object was Mikey. And that was worse.
 
 Val closed Glen's notebook.
 
-"Mikey," she said. "Letting a joint ease off and holding a joint are the same skill. With a different want behind it. You can't publish one without the other. If we keep quiet, then ten years from now some second Glen will find a third thimble, and he'll have 'ease off,' and everybody else will have nothing. If we publish, everybody will have 'hold.' On March twenty-second Glen tested it himself. On us."
+"Mikey," she said. "Easing off the knot and holding the knot are the same skill. With a different want behind it. You can't publish one without the other. If we keep quiet, then ten years from now some second Glen will find a third thimble, and he'll have 'ease off,' and everybody else will have nothing. If we publish, everybody will have 'hold.' On March twenty-second Glen tested it himself. On us."
 
 "And what if somebody doesn't have both?" said Mikey. "Just 'ease off'?"
 
@@ -142,7 +142,7 @@ Mikey thought for a long time.
 
 The third was Corey.
 
-He didn't object. He came on the second Sunday, looked over the draft Val had printed out at the department on written-off paper, found the section on energy and turned pale.
+He didn't object. He came on the second Sunday, looked over the draft Val had printed out at the department on the department's scrap paper, found the section on energy and turned pale.
 
 "Who wrote this?" he asked.
 
@@ -152,9 +152,9 @@ He didn't object. He came on the second Sunday, looked over the draft Val had pr
 
 "It says 'in boots.'"
 
-"He'll be in boots. In the bathtub." Corey sat down on a crate. "No. The electricity part, I'm writing. Myself. And the first line is going to be: 'Never draw current without ground-fault protection. Never. Not once. Not even if you really need to.' The second: 'Both wires. One wire only if you'd like to find out how fast they can get you to the ER.' The third: 'Without a thimble or a ring, don't draw current at all. A hand is not a thimble.' And the fourth: 'The bare tips touch the metal of the thimble only, never skin. The protection saves you from the ground. If the current goes from one wire to the other through your hands, nothing will save you.' And a diagram. I'll draw the diagram."
+"He'll be in boots. In the bathtub." Corey sat down on a crate. "No. The electricity part, I'm writing. Myself. And the first line is going to be: 'Never draw current without ground-fault protection. Never. Not once. Not even if you really need to.' The second: 'Both wires go to the thimble. One wire only if you'd like to find out how fast they can get you to the ER.' The third: 'Without a thimble or a ring, don't draw current at all. A hand is not a thimble.' And the fourth: 'The bare tips touch the metal of the thimble only, never skin. The protection saves you from the ground. If the current goes from one wire to the other through your hands, nothing will save you.' And a diagram. I'll draw the diagram."
 
-"Corey, that's science fiction," said Bull. "There are only two thimbles."
+"Corey, that's overkill," said Bull. "There are only two thimbles."
 
 "There are nine rings," said Corey. "And everybody's got outlets. In a year there'll be ninety rings, and every last one of them will want to do it 'like Timothy.' I'm writing this section. Otherwise my name doesn't go on it."
 
@@ -184,7 +184,7 @@ And next to it, Glen's entry. From twenty years ago. The yeast dough that stoppe
 
 We put it in the section whole. With the numbers.
 
-Old Pete worked out what the handbook had cost. Paper from the department: written off. Laptop: Mikey's. Electricity: D. Mazur's. Hand pies: D. Mazur's. Tea: everybody's.
+Old Pete worked out what the handbook had cost. Paper from the department: written off. Laptop: Mikey's. Electricity: Mrs. Mazur's. Hand pies: Mrs. Mazur's. Tea: everybody's.
 
 "Cost: zero," he wrote. "Price to the reader: zero. Profit: not anticipated."
 
@@ -224,11 +224,11 @@ Val read it and held the strip between her fingers for a long time.
 
 Under the strip, in the sack, there was one more thing. A notebook. Black, thick, the twenty-first. This year's. About a third of it filled. The last entry was from Tuesday:
 
-"Tried holding the joint instead of letting it ease off. My own fence. One post. Difficult. Unfamiliar. It worked. Cost lower than for easing off. Strange. Verify further."
+"Tried holding the knot instead of easing it off. My own fence. One post. Difficult. Unfamiliar. It worked. Cost lower than for easing off. Strange. Verify further."
 
 ---
 
-We decided to publish on the night before Monday, April twenty-seventh. Why at night, nobody could remember. I think Mikey said the server was less busy at night. I think Val said the paper had to go to the journal before Monday anyway. I think Old Pete said, "So nobody jinxes it."
+We decided to publish on the night of Sunday into Monday, so it would go up early on April twenty-seventh. Why at night, nobody could remember. I think Mikey said the server was less busy at night. I think Val said the paper had to go to the journal before Monday anyway. I think Old Pete said, "So nobody jinxes it."
 
 By midnight everybody was sitting in Mrs. Mazur's kitchen. The ones who'd written, and the ones who'd held joints. Mrs. Mazur's kitchen seats six, and there were nineteen of us. Mrs. Stern on the only real chair, everybody else on stools, on the windowsill, on the floor; Mikey sat on top of the fridge. Goldie stood in the doorway, because there was nowhere else.
 
@@ -254,9 +254,9 @@ Mrs. Stern took the pen. Looked at the paper. Didn't bother reading it.
 
 She signed. In big letters, with a flourish.
 
-"And a fourth," said Goldie. "Michael is a minor. Lana, I need your signature too."
+"And four," said Goldie. "Michael is a minor. Lana, I need your signature too."
 
-Mikey's mom, Lana, who'd come straight from her shift in her jacket from the bread plant, took the pen.
+Mikey's mom, Lana, who'd come straight from her shift, still in her bread-plant work jacket, took the pen.
 
 "Under rule four," she said. "You answer for him under rule three."
 
@@ -266,11 +266,11 @@ Val hadn't said anything this whole time. Then she said, to nobody in particular
 
 "And then what?" I asked.
 
-"So be it," said Val. "Somebody has to print the zeros too. And the ones."
+"Let them," said Val. "Somebody has to print the zeros too. And the ones."
 
 ---
 
-At five to two, Mikey set the laptop on the table, between the jam and the sugar bowl. On the screen was a page. Plain, white. At the top was the title, which we'd argued about for a week and finally picked the most boring one, because Ms. Pratt said nobody steals boring: *Reshaping Matter by Hand. A Practical Manual. First Edition.*
+At five to two, Mikey set the laptop on the table, between the jam and the sugar bowl. On the screen was a page. Plain, white. At the top was the title. We'd argued about it for a week and finally picked the most boring one, because Ms. Pratt said nobody steals boring: *Reshaping Matter by Hand. A Practical Manual. First Edition.*
 
 Below it, the authors. Mikey had lined them up in a column, like names in a teacher's grade book:
 
@@ -342,13 +342,13 @@ Mrs. Mazur kicked us out last.
 
 "Go to bed," she said. "Both of you. I'll do the dishes myself."
 
-We went down to my floor, the fourth. One flight. Val went first, holding the railing, and I watched her back.
+We went down to my floor, the fourth. One floor down. Val went first, holding the railing, and I watched her back.
 
 She had on her blue sweater with the wide neck, stretched out at the elbows: the one she'd been wearing in the lab in December, only now it had flour on it too, from Mrs. Mazur's. She'd pinned her hair up with a pencil to keep it out of the way, and the pencil was still sticking out. Jeans, old sneakers. Nothing special. Just ordinary Val at four in the morning.
 
 At my door she stopped.
 
-"Still haven't fixed the stool?"
+"Still haven't fixed the chair?"
 
 "Still haven't."
 
@@ -398,17 +398,17 @@ I got up, took the glasses before he could make up his mind, and put them in my 
 
 I took off the thimble and set it on the windowsill. For the first time in half a year: just like that, not to hide it. Right where the glasses had been a moment ago. Lugnut came back down from the fridge, sniffed the thimble and didn't touch it. The glasses had interested him more. I figured he was probably offended.
 
-The stool wobbled. The landlady's stool, in the landlady's apartment: what's really mine here is the notebooks and the cat. One of its legs had been cracked since October, and I'd never once put the thimble to it, because I knew how that went with wood. The old chair's leg had turned to charcoal, light as a cracker, and you can't do a thing with that: what's gone off as smoke isn't in it anymore. I knocked out the cracked leg, took a block from one of Mikey's pallets, whittled it with a knife, fitted it, drove it in. By hand. Forty minutes, not a single hand pie. The leg stood firm. A little lighter than the others.
+I got the landlady's chair out of the shelter. It wobbled on its three legs. The landlady's chair, in the landlady's apartment: what's really mine here is the notebooks and the cat. The broken leg had been in there with it since October: charcoal, light as a cracker. You can't do a thing with that: what's gone off as smoke isn't in it anymore. I took a block from one of Mikey's pallets, whittled it with a knife, fitted it, drove it in. By hand. Forty minutes, not a single hand pie. The leg stood firm. A little lighter than the others.
 
-And I had the feeling that there was one less debt. Pen returned, stool fixed. Bull: Fridays, as always.
+And I had the feeling that there was one less debt. Pen returned, chair fixed. Bull still got his money on Fridays, as always.
 
-Then I checked my phone. Under the handbook there were four hundred comments. A school a couple of counties over, where a chemistry teacher had repeated the glasses with her whole class: three out of twenty-eight, minus three tenths, like Mikey in December. Without their parents' permission. Ms. Pratt said the point had been violated on the very first day, and wrote it down. There were others too: "Scam. Where do I buy a ring?", "Cult.", "This is an ad for thermometers." Old Pete read that last one and said, "They do it on purpose." A retiree from somewhere down south: "Held a paper clip. Nothing happened. But thank you for the section on electricity, now my wife can stop worrying."
+Then I checked my phone. Under the handbook there were four hundred comments. A school a couple of counties over, where a chemistry teacher had repeated the glasses with her whole class: three out of twenty-eight, minus three tenths, like Mikey in December. Without their parents' permission. Ms. Pratt said rule four had been broken on the very first day, and wrote it down. There were others too: "Scam. Where do I buy a ring?", "Cult.", "This is an ad for thermometers." Old Pete read that last one and said, "They do it on purpose." A retiree from somewhere down south: "Held a paper clip. Nothing happened. But thank you for the section on electricity, now my wife can stop worrying."
 
 Mom called. "Tim, Aunt Wanda showed me some kind of manual on her phone. Your name's on it. Third." A pause. "What, you didn't sleep at home last night?"
 
 I told her I had. That was the truth. Val was home too.
 
-I turned off my phone. I looked at Val. At Lugnut. At the stool, standing on four legs.
+I turned off my phone. I looked at Val. At Lugnut. At the chair, standing on four legs.
 
 I opened the graph-paper notebook and wrote under "Everywhere":
 

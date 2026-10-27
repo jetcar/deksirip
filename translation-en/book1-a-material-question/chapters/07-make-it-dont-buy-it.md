@@ -170,7 +170,7 @@ The door wouldn't shut because the building had settled and the doorframe had go
 
 The door shut. With a quiet click, the way doors do for normal people.
 
-I ceremonially carried the old three-legged chair down to the dumpsters. An hour later somebody had taken it. Probably somebody who understands wood.
+I ceremonially carried the old three-legged chair into the shelter. Let it wait there for somebody who understands wood.
 
 ---
 

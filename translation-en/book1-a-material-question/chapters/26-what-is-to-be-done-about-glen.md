@@ -358,7 +358,7 @@ For twenty years the man hadn't trusted anybody, not even hand pies. And now he'
 
 ---
 
-We opened them at Mrs. Mazur's. That's just how it worked out. I called Val, Val called Mrs. Stern, and Mrs. Stern said she'd come by taxi, "but only if it's at Dorothy's," by which she meant Mrs. Mazur's, "because at Timothy's, Dorothy says, there's nowhere to sit." That's true: all I've got is one iron chair and a stool. It took her twenty minutes to climb to the fifth floor. On the second she rested by Old Pete's door, read his sign and said to the door, "I know too."
+We opened them at Mrs. Mazur's. That's just how it worked out. I called Val, Val called Mrs. Stern, and Mrs. Stern said she'd come by taxi, "but only if it's at Dorothy's," by which she meant Mrs. Mazur's, "because at Timothy's, Dorothy says, there's nowhere to sit." That's true: one iron chair, a stool, and a chair on three legs. It took her twenty minutes to climb to the fifth floor. On the second she rested by Old Pete's door, read his sign and said to the door, "I know too."
 
 On Mrs. Mazur's table, between the jam and the sugar bowl, we cut the tape.
 
