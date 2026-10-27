@@ -2,7 +2,7 @@
 
 I took the folder back to Goldie on Wednesday, myself.
 
-Her firm's office was on the third floor of a new building by the square, one of those buildings where, as Goldie had said, something breaks every week. The elevator didn't break. The girl at the reception desk looked at my work jacket the way, according to Goldie, the coat-check lady at the Summit would have suffered over it, and called upstairs. Goldie came down herself. In her coat, as if she were on her way somewhere, though I don't think she was on her way anywhere.
+Her firm's office was on the third floor of a new building by the square, one of those buildings where, as Goldie had said, something breaks every week. The elevator didn't break. The girl at the reception desk looked at my work jacket with exactly the suffering Goldie had predicted from the coat-check lady at the Summit, and called upstairs. Goldie came down herself. In her coat, as if she were on her way somewhere, though I don't think she was on her way anywhere.
 
 She opened the folder right there in the lobby. She read the "No" on the first page. She read the small print underneath. She looked up.
 
@@ -30,29 +30,29 @@ After that I went up to see Mikey.
 
 Mikey opened the door in a hoodie, one earbud in. Behind him, two monitors glowed on his desk: a game on one, some kind of code on the other.
 
-"Tim," he said. "What's up with you?"
+"Tim," he said. "What's with the face?"
 
 "The chat," I said. "Ours. Stairwell Three Exchange. Who can read it?"
 
-"Us," said Mikey. "Eight people."
+"Just us," said Mikey. "Eight people."
 
-"What about with the link?"
+"What about anyone with the link?"
 
 Mikey blinked. Then he turned to the monitor and clicked something. Then something else. Then he took out the earbud and set it on the desk.
 
 "Uh-oh," he said.
 
-"What's 'uh-oh'?"
+"What do you mean, 'uh-oh'?"
 
 "With the link, anybody can," Mikey said quietly. "I made it an open group so it'd be easier for old Shirley to get in. Her phone's ancient, she can never remember a password. And there's a view counter here…" He turned the screen toward me. "Tim, Mrs. Mazur's post about 'electricity out of sand' has two hundred forty views. And there are eight of us."
 
-We both looked at the number. Two hundred forty. Eight people couldn't have viewed it two hundred forty times, not even if Old Pete reread every post to keep his books straight. That made two hundred thirty-some strangers. Glen doesn't read anything that many times. Which meant the link had been making the rounds.
+We both looked at the number. Two hundred forty. Eight people couldn't have viewed it two hundred forty times, not even if Old Pete reread every post to keep his books straight. That made two hundred thirty-some strangers. Even Glen wouldn't have read it that many times. Which meant the link had been making the rounds.
 
 "Lock it," I said. "Password. I'll help Shirley myself."
 
 Mikey locked it. His fingers flew over the keyboard, but he had the face of a kid who'd just broken somebody else's window. Then, without turning around, he said:
 
-"Is it because of me somebody found out about you?"
+"Did somebody find out about you because of me?"
 
 I thought about it. I could have said no. It wouldn't have been true.
 
@@ -74,7 +74,7 @@ Mikey spun around so fast that the earbud fell off the desk.
 
 I spent a long time thinking about how to go about it.
 
-I didn't know how to teach. I knew how to fix things. When somebody brings me an iron, I don't explain to them how an iron works. I just take it and do it. But this time I'd have to explain something I didn't understand myself. I feel steel the way you feel bathwater with your hands: warm, cold, cloudy, gritty. But how do you explain "warm water" to somebody who has no hands?
+I didn't know how to teach. I knew how to fix things. When somebody brings me an iron, I don't explain to them how an iron works. I just take it and fix it. But this time I'd have to explain something I didn't understand myself. I feel steel the way you feel bathwater with your hands: warm, cold, cloudy, gritty. But how do you explain "warm water" to somebody who has no hands?
 
 And do they even have hands?
 
@@ -88,7 +88,7 @@ Val agreed right away. Too quickly, I thought later. On Saturday she came before
 
 "Heat," said Val. "You said it yourself. Any change takes energy, and energy always comes from somewhere. If a person has even a drop of this ability, the first way it should show up is this: they want to change something, and somewhere nearby it gets colder. The simplest thing there is to measure."
 
-On Mrs. Mazur's table she set out eight identical glasses, more than we needed. Into each one she poured the same amount of water from the same kettle, cooled to room temperature, two hundred grams apiece. She weighed it on Mrs. Mazur's kitchen scale and grumbled that the scale was off by two grams. She lowered a thermometer into each glass and stirred the water with it before every reading. The thermometers all said the same thing: twenty-one degrees Celsius, exactly.
+On Mrs. Mazur's table she set out eight identical glasses, to be safe. Into each one she poured the same amount of water from the same kettle, cooled to room temperature, two hundred grams apiece. She weighed it on Mrs. Mazur's kitchen scale and grumbled that the scale was off by two grams. She lowered a thermometer into each glass and stirred the water with it before every reading. The thermometers all said the same thing: twenty-one degrees Celsius, exactly.
 
 "Everybody holds a glass in both hands for exactly three minutes," she said. "I measure before and after. I subtract 'before' from 'after': that's the result. First you just hold it. Your hands are warm, the water will warm up from them by a few tenths of a degree. That's the control: what the hand gives on its own. Then the second glass: you hold it and you want. You want the water to get colder. Don't think it. Want it. Then I compare: if the water in the second glass warmed up less than in the first, there's something there. And the difference between the glasses is what you did."
 
@@ -100,7 +100,7 @@ On a sheet of paper for Old Pete she drew three columns: "Before," "After," "Dif
 
 "What about me?" I asked. "Without the thimble."
 
-"You're a contaminated sample," said Val. "You've had the thimble for over two months. You're later. Separately."
+"You're a contaminated sample," said Val. "You've had the thimble for over two months. You go last. Separate trial."
 
 ---
 
@@ -108,7 +108,7 @@ Mrs. Mazur had baked hand pies for our arrival. There was never any question. "S
 
 Old Pete came too. Nobody had invited him. He came with his ledger, sat down in the corner and said:
 
-"I'm an observer. I'll be taking notes. Without notes, science is just people sitting around chatting." He cast a sidelong glance at my thimble. "Timothy, I don't believe in these magic tricks of yours. But I write things down. The records will explain everything later on their own."
+"I'm an observer. I'll be taking notes. Without notes, science is just people sitting around chatting." He cast a sidelong glance at my thimble. "Timothy, I don't believe in these magic tricks of yours. But I write things down. The records will explain themselves later."
 
 Val looked at him with respect. He noticed and sat up straighter.
 
@@ -120,7 +120,7 @@ Control: it started at twenty-one point zero and ended at twenty-one point eight
 
 The second glass. Val sat with it clasped between her palms, her eyes closed. Her lips were pressed together, and a crease had formed on her forehead. She was wanting. I could see her wanting. That's how you want to pass an exam you've already failed twice.
 
-It started at twenty-one point zero and ended at twenty-one point nine. Plus nine tenths: one tenth more than just holding it. One tenth is within the error of the thermometer. Zero, she'd have said about anybody else's result. About her own, later on, she'd say "worse than the control."
+It started at twenty-one point zero and ended at twenty-one point nine. Plus nine tenths: one tenth more than just holding it. One tenth is within the thermometer's margin of error. Zero, she'd have said about anybody else's result. About her own, later on, she'd say "worse than the control."
 
 Val opened her eyes. She looked at the thermometer. She wrote it down. She didn't say anything.
 
@@ -136,7 +136,7 @@ Control: from twenty-one to twenty-one point seven, plus seven tenths. The secon
 
 Val looked at the thermometer twice.
 
-"Your hands warmed the water seven tenths, and with wanting, only four," she said. "Three tenths went somewhere. That's on the edge of the error. But it's on the edge. Do it again."
+"Your hands warmed the water seven tenths, and with wanting, only four," she said. "Three tenths went somewhere. That's right at the margin of error. But it's at the margin. Do it again."
 
 Mikey did it again. Plus three tenths instead of seven. Then once more: plus two. Every time less than just holding it.
 
@@ -192,7 +192,7 @@ Val sat very still.
 
 "You've been doing this your whole life," she said at last. "Every time you roll out dough. Thirty years on puff pastry. You take the heat out of the dough. And you don't even know it." She looked at the first glass. "And your control isn't a control. You were taking it then too."
 
-"Taking, not taking," said Mrs. Mazur. "I work with my hands. The hands know."
+"Taking, not taking, what do I know," said Mrs. Mazur. "I work with my hands. The hands know."
 
 "And your joints," I said. "By evening your fingers ache."
 
@@ -208,13 +208,13 @@ Here, of course, I got carried away. I'm not a doctor. Val told me so afterward,
 
 Then came the dough.
 
-That was Mrs. Mazur's idea. "Why are you tormenting me with glasses?" she said. "You want to look, look at work." She took a block of dough and a block of butter out of the fridge, dusted the table with flour from a bag, like powder from a compact, and started making puff pastry. For a napoleon. New Year's was a week and a half away, and Mrs. Mazur's napoleon cake, as she put it, was "as mandatory as the fireworks."
+That was Mrs. Mazur's idea. "Why are you tormenting me with glasses?" she said. "You want to look, look at work." She took a block of dough and a block of butter out of the fridge, dusted the table with flour from a bag, like powder from a compact, and started making puff pastry. For a napoleon. New Year's was five days away, and Mrs. Mazur's napoleon cake, as she put it, was "as mandatory as the fireworks."
 
 Puff pastry is thin layers of dough and butter, stacked one on top of another. You wrap the butter in the dough, roll it out, fold it in thirds, roll it out again. Each time there are three times as many layers. If the butter is warm, it runs and the layers stick together. If the butter is cold, the layers lie flat, like the pages of a book. Then in the oven the water in the butter boils, the steam pushes the pages apart, and the dough rises in layers. Val explained all this to me later that evening. At the time, I just watched.
 
 Mrs. Mazur rolled the dough out with a rolling pin. Slowly. Without strain. I put on the thimble and laid my palm on the edge of the table (not on the dough, on the table) so I could feel. Feeling isn't touching. Through wood I couldn't have changed anything even if I'd wanted to.
 
-The table was wood, and I could barely feel through it. But I felt something else. How under the rolling pin, inside the block, the layers of butter were lying flat. Not just flat: flatter than I could have managed if I'd tried my hardest. Where the butter thinned out, the rolling pin seemed to linger on its own. Where it thickened, the pin seemed to pass more easily on its own. Mrs. Mazur wasn't thinking. Her hands knew where the butter was about to tear before it tore.
+The table was wood, and I could barely feel through it. But I felt something else. I could feel how, under the rolling pin, inside the block, the layers of butter were lying flat. Not just flat: flatter than I could have managed if I'd tried my hardest. Where the butter thinned out, the rolling pin seemed to linger on its own. Where it thickened, the pin seemed to pass more easily on its own. Mrs. Mazur wasn't thinking. Her hands knew where the butter was about to tear before it tore.
 
 The block, though, wasn't getting any warmer. In a hot kitchen, with the oven on, under a rolling pin, for twenty minutes, and it stayed exactly the way it had been when she took it out of the fridge. That doesn't happen. I could feel it through the table and the thimble. The most heat went out of it when she folded the dough and pressed it down with her palms. Heat was leaving the dough and leaving her palms. Not into the air. Into the layers: into making the butter lie flat.
 
@@ -228,9 +228,9 @@ She could hear me too.
 
 ---
 
-The napoleon was baked by four. Eight layers, each one thin as paper and flaky as an old book. I broke off a piece of one, and it crumbled into translucent little leaves that melted in my mouth. Old Pete counted the leaves at the broken edge with a magnifying glass (he'd brought it with him, "for the records") and wrote: "Layers per sheet: approx. two hundred fifty. Exact count not possible. They melt."
+The napoleon was baked by four. Eight sheets of pastry, each one thin as paper and flaky as an old book. I broke off a piece of one, and it crumbled into translucent little leaves that melted in my mouth. Old Pete counted the leaves at the broken edge with a magnifying glass (he'd brought it with him, "for the records") and wrote: "Layers per sheet: approx. two hundred fifty. Exact count not possible. They melt."
 
-"Two hundred fifty-six," said Mrs. Mazur. "Four book folds, four layers each time. I counted while I was folding. I always count."
+"Two hundred fifty-six," said Mrs. Mazur. "Four book folds. Times four, four times. I counted while I was folding. I always count."
 
 Old Pete looked at his "approx. two hundred fifty" and corrected it without a word. The cook had turned out to be more precise than the accountant. He survived it, but just barely.
 
@@ -252,7 +252,7 @@ Nearly free for me, that is, with the thimble. Without a thimble, even "nearly f
 
 Then another thought came: what if he hadn't picked a paper clip? What if he'd picked something else that also wanted to happen on its own, only worse?
 
-"I'm hungry," said Mikey. "Really hungry."
+"I'm starving," said Mikey. "Like, seriously."
 
 Without a word, Mrs. Mazur set a plate with three hand pies in front of him.
 
@@ -272,7 +272,7 @@ I didn't interrupt.
 
 She stopped. I waited.
 
-"And the thimble stays silent on me," she said. "Remember, that time? You let me put it on. And nothing. Back then I thought: well, it's a fluke, one trial isn't data. Now I have data. Two glasses. Mine. And six other people's. I have everything except this. I understand more than anybody. And I can't do anything."
+"And with me, the thimble stays silent," she said. "Remember, that time? You let me put it on. And nothing. Back then I thought: well, it's a fluke, one trial isn't data. Now I have data. Two glasses. Mine. And six other people's. I have everything except this. I understand more than anybody. And I can't do anything."
 
 "That's not the same thing," I said.
 
@@ -282,13 +282,13 @@ She stopped. I waited.
 
 Val was quiet for a long time.
 
-"That's a consolation," she said at last.
+"You're just being nice," she said at last.
 
 "That's data," I said. "Series One."
 
 She laughed. Briefly, through something that wasn't laughter. Then she put her glasses on. Then she looked at me through them, as if checking that I was still there.
 
-"You know what's the most galling part?" she said. "Glen was right."
+"You know what the worst part is?" she said. "Glen was right."
 
 "About what?"
 
@@ -316,13 +316,13 @@ She bumped me with her shoulder. Not hard.
 
 Old Pete really did log it. In the "Science" account, next to the minus twelve: "Napoleon, V. Finch's piece: minus one. Eaten by the observer."
 
-That evening, when everybody had gone home, he sat at Mrs. Mazur's table with the ledger and the expression of a man who's found a hole in his balance. I was helping Mrs. Mazur with the dishes. Her hands were cold, as always. I noticed that now.
+That evening, when everybody had gone home, he sat at Mrs. Mazur's table with the ledger and the expression of a man who's found a hole in his books. I was helping Mrs. Mazur with the dishes. Her hands were cold, as always. I noticed that now.
 
 "Timothy," said Old Pete. "I have a question. An accounting question."
 
 "Go ahead."
 
-"If Mrs. Mazur," he said it carefully, "now knows that she… you know… takes heat out of the dough. And if she learns to take it better. Then she'll bake faster."
+"If Mrs. Mazur," he said carefully, "now knows that she… you know… takes heat out of the dough. And if she learns to take it better. Then she'll bake faster."
 
 "Probably."
 
@@ -354,9 +354,9 @@ I wrote:
 
 Then I looked at that. And added at the bottom:
 
-"The ability is like an ear for music. Professor Stern was right. Only the ones who hear aren't the ones who know the most. Or not only them. Maybe it's the ones who've worked with their hands the longest." Val would have said: three people isn't a sample. And Mikey hardly works with his hands at all; he works with his fingers, on a keyboard.
+"The ability is like an ear for music. Professor Stern was right. Only it isn't the ones who know the most who can hear. Or not only them. Maybe it's the ones who've worked with their hands the longest." Val would have said: three people isn't a sample. And Mikey hardly works with his hands at all; he works with his fingers, on a keyboard.
 
-I thought some more. I remembered Ashot with his hammer, who can read people by their heel tips and an angry hand on a bolt. I remembered Greg, who knows by the sound what kind of steel he's holding. I remembered Bull, who'd spent eighteen years listening to engines. I remembered Glen, with his lens in ten seconds, and his fear that somebody would find out it could be done.
+I thought some more. I remembered Ashot with his hammer, who can read people by their heel tips and angry handwriting in a bolt. I remembered Greg, who knows by the sound what kind of steel he's holding. I remembered Bull, who'd spent eighteen years listening to engines. I remembered Glen, with his lens in ten seconds, and his fear that somebody would find out it could be done.
 
 But it can be done. It isn't a secret anymore. Mrs. Mazur has it. Mikey has it. Maybe lots of people at the market have it. It's just that nobody knows they have it, because nobody's ever measured it with a glass of water.
 
