@@ -16,7 +16,7 @@ The silver for the blanks came from Mrs. Mazur. The six silver-plated cupronicke
 
 After three rings, half the handle was all that was left of the spoon. I put it in the case of hooks, next to what was left of the little silver bar.
 
-The rings didn't all come out the same. The ones that sat closest to the thimble turned out almost as good as the first. The one on my little finger was half as strong. As if the thimble had taught the first ring, and the first ring had taught its neighbors, and each one after that was hearing not the teacher but somebody's retelling. Val wrote that down and said, "Like gossip going up the stairwell. The farther from the source, the less truth in it." Old Pete took offense on behalf of the stairwell.
+The rings didn't all come out the same. The one that sat closest to the thimble turned out almost as good as the first. The one on my little finger was half as strong. As if the thimble had taught the first ring, and the first ring had taught its neighbors, and each one after that was hearing not the teacher but somebody's retelling. Val wrote that down and said, "Like gossip going up the stairwell. The farther from the source, the less truth in it." Old Pete took offense on behalf of the stairwell.
 
 Four rings. Two weeks to the auction. A thousand joints in the frame that I couldn't bend by myself. And forty people at the market who wanted to know whether they'd have a booth.
 
@@ -24,9 +24,9 @@ It was time to teach.
 
 ---
 
-We set up the workshop in Hank's garage. There was nowhere else. Hank said Sundays from ten to six, and Saturdays in the evening, after the market. And clean up after yourselves. Saturday afternoons the market's open, and none of us were going to leave our booths: not Ashot, not me, not Mikey with his order notebook. Mikey spends his Saturdays at the market working off Hank's welder, and Hank remembers that better than anybody.
+We set up the workshop in Hank's garage. There was nowhere else. Hank said Sundays from ten to six, and Saturdays in the evening, after the market. And clean up after yourselves. Saturday afternoons the market was open, and none of us were going to leave our booths: not Ashot, not me, not Mikey with his order notebook. Mikey spent his Saturdays at the market working off Hank's welder, and Hank remembered that better than anybody.
 
-Hank moved his car out by the doors, and in its place Mikey set up three workbenches knocked together out of old pallets. I'd taken care of the heat in advance. The oil-filled heater was eating up the bill on Hank's meter so fast that every morning Hank looked at the meter like it was the enemy. So a wood stove went into the corner. I made it out of two old propane tanks. First the tanks stood open for three days, filled with water: an "empty" tank always has some gas left in it. I spent two nights growing the seam between them shut, for a bag of pierogi: joining is expensive. I ran the stovepipe out through the wall above the doors, not through the transom, and took it up higher than the roof. Otherwise you get no draw, and the fumes stay inside with you. The firewood was what was left of Mikey's pallets.
+Hank moved his car out by the doors, and in its place Mikey set up three workbenches knocked together out of old pallets. I'd taken care of the heat in advance. The oil-filled heater was eating through Hank's bill so fast that every morning he looked at the meter like it was the enemy. So a wood stove went into the corner. I made it out of two old propane tanks. First I made the tanks safe, and took my time about it: an "empty" tank always has some gas left in it. I spent two nights growing the seam between them shut, for a bag of pierogi: joining is expensive. I ran the stovepipe out through the wall above the doors, not through the transom, and took it up higher than the roof. Otherwise you get no draw, and the fumes stay inside with you. The firewood was what was left of Mikey's pallets.
 
 That mattered. The heat the students would be taking was going to come from the wood. Not from each other.
 
@@ -44,7 +44,7 @@ Mrs. Mazur, with a pot of hand pies, a jar of cherry jam and some dough wrapped 
 
 Mikey, with his notebook, his laptop and Lana. Lana had come straight from her night shift, smelling of warm bread. She sat for half an hour, watched, and didn't say anything. At the doors she stopped.
 
-"I give my permission," she told me. "Under rule four. And you answer for him. Under rule three."
+"You have my permission," she told me. "Under rule four. And you answer for him. Under rule three."
 
 And she went home to sleep.
 
@@ -62,7 +62,7 @@ I wasn't expecting him. Bull pulled up in his old blue sedan, which these days s
 
 Bull thought it over.
 
-"Then I'll bring something too, so I'm not freeloading," he said, and took a jerry can of coolant and a torque wrench out of his trunk. "This is for Hank. I heard they cleaned him out."
+"Then I'd better chip in something, so I'm not freeloading," he said, and took a jerry can of coolant and a torque wrench out of his trunk. "This is for Hank. I heard they cleaned him out."
 
 Hank took the wrench, turned it over in his hands, said "Nice," and went off to his corner with his thermos. He had no intention of learning anything. But he didn't leave, either.
 
@@ -74,7 +74,7 @@ Ms. Pratt came in, looked around, saw the wood stove and said, before anything e
 
 "Where's the fire extinguisher?"
 
-There wasn't one. Old Pete wrote in the ledger: "Fire extinguisher: absent." Hank got up without a word and brought his, out of the car. Ms. Pratt checked the date on the canister and nodded.
+There wasn't one. Old Pete wrote in the ledger: "Fire extinguisher: absent." Hank got up without a word and brought his, out of the car. Ms. Pratt checked the inspection tag and nodded.
 
 "Mr. Nagel," she said then. "Mr. Palmer tells me you're conducting instruction here."
 
@@ -90,11 +90,11 @@ Behind her, Old Pete nodded. Proudly. Like a man who'd brought the Revenue Depar
 
 ---
 
-First, the rules. I switched off the breaker in the panel, in front of everybody, and said out loud, the way we do it now:
+First, the rules. I switched off the breaker in the panel, in front of everybody, and said out loud, the way we always do:
 
 "Nobody touches the panel. Nobody goes near the wires with a ring on. We don't know whether a ring behaves like the thimble. It might not be your ground. We're not testing that on ourselves."
 
-Ms. Pratt wrote it down. Then the glasses. Val insisted. "Without a control, it's not a school, it's a cult." Eight glasses, two hundred grams of water each, three minutes, the control and the "wanting." We figured it the same way as in December: temperature before and after, the difference in each glass, and then how much less the "wanting" glass had warmed up than the control. That last number was the one Val called out.
+Ms. Pratt wrote it down. Then the water glasses. Val insisted. "Without a control, it's not a school, it's a cult." Eight glasses, two hundred grams of water each, three minutes, the control and the "wanting." We figured it the same way as in December: temperature before and after, the difference in each glass, and then how much less the "wanting" glass had warmed up than the control. That last number was the one Val called out.
 
 Ashot: minus two tenths against the control. Borderline.
 
@@ -122,7 +122,7 @@ Nobody laughed. Mrs. Mazur silently slid a hand pie over to her.
 
 Then I handed out the rings.
 
-There were four rings and five students. Mrs. Mazur turned hers down right away: "My hands are plenty for me. Give it to the boy." The first one, Grandma's, the strongest, I gave to Ms. Pratt. I don't know why. It seemed to me that what she needed most was confidence. To Ashot, the one that had grown on my index finger. It wouldn't go over his finger, Ashot's fingers are broad from the hammer, so I opened it up to fit him. Bending is cheap: half a hand pie. To Bull, the one from my ring finger. To Mikey, the one from my little finger, the weakest. He has plenty as it is.
+There were four rings and five students. Mrs. Mazur turned hers down right away: "My hands are plenty for me. Give it to the boy." The first one, Grandma's, the strongest, I gave to Ms. Pratt. I don't know why. It seemed to me that what she needed most was confidence. To Ashot, the one that had grown on my index finger. It wouldn't go over his finger, Ashot's fingers are broad from the hammer, so I opened it up to fit him. Bending is cheap: half a hand pie. To Bull, the one from my ring finger. To Mikey, the one from my little finger, the weakest. He's got plenty of his own as it is.
 
 "At six o'clock, all the rings go back on my hand," I said. "They've got more growing to do. And the next ones to teach."
 
@@ -174,7 +174,7 @@ Without looking up from her notebook, Val said:
 
 "I don't need a stool," said Ashot. "I have a stool."
 
-He asked for tea. Afterward he couldn't button his jacket: his fingers wouldn't cooperate, and they were white, like Mikey's that day at Hank's garage. Leather is an expensive thing. The heat he'd used was his own, plus a little from the stove.
+He asked for tea. Afterward he couldn't button his jacket: his fingers wouldn't cooperate, and they were white, like Mikey's that day at Hank's garage. Leather costs a lot to work. The heat he'd used was his own, plus a little from the stove.
 
 Then he looked at the shoe one more time and said, in a different voice:
 
@@ -196,7 +196,7 @@ The pie went cold. I could feel it through the workbench: Mrs. Mazur was pushing
 
 Mrs. Mazur broke the pie open.
 
-The dough had gone wet and sticky. And inside, where the jam had been, lay hard candy. Dark cherry red, clear, hard. And in the very middle, a pinkish crystal with faces, as small as a fingernail.
+The dough had gone wet and sticky. And inside, where the jam had been, lay a slab of candy. Dark cherry red, clear, hard. And in the very middle, a pinkish crystal with faces, as small as a fingernail.
 
 Mrs. Mazur licked the dark part.
 
@@ -278,7 +278,7 @@ He stood there a moment. Then he took his hand away.
 
 "No," he said. "I don't understand what's in there. First I'll watch how you guys do it. Otherwise I'll end up with a stool."
 
-Ashot, sitting on his shoe, said, "Smart."
+Ashot, sitting on his shoe, said, "Good call."
 
 We never did touch the hinge that day. But Mikey straightened a nail, saying its length out loud first. And the nail came out straight: exactly from the head to the point, not "roughly."
 
@@ -338,11 +338,11 @@ Mrs. Mazur said, "So it doesn't run. But so it stays jam." And the jam stayed ja
 
 Bull took the dent out of the door of Hank's car, smooth, on the first try, and didn't touch the paint.
 
-And then Bull taught me. He started the sedan and said, "Listen." And I listened to his third cylinder knocking. Just barely, at idle. I'd never once heard that, for all the engines I'd fixed. Bull said, "You see steel with your hands. An engine, you see with your ears. Those are two different things. Your ears need teaching." And I realized that for the first time in this whole workshop I was learning something, and not from the notebooks, and not from Val. From a student.
+And then Bull taught me. He started the sedan and said, "Listen." And I listened to his third cylinder knocking. Just barely, at idle. I'd never once heard that, for all the engines I'd fixed. Bull said, "You see steel with your hands. An engine, you see with your ears. Those are two different things. Your ears need teaching." And I realized that for the first time since we'd started the workshop, I was learning something, and not from the notebooks, and not from Val. From a student.
 
 New people came. Greg the butcher, with a knife. Stefan the baker, "to have a look at the stove." Roxanne, with a pot of carnations, asking whether flowers were allowed. They were. Let them watch, for now. There weren't enough rings for everybody, so the new people started with the glasses. Greg got minus four tenths. He said that was because he'd spent thirty years with cold meat.
 
-Hank stood in his corner with his thermos. In January, at the meeting on the stairs, he'd said, "You can't teach him." Now, toward the end of the day, he came over to the table with the glasses, sat down, picked up a glass and held it for three minutes. Without a word. Minus one tenth. He looked at the thermometer, then at me, and said:
+Hank stood in his corner with his thermos. In January, at the meeting on the stairs, he'd said, "You can't teach him." Now, toward the end of the day, he came over to the table with the water glasses, sat down, picked up a glass and held it for three minutes. Without a word. Minus one tenth. He looked at the thermometer, then at me, and said:
 
 "Well. Guess you can't not teach."
 
@@ -380,6 +380,6 @@ Lugnut, whom Mikey had hauled over to the garage "for atmosphere," was asleep on
 
 Five days to the auction. Four weeks to the end of the lease. Four rings. Eight students. Next Sunday there'd be more.
 
-I tossed a log into the stove and thought that I needed to grow rings faster. Or grow them on somebody besides me. Maybe the ring on Ms. Pratt's hand was teaching somebody too. More slowly. But in a chain.
+I tossed a log into the stove and thought that I needed to grow rings faster. Or grow them on somebody besides me. Maybe a ring left on Ms. Pratt's hand could teach somebody too. More slowly. But in a chain.
 
 We teach in the open. Whoever wants to learn, we teach.
