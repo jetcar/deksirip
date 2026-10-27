@@ -1,0 +1,446 @@
+{
+  "bible/premise.md": {
+    "mtime": 1793115101.0097315,
+    "seen": 1793115385.8898625,
+    "ast_hash": "10fd924f1ccc0cae18c28efe27debce1",
+    "semantic_hash": "10fd924f1ccc0cae18c28efe27debce1"
+  },
+  "bible/world/_index.md": {
+    "mtime": 1793115093.592237,
+    "seen": 1793115385.889872,
+    "ast_hash": "7cc99638cb908028f72dc8f4b8c36f95",
+    "semantic_hash": "7cc99638cb908028f72dc8f4b8c36f95"
+  },
+  "bible/world/belyy-lotos.md": {
+    "mtime": 1793115005.8776424,
+    "seen": 1793115385.8898764,
+    "ast_hash": "e3cf485be573d503a5219df09135fc68",
+    "semantic_hash": "e3cf485be573d503a5219df09135fc68"
+  },
+  "bible/world/boytsy-volskogo.md": {
+    "mtime": 1793115005.8782525,
+    "seen": 1793115385.889879,
+    "ast_hash": "1042143bd9510829c55ec9eb6b67ce9f",
+    "semantic_hash": "1042143bd9510829c55ec9eb6b67ce9f"
+  },
+  "bible/world/chernyy-rynok-kolechek.md": {
+    "mtime": 1793115005.8778658,
+    "seen": 1793115385.8898816,
+    "ast_hash": "20fae6c6ae889cc2eaf5c9f75542b589",
+    "semantic_hash": "20fae6c6ae889cc2eaf5c9f75542b589"
+  },
+  "bible/world/chistki-valyuta.md": {
+    "mtime": 1793115005.8777666,
+    "seen": 1793115385.8898838,
+    "ast_hash": "40cca0baeba87e427ea760a1c1c40245",
+    "semantic_hash": "40cca0baeba87e427ea760a1c1c40245"
+  },
+  "bible/world/derzhat-i-lomat.md": {
+    "mtime": 1793115005.878213,
+    "seen": 1793115385.8898861,
+    "ast_hash": "a2b8c873044d5864e09530026d6ced6c",
+    "semantic_hash": "a2b8c873044d5864e09530026d6ced6c"
+  },
+  "bible/world/doklad-garaeva.md": {
+    "mtime": 1793115005.8775811,
+    "seen": 1793115385.8898885,
+    "ast_hash": "ecce21f8edacb98ac2aa9b346ea927cb",
+    "semantic_hash": "ecce21f8edacb98ac2aa9b346ea927cb"
+  },
+  "bible/world/estetika-plyus.md": {
+    "mtime": 1793115005.878016,
+    "seen": 1793115385.889891,
+    "ast_hash": "c88afbd391835f4590a207ecc76dda44",
+    "semantic_hash": "c88afbd391835f4590a207ecc76dda44"
+  },
+  "bible/world/gorodskaya-bolnitsa.md": {
+    "mtime": 1793115005.8776,
+    "seen": 1793115385.889893,
+    "ast_hash": "e569ddc6a5534eeb35102680ee47cadf",
+    "semantic_hash": "e569ddc6a5534eeb35102680ee47cadf"
+  },
+  "bible/world/gruppa-po-perestroyke.md": {
+    "mtime": 1793115005.877971,
+    "seen": 1793115385.8898952,
+    "ast_hash": "f5b91b2a0f01fb277f514eb00022c20f",
+    "semantic_hash": "f5b91b2a0f01fb277f514eb00022c20f"
+  },
+  "bible/world/issledovatelskoe-otdelenie.md": {
+    "mtime": 1793115005.8780665,
+    "seen": 1793115385.8898988,
+    "ast_hash": "5e06c793bfcdcda411951d1147e37bc8",
+    "semantic_hash": "5e06c793bfcdcda411951d1147e37bc8"
+  },
+  "bible/world/kak-derzhat-uzel.md": {
+    "mtime": 1793115005.8782742,
+    "seen": 1793115385.8899012,
+    "ast_hash": "5556e7cf7cafb4f82b2905b3af1637c7",
+    "semantic_hash": "5556e7cf7cafb4f82b2905b3af1637c7"
+  },
+  "bible/world/kaltsiy-i-kost.md": {
+    "mtime": 1793115005.8780892,
+    "seen": 1793115385.889903,
+    "ast_hash": "233e2750ac140363779ad577eab0203f",
+    "semantic_hash": "233e2750ac140363779ad577eab0203f"
+  },
+  "bible/world/kolechko.md": {
+    "mtime": 1793115005.8778486,
+    "seen": 1793115385.8899055,
+    "ast_hash": "b7ff67fdcbcc4ac22b5405d0e6b8ccab",
+    "semantic_hash": "b7ff67fdcbcc4ac22b5405d0e6b8ccab"
+  },
+  "bible/world/kvartira-niki.md": {
+    "mtime": 1793115005.8776617,
+    "seen": 1793115385.8899076,
+    "ast_hash": "f8a2bf6bdcfb3e000590283296ff92e4",
+    "semantic_hash": "f8a2bf6bdcfb3e000590283296ff92e4"
+  },
+  "bible/world/lipofiling.md": {
+    "mtime": 1793115006.4605768,
+    "seen": 1793115385.8899097,
+    "ast_hash": "781403cdd7a7fbc91acfe5516c941af4",
+    "semantic_hash": "781403cdd7a7fbc91acfe5516c941af4"
+  },
+  "bible/world/lombard-24.md": {
+    "mtime": 1793115005.8781981,
+    "seen": 1793115385.8899121,
+    "ast_hash": "451fe67cfdd3e7f4764034d1bf87dc5d",
+    "semantic_hash": "451fe67cfdd3e7f4764034d1bf87dc5d"
+  },
+  "bible/world/masterskaya-biblioteka.md": {
+    "mtime": 1793115005.877833,
+    "seen": 1793115385.889914,
+    "ast_hash": "2b3a90105629b98816b36b38e93cb0f2",
+    "semantic_hash": "2b3a90105629b98816b36b38e93cb0f2"
+  },
+  "bible/world/masterskaya-gordeeva.md": {
+    "mtime": 1793115005.8781219,
+    "seen": 1793115385.8899162,
+    "ast_hash": "ec9a18d9234d257f8b9778b0213e3772",
+    "semantic_hash": "ec9a18d9234d257f8b9778b0213e3772"
+  },
+  "bible/world/nezhivoe-na-zhivom.md": {
+    "mtime": 1793115005.8777516,
+    "seen": 1793115385.889918,
+    "ast_hash": "cc9e0cc856a06118d5c56e70fd14d803",
+    "semantic_hash": "cc9e0cc856a06118d5c56e70fd14d803"
+  },
+  "bible/world/novye-kletki.md": {
+    "mtime": 1793115005.8781676,
+    "seen": 1793115385.8899202,
+    "ast_hash": "0c0b76af6e5b339d5e90708d183ab2f3",
+    "semantic_hash": "0c0b76af6e5b339d5e90708d183ab2f3"
+  },
+  "bible/world/opyt-so-stakanom.md": {
+    "mtime": 1793115005.8777134,
+    "seen": 1793115385.8899226,
+    "ast_hash": "1c47bc410f1613bc942497ada93baa70",
+    "semantic_hash": "1c47bc410f1613bc942497ada93baa70"
+  },
+  "bible/world/papka-volskogo.md": {
+    "mtime": 1793115005.878184,
+    "seen": 1793115385.889925,
+    "ast_hash": "0c85c20aecd43eeaa3d25d950833b718",
+    "semantic_hash": "0c85c20aecd43eeaa3d25d950833b718"
+  },
+  "bible/world/patanatomiya.md": {
+    "mtime": 1793115005.8778958,
+    "seen": 1793115385.8899271,
+    "ast_hash": "4be0cc61f893f6b29f887b9ab4ab7529",
+    "semantic_hash": "4be0cc61f893f6b29f887b9ab4ab7529"
+  },
+  "bible/world/perekladyvanie-zhira.md": {
+    "mtime": 1793115005.8775635,
+    "seen": 1793115385.8899295,
+    "ast_hash": "88e88988ad612393a47d583a8b8584b2",
+    "semantic_hash": "88e88988ad612393a47d583a8b8584b2"
+  },
+  "bible/world/poliklinika-na-stroiteley.md": {
+    "mtime": 1793115005.8779097,
+    "seen": 1793115385.8899314,
+    "ast_hash": "de9664d46cd6cb1623f935df81edfe76",
+    "semantic_hash": "de9664d46cd6cb1623f935df81edfe76"
+  },
+  "bible/world/posobie.md": {
+    "mtime": 1793115005.8776786,
+    "seen": 1793115385.8899333,
+    "ast_hash": "673324962f9eaf3324d43cf9cea4c9d0",
+    "semantic_hash": "673324962f9eaf3324d43cf9cea4c9d0"
+  },
+  "bible/world/protokol-zorinoy.md": {
+    "mtime": 1793115005.877781,
+    "seen": 1793115385.8899357,
+    "ast_hash": "55623d06091ad2caf1379d294e5fef9e",
+    "semantic_hash": "55623d06091ad2caf1379d294e5fef9e"
+  },
+  "bible/world/rabdomioliz.md": {
+    "mtime": 1793115005.8783536,
+    "seen": 1793115385.8899376,
+    "ast_hash": "ceba4a270ef93e66dec8df16a72ecd21",
+    "semantic_hash": "ceba4a270ef93e66dec8df16a72ecd21"
+  },
+  "bible/world/raskhod.md": {
+    "mtime": 1793115005.8777285,
+    "seen": 1793115385.8899403,
+    "ast_hash": "05a4ae7b8de8c5e70b47c377c201aacf",
+    "semantic_hash": "05a4ae7b8de8c5e70b47c377c201aacf"
+  },
+  "bible/world/raspiska-oli.md": {
+    "mtime": 1793115005.877928,
+    "seen": 1793115385.889943,
+    "ast_hash": "51db6a18da396ac236c2ce5e534d1f40",
+    "semantic_hash": "51db6a18da396ac236c2ce5e534d1f40"
+  },
+  "bible/world/razdel-zhivoe.md": {
+    "mtime": 1793115006.458898,
+    "seen": 1793115385.889945,
+    "ast_hash": "f0543109738e14d711b76ea26cca51b7",
+    "semantic_hash": "f0543109738e14d711b76ea26cca51b7"
+  },
+  "bible/world/reestr-kolechek.md": {
+    "mtime": 1793115005.8780015,
+    "seen": 1793115385.8899472,
+    "ast_hash": "3588a4ca6dc510b0ce6d40bc407e699e",
+    "semantic_hash": "3588a4ca6dc510b0ce6d40bc407e699e"
+  },
+  "bible/world/samozanyatost.md": {
+    "mtime": 1793115005.877986,
+    "seen": 1793115385.8899493,
+    "ast_hash": "bc509a02010195cd13c7ce19ab8ad863",
+    "semantic_hash": "bc509a02010195cd13c7ce19ab8ad863"
+  },
+  "bible/world/shestoy-punkt-niki.md": {
+    "mtime": 1793115005.8782282,
+    "seen": 1793115385.8899517,
+    "ast_hash": "77f517349c5e5754a8335956d22dadfa",
+    "semantic_hash": "77f517349c5e5754a8335956d22dadfa"
+  },
+  "bible/world/shestoy-punkt.md": {
+    "mtime": 1793115005.877697,
+    "seen": 1793115385.8899539,
+    "ast_hash": "d970582c2d2d5493958aaeb870be4051",
+    "semantic_hash": "d970582c2d2d5493958aaeb870be4051"
+  },
+  "bible/world/shyopot.md": {
+    "mtime": 1793115006.4595945,
+    "seen": 1793115385.889956,
+    "ast_hash": "27e4217d90a381366688a1cc57857294",
+    "semantic_hash": "27e4217d90a381366688a1cc57857294"
+  },
+  "bible/world/skupka-remizova.md": {
+    "mtime": 1793115005.8781362,
+    "seen": 1793115385.8899584,
+    "ast_hash": "42de731bf1cd33f330bd85815edb39a8",
+    "semantic_hash": "42de731bf1cd33f330bd85815edb39a8"
+  },
+  "bible/world/soglasie.md": {
+    "mtime": 1793115005.8779569,
+    "seen": 1793115385.8899603,
+    "ast_hash": "c2a5ee1185679aee4cb156462e82a9fb",
+    "semantic_hash": "c2a5ee1185679aee4cb156462e82a9fb"
+  },
+  "bible/world/stimulyator-remizova.md": {
+    "mtime": 1793115005.8781512,
+    "seen": 1793115385.8899622,
+    "ast_hash": "c090ffc0634eda3cd255e001f358b1f5",
+    "semantic_hash": "c090ffc0634eda3cd255e001f358b1f5"
+  },
+  "bible/world/ustalost-metalla.md": {
+    "mtime": 1793115005.8781068,
+    "seen": 1793115385.8899643,
+    "ast_hash": "8222d830e15e42302a69ec6827542002",
+    "semantic_hash": "8222d830e15e42302a69ec6827542002"
+  },
+  "bible/world/verkhnegorsk.md": {
+    "mtime": 1793115005.8776214,
+    "seen": 1793115385.8899662,
+    "ast_hash": "eafa523979df14c4f8fd7321c5ed960a",
+    "semantic_hash": "eafa523979df14c4f8fd7321c5ed960a"
+  },
+  "bible/world/vozvrashchenie-zhivogo.md": {
+    "mtime": 1793115005.8778818,
+    "seen": 1793115385.8899713,
+    "ast_hash": "d29028814fe4799165046d10c4e4109b",
+    "semantic_hash": "d29028814fe4799165046d10c4e4109b"
+  },
+  "bible/world/zhir-toplivo.md": {
+    "mtime": 1793115005.8775277,
+    "seen": 1793115385.8899734,
+    "ast_hash": "b32a6292783b104f9a00317fb0fb2ae1",
+    "semantic_hash": "b32a6292783b104f9a00317fb0fb2ae1"
+  },
+  "bible/world/zov-krovi.md": {
+    "mtime": 1793115005.8779423,
+    "seen": 1793115385.8899758,
+    "ast_hash": "560b1f4031765885e2ac79824ebd2775",
+    "semantic_hash": "560b1f4031765885e2ac79824ebd2775"
+  },
+  "chapters/01-stakan-vody.md": {
+    "mtime": 1792425091.0247426,
+    "seen": 1793115385.8899784,
+    "ast_hash": "998392ce88bb098e1471f983060582ca",
+    "semantic_hash": "998392ce88bb098e1471f983060582ca"
+  },
+  "chapters/02-myortvoe-na-zhivom.md": {
+    "mtime": 1792427333.5336893,
+    "seen": 1793115385.8899806,
+    "ast_hash": "0cde7356e755e9e71e3403d75a866284",
+    "semantic_hash": "0cde7356e755e9e71e3403d75a866284"
+  },
+  "chapters/03-zhir-eto-toplivo.md": {
+    "mtime": 1792431112.6023507,
+    "seen": 1793115385.8899832,
+    "ast_hash": "f5eddbd09606c9484eeb386ed2825933",
+    "semantic_hash": "f5eddbd09606c9484eeb386ed2825933"
+  },
+  "chapters/04-lipofiling-bez-kanyuli.md": {
+    "mtime": 1792434615.1600204,
+    "seen": 1793115385.8899853,
+    "ast_hash": "efb21fb7045b9b20a12c6816ebe83fb6",
+    "semantic_hash": "efb21fb7045b9b20a12c6816ebe83fb6"
+  },
+  "chapters/05-vozvrashchenie.md": {
+    "mtime": 1792438198.5175884,
+    "seen": 1793115385.889988,
+    "ast_hash": "1b50f3d37839fb5ea5ddd867dba52160",
+    "semantic_hash": "1b50f3d37839fb5ea5ddd867dba52160"
+  },
+  "chapters/06-olya.md": {
+    "mtime": 1792441802.9013274,
+    "seen": 1793115385.8899899,
+    "ast_hash": "b99a76b5a1d6d7a89c8f57772d0143a6",
+    "semantic_hash": "b99a76b5a1d6d7a89c8f57772d0143a6"
+  },
+  "chapters/07-sarafannoe-radio.md": {
+    "mtime": 1792445450.0521574,
+    "seen": 1793115385.8899927,
+    "ast_hash": "f8d5194ef2173d5304abcb823f16de52",
+    "semantic_hash": "f8d5194ef2173d5304abcb823f16de52"
+  },
+  "chapters/08-kolechko.md": {
+    "mtime": 1792449025.5566847,
+    "seen": 1793115385.889995,
+    "ast_hash": "ab07a6fe5a0ddcecf6a0317014a0d98c",
+    "semantic_hash": "ab07a6fe5a0ddcecf6a0317014a0d98c"
+  },
+  "chapters/09-predlozhenie.md": {
+    "mtime": 1792452623.1723313,
+    "seen": 1793115385.8899972,
+    "ast_hash": "67f8549cc8c94b53d9ec53458d15135d",
+    "semantic_hash": "67f8549cc8c94b53d9ec53458d15135d"
+  },
+  "chapters/10-estetika-plyus.md": {
+    "mtime": 1792456290.462339,
+    "seen": 1793115385.89,
+    "ast_hash": "f3ca67a6820b68243b475bf72ececcd5",
+    "semantic_hash": "f3ca67a6820b68243b475bf72ececcd5"
+  },
+  "chapters/11-dobrovolets.md": {
+    "mtime": 1792518173.766085,
+    "seen": 1793115385.8900025,
+    "ast_hash": "55487c7a6a4bef49c3337d81798d2306",
+    "semantic_hash": "55487c7a6a4bef49c3337d81798d2306"
+  },
+  "chapters/12-myshtsy.md": {
+    "mtime": 1792463540.2802417,
+    "seen": 1793115385.8900049,
+    "ast_hash": "8647e9c26a1ff4b64ba10ceabc98a234",
+    "semantic_hash": "8647e9c26a1ff4b64ba10ceabc98a234"
+  },
+  "chapters/13-skupka.md": {
+    "mtime": 1792467276.0666535,
+    "seen": 1793115385.890007,
+    "ast_hash": "bf9d9e46846ab0bdaabee26d5cf74a78",
+    "semantic_hash": "bf9d9e46846ab0bdaabee26d5cf74a78"
+  },
+  "chapters/14-protokol.md": {
+    "mtime": 1792470809.1069453,
+    "seen": 1793115385.8900094,
+    "ast_hash": "42672d302656ad25f2cd085b9b0d4002",
+    "semantic_hash": "42672d302656ad25f2cd085b9b0d4002"
+  },
+  "chapters/15-marat.md": {
+    "mtime": 1792474528.49722,
+    "seen": 1793115385.8900115,
+    "ast_hash": "200dd329ef323ab54befd1593f9292ad",
+    "semantic_hash": "200dd329ef323ab54befd1593f9292ad"
+  },
+  "chapters/16-tsena-ukhoda.md": {
+    "mtime": 1792478033.7739747,
+    "seen": 1793115385.8900137,
+    "ast_hash": "e50b3c38e2328b17c6d849ce982e2476",
+    "semantic_hash": "e50b3c38e2328b17c6d849ce982e2476"
+  },
+  "chapters/17-liza.md": {
+    "mtime": 1792488305.2971456,
+    "seen": 1793115385.890016,
+    "ast_hash": "37020eb713ca0c4f221236a91ae2a5cb",
+    "semantic_hash": "37020eb713ca0c4f221236a91ae2a5cb"
+  },
+  "chapters/18-pervaya-draka.md": {
+    "mtime": 1792489099.396549,
+    "seen": 1793115385.8900182,
+    "ast_hash": "c2a411cf6a3102b5dd035689ef6b37b5",
+    "semantic_hash": "c2a411cf6a3102b5dd035689ef6b37b5"
+  },
+  "chapters/19-shestoy-punkt.md": {
+    "mtime": 1792492565.5803225,
+    "seen": 1793115385.8900204,
+    "ast_hash": "be17d53e866089ede4e17da24e286620",
+    "semantic_hash": "be17d53e866089ede4e17da24e286620"
+  },
+  "chapters/20-boytsy.md": {
+    "mtime": 1792496011.1288009,
+    "seen": 1793115385.8900225,
+    "ast_hash": "97578eae802ecfadb2788dc1e010449a",
+    "semantic_hash": "97578eae802ecfadb2788dc1e010449a"
+  },
+  "chapters/21-kak-derzhat-uzel.md": {
+    "mtime": 1792499691.527107,
+    "seen": 1793115385.8900244,
+    "ast_hash": "7e90d4f298e9ec99708303e7db455621",
+    "semantic_hash": "7e90d4f298e9ec99708303e7db455621"
+  },
+  "chapters/22-telo-volskogo.md": {
+    "mtime": 1792506708.556832,
+    "seen": 1793115385.8900266,
+    "ast_hash": "43589cc5eb01c5f38f543130b0dd213d",
+    "semantic_hash": "43589cc5eb01c5f38f543130b0dd213d"
+  },
+  "chapters/23-klinika-nochyu.md": {
+    "mtime": 1792507408.443571,
+    "seen": 1793115385.8900287,
+    "ast_hash": "0d50bffde00394441e3a06286b145e17",
+    "semantic_hash": "0d50bffde00394441e3a06286b145e17"
+  },
+  "chapters/24-draka-umeyushchikh.md": {
+    "mtime": 1792510531.5128412,
+    "seen": 1793115385.8900313,
+    "ast_hash": "d5fcb77d9e53435f761fd1faa65d671d",
+    "semantic_hash": "d5fcb77d9e53435f761fd1faa65d671d"
+  },
+  "chapters/25-otkaz-organa.md": {
+    "mtime": 1792514132.7729137,
+    "seen": 1793115385.8900335,
+    "ast_hash": "334e094c9889cd76f3ab74a3f618b71a",
+    "semantic_hash": "334e094c9889cd76f3ab74a3f618b71a"
+  },
+  "chapters/26-protokoly.md": {
+    "mtime": 1792517511.6045654,
+    "seen": 1793115385.8900352,
+    "ast_hash": "297a91d6ae6aa27a5011e2e62d7209a8",
+    "semantic_hash": "297a91d6ae6aa27a5011e2e62d7209a8"
+  },
+  "chapters/27-razdel-zhivoe.md": {
+    "mtime": 1792524358.8730953,
+    "seen": 1793115385.8900375,
+    "ast_hash": "a3172410f4131ed34d95eccf685c345e",
+    "semantic_hash": "a3172410f4131ed34d95eccf685c345e"
+  },
+  "chapters/28-svoyo-telo.md": {
+    "mtime": 1792524854.397749,
+    "seen": 1793115385.8900402,
+    "ast_hash": "5441911055d4112d90d085b41589513c",
+    "semantic_hash": "5441911055d4112d90d085b41589513c"
+  }
+}
