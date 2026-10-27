@@ -6,11 +6,11 @@ Thirty-one notebooks. I'd read them before, but the way you read the manual for 
 
 We sat in my kitchen in the evenings, after the market, with two lamps and two mugs. Val read the even-numbered volumes, I read the odd ones. Then we switched. Val copied into her oilcloth notebook everything that had to do with how the object was built. I copied out everything that had to do with how it behaved. We ended up with two columns. The left one was long and hard to follow. The right one was short and easy to follow. Between them was a hole.
 
-Professor Stern had studied the thimble for thirty years. He knew what it was made of, roughly. Copper, silver, iron, a little nickel, traces of something he couldn't identify. Nothing magical. Nothing you won't find in an old pot and Grandma's spoon. Only one thing didn't add up: the thimble was heavier than a mix like that should allow. Professor Stern noted it and didn't explain it. He knew how the thimble behaved: it takes energy, converts it, amplifies it, gets warm next to the second one. He knew it didn't answer to everybody: to him, yes; to his wife, no; to Glen, yes.
+Professor Stern had studied the thimble for thirty years. He knew the composition, roughly. Copper, silver, iron, a little nickel, traces of something he couldn't identify. Nothing magical. Nothing you won't find in an old pot and Grandma's spoon. Only one thing didn't add up: the thimble was heavier than a mix like that should allow. Professor Stern noted it and didn't explain it. He knew how the thimble behaved: it takes energy, converts it, amplifies it, gets warm next to the second one. He knew it didn't answer to everybody: to him, yes; to his wife, no; to Glen, yes.
 
 He didn't know why.
 
-"It's all in the structure," said Val on the sixth evening, closing the twenty-fourth volume. "Not in what it's made of. What it's made of is ordinary. If it came down to what it's made of, somebody would have copied it long ago. So it comes down to how the atoms are laid out. Like cotton and rayon. The same cellulose, and different properties. Because it's laid out differently."
+"It's all in the structure," said Val on the sixth evening, closing the twenty-fourth volume. "Not in the composition. The composition is ordinary. If it came down to the composition, somebody would have copied it long ago. So it comes down to how the atoms are laid out. Like cotton and rayon. The same cellulose, and different properties. Because it's laid out differently."
 
 "And how are they laid out?"
 
@@ -28,13 +28,13 @@ Then I took it off, set it on the table and touched it with the little silver ba
 
 "You need a second instrument," I said.
 
-We looked at each other. The second instrument was in a pine forest behind a tall fence, in a house where the lights don't come on.
+We looked at each other. The second instrument was in a pine forest behind a tall fence, in a house where the lights are never on.
 
 "No," we said at the same time.
 
 And then I remembered Mikey. Mikey's fingers, without any thimble, feeling the little spring inside somebody else's padlock. Faintly. Through the body of the lock. But feeling it.
 
-I took the thimble off, closed my hand around it and shut my eyes.
+I picked the thimble up off the table, closed my hand around it and shut my eyes.
 
 I don't know how long I sat like that. Val said afterward it was forty minutes. I don't remember that. All I remember is that at first it was quiet, like after a concert, when the ringing in your ears has finally died down, and then, very far off, as if through three walls, something started to come through. Not metal. A pattern. Rough, blurry, like a drawing on a fogged-up window.
 
@@ -56,7 +56,7 @@ I wanted to argue and couldn't. She wrote it down. Underlined it. Then she said,
 
 ---
 
-That's when the failures started. Counting the week of reading, three weeks of them.
+That's when the failures started. Three weeks, all told, counting the week of reading.
 
 I won't tell you about every attempt. There isn't a notebook or a bag of pierogi big enough for all of them. I'll tell you about the main ones.
 
@@ -66,9 +66,9 @@ Hank helped.
 
 After the hinge and the padlock, Hank had changed toward me. He hadn't gotten any warmer: Hank doesn't get warmer. But he'd started saying hello. And when he heard from Mikey (Mikey tells Hank everything; the two of them tinker with the car together now) that I needed a place with good power, he came over himself.
 
-"I've got heavy-duty power in the garage," he said. "Ran it for the welder. Separate meter, separate breaker, its own line straight from the transformer. You could run a steel mill in there. The electricity's yours, you pay for it yourself." He paused. "I sleep at home at night now. I'm giving it a try. Since somebody needs it. Just don't touch the welder." He thought about it. "Not that there's a welder. Somebody walked off with it."
+"I've got heavy-duty power in the garage," he said. "Ran it for the welder. Separate meter, separate breaker, its own line straight from the transformer. You could run a steel mill in there. The electricity's yours, you pay for it yourself." He paused. "I sleep at home at night now. I'm giving it a try. Since somebody needs the place. Just don't touch the welder." He thought about it. "Not that there's a welder. Somebody walked off with it."
 
-It was like a gift. A separate line meant no neighbors on the splices. Its own breaker meant that if anything went wrong, it would trip, not the whole stairwell. I came the very first night, in my father's rubber boots, with a rubber mat, a thermos and my copper cord, and I repeated the rule about the ground to myself three times before I touched anything. A garage floor is concrete, frozen through, and to current, concrete is still the ground. I only ever used the ordinary side of that hookup, never the full welding power. That much voltage between two wires, and my fingers anywhere between them: never.
+It was like a gift. A separate line meant no neighbors on the splices. Its own breaker meant that if anything went wrong, it would trip, not the whole stairwell. I came the very first night, in my father's rubber boots, with a rubber mat, a thermos and my copper cord, and I repeated the rule about the ground to myself three times before I touched anything. A garage floor is concrete, frozen through, and to current, concrete is still the ground. I only ever used one ordinary circuit, never the full welding hookup. The full hookup has enough voltage between two wires to kill you, and my fingers don't go between wires. Ever.
 
 Attempt number one. I took copper, silver and iron in the proportions Professor Stern had found thirty years ago and made a thimble out of them. The same shape. With the same dimples. Identical, like a key cut from an impression.
 
@@ -82,13 +82,13 @@ Attempt number two. I made the spirals. Under each dimple, a funnel: atoms going
 
 Dead too.
 
-In one night the meter in Hank's garage ran up as much as mine at home did in a month. I did the math. His line, all night, running close to its limit. A bag and change. For one night. For a dead thimble. And atoms of the same metal, just rearranged, cost almost nothing, which meant almost all of it had gone off as heat. By morning the garage was like a drying room. The snow on the roof had melted and slid off. Val had taken off Hank's quilted work jacket and was sitting in just her sweater.
+In one night the meter in Hank's garage ran up as much as mine at home did in a month. I did the math. One ordinary circuit, all night, running close to its limit. A bag and change. For one night. For a dead thimble. And atoms of the same metal, just rearranged, cost almost nothing, which meant almost all of it had gone off as heat. By morning the garage was like a drying room. The snow on the roof had melted and slid off. Val had taken off Hank's quilted work jacket and was sitting in just her sweater.
 
 Attempts three, five, eight. I made the spirals tighter. Looser. Longer. I changed the proportions. I added nickel, took the nickel out. Val sat next to me on an upturned crate and wrote it all down. Every attempt. Every pattern. Every bag that went into the meter.
 
-Two weeks later, by the first week of February, we had eleven dead thimbles and an electric bill that made Hank whistle and say, "What are you doing in there, melting gold?"
+Two weeks in, by the end of January, we had eleven dead thimbles and an electric bill that made Hank whistle and say, "What are you doing in there, melting gold?"
 
-"I've already melted gold," I said. "Gold, at least, you can hang on to. These aren't even worth putting on."
+"I've already melted gold," I said. "Gold, at least, you don't have to sell. These you can't even wear."
 
 Goldie called in between attempts. The auction for the lot had been set for March sixth. Six weeks off, and the end of March right behind it. I wrote that on a napkin and hung it over the workbench.
 
@@ -142,7 +142,7 @@ She looked at me.
 
 "I have," I said. "He asked how you were."
 
-Mrs. Stern didn't say anything. She just straightened the watch on the desk, so it lay a little more neatly.
+Mrs. Stern didn't say anything. She only reached over and straightened the watch on the desk.
 
 I looked at the lamp. At its empty bronze base, where the thimble had lain for twenty years.
 
@@ -162,7 +162,7 @@ For twenty years the thimble had lain in the bronze. And the bronze had started 
 
 "Twenty years, and almost nothing," I said.
 
-"Bronze is a foreign metal," said Val. "And the object in the lamp was asleep. Nobody was working with it. But what if you took the same composition it has, and kept it next to a thimble that works every day? Through you?" She paused. "Not copy it. Put it next to it and wait. The way he wanted."
+"Bronze is the wrong metal," said Val. "And the object in the lamp was asleep. Nobody was working with it. But what if you took the same composition it has, and kept it next to a thimble that works every day? Through you?" She paused. "Not copy it. Put it next to it and wait. The way he wanted."
 
 ---
 
@@ -170,7 +170,7 @@ What came after wasn't fast. But it came.
 
 We didn't build anything atom by atom anymore. Enough. Eleven dead thimbles is lesson enough. We did it the way Val had thought up. The way a shell does it.
 
-I took half of Grandma's little silver bar. The one that had been lying in the case of hooks ever since I'd pinched a crumb off it for the solar panel. I took copper from an old wire, the same one I'd sat with over the silicon for nights on end. Iron from a nail out of the same jar I'd once taken the nail for the balcony slide bolt from, the one that keeps Lugnut out. I fused them in the proportions Professor Stern had found. Joining is expensive: two hand pies and a thermos. I made a plain ring. No dimples. No funnels. Just a little ring, like a grain of sand.
+I took half of Grandma's little silver bar. The one that had been lying in the case of hooks ever since I'd pinched a crumb off it for the solar panel. I took copper from an old wire, the same one I'd sat with over the silicon for nights on end. Iron from a nail out of the same jar that gave me the nail for the balcony slide bolt, the one that keeps Lugnut out. I fused them in the proportions Professor Stern had found. Joining is expensive: two hand pies and a thermos. I made a plain ring. No dimples. No funnels. Just a little ring, like a grain of sand.
 
 And I put it on the same finger as the thimble. Below it. Snug against it.
 
@@ -202,7 +202,7 @@ At the market, Ashot saw the ring on my finger next to the thimble and said, "I'
 
 Then we tested it on other people.
 
-First Mrs. Mazur held a glass just as she was: minus a degree and a half, same as in December. Then she put the ring on her ring finger (it wouldn't go over her middle one) and held a second glass. Minus four. Four whole degrees Celsius. She looked at the thermometer, then at the ring, then at me, and said, "Get this piece of iron off me, it's making my hands cold." And didn't take it off. She held another one. And another.
+First Mrs. Mazur just held a glass, plain, same as in December: minus a degree and a half. Then she put the ring on her ring finger (it wouldn't go over her middle one) and held a second glass. Minus four degrees Celsius. She looked at the thermometer, then at the ring, then at me, and said, "Get this hunk of metal off me, it's making my hands cold." And didn't take it off. She held another one. And another.
 
 Mikey (he came with Lana; I always asked now) without the ring gave minus three tenths on the glass, and with the ring, minus eight tenths. And with the ring he straightened a nail in ten seconds, then ate two of Mrs. Mazur's hand pies, and his fingertips were white. Lana watched with her lips pressed together. Then she asked, "Is it dangerous?" I told her honestly, "I don't know. So far, no. We'll check." She nodded.
 
@@ -210,7 +210,7 @@ Val put it on last.
 
 I could see how scared of it she was. She held the ring between two fingers, the way you hold a test tube of something caustic, and didn't put it on. Then she put it on. Picked up the glass. Closed her eyes.
 
-Today's control: plus eight tenths again. In December, without the ring, her wanting had given plus nine.
+Today's control: plus eight tenths again. In December, without the ring, her wanting had given plus nine tenths.
 
 With the ring: plus six.
 
@@ -220,7 +220,7 @@ Val looked at the thermometer for a very long time. Then she took off the ring, 
 
 "That isn't data."
 
-And she went out onto the stairs.
+And she went out onto the landing.
 
 I didn't go after her. I understood that right now I shouldn't. Mrs. Mazur looked at me and didn't say anything either. She just slid a hand pie over to me.
 
@@ -256,7 +256,7 @@ Val stopped.
 
 I didn't say anything.
 
-"And one more thing," said Val. More quietly. "I've been writing for Dr. Andrews for six years. I told you. In the acknowledgments, in small print. I thought at least this would be mine. My glasses. My twenty repeats. My threads. My bronze in the eleventh volume. And now you're saying 'not now.' And I realize that if it's not now, it'll be yours. Like always. You made the ring. You feel the spirals. And I'm the lab tech who takes notes again."
+"And one more thing," said Val. More quietly. "I've been writing for Dr. Andrews for six years. I told you. In the acknowledgments, in small print. I thought at least this would be mine. My water glasses. My twenty repeats. My threads. My bronze in the eleventh volume. And now you're saying 'not now.' And I realize that if it's not now, it'll be yours. Like always. You made the ring. You feel the spirals. And I'm the lab tech who takes notes again."
 
 "That isn't true."
 
@@ -282,7 +282,7 @@ I caught up with her at the bus stop. She was standing under the streetlight wit
 
 She didn't turn around.
 
-"You and me," I said. "You do the writing. You answer the reviewers. They're your glasses, your bronze, your 'put it next to it and wait.' I'm the one who feels the funnels. And Mrs. Stern goes in the acknowledgments, in big print. She's the one who told us about the pearl."
+"You and me," I said. "You do the writing. You answer the reviewers. They're your water glasses, your bronze, your 'put it next to it and wait.' I'm the one who feels the funnels. And Mrs. Stern goes in the acknowledgments, in big print. She's the one who told us about the pearl."
 
 Val turned around.
 
@@ -312,15 +312,15 @@ Val found her hat on the couch and didn't put it on. She sat down next to me, to
 
 "It's cold in here," I said.
 
-"You know how to fix that," said Val. "Just not from me. And not from Hank. Hank's been through enough."
+"You know how to get heat," said Val. "Just not from me. And not from Hank. Hank's been through enough."
 
-I laughed. I unhooked the leads, pulled the plug, saying each step out loud, like a rule. And I plugged in Hank's old oil-filled space heater, the one I'd fixed that very first night. With my own money, on Hank's meter. Val said it was the most honest heat of her life. Half an hour later, it was warm enough in the garage to take off a sweater.
+I laughed. I unhooked the leads, pulled the plug, saying each step out loud, like a rule. And I plugged in Hank's old oil-filled space heater, the one I'd fixed that very first night. Its heat on my own money, through Hank's meter. Val said it was the most honest heat of her life. Half an hour later, it was warm enough in the garage to take off a sweater.
 
 Val took off her sweater.
 
 This time it wasn't like the back room in the department. Without the laughing at first, and without the cot. Quieter. Slower. I took off the ring and set the thimble on the workbench, next to her glasses. The valve was shut. All the way. I didn't want any power at all.
 
-She sat on Hank's sagging couch, on his quilted work jacket, in nothing but the plaid shirt she wore under her sweater: a man's shirt, sleeves rolled up, two sizes too big. Under it, when she undid the top buttons, was that same gray bra with the stretched-out strap. No bow today. "I didn't know we'd make up," she said, and laughed. I looked at her: at her ears, red from the cold, at the glasses on the workbench, at the way she tucked her cold feet in their wool socks up under her, and I thought that I'd almost lost all of this over the words "not now." She whispered, "Don't rush. I want to remember this." And I didn't rush. The rest was only ours.
+She sat on Hank's sagging couch, on his quilted work jacket, in just the plaid shirt she wore under her sweater: a man's shirt, sleeves rolled up, two sizes too big. Under it, when she undid the top buttons, was that same gray bra with the stretched-out strap. No bow today. "I didn't know we'd make up," she said, and laughed. I looked at her: at her ears, red from the cold, at the glasses on the workbench, at the way she tucked her cold feet in their wool socks up under her, and I thought that I'd almost lost all of this over the words "not now." She whispered, "Don't rush. I want to remember this." And I didn't rush. The rest was only ours.
 
 And afterward, her laughter. Laughter at last. When the couch under us made a sound that even the cot in the department had never made.
 
@@ -346,7 +346,7 @@ In the morning Hank opened up the garage, looked at the meter, at the humming he
 
 "This week," I said. "Out of scrap. Like I promised."
 
-He went off to his car. Val buried her face in my shoulder and laughed, without a sound, so hard the couch shook.
+He went over to his car. Val buried her face in my shoulder and laughed, without a sound, so hard the couch shook.
 
 And I wrote in my notebook, right there, on my knee:
 
