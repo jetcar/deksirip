@@ -66,9 +66,9 @@ Everybody laughed. So did I.
 
 ---
 
-That evening, as always, the rings were on my hand. All four, since Sunday. On Sundays at six, after the workshop, the students gave them back to me, and I wore them all week so they'd keep growing. Ms. Pratt had put it into the instructions as point six: "The rings are kept by the instructor. The instructor is responsible for them."
+That night, as always, the rings were on my hand. All four, since Sunday. On Sundays at six, after the workshop, the students gave them back to me, and I wore them all week so they'd keep growing. Ms. Pratt had put it into the instructions as point six: "The rings are kept by the instructor. The instructor is responsible for them."
 
-And the notebooks were in the garage. In the box under the workbench. Thirty-one notebooks, in Mrs. Stern's two plaid shopping bags. I'd moved them there back in January, to read at night. And left them there. It seemed safer than my place: everybody and their brother comes through my apartment. Neighbors, students, Lugnut through the transom.
+And the notebooks were in the garage. In the drawer under the workbench. Thirty-one notebooks, in Mrs. Stern's two plaid shopping bags. I'd moved them there back in January, to read at night. And left them there. It seemed safer than my place: everybody and their brother comes through my apartment. Neighbors, students, Lugnut through the transom.
 
 That was a mistake. You always understand your mistakes afterward.
 
@@ -76,7 +76,7 @@ That was a mistake. You always understand your mistakes afterward.
 
 Hank called on Saturday, at six in the morning.
 
-"Timothy," he said. His voice wasn't angry. It was lost. "Come over. Now."
+"Timothy," he said. His voice wasn't angry. Just lost. "Come over. Now."
 
 I was there in ten minutes. It was still dark. A streetlight hung over the garages.
 
@@ -90,15 +90,15 @@ And I recognized the handwriting.
 
 Ashot had been right in December, when he read the mirror-smooth bolt: "angry handwriting." The power has handwriting, the same as a person. Mine is "roughly," with pores, with a ripple. Mikey's is hesitant, a hair at a time. This one was even, cold, without a single pore. Like a lens made from a handful of corundum in ten seconds.
 
-"During the night," Hank said behind me. "I looked out the window at two; my kitchen faces the garages. The streetlight was on, everything was shut. Then I got up at five, and here you go."
+"During the night," Hank said behind me. "I looked out the window at two; my kitchen faces the garages. The streetlight was on, everything was shut. Then I got up at five, and there it was."
 
-I looked at the snow. Tracks ran from the road to the doors. One set. Even, unhurried, from good shoes with a fine tread. There and back. A man who doesn't like leaving his house had come out in person for the second time this winter. He'd needed to touch it.
+I looked at the snow. Tracks ran from the road to the doors. One set. Even, unhurried, from good boots with a fine tread. There and back. A man who doesn't like leaving his house had come out in person for the second time this winter. He'd needed to touch it.
 
 Inside it was cold. Not the air: with the doors open, the air was just the outdoors by now. It was the things that were cold. Frost on the workbenches. Frost on Hank's car, parked outside by the doors, as thick as in a freezer. The wood stove, which Hank had stoked the night before with the last of the pallets, was ice-cold. Not cooled off: ice-cold. There'd been a kettle of water on Hank's workbench. The water had frozen solid to the bottom, and the bottom had bulged out like a blister.
 
 I did the math. A shackle is half a bag, if you understand steel. Even for me, a couple of bags. But he'd frozen everything. The car, the doors, the stove, the kettle. He hadn't needed that much. The heat was Hank's: his stove, his car, his kettle. He'd taken it so he wouldn't have to draw on himself. And he'd taken more than he needed, on purpose. So that I'd know. Like that time with the pot at the meat-pie stand.
 
-The box under the workbench had been pulled out. Empty.
+The drawer under the workbench had been pulled out. Empty.
 
 The plaid shopping bags were gone.
 
@@ -108,7 +108,7 @@ Everything else was where it had been. Bull's torque wrench. The coolant. Ashot'
 
 He had taken only the notebooks.
 
-And he'd left a note. On the workbench, weighed down with my own hammer. A sheet of heavy white paper, the same kind his notes had been lying on next to the quartz desk in his study. One word, in the same small, even handwriting that had been on the bolt in December:
+And he'd left a note. On the workbench, weighed down with my own hammer. A sheet of heavy white paper, the same kind of paper as the notes I'd seen in his study, lying beside the quartz desk. One word, in the same small, even handwriting that had been on the bolt in December:
 
 "Don't search."
 
@@ -128,7 +128,7 @@ I didn't answer.
 
 He didn't say "Mikey." But I saw him think "Mikey." And forbid himself to think it. And not quite manage.
 
-"It's not Mikey," I said. "I've had all the rings since Sunday. All four. And Mikey can't do this. None of our people can. Look at the drop: not a single pore. Mikey straightens a paper clip a hair at a time. This is somebody who's been doing it like this every day for twenty years. And look at the tracks. Eleven and a half, at least. Mikey wears a seven."
+"It's not Mikey," I said. "I've had all the rings since Sunday. All four. And Mikey can't do this. None of our people can. Look at the drop: not a single pore. Mikey straightens a paper clip a hair at a time. This is somebody who's been doing it like this every day for twenty years. And look at the tracks. Size eleven and a half. Mikey wears a seven."
 
 Hank looked at the tracks. Then at me.
 
@@ -144,7 +144,7 @@ Hank looked at the tracks. Then at me.
 
 That was fair.
 
-I promised him new doors. Solid ones. Hank said there's no such thing as steel that can't be sweet-talked; he knew that now. I said I knew it too. But I'd make doors that would scream if somebody tried to sweet-talk them. So the whole yard would hear.
+I promised him new doors. Solid ones. Hank said there was no such thing as steel that can't be sweet-talked; he knew that now. I said I knew it too. But I'd make doors that would scream if somebody tried to sweet-talk them. So the whole yard would hear.
 
 Hank thought about it and said, "Now that's something. An alarm that cusses you out." And smiled, just barely.
 
@@ -170,7 +170,7 @@ That hadn't occurred to me. It had occurred to Mikey. Because he was the one who
 
 "He read the chat," said Mikey. "Back then, before the password. Two hundred forty times. He knows everything about me." His voice shook. "Because of me."
 
-"Not because of you," I said. "The chat's been locked since December. The chat didn't know about the notebooks in the garage. Everybody who came to the workshop knew. There were already five people in the garage on the twenty-second, and by Monday the whole market was talking about the rings. And on the first of March, Greg, Stefan and Roxanne came too. And he's got a man at the meat-pie stand. He'd have found out anyway. For twenty years he's been finding out about everybody who glows even a little. That's his work. He doesn't do anything else."
+"Not because of you," I said. "The chat's been locked since December. The chat didn't know about the notebooks in the garage. Everybody who came to the workshop knew. There were already five people in the garage on February twenty-second, and by Monday the whole market was talking about the rings. And on the first of March, Greg, Stefan and Roxanne came too. And he's got a man at the meat-pie stand. He'd have found out anyway. For twenty years he's been finding out about everybody who glows even a little. That's his work. He doesn't do anything else."
 
 Mikey nodded. He didn't believe me. But he nodded.
 
@@ -202,7 +202,7 @@ Now he knew.
 
 In the afternoon I went to Garden Street. They were her notebooks. I had to tell her myself.
 
-Mrs. Stern heard me out without a word. The lamp was on, on the desk. Professor Stern's watch was ticking.
+Mrs. Stern heard me out without a word. The desk lamp was on. Professor Stern's watch was ticking.
 
 "Will you file a report?" I asked.
 
@@ -228,11 +228,11 @@ Roxanne texted that she had her carnations to think of, and carnations mustn't g
 
 Bull came. He looked for a long time at the drop, which Hank had laid on the workbench like evidence. Then he said, like a mechanic:
 
-"Nice work. I couldn't do that." And then, in a different voice, the debt collector's: "I know the type, Timothy. That's no thief. A thief takes and leaves. This one left a note. Guys like that scare you first. Then they write."
+"Nice work. I couldn't do that." And then, in a different voice, the debt collector's: "I know the type, Timothy. That's no thief. A thief takes what he wants and goes. This one left a note. Guys like that scare you first. Then they write."
 
 "Write where?"
 
-"Someplace where you can't prove anything yourself," said Bull. "For three years now I've been getting papers like that. About debtors. Anonymous. You know who writes them? People who are scared to come out and say it to your face."
+"Someplace where you can't prove anything yourself," said Bull. "For three years now I've been getting letters like that. Tips on debtors. Unsigned. You know who writes them? People who are scared to come out and say it to your face."
 
 Ms. Pratt said:
 
@@ -286,11 +286,11 @@ On Monday, March ninth, at seven in the morning, the doorbell rang. Not the way 
 
 There were three men on the landing. Two in uniform. One in a gray overcoat, with a folder, and the face of a man who'd gotten up at five and considered it my fault. Behind them, on the stairs, was Officer Sommers. He looked at me and looked away.
 
-"Timothy Nagel? Detective Keyes." He showed me his ID, then a sheet of paper. "Based on a report we received about illegal trade in precious metals, a case has been opened. This is a warrant to search the residence. Signed by a judge."
+"Timothy Nagel? Detective Keyes." He showed me his ID, then a sheet of paper. "We've received a report of illegal dealing in precious metals, and an investigation's been opened. This is a warrant to search your residence. Signed by a judge."
 
 I looked at the paper. At the dates. The report had come in on the twenty-third of February. The warrant was dated the fourth of March.
 
-The twenty-third of February. Two weeks before the theft.
+The twenty-third of February. Almost two weeks before the theft.
 
 I stood in the doorway and suddenly understood how it had all gone. He'd written first. He knew a letter like that would bring a search. And he knew that a search would turn up the notebooks: thirty-one of them, with the thimble on every page. And they'd be read. And for twenty years he'd lived so that nobody would ever read about the thimble.
 
@@ -328,7 +328,7 @@ He took a closer look. He wrote: "On the fingers of the right hand: rings, white
 
 Glen knew you couldn't write about the thimble. Write about the thimble, and they'll come for you too.
 
-Lugnut had been sitting on the windowsill the whole time. And when Keyes bent over my toolbox, Lugnut jumped down, slipped past under his arm and carried off the pen from the table. A shiny one, metal. Keyes straightened up and looked at the table, at the cat under the couch, at me.
+Lugnut had been sitting on the windowsill the whole time. And when Keyes bent over my toolbox, Lugnut jumped down, slipped under his arm and made off with his pen. A shiny one, metal. Keyes straightened up and looked at the table, at the cat under the couch, at me.
 
 "He'll give it back," I said. "Sometimes."
 
@@ -340,9 +340,9 @@ Between the bobbers and the jigs lay the pea of gold. The same one, from October
 
 Keyes picked up the pea with two fingers and held it up to the light.
 
-"Do you have papers for this?"
+"Do you have papers for it?"
 
-The same question the pawn shop had asked me in October. Almost word for word.
+The same question the pawn shop had asked me in October. Word for word.
 
 "No."
 
@@ -354,7 +354,7 @@ The same question the pawn shop had asked me in October. Almost word for word.
 
 The bracelet. Goldie's. With my spring.
 
-For a second I thought: Goldie? Then I remembered: she'd sent that bracelet into the pine forest. Through his security. And in the forest I'd been told, "Lenny Kurgan was just the beginning." Lenny had seen the pea in October. Lenny knew about "We'll work together." Glen hadn't needed to make anything up. All he'd needed to do was put together what other people knew. The way Ms. Pratt puts together her observations.
+For a second I thought: Goldie? Then I remembered: she'd sent that bracelet into the pine forest. Through his security. And in the forest I'd been told, "Lenny Kurgan was just the beginning." Lenny had seen the pea in October. Lenny knew I'd turned down "We'll work together." Glen hadn't needed to make anything up. All he'd needed to do was put together what other people knew. The way Ms. Pratt puts together her observations.
 
 "I fixed a bracelet," I said. "The spring. For half a bag. I rang it up in the app. There's a receipt."
 
@@ -364,7 +364,7 @@ I put on my jacket. My father's rubber boots stood by the door. I looked at them
 
 ---
 
-Out front of the building stood a gray car with its lights off.
+Out in front of the building stood a gray car with its flashers off.
 
 The yard already knew. The yard always knows. Mrs. Mazur in her headscarf, Judy from the third floor, old Shirley with her knitting needles, Lana, just off her shift. And Mikey. He hadn't gone to school that day. He stood in front of everybody.
 

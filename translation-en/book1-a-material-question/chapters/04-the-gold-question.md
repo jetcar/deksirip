@@ -164,7 +164,7 @@ She looked at it, then at me, then at it again. She picked it up with tweezers, 
 
 "No. It's bullion. Sort of. This is it."
 
-"Do you have papers for the bar?"
+"Do you have papers for it?"
 
 "What papers?"
 
