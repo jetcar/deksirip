@@ -14,7 +14,7 @@ She had my number. She'd typed it into the app herself, on my own phone, the day
 
 "The business I mentioned at your booth," she said. "How your line could be worth ten times as much. I ran the numbers again. It comes out to more than ten."
 
-Behind me the shutter creaked. All by itself, in the wind. I'd left it unfixed on purpose, as camouflage, and it was doing its very best.
+Behind me the shutter creaked. All by itself, in the wind. I'd left it unfixed on purpose, for cover, and it was doing its very best.
 
 "I'll think about it," I said.
 
@@ -56,7 +56,7 @@ Pay off the debt. All at once, on the very first day, not once a week. That's on
 
 I got stuck on number four.
 
-I had nothing to buy. It was a strange discovery. The shelf I'd made myself. The chair, myself. The fridge I'd fixed. My pots don't burn, my knife doesn't go dull, my door shuts. I didn't have a bicycle, but if you think about it, one of those was lying by the dumpsters too, waiting for me to get around to it. I got hand pies for fixing irons. Chemistry, for repairing balances.
+I had nothing to buy. It was a strange discovery. The shelf I'd made myself. The chair, myself. The fridge I'd fixed. My pots don't burn, my knife doesn't go dull, my door shuts. I didn't have a bike, but come to think of it, there was one lying by the dumpsters, just waiting for me to get around to it. I got hand pies for fixing irons. Chemistry, for repairing balances.
 
 What I needed couldn't be bought. And what could be bought, I already had. Or I could make it.
 
@@ -76,7 +76,7 @@ We were sitting in my kitchen. She was grading freshman lab reports in red pen a
 
 "By who?"
 
-"Goldie. The one from the Revenue Department. Not from the Revenue Department: the attorney. The one who signed me up as self-employed."
+"Goldie. The one from the Revenue Department. No, not the Revenue Department—the attorney. The one who signed me up as self-employed."
 
 Val raised her head from the lab report. The pen in her hand stopped above somebody's formula.
 
@@ -84,11 +84,11 @@ Val raised her head from the lab report. The pen in her hand stopped above someb
 
 "How do you know about the coat?"
 
-"Ashot told Mikey, when he brought Mrs. Mazur's pot to the market. Mikey told Mrs. Mazur, Mrs. Mazur told Shirley, Shirley told Katie in 40, and Katie told me, when she was hemming my jeans. The whole building knows about the coat, Tim. Pete thinks she's a foreign spy."
+"Ashot told Mikey when Mikey brought Mrs. Mazur's pot by the market. Mikey told Mrs. Mazur, Mrs. Mazur told Shirley, Shirley told Katie in 40, and Katie told me, when she was hemming my jeans. The whole building knows about the coat, Tim. Pete thinks she's a foreign spy."
 
 "Why foreign?"
 
-"Because ours don't wear coats like that." Val took off her glasses, wiped them on the hem of her sweater and put them back on. "Where?"
+"Because nobody from around here wears a coat like that." Val took off her glasses, wiped them on the hem of her sweater and put them back on. "Where?"
 
 "The Summit. It's business. She wants to offer me a job."
 
@@ -110,7 +110,7 @@ I couldn't tell whether she was joking. I still can't.
 
 On Friday at seven I was standing at the entrance to the Summit.
 
-I'd put on the only sport coat I owned. It had been my father's. The last time anybody wore it was to his funeral. Me, not him. It was tight in the shoulders and loose at the waist, and before I left I'd altered it a little: I didn't touch the fabric, I just moved the buttons over, by hand. I'd pressed my pants with Mrs. Mazur's iron, the one I'd fixed once myself. The shirt was the one with the snaps. For half a bag, Ashot had shined my shoes until you could see the elevator in them. I didn't take off the thimble. I was afraid to leave it at home with Lugnut, and in a pocket it's useless. So I spent the whole evening with it on my middle finger and kept that hand under my napkin.
+I'd put on the only sport coat I owned. It had been my father's. The last time anybody wore it was to his funeral. Me, not him. It was tight in the shoulders and loose at the waist, and before I left I'd altered it a little: I didn't touch the fabric, I just moved the buttons up a little, by hand. I'd pressed my pants with Mrs. Mazur's iron, the one I'd fixed once myself. The shirt was the one with the snaps. For half a bag, Ashot had shined my shoes until you could see the elevator in them. I didn't take off the thimble. I was afraid to leave it at home with Lugnut, and in a pocket it's useless. So I spent the whole evening with it on my middle finger and kept that hand under my napkin.
 
 The elevator took a minute to get to the twelfth floor. In that minute I managed to count my reflections: seven of me, in mirrors on three walls. In all seven I looked like a man who'd come to fix the air conditioning.
 
@@ -178,7 +178,7 @@ She talked the way she'd worked at my booth: quickly, precisely, forgetting noth
 
 There's a company. Her father's company, and she has her own law firm that handles it. "I handle what's already built," she said. "What gets built is Dad's call." The company builds. Not booths: buildings. Shopping centers, offices, apartment complexes. And in buildings, everything breaks. Elevators, doors, railings, display windows, pipes, fences, steel framing. Something every week. And every time it means a contractor, an estimate, parts, deadlines, penalties.
 
-"And you fix in a minute," said Goldie, "what other people spend a month replacing. I saw the bracelet. I showed it to an expert. A very good, very private man who makes special alloys for us. He said solder like that doesn't exist. That there's no seam. That the spring looks as if it grew in one piece." She looked at me over her glass. "He'd very much like to meet you. I told him where you work. I'm sorry, I didn't know then that it was a secret."
+"And you fix in a minute," said Goldie, "what other people spend a month replacing. I saw the bracelet. I showed it to an expert. A very good, very private man who makes special alloys for us. He said there's no such thing as soldering like that. That there's no seam. That the spring looks as if it grew in one piece." She looked at me over her glass. "He'd very much like to meet you. I told him where you work. I'm sorry, I didn't know then that it was a secret."
 
 Something inside me clenched, cold. I understood why, but I didn't want to understand. An expert in alloys. A very private man. Twenty years. "Don't search."
 
@@ -200,9 +200,9 @@ Only you. Forever.
 
 I put down my fork.
 
-I thought about Professor Stern. About thirty-one notebooks in two plaid shopping bags. "I understood a great deal, and I dared nothing." About how for years he'd kept his object inside a lamp, under the wiring, and nobody, nobody knew.
+I thought about Professor Stern. About thirty-one notebooks in two plaid shopping bags. "I understood a great deal, and I dared nothing." About how for thirty years he'd kept his object inside a lamp, under the wiring, and nobody, nobody knew.
 
-And I thought: that's a lamp too. Just gold-plated. Goldie-plated, with health insurance and a TOP SECRET stamp.
+And I thought: That's a lamp too. Just a golden one. With health insurance and a TOP SECRET stamp.
 
 "What about the market?" I asked.
 
@@ -212,11 +212,11 @@ And I thought: that's a lamp too. Just gold-plated. Goldie-plated, with health i
 
 "What's the Exchange?" asked Goldie.
 
-I told her. About the building, about the hand pies, about Pete's ledger and the balance. About how Judy takes Shirley's blood pressure, and Shirley knits socks for Mikey, and Mikey fixes Pete's phone, and Pete writes all of it down. About how my balance was in the black, and science had a separate account.
+I told her. About the building, about the hand pies, about Pete's ledger and the balance. About how Judy takes Shirley's blood pressure, and Shirley knits socks for Mikey, and Mikey fixes Pete's phone, and Pete writes all of it down. About how my balance was in the black, and science got its own line.
 
 Goldie listened very carefully. She didn't interrupt. When I finished, she was quiet for a moment.
 
-"That's very sweet," she said. And I could see she really meant it, without any mockery. "Honestly. It's like… like trading baseball cards when you're a kid. But, Timothy…" She leaned forward, and I caught the scent of her perfume, something bitter and expensive. "You do understand that you're doing this because you have no choice? You trade an iron for a hand pie because you don't have the money for a hand pie. And if you have money, why would you need to get hand pies for irons? You'll buy the hand pie. And the time you spend on other people's irons, you'll spend on something of your own."
+"That's very sweet," she said. And I could see she really meant it, without any mockery. "Honestly. It's like… like swapping stickers at recess. But, Timothy…" She leaned forward, and I caught the scent of her perfume, something bitter and expensive. "You do understand that you're doing this because you have no choice? You trade an iron for a hand pie because you don't have the money for a hand pie. And if you have money, why would you need to get hand pies for irons? You'll buy the hand pie. And the time you spend on other people's irons, you'll spend on something of your own."
 
 It sounded logical. Very logical. I couldn't come up with an answer. I sat there thinking that there was an answer somewhere, I just didn't understand it yet. Same as with plastic.
 
@@ -232,7 +232,7 @@ Then something happened that I hadn't expected.
 
 The snaps on my shirt came undone.
 
-All of them. One after another, top to bottom: click, click, click. Quietly, but distinctly, just like on Saturday in the back room. Goldie had laid her hand right on my thimble hand. The power listens to what I want. I didn't want Goldie. What I wanted, I think, was for it to be Val: a hand on my hand, the snaps, Saturday. And the power doesn't sort out whose hand it is.
+All of them. One after another, top to bottom: click, click, click. Quietly, but distinctly, just like on Saturday in the back room. Goldie had laid her hand right on my thimble hand. The power listens to what I want. I didn't want Goldie. What I wanted, I think, was for it to be Val: a hand on my hand, the snaps, Saturday. And the power doesn't care whose hand it is.
 
 I grabbed my shirt with my free hand. Goldie was staring at me in astonishment.
 
@@ -242,7 +242,7 @@ I grabbed my shirt with my free hand. Goldie was staring at me in astonishment.
 
 "That's how they are," I said. "They do everything together."
 
-I did the snaps back up with one hand, under the table, and felt my ears burning. Goldie watched. And I could see she'd decided it was because of her. That she made me that nervous.
+I did the snaps back up with one hand, behind my napkin, and felt my ears burning. Goldie watched. And I could see she'd decided it was because of her. That she made me that nervous.
 
 She wasn't entirely wrong. She wasn't entirely right either. It wasn't nerves; it was Saturday. The power wanted what I wanted, and I wanted Val. Her "shirt with the snaps." "So that if anything happens, I'll know."
 
@@ -282,11 +282,11 @@ And for the first time I saw her flustered. Really flustered. Like someone caugh
 
 "This is Timothy Nagel," she said. "The craftsman. I told you about him."
 
-"Ah, the craftsman." He held out his hand. It was warm, dry and strong. I shook it, and the gold of his ring settled right under my thimble. Good gold, heavy. "Vance Cochran. Pleased to meet you. Goldie tells me you work miracles."
+"Ah, the craftsman." He held out his hand. It was warm, dry and strong. I shook it, and the gold of his heavy ring settled right under my thimble. Good gold, heavy. "Vance Cochran. Pleased to meet you. Goldie tells me you work miracles."
 
 "I fix things," I said.
 
-"Modest," Cochran said approvingly. "Good. I like modest." He turned to his daughter. "So, collecting craftsmen? Smart. Grab the best ones while they're still at the market. By spring there'll be a foundation pit there, and a good craftsman isn't something you find lying in the street. Well, you do, but not for long." He laughed. "You snooze, you lose."
+"Modest," Cochran said approvingly. "Good. I like modest." He turned to his daughter. "So, collecting craftsmen? Smart. Grab the best ones while they're still at the market. By spring there'll be a foundation pit there, and good craftsmen don't just lie around in the street. Well, they do, but not for long." He laughed. "You snooze, you lose."
 
 Goldie didn't say anything. She was looking down at her plate.
 
@@ -296,7 +296,7 @@ Goldie didn't say anything. She was looking down at her plate.
 
 "Right, Dad," Goldie said quietly.
 
-"Well, I won't keep you." He kissed the top of her head again and went back to his corner, where the people from City Hall sat, big and quiet, like wardrobes.
+"Well, I won't keep you." He kissed the top of her head again and went back to his corner, where the people from City Hall sat, big and quiet, like refrigerators.
 
 I looked at the dessert spoon in my hand.
 
@@ -352,7 +352,7 @@ That was the worst thing about the evening. Not the twelve-bag steak. Not the sn
 
 The worst thing was that I took the folder.
 
-I said, "I'll think about it." I folded the folder in half and slid it into the inside pocket of my father's sport coat. And I shook Goldie's hand goodbye. She shook mine (firmly, briefly, businesslike), and in her handshake there was something I didn't understand and didn't want to understand.
+I said, "I'll think about it." I folded it in half and slid it into the inside pocket of my father's sport coat. And I shook Goldie's hand goodbye. She shook mine (firmly, briefly, businesslike), and in her handshake there was something I didn't understand and didn't want to understand.
 
 ---
 
@@ -360,7 +360,7 @@ I walked home. From the train station to Factory Street is about forty minutes. 
 
 I was thinking.
 
-Thirty times. I worked it out again and again, and every time it came out the same. The debt: paid off on the very first day. Windows for Mom. For Val, the analyzer. And a whole lab to go with it. An apartment of my own, not a rental. And…
+Thirty times. I worked it out again and again, and every time it came out the same. The debt: paid off on the very first day. Windows for Mom. For Val, the analyzer, and a whole lab to go with it. An apartment of my own, not a rental. And…
 
 And nothing more. Again. The list stopped at number five. On Wednesday, on the receipt, it had stopped at number four. Thirty times had added exactly one item.
 
@@ -370,7 +370,7 @@ The booth. The shutter I leave unfixed on purpose. Ashot, who puts down his hamm
 
 "Nobody will ever be able to do the same thing. Only you. Forever."
 
-I thought about it outside my building, under the streetlight, with the snow falling on my face. I thought about how a week ago, in my kitchen, I'd written in my notebook: "Need more hands. Where?" The word "Where" had been underlined twice. I never did remember when. And Goldie was offering to make sure that there would only ever be one pair of hands. Mine. Stamped TOP SECRET.
+I thought about it outside my building, under the streetlight, with the snow falling on my face. I thought about how a week ago, in my kitchen, I'd written in my notebook: "Need more hands. Where?" The word "Where" was underlined twice, and I still couldn't remember doing that. And Goldie was offering to make sure that there would only ever be one pair of hands. Mine. Stamped TOP SECRET.
 
 I should have said no right there at the table. Over the twisted spoon.
 
@@ -418,9 +418,9 @@ I looked down at my shirt. All the snaps were fastened. I'd done them up myself,
 
 I wrote: "Came undone. On their own. When she took my hand. I did them back up."
 
-I sent it. And I sat there looking at the screen, and it seemed to me I could hear Val, somewhere on the other side of town, reading it, and taking off her glasses, and wiping them on the hem of her sweater.
+I sent it. And I sat there looking at the screen, and I could almost hear Val, somewhere on the other side of town, reading it, and taking off her glasses, and wiping them on the hem of her sweater.
 
-The answer came five minutes later. The longest five minutes of the whole of December.
+The answer came five minutes later. The longest five minutes of December.
 
 "So she took your hand, and the power remembered me. Good. Tomorrow, everything. Go to sleep."
 
