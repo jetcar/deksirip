@@ -8,7 +8,7 @@ Regina Arcadian lay on the treatment bed with her eyes closed and told me how I 
 
 "I'm not moving them. I'm talking. Those are two different things."
 
-Mrs. Arcadian is forty-six. Her husband owns three gas stations and half the slope above the reservoir. Her skin is good, dense, with pores she calls "a catastrophe," and with one real problem, a pigment spot on her left cheekbone that she doesn't notice. I see it every week. Every week she pays for a peel that won't help the spot, and every week I suggest something that will, and every week she says no, because it's "not in style."
+Mrs. Arcadian is forty-six. Her husband owns three gas stations and half the slope above the reservoir. Her skin is good: thick, with pores she calls "a catastrophe," and with one real problem, a dark spot on her left cheekbone that she doesn't notice. I see it every week. Every week she pays for a peel that won't help the spot, and every week I suggest something that will, and every week she says no, because it's "not trendy."
 
 This is my fourth year at the White Orchid salon. Before that I spent four years as an OR nurse in surgery at County General. The difference is simple. In the OR, someone says "retractor," and you hold the retractor. In the salon, someone tells you how to live, and you hold a smile. The smile pays three times as much.
 
@@ -26,7 +26,7 @@ I looked at my gloved hands. My hands really are cold, always, for as long as I 
 
 I count everything in facials.
 
-It's how I stay sane. One facial at the White Orchid comes to what I make in an hour of work after the salon takes its cut. Rent on my one-room apartment on Riverside Drive: forty facials a month. The loan for the kitchen Kyle picked out before he left, leaving me the kitchen and the loan: another twelve. Food: fifteen, if I don't buy anything I like. A gym membership, which I use twice a month so I can feel guilty: four.
+It's how I stay sane. One facial at the White Orchid comes to what I make in an hour of work after the salon takes its cut. Rent on my one-room apartment on Riverside Drive: forty facials a month. The loan for the kitchen cabinets Kyle picked out before he left, leaving me the cabinets and the loan: another twelve. Food: fifteen, if I don't buy anything I like. A gym membership, which I use twice a month so I can feel guilty: four.
 
 Mrs. Arcadian left me a tip of one facial. That's generous. She always leaves one facial, and she always says I need to get married. I suspect the two are connected: she's paying me for the right to say it out loud.
 
@@ -42,7 +42,7 @@ Ollie Sinclair is my best friend and the chattiest person in Highridge. She's tw
 
 "Some guy in Granton. Holding a glass."
 
-I went over. On the screen was a video shot in somebody's kitchen. A middle-aged man in an apron was holding a plain drinking glass of water in both hands. A digital thermometer lay next to it. A voice off camera, a woman's, very serious, was counting: "Two minutes fifty. Three minutes. Measure."
+I went over. On the screen was a video shot in somebody's kitchen. An older man in an apron was holding a plain drinking glass of water in both hands. A digital thermometer lay next to it. A voice off camera, a woman's, very serious, was counting: "Two minutes fifty. Three minutes. Okay, measure it."
 
 The man took his hands away. The woman lowered the thermometer probe into the water and held the display up to the camera.
 
@@ -52,9 +52,9 @@ The man took his hands away. The woman lowered the thermometer probe into the wa
 
 "There's a fridge off camera."
 
-"Nikki. It's that handbook. The one everybody was posting about the spring before last. A million people have downloaded it already. People bend iron with their bare hands."
+"Nikki. It's that manual thing. The one everybody was posting about the spring before last. A million people have downloaded it already. People bend iron with their bare hands."
 
-I remembered. The spring before last my feed was full of it for a week, and then of something else. Some people from some town, some market built over a weekend, some manual somebody put up for free. After that it was in the news all the time, but the boring kind of news: workshops, amendments to laws, a guy in somebody's building who sharpens knives by looking at them. I scrolled past. Back then I decided it was a cult or an ad, and in a year and a half I hadn't changed my mind. It's always a cult or an ad.
+I remembered. The spring before last my feed was full of it for a week, and then of something else. Some people from some town, some market built over a weekend, some manual somebody put up for free. After that it was in the news all the time, but the boring kind of news: workshops, new regulations, a guy in somebody's building who sharpens knives by looking at them. I scrolled past. Back then I decided it was a cult or an ad, and in a year and a half I hadn't changed my mind. It's always a cult or an ad.
 
 "Did you download it?"
 
@@ -84,9 +84,9 @@ I'm twenty-nine. Five foot six. A hundred and thirty-nine pounds, which is nine 
 
 Below that begins what I don't discuss with myself.
 
-I had on a beige bra with thick foam padding. Underwear that lies for me. Without it I have a chest that Mom, when I was sixteen, called "never mind, at least your back won't hurt," and that Kyle, after three years of marriage, called "neat." I can't stand the word "neat" anymore. It's a word for handwriting and lawns.
+I had on a beige bra with thick foam padding. Underwear that lies for me. Without it I have a chest that made Mom say, when I was sixteen, "Never mind, at least your back won't hurt," and that Kyle, after three years of marriage, called "neat." I can't stand the word "neat" anymore. It's a word for handwriting and lawns.
 
-Under the bra, my stomach. Not fat. I'm medical, I know what fat is. The normal stomach of a woman who has lived on rice cakes twice and twice gained it all back with interest. Low down, under the navel, a soft fold that doesn't go away with any amount of crunches, because it isn't muscle, it's fat, and it sits there not by my decision but by the decision of my hormones and my grandmother. And the hips. I have my mother's hips. That's when everything's fine in jeans, and out of jeans you can see where the body stockpiles reserves against a famine that has never once happened in my life.
+Under the bra, my stomach. Not fat. I'm a nurse; I know what a fat stomach looks like. The normal stomach of a woman who has lived on rice cakes twice and twice gained it all back with interest. Low down, under the navel, a soft fold that doesn't go away with any amount of crunches, because it isn't muscle, it's fat, and it sits there not by my decision but by the decision of my hormones and my grandmother. And the hips. I have my mother's hips. The kind where everything looks fine in jeans, and out of them you can see where the body stockpiles reserves against a famine that has never once happened in my life.
 
 My panties were gray cotton with a stretched-out waistband. Under a beige bra. Nothing matched. Matching is for women somebody sees.
 
@@ -106,9 +106,9 @@ I thought it would be "Unlock the power within." Or formulas. But on the first p
 
 "Why, and When Not To. Read this page all the way through before you try anything. If you teach others, read it to them out loud."
 
-And then, points. Simple, like the safety rules at a factory.
+Then a numbered list. Plain, like the safety posters in a factory.
 
-Before every action, say out loud what you want and where the edge is. Account for the cost: hunger, cold fingers. Never draw current without ground-fault protection. Without a ring, don't draw it at all: a hand is not a thimble.
+Before every action, say out loud what you want and where the edge is. Account for the cost: hunger, cold fingers. Never draw current without ground-fault protection. Without a thimble or a ring, don't draw current at all. A hand is not a thimble.
 
 And Rule Six.
 
@@ -118,7 +118,7 @@ I read Rule Six twice. I looked at the record about the dough. Yeast. Single-cel
 
 "Until you understand what you're doing."
 
-I understand what a cell is, I thought. Not in great depth. But better than a baker does.
+I understand what a cell is, I thought. Not all that well. But better than a baker does.
 
 Then I thought that this was ridiculous. I'm sitting in my kitchen in panties with a stretched-out waistband, seriously debating whether I understand how to reshape living tissue by hand. As if that were possible at all. As if the glass in that video hadn't been standing right next to a fridge.
 
@@ -130,7 +130,7 @@ The experiment took up half a page in the manual, and I liked that. People who c
 
 Two identical glasses. The same water, at room temperature, two hundred grams each. A thermometer. First you hold the first glass for three minutes, just holding it, not wanting anything. That's the control: how much your hands warm the water on their own. Then you hold the second one, also for three minutes, and want the water to get colder. Not think it: want it. Then you compare how much one warmed up and how much the other did.
 
-I have a kitchen scale, and I have a digital meat thermometer, a probe on a wire and a display with one digit after the decimal point. I bought it for a duck on New Year's Eve, and I never did cook the duck, because I saw the New Year in alone, and nobody eats a duck alone.
+I have a kitchen scale, and I have a digital meat thermometer, a probe on a wire and a display with one digit after the decimal point. I bought it for a duck on New Year's Eve, and I never did cook the duck, because I spent New Year's Eve alone, and nobody eats a duck alone.
 
 I always keep water on the table in a filter pitcher, poured the night before, so it was at room temperature. I weighed out two hundred grams, twice, into two identical glasses from the same set. Stirred with the probe. Twenty-one point four degrees Celsius. In both.
 
@@ -178,7 +178,7 @@ Fresh water, fresh glasses, control and wanting, from scratch every time. Minus 
 
 After the third time my fingers were as icy as in the OR at three in the morning, and my stomach felt as empty as if I hadn't eaten since breakfast. Though I'd had the cottage cheese. Afterward I worked it out: nine tenths of a degree per glass is less than one calorie. And yet I was as hungry as after a night shift. Either the manual is lying about the cost, or I'm not paying for the water, I'm paying for the wanting.
 
-I opened the fridge, took out the can of sweetened condensed milk I keep "for emergencies," and ate four spoonfuls standing up. Condensed milk is as sweet as a verdict: no appeal. Then I realized what I was doing, and I laughed.
+I opened the fridge, took out the can of sweetened condensed milk I keep "for emergencies," and ate four spoonfuls standing up. Condensed milk is sweet the way a sentence is final: no appeal. Then I realized what I was doing, and I laughed.
 
 The manual had this written down. The section called "Cost." "Energy does not come from nowhere. At first you will pay with yourself: hunger, cold fingers. Eat before practice. Sweets work fastest, but don't overdo it."
 
@@ -262,13 +262,13 @@ I took off the bra. The foam went with it, and everything got honest.
 
 I looked at myself for a long time. At the chest somebody had called neat. At the stomach with the fold under the navel. At the hips. And I wasn't thinking the way I usually do. Usually I think: "Oh, whatever." Or: "Starting Monday." Or: "At least I've got the face."
 
-This time I was thinking the way I did in the OR, when the field is open in front of you and you have to understand what lies where.
+This time I was thinking the way I did in the OR, when the surgical field is open in front of you and you have to understand what lies where.
 
 Fat is not the enemy. Fat is a warehouse. Droplets of triglycerides in cells that look like little bubbles. The body stores energy there for a rainy day. You can't make fat disappear into nowhere: mass is conserved, it's even in the manual, in the section on energy. You can burn fat, and then it leaves through your breath, as carbon dioxide and water; anyone who's read about weight loss past the headline knows that. Or you can move it. Surgeons do. Fat grafting: they take fat from the stomach with a cannula, process it and put it where there isn't enough. Into the face. The buttocks. The breasts.
 
 Tonight warmth had gone out of my hands, and out of me had gone all my reserve sugar and maybe a hundred grams of fat. No cannula. No surgeon.
 
-I put my palm on my stomach, on the fold under the navel. It was warm and soft. Under the skin, right under the dermis, lay the bubbles: small, dense lobules near the surface, and deeper, under a thin layer of fascia, big lazy ones. The very ones that don't go away with any amount of crunches. I could almost feel them. Almost. Like the hair, once your eyes adjust to the dark.
+I put my palm on my stomach, on the fold under the navel. It was warm and soft. Under the skin, just below the dermis, lay the bubbles: small, dense lobules near the surface, and deeper, under a thin layer of fascia, big lazy ones. The very ones that don't go away with any amount of crunches. I could almost feel them. Almost. Like the hair, once your eyes adjust to the dark.
 
 And I snatched my hand away.
 
@@ -276,7 +276,7 @@ The manual lay on the kitchen table, open on my phone. I went and reread Rule Si
 
 "Don't touch the living. Never on a person or an animal, not even with consent, until you understand what you're doing."
 
-Not even with consent. What about my consent? Is my own body "on a person" too?
+Not even with consent. What about my consent? Does my own body count as "a person"?
 
 Until you understand what you're doing.
 

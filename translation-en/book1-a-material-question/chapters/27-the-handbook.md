@@ -402,7 +402,7 @@ I got the landlady's chair out of the shelter. It wobbled on its three legs. The
 
 And I had the feeling that there was one less debt. Pen returned, chair fixed. Bull still got his money on Fridays, as always.
 
-Then I checked my phone. Under the handbook there were four hundred comments. A school a couple of counties over, where a chemistry teacher had repeated the glasses with her whole class: three out of twenty-eight, minus three tenths, like Mikey in December. Without their parents' permission. Ms. Pratt said rule four had been broken on the very first day, and wrote it down. There were others too: "Scam. Where do I buy a ring?", "Cult.", "This is an ad for thermometers." Old Pete read that last one and said, "They do it on purpose." A retiree from somewhere down south: "Held a paper clip. Nothing happened. But thank you for the section on electricity, now my wife can stop worrying."
+Then I checked my phone. Under the manual there were four hundred comments. A school a couple of counties over, where a chemistry teacher had repeated the glasses with her whole class: three out of twenty-eight, minus three tenths, like Mikey in December. Without their parents' permission. Ms. Pratt said rule four had been broken on the very first day, and wrote it down. There were others too: "Scam. Where do I buy a ring?", "Cult.", "This is an ad for thermometers." Old Pete read that last one and said, "They do it on purpose." A retiree from somewhere down south: "Held a paper clip. Nothing happened. But thank you for the section on electricity, now my wife can stop worrying."
 
 Mom called. "Tim, Aunt Wanda showed me some kind of manual on her phone. Your name's on it. Third." A pause. "What, you didn't sleep at home last night?"
 

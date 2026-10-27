@@ -40,7 +40,7 @@ Two weeks later a sign went up on the rusty shell of the old truck depot, next t
 
 Half of Bull's jobs are ordinary. Oil, brake pads, belts. The other half are "reshaping." That's how he writes it in his log: "Valve. Reshaping. Half a bag." In September his books came up for a scheduled audit. Ms. Pratt recused herself as a coauthor, and afterward a colleague of hers called and asked what "reshaping" meant. Ms. Pratt said, "Not provided for. But not prohibited either." And left it at that.
 
-Bull has a ring of his own now: a new one, grown in the spring from his old one, the third. After the manual came out, Ms. Pratt rewrote point six: "A ring stays with whoever has passed the test. The test is given by Ms. Pratt." Bull passed on the first try. He never takes the ring off. He says that without it he hears an engine worse, and with it he hears it "like a wife."
+Bull has a ring of his own now: a new one, grown in the spring from his old one, the third. After the manual came out, Ms. Pratt rewrote point six of her workshop instructions: "A ring stays with whoever has passed the test. The test is given by Ms. Pratt." Bull passed on the first try. He never takes the ring off. He says that without it he hears an engine worse, and with it he hears it "like a wife."
 
 Bull doesn't have a wife. But he says that with a shop like this, now he will.
 
