@@ -12,7 +12,7 @@ I put it in the fridge. On the top shelf, next to Mrs. Mazur's jar of pickles. L
 
 The last week of the old market was a strange one. Like the last week in an apartment you're moving out of: your things are all still in their places, but there's already nowhere to live.
 
-Greg sold meat until lunch, and after lunch he hauled his chopping blocks out to the vacant lot. Lottie was selling her fish at a discount, "so I don't have to haul it." Double-A was selling batteries one at a time, because he'd run out of packs and had already had the new ones shipped to the new address. Ashot tapped. He tapped all week, louder than usual, as if he wanted to finish tapping out on the old booth everything he hadn't gotten around to in twenty years.
+Greg sold meat until lunch, and after lunch he hauled his chopping blocks out to the vacant lot. Lottie was selling her fish at a discount, "so I don't have to haul it." Double-A was selling batteries one at a time, because he'd run out of packs and had already ordered the new ones sent to the new address. Ashot tapped. He tapped all week, louder than usual, as if he wanted to finish tapping out on the old booth everything he hadn't gotten around to in twelve years.
 
 And everybody asked the same thing.
 
@@ -46,7 +46,7 @@ There turned out to be a lot of opinions.
 
 Ms. Pratt was quiet for a long time. Everybody was looking at her, because she had something nobody else had: the right to show up at a person's door with an audit. I thought: years of alloys, three big clients. His books were surely clean. But books are only clean until the audit.
 
-"No," said Ms. Pratt. "The Revenue Department is not a club. If I go after him because he broke our frame, I'll be just like him. I will go to him when his turn comes up on the schedule. If it comes up."
+"No," said Ms. Pratt. "The Revenue Department is not a blunt instrument. If I go after him because he broke our frame, I'll be just like him. I will go to him when his turn comes up on the schedule. If it comes up."
 
 It was the longest thing she said all evening, and nobody argued.
 
@@ -80,7 +80,7 @@ It got completely quiet. Even Old Pete stopped writing.
 
 "Teach," Greg repeated. "Him. Us."
 
-"Him, us. And us, him, maybe. He doesn't understand us either. He said so himself."
+"Him teaching us. And maybe us teaching him. He doesn't understand us either. He said so himself."
 
 "He nearly dropped a frame on your head," said Bull.
 
@@ -88,7 +88,7 @@ It got completely quiet. Even Old Pete stopped writing.
 
 Mrs. Mazur wiped her hands on her apron.
 
-"Well, if you're going," she said, "then not with a hand pie. The third time, it's a pie. I'm telling you that as a cook. A hand pie says, 'Here, have a bite.' A pie says, 'Sit down, let's talk.'"
+"Well, if you're going," she said, "then not with a hand pie. Third time, you bring a pie. I'm telling you that as a cook. A hand pie says, 'Here, have a bite.' A pie says, 'Sit down, let's talk.'"
 
 ---
 
@@ -112,7 +112,7 @@ I went out onto the stairs. Val came out after me. We stood by the window on the
 
 "Then what?"
 
-"Invite him. That's all. Talking someone into something is when you need it more than he does. I need it more. You don't. You just feel sorry for him."
+"Invite him. That's all. You only talk someone into something when you need it more than he does. I need it more. You don't. You just feel sorry for him."
 
 "I don't feel sorry for him."
 
@@ -148,7 +148,7 @@ The speaker was silent for a moment, then clicked off.
 
 I waited.
 
-By the calendar spring was a week old already; by the weather it hadn't begun. The snow had settled and gone black at the edges, and the pines were dripping. I stood by the gate with a pie in my hands, in my father's rubber fishing boots, and I had to laugh: a man who'd built a market in a weekend with sixty neighbors, standing outside a fence like a vacuum cleaner salesman.
+By the calendar, spring was a week old already; by the weather it hadn't begun. The snow had settled and gone black at the edges, and the pines were dripping. I stood by the gate with a pie in my hands, in my father's rubber boots, and I had to laugh: a man who'd built a market in a weekend with sixty neighbors, standing outside a fence like a vacuum cleaner salesman.
 
 Through the gap under the gate you could see the yard. And I noticed something.
 
@@ -158,13 +158,13 @@ Forty minutes later, the gate opened.
 
 ---
 
-Inside, everything was almost the same. The empty living room, the stone floor, the display cases. Only one case stood empty. The one where, before New Year's, the glass sphere with a sphere inside it had been.
+Inside, everything was almost the same. The empty living room, the stone floor, the display cases. Only one case stood empty. The one where the sphere inside a sphere had sat before New Year's.
 
 Glen was waiting for me on the stairs. In a gray sweater, in his gloves. His face was as gray as the sweater. He hadn't been sleeping. You can always tell with people who don't sleep: the skin under their eyes goes as thin as paper.
 
 "What happened to the sphere?" I asked instead of hello.
 
-"I broke it," said Glen. "On Sunday, when I got back. The first time in twenty years: on emotion. Unprofessional." He paused. "You came after all."
+"I broke it," said Glen. "On Sunday, when I got back. First time in twenty years I've acted on emotion. Unprofessional." He paused. "You came after all."
 
 "Mrs. Mazur said the third time calls for a pie."
 
@@ -218,7 +218,7 @@ I sat down. Without being invited, on the same chair I'd sat in back in December
 
 Glen didn't answer. He was looking at me the way he'd looked at the hand pies in December: for a long time, without understanding.
 
-"On Sundays we have the workshop," I said. "In Hank's garage. There's Ms. Pratt, the revenue auditor: she makes her joints ruler-straight and says each one out loud, like reading a report into the record. Bull, the debt collector. Ashot, the cobbler. Mrs. Mazur: you felt her. Mikey; he's fifteen. We do everything 'roughly.' You do everything precisely. Without a single pore. I saw your bolt. I can't do that. None of us can. You've spent twenty years doing what we've only just started."
+"On Sundays we have the workshop," I said. "In Hank's garage. There's Ms. Pratt, the revenue auditor: she makes her joints ruler-straight and says each one out loud, like reading a report into the record. Bull, the debt collector. Ashot, the cobbler. Mrs. Mazur: you felt her. Mikey, who's fifteen. We do everything 'roughly.' You do everything precisely. Without a single pore. I saw your bolt. I can't do that. None of us can. You've spent twenty years doing what we've only just started."
 
 "And you want me to teach that to Mikey," said Glen. "A fifteen-year-old who opens garages on a bet."
 
@@ -228,15 +228,15 @@ Glen didn't answer. He was looking at me the way he'd looked at the hand pies in
 
 "Yet," I agreed. "That's exactly why he needs teaching. Not just how. Why, too. And when not to."
 
-Glen got up and went over to the window. It ran from the floor to the ceiling, and outside it stood the wet pines.
+Glen got up and went over to the window. It ran from the floor to the ceiling, and beyond it stood wet pines.
 
 "You don't understand what you're asking," he said. "I'll tell you what you don't understand. On Sunday I stood by that rail and did what I know how to do. And I could feel every one of you. Nine rings. Weak as a whisper. But every one of them works. In a month there'll be twenty. In a year, two hundred. In ten years, someone out of those two hundred will want to do what I did. Only not let the joints ease off: dissolve them. Not a frame: a bridge. Have you thought about that?"
 
-"I have," I said. "Since New Year's. Since Mikey's spring."
+"I have," I said. "Since New Year's. Since Mikey and that padlock spring."
 
 "And what did you come up with?"
 
-"That on Sunday you showed us yourself," I said. "One strong one against many weak ones. If there's one like you in a thousand, and the other nine hundred ninety-nine know how to hold, he won't be able to do a thing. A bridge won't fall if every joint has somebody of its own on it. I didn't come up with that. You tested it. On us."
+"That on Sunday you showed us yourself," I said. "One strong one against many weak ones. If there's one like you in a thousand, and the other nine hundred ninety-nine know how to hold, he won't be able to do a thing. A bridge won't fall if every joint has its own person standing on it. I didn't come up with that. You tested it. On us."
 
 Glen stood with his back to me and was silent for a long time.
 
@@ -252,7 +252,7 @@ Glen stood with his back to me and was silent for a long time.
 
 I wanted to say that Ms. Pratt doesn't cry. That at the Revenue Department she'd heard worse. That Mikey hadn't known how to be around people either, and he'd learned. That six months ago I hadn't talked to anybody myself except customers and my cat.
 
-I didn't say it. Val was right: talking someone into something is when you need it more.
+I didn't say it. Val was right: you only talk someone into something when you need it more than he does.
 
 "All right," I said. "The invitation stands. Sundays, ten in the morning, Hank's garage. Every week."
 
@@ -284,7 +284,7 @@ When I was leaving, Glen walked me to the stairs. He didn't go any farther.
 
 "Leave the pan," he said. "I'll finish the pie."
 
-"That's Mrs. Mazur's mother's pan," I said. "It has to go back to her."
+"That pan was Mrs. Mazur's mother's," I said. "It has to go back to her."
 
 "I'll return it," said Glen. "I always return things. Late. But I return them."
 
@@ -348,7 +348,7 @@ I wasn't going to haul thirty-six pounds on the bus. I called Bull. Bull showed 
 
 There was a line at the post office. The woman at the counter spent a long time looking for the package, then brought out two boxes, taped up so tightly you'd think there was a live animal inside that might get out.
 
-"Heavy," she said. "Books, or what?"
+"Heavy," she said. "What've you got in here, books?"
 
 "Notebooks," I said.
 
@@ -358,11 +358,11 @@ For twenty years the man hadn't trusted anybody, not even hand pies. And now he'
 
 ---
 
-We opened them at Mrs. Mazur's. That's just how it worked out. I called Val, Val called Mrs. Stern, and Mrs. Stern said she'd come by taxi, "but only if it's at Dorothy's, because at Timothy's, Dorothy says, there's nowhere to sit." That's true: all I've got is one iron chair and a stool. It took her twenty minutes to climb to the fifth floor. On the second she rested by Old Pete's door, read his sign and said to the door, "I know too."
+We opened them at Mrs. Mazur's. That's just how it worked out. I called Val, Val called Mrs. Stern, and Mrs. Stern said she'd come by taxi, "but only if it's at Dorothy's," by which she meant Mrs. Mazur's, "because at Timothy's, Dorothy says, there's nowhere to sit." That's true: all I've got is one iron chair and a stool. It took her twenty minutes to climb to the fifth floor. On the second she rested by Old Pete's door, read his sign and said to the door, "I know too."
 
 On Mrs. Mazur's table, between the jam and the sugar bowl, we cut the tape.
 
-In the first box lay Professor Stern's notebooks. All thirty-one. Dry, flat, not one of them creased. Narrow strips of heavy paper stuck out from between some of the pages: the same paper "Don't search." had been written on. On the strips, small, in pencil: "Volume fourteen, page thirty-two: error in the calculation, see my sixth." "Volume twenty-two: Professor Stern is right, I checked." "Volume twenty-nine: yes."
+In the first box lay Professor Stern's notebooks. All thirty-one. Dry, flat, not one of them creased. Narrow paper strips stuck out from between some of the pages: the same heavy paper as the "Don't search." note. On the strips, small, in pencil: "Volume fourteen, page thirty-two: error in the calculation, see my sixth." "Volume twenty-two: Professor Stern is right, I checked." "Volume twenty-nine: yes."
 
 Mrs. Stern picked up the twenty-ninth. Opened it at the bookmark. Read. Closed it. Took off her glasses.
 
@@ -378,7 +378,7 @@ Mrs. Mazur picked up the pan and studied it for a long time.
 
 Under the pan lay Glen's notebooks.
 
-Twenty of them. Black, thick, hardbound, all identical. Each one with a year on it. From the first year after he left through last year. In every one, the same small, sharp handwriting: formulas, tables, diagrams, graphs. Not one "I'm afraid." Not one "Bella says." Twenty years of pure practice, written down the way Ms. Pratt writes down her joints: number, composition, cost, result.
+Twenty of them. Black, thick, hardbound, all identical. Each one with a year on it. From the year he left through last year. In every one, the same small, sharp handwriting: formulas, tables, diagrams, graphs. Not one "I'm afraid." Not one "Bella says." Twenty years of pure practice, written down the way Ms. Pratt writes down her joints: number, composition, cost, result.
 
 Val took the first one. Opened it. Started reading. After a minute she turned the page. After two, another. Then she raised her head, and her face was the way mine must have looked back in October, when the wrench in my hand first went soft like modeling clay.
 
@@ -406,7 +406,7 @@ Only, on the last page of the last black notebook, last year's, there was one li
 
 I showed it to Val. Val read it and was quiet for a long time.
 
-"I think this is the first entry in his notebooks with somebody in it besides him," she said. Then she thought and added: "This year's notebook isn't here. So he's still writing it." And then, very quietly: "Him as a coauthor. You can't without consent. So we'll ask."
+"I think this is the first entry in his notebooks with somebody in it besides him," she said. Then she thought and added: "This year's notebook isn't here. So he's still writing it." And then, very quietly: "Putting him down as a coauthor: we can't, not without his consent. So we'll ask."
 
 ---
 
@@ -416,13 +416,13 @@ Lugnut climbed into the empty box that Glen's notebooks had come in and settled 
 
 I sat and thought: what was to be done with all this?
 
-Keep it at my place? It had already been stolen from me once. Out of the garage, overnight, in two plaid shopping bags. And the man who stole it had himself kept things to himself for twenty years, and look what came of that: a house with no tracks in the snow and one word, "Yes," in the margin.
+Keep it at my place? It had already been stolen from me once. Out of the garage, overnight, in two plaid shopping bags. And the man who stole it had spent twenty years keeping everything to himself, and look what came of that: a house with no tracks in the snow and one word, "Yes," in the margin.
 
 Give it to Val for the lab? The department doesn't even have money for reagents, never mind a safe.
 
 Burn it? Mrs. Stern would have killed me. And she'd have been right.
 
-The hand pie had been in the fridge for twelve days now. I remembered it, got up and took it out. It had dried out hard as a rock. I held it in my hand and wondered whether to give it back its softness: the water hadn't gone off into nowhere, after all. It had gone into the fridge, into the frost on the back wall, and you could ask for it back. I didn't. It wouldn't have been the same hand pie.
+It was the hand pie's twelfth day in the fridge. I remembered it, got up and took it out. It had dried out hard as a rock. I held it in my hand and wondered whether to give it back its softness: the water hadn't gone off into nowhere, after all. It had gone into the fridge, into the frost on the back wall, and you could ask for it back. I didn't. It wouldn't have been the same hand pie.
 
 I threw it out. It had done its job.
 
