@@ -9,7 +9,7 @@ fears: []
 wounds: []
 knowledge:
   knows: []
-  unaware_of: []  # [?] с ch.22 ходит в мастерскую; о напёрстке прямо не сказано
+  unaware_of: []  # снято ch.27: напёрсток назван в опубликованной методичке (раздел Кости «Фаза и ноль — оба к напёрстку»; «Напёрстков всего два»)
 relationships:
   timofey-gvozdev: клиент; первый в очереди во вторник, first appeared ch.10
 last_updated: ch.25
