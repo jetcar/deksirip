@@ -382,7 +382,7 @@ I picked up a pen. On the first page, at the very top, above the word "CONTRACT,
 
 I thought about it. Underneath, in small letters, I added: "Thanks for the steak. I've seen what it looks like. It's not for me."
 
-I put it back on the shelf. I'd take it to her myself. There were still two weeks until New Year's. Or I could have Ashot pass it along. No. Myself. This one I had to do myself.
+I put it back on the shelf. I'd take it to her myself. New Year's was still more than a week off. Or I could have Ashot pass it along. No. Myself. This one I had to do myself.
 
 Then I sat down in the kitchen and opened the ninth volume. The one with "all the interesting parts." This time, formulas and all. I read until two in the morning. About how two objects grow warm near each other. About how Professor Stern had had them together only once, on a table, back in his teacher's day, and got so scared that he locked the second one away in the safe. And never took it out again. Where his teacher had gotten the second one: again, not a word.
 
