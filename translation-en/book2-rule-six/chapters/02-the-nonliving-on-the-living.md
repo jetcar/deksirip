@@ -4,7 +4,7 @@ In the morning I pulled my hair back into a ponytail, tight, the way I used to b
 
 Ollie noticed in forty seconds.
 
-"Stop," she said as I walked past the front desk. "Turn around."
+"Hold it," she said as I walked past the front desk. "Turn around."
 
 "I have a client at nine."
 
@@ -28,7 +28,7 @@ Ollie looked at me. She never went to nursing school, but she'd heard the word "
 
 "Nikki."
 
-"Later," I said, and went into my treatment room, where it smelled of antiseptic and was calm.
+"Later," I said, and went into my treatment room, which smelled of antiseptic and was quiet.
 
 ---
 
@@ -36,7 +36,7 @@ I finished the right side at lunch, in the staff bathroom, sitting on the closed
 
 I already knew how. A handful of hair in my palm, eyes closed, wait for my fingers to start seeing, and want the scales to lie down and the threads to remember that they're one. Edge: halfway down the length. The roots are far away. Don't touch the roots.
 
-The right side took forty minutes instead of two hours. Faster, because I knew what I was looking for. And cheaper: I ate the eclair Ollie had absentmindedly left in the staff fridge, and half of my own lunch. Sixteen hundred calories yesterday, four hundred or so today. Understanding, it turns out, saves money. The manual said exactly that, only about steel: "The better you understand, the cheaper it gets." Yesterday I'd decided it was a pretty phrase. It's bookkeeping.
+The right side took forty minutes instead of two hours. Faster, because I knew what I was looking for. And cheaper: I ate the eclair Ollie had absentmindedly left in the staff fridge, and half of my own lunch. Sixteen hundred calories yesterday, four hundred or so today. Understanding, it turns out, pays for itself. The manual said exactly that, only about steel: "The better you understand, the cheaper it gets." Yesterday I'd decided it was a pretty phrase. It's bookkeeping.
 
 When I came out of the bathroom, Ollie was standing by the door holding an empty eclair box.
 
@@ -46,11 +46,11 @@ When I came out of the bathroom, Ollie was standing by the door holding an empty
 
 "You don't eat sweets. You haven't eaten sweets in three years. You say sugar is 'glycated proteins in the dermis, premature aging, Ollie, put it down.'"
 
-"Today I'm eating them."
+"Today I do."
 
 Ollie looked at my hair, smooth on both sides now. Then at the box. Then at me.
 
-"Tonight," she said. "My place. With wine. You're telling me everything."
+"Friday," she said. "My place. With wine. You're telling me everything."
 
 "Ollie…"
 
@@ -60,7 +60,7 @@ Laurie Victor owns the White Orchid. Off the books is the one thing she fires yo
 
 "I'm not selling anything."
 
-"Yet," said Ollie. And went back to the front desk, pleased as a cat.
+"Yet," said Ollie. And went back to the front desk, looking like the cat that got the cream.
 
 ---
 
@@ -68,7 +68,7 @@ After lunch, Mrs. Stepp came in.
 
 Galina Stepp is sixty-two. She comes in for a pedicure once a month, because her daughter gave her a package of visits as a gift, and because, in her words, "I've got heels like a camel, Nikki, honey. I could walk on hot coals." That's no exaggeration. Mrs. Stepp has hyperkeratosis. That's when the skin on the heels thickens, coarsens, yellows and cracks. The cracks are deep, sometimes deep enough to bleed. She worked thirty years on her feet, in the cafeteria at the steel mill, and her feet are the kind of feet you get when you've stood for thirty years.
 
-Usually I do it like this: a soak, then a file, then the electric file, then cream. That's an hour of work, and in two weeks it all comes back. Because I remove the result, not the cause. The cause is the load, the age, and the fact that the skin on a heel protects itself by growing armor.
+Usually I do it like this: a soak, then a file, then the electric file, then cream. That's an hour of work, and in two weeks it all comes back. Because I remove the result, not the cause. The cause is pressure, age, and the fact that the skin on a heel protects itself by growing armor.
 
 The hardened layer is dead cells, the same keratin as in hair, only flat and thick. Per the footnote, fair game.
 
@@ -82,7 +82,7 @@ I set Mrs. Stepp's feet in the foot basin of warm water and looked at her heels.
 
 "Do what you want," she said. "Just don't let it hurt."
 
-Not letting it hurt is the main thing. Under the dead layer lies a living one. If I go past the edge, it won't hurt. It'll be bad. Living cells of the epidermis, and under them the dermis, with its blood vessels and nerves. Off-limits.
+Not letting it hurt is the main thing. Under the dead layer lies a living one. If I go past the edge, "hurt" won't be the word for it. "Harm" will. Living cells of the epidermis, and under them the dermis, with its blood vessels and nerves. Off-limits.
 
 I took one foot out of the water, dried it, laid it on a towel across my knee and wrapped both palms around the heel.
 
@@ -112,7 +112,7 @@ Here's what I understood in that minute. Heat always belongs to someone. Yesterd
 
 A pedicure basin. About three liters of water at forty degrees Celsius. To cool it by five degrees, you have to take out about sixty kilojoules. That's fifteen calories, one square of chocolate. Not my chocolate.
 
-The heel went soft. I lifted the top sheets off with a towel, the way you lift off wet paper. Underneath was pinkish skin, smooth, thin, but not bare. The cracks closed, because their edges were dead, and dead can be brought back together, like the tips of a hair. The deep crack near the edge, the one that had bled: that one I didn't touch. There was living tissue there.
+The heel went soft. I lifted the top sheets off with a towel, the way you lift off wet paper. Underneath was pinkish skin, smooth, thin, but not bare. The cracks closed, because their edges were dead, and dead can be brought back together, like split ends. The deep crack at the side of the heel, the one that had bled: that one I didn't touch. There was living tissue there.
 
 I did the second heel faster.
 
@@ -146,13 +146,13 @@ And three that don't exist, from a man with nail fungus.
 
 To be precise, he wanted to pay three. I said no.
 
-Fungus is alive. They aren't human cells, but they're living cells, growing in the nail and under it, in the bed. To get rid of it, you have to destroy something living. Even if what's living is the fungus and not the man, I didn't know where one ended and the other began. I didn't know what would happen to the nail bed if I went in there. I sent him to a dermatologist.
+Fungus is alive. Not human cells, but living cells, growing in the nail and under it, in the bed. To get rid of it, you have to destroy something living. Even if what's living is the fungus and not the man, I didn't know where one ended and the other began. I didn't know what would happen to the nail bed if I went in there. I sent him to a dermatologist.
 
 "But you can do it," he said. "I was told you can."
 
 "Who told you?"
 
-"Galina Stepp. My neighbor. She says you do it by hand."
+"Mrs. Stepp. Galina. She's my neighbor. She says you do it by hand."
 
 I thought: that's it, I'm done for. Mrs. Stepp knows her whole building. Her building knows the whole neighborhood. In a week Laurie would know.
 
@@ -168,7 +168,7 @@ I looked at him. An ordinary man of fifty, tired, in a good shirt. He honestly d
 
 "It's Rule Six," I said. "You can read it. It's free."
 
-He went to the dermatologist. Without three facials for me. And I was as pleased about it as if I'd earned six.
+He went to the dermatologist. And took my three facials with him. And I was as pleased about it as if I'd earned six.
 
 ---
 
@@ -184,7 +184,7 @@ Ollie listened with her mouth open. Every so often she closed it to sip her wine
 
 "Something. On me."
 
-I looked at her. Ollie has beautiful skin, twenty-four years old, not a single pimple, and she doesn't even know how lucky she is. Fine blond hair, dyed three times this year, with ends that look like straw.
+I looked at her. Ollie is twenty-four and has beautiful skin, not a single pimple, and she doesn't even know how lucky she is. Fine blond hair, dyed three times this year, with ends that look like straw.
 
 "Give me a strand."
 
@@ -228,25 +228,25 @@ I hadn't thought about that. I'd thought about the basin.
 
 "Is that dangerous?"
 
-"A little, no. Your feet get cold, that's all. A lot, yes. Tissue hypothermia. The blood vessels constrict, circulation drops."
+"A little, no. Your feet get cold, that's all. A lot, yes. Cold injury. The blood vessels constrict, circulation drops."
 
 Ollie shivered.
 
-"So always put the basin out."
+"So always set out a basin."
 
-"So always put the basin out," I agreed. And I thought that this was the first rule I'd come up with myself. Not from the manual. From Mrs. Stepp's heel and Ollie's wine.
+"So always set out a basin," I agreed. And I thought that this was the first rule I'd come up with myself. Not from the manual. From Mrs. Stepp's heel and Ollie's wine.
 
 ---
 
 At home, late that night, I got on the scale.
 
-A hundred thirty-six point seven. Tuesday night it had been a hundred thirty-eight. Down more than a pound in four days, after wine and cheese. And I'd been eating everything. Condensed milk, cookies, the eclair, Ollie's cheese. I'd eaten more sweets than in the whole previous month, and I was losing weight.
+A hundred thirty-six point seven. Tuesday night it had been a hundred thirty-eight. Down more than a pound since Tuesday, after wine and cheese. And I'd been eating everything. Condensed milk, cookies, the eclair, Ollie's cheese. I'd eaten more sweets than in the whole previous month, and I was losing weight.
 
 I took off my T-shirt and stood in front of the mirror. At first I liked what I saw. My stomach had gotten a little smaller. Just barely, almost invisible to the eye, but I could see it, because I've looked at that stomach every evening since the divorce. The fold under my navel was softer.
 
 And then I looked higher and realized my chest had gotten smaller too.
 
-Not by much. A spoonful, maybe, on each side. But my beige bra with the thick foam padding, which had always fit loose, now stood away from my body at the edge of the cup, and between the foam and my skin there was a gap half a fingernail wide.
+Not by much. A spoonful, maybe, on each side. But my beige bra with the thick foam padding, which already fit loose, now stood away from my body at the edge of the cup, and between the foam and my skin there was a gap half a fingernail wide.
 
 I took that off too. And I laughed. Loudly, in the empty apartment, so that Ignatius darted to the far side of his bowl.
 
@@ -262,7 +262,7 @@ Because if I can feel where the dead turns into the living on Mrs. Stepp's heel,
 
 That isn't reshaping the living. That's just… choosing where to pay from.
 
-I caught myself thinking it and smirked. It was a very convenient thought. Too convenient. That's how everybody thinks who wants to do something and is looking for a reason it's allowed.
+I caught myself thinking it and smirked. It was a very convenient thought. Too convenient. That's how everyone thinks when they want to do something and are looking for a reason it's allowed.
 
 Fat is alive. Adipocytes are living cells. Each one with its own nucleus, its own mitochondria, a capillary right beside it. If I start choosing which of them to burn, I'm touching the living.
 
@@ -274,7 +274,7 @@ I turned off the light and went to bed.
 
 On Saturday I went to the workshop.
 
-In Highridge the workshop meets on Saturdays in the reading room of the county library, from twelve to three. I'd seen the notice on the library door a hundred times and walked past it a hundred times. "RESHAPING MATTER BY HAND. OPEN WORKSHOP. FREE. BRING YOUR OWN GLASS."
+In Highridge the workshop meets on Saturdays in the reading room of the county library, from noon to three. I'd seen the notice on the library door a hundred times and walked past it a hundred times. "RESHAPING MATTER BY HAND. OPEN WORKSHOP. FREE. BRING YOUR OWN GLASS."
 
 I brought my own glass.
 
@@ -292,7 +292,7 @@ I read it. My voice shook on Rule Six. Nobody noticed except Mr. Gantz. He notic
 
 Then came the glasses. Same as at home, only with a logbook, where Mr. Gantz wrote everybody down: name, control, with wanting, difference. The retired ladies got a tenth, plus or minus. The man from the mill got minus three tenths and was very proud of it. The teenage daughter got zero and went right back to her phone.
 
-I got minus nine tenths against the control. Then, a second time, minus one.
+I got minus nine tenths against the control. Then, the second time, minus a whole degree.
 
 Mr. Gantz looked at the logbook, then at me over his glasses.
 
@@ -348,19 +348,19 @@ I stopped.
 
 He reached into the inside pocket of his jacket and took out a little velvet box. The kind engagement rings come in. He opened it.
 
-Inside lay a ring. Thin, silvery copper. Like Mr. Gantz's, but different. It hummed louder. I could feel it the way you feel a space heater that's switched on when you hold your palm up to it.
+Inside lay a ring. Thin, silvery copper. Like Mr. Gantz's, but different. It hummed louder. I could feel it the way you feel a space heater when you hold your palm up to it.
 
 "Fifth," said Vic. "Not sixth. One step closer to Granton. No test, no signing for it. Yours. Wear it at home, wear it at work, wear it wherever you want."
 
 "How much?"
 
-"Three hundred."
+"Three hundred grand."
 
 He named the sum. I converted it into facials. Three hundred facials. Seven and a half months of rent. Two years of the loan for the kitchen cabinets Kyle picked out.
 
 "That's a lot," I said.
 
-"That's nothing," said Vic. "In six months it'll be a thousand. They don't make these in a factory. They grow them. And nobody wants to grow them: it takes forever, and you go hungry."
+"That's nothing," said Vic. "In six months it'll be a million. They don't make these in a factory. They grow them. And nobody wants to grow them: it takes forever, and you go hungry."
 
 "Where did you get it?"
 
