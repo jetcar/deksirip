@@ -48,30 +48,35 @@
 - К. Хеншилвуд и др. — бусы из раковин пещеры Бломбос (Science, 2004); А. Бувье и др. — бусы Пещеры голубей, Марокко (PNAS, 2007).
 - К. Бём — «Иерархия в лесу: эволюция эгалитарного поведения» (C. Boehm, Hierarchy in the Forest, 1999).
 - Д. Гребер, Д. Уэнгроу — «Заря всего: новая история человечества» (2021).
-- М. Мосс — «Сезонные вариации эскимосских обществ» (1906).
+- М. Мосс (при участии А. Бёша) — «Сезонные вариации эскимосских обществ» (1904–1905).
 - Ф. Боас — описания потлача у квакиутль (конец XIX — начало XX в.).
-- Р. Уайт и др. — погребения Сунгиря и трудоёмкость бус из бивня мамонта.
+- Р. Уайт и др. — погребения Сунгиря и трудоёмкость бус из бивня мамонта (≈1 ч на бусину — оценка Уайта).
 - Дж. Хенрик — «Секрет нашего успеха» (J. Henrich, The Secret of Our Success, 2015) — экспедиция Бёрка и Уиллса, «коллективный мозг».
 - М. Томаселло — «Культурные истоки человеческого познания» (1999) — «эффект храповика».
 - М. Клайн, Р. Бойд — размер населения и сложность орудий в Океании (Proceedings of the Royal Society B, 2010).
 - Р. Данбар — «Груминг, сплетни и эволюция языка» (1996).
-- Ф. Уэндорф — раскопки Джебель-Сахабы (1960-е); И. Кревекёр и др. — передатировка и анализ травм (Scientific Reports, 2021).
+- Ф. Уэндорф — раскопки Джебель-Сахабы (1960-е); И. Кревекёр и др. — передатировка и анализ травм (Scientific Reports 11:9991, 2021): травмы у 41 из 61 человека.
 - С. Боулз — «Повлияли ли войны между предковыми охотниками-собирателями на эволюцию социального поведения?» (Science, 2009).
 - С. Пинкер — «Лучшее в нас» (2011).
 - Д. Фрай, П. Сёдерберг — смертельная агрессия у подвижных охотников-собирателей (Science, 2013).
 - М. Мирасон Лар и др. — Натарук, Западная Туркана (Nature, 2016).
 - П. Мартин — гипотеза плейстоценового истребления мегафауны (1960–1970-е).
 - Р. Холдауэй и др. — хронология вымирания моа в Новой Зеландии (Nature Communications, 2014).
+- Г. Хардин — «Трагедия общин» (G. Hardin, The Tragedy of the Commons, Science, 1968).
 - Э. Остром — «Управляя общим» (1990).
 - Э. О. Смит, Р. Блидж Бёрд — охота на черепах у мериам как дорогостоящий сигнал (Evolution and Human Behavior, 2000).
 - А. Захави — «Выбор партнёра: отбор на гандикап» (1975), принцип гандикапа.
 - Ф. Хирш — «Социальные пределы роста» (1976), позиционные блага.
 - Закон об индейцах Канады — запрет потлача (поправка 1884 г., отменена в 1951 г.).
-- К. Шмидт — раскопки Гёбекли-Тепе (с 1995 г.).
+- К. Шмидт — раскопки Гёбекли-Тепе (с 1995 г.); Л. Клэр и др. — раскопки после 2014 г. и пересмотр трактовки памятника как поселения с ритуальными зданиями (отчёты Германского археологического института, 2015–2020).
 - Н. Хауэлл — «Демография добе !кунг» (N. Howell, Demography of the Dobe !Kung, 1979).
 - М. Гурвен, Х. Каплан — «Долголетие у охотников-собирателей» (Population and Development Review, 2007).
-- Э. Кук — «Поток энергии в индустриальном обществе» (E. Cook, Scientific American, 1971).
+- Э. Кук — «Поток энергии в индустриальном обществе» (E. Cook, Scientific American, 1971): ≈5 тыс. ккал/сут у охотника, ≈230 тыс. у «технологического человека».
+- И. Моррис — «Мера цивилизации» (I. Morris, The Measure of Civilization, 2013) — энергопотребление собирателей.
 - Г. Кларк — «Прощай, нищета: краткая экономическая история мира» (2007).
+- О. Н. Бадер — раскопки Сунгиря (1955–1977), число бусин в погребениях (≈3 тыс. у мужчины, ≈10 тыс. в детском погребении) — раздел «Счёт в зерне и жизнях».
+- Дж. Харлан — «Сбор дикой пшеницы в Турции» (J. Harlan, A Wild Wheat Harvest in Turkey, Archaeology 20, 1967) — ≈1 кг очищенного зерна за час жатвы.
+- К. Шмидт и коллеги — оценка «не менее 500 человек» для добычи и установки столбов Гёбекли-Тепе (журнал Archaeology, 2008; «Они строили первые храмы», 2006).
 
 ## Глава 2. Неолитическая революция
 
@@ -120,8 +125,16 @@
 - М. Паркер Пирсон — раскопки Стоунхенджа и Даррингтон-Уоллс (проект Stonehenge Riverside, 2003–2009).
 - Р. Мэджвик и др. — изотопный анализ свиней из Даррингтон-Уоллс: пиры с участием всей Британии (Science Advances, 2019).
 - К. Ренфрю — «До цивилизации» (C. Renfrew, Before Civilization, 1973): оценки трудозатрат на мегалиты.
-- К. Стивенс, Д. Фуллер — «Не было ли неолитической революции на Британских островах?» (C. Stevens, D. Fuller, Antiquity, 2012).
+- К. Стивенс, Д. Фуллер — «Потерпело ли неолитическое земледелие неудачу? Довод в пользу аграрной революции бронзового века на Британских островах» (C. Stevens, D. Fuller, Did Neolithic farming fail? The case for a Bronze Age agricultural revolution in the British Isles, Antiquity, 2012).
+- К. Танно, Дж. Уиллкокс — «Как быстро одомашнивали пшеницу?» (K. Tanno, G. Willcox, How fast was wild wheat domesticated?, Science, 2006); Д. Фуллер — «Сравнительная археоботаника и эволюция признаков одомашнивания» (D. Fuller, Annals of Botany, 2007): скорость закрепления неломкого колоса.
+- С. Ву и др. — «Ранняя керамика 20 тысяч лет назад в пещере Сяньжэньдун, Китай» (X. Wu et al., Science, 2012).
+- О. Бар-Йосеф — «Стены Иерихона: альтернативная интерпретация» (O. Bar-Yosef, The Walls of Jericho: An Alternative Interpretation, Current Anthropology, 1986).
+- Р. Эвершед и др. — «Использование молока в доисторической Европе и эволюция персистентности лактазы» (R. Evershed et al., Dairying, diseases and the evolution of lactase persistence in Europe, Nature, 2022).
+- К. Бербеск, Ф. Марлоу и др. — «Голодание у охотников-собирателей в сравнении с другими обществами» (C. Berbesque, F. Marlowe et al., Hunter-gatherers have less famine than agriculturalists, Biology Letters, 2014).
+- Варненский некрополь: могила 43 — ≈990 золотых предметов, ≈1,5 кг (по данным раскопок И. Иванова и последующих обзоров).
 - Т. Веблен — «Теория праздного класса» (1899).
+- Р. Аткинсон — раскопки Силбери-Хилл (1968–1970) и оценка трудозатрат ≈18 млн человеко-часов (R. J. C. Atkinson, 1974; точное издание требует проверки).
+- Й. Иверсен — «Расчистка леса в каменном веке» (J. Iversen, Forest Clearance in the Stone Age, Scientific American, 1956): опыт с кремнёвыми топорами в Дравед.
 
 ## Глава 3. Храмовые и дворцовые экономики
 
@@ -133,7 +146,13 @@
 - В. Смил — «Энергия и цивилизация» (мышечная энергия первых цивилизаций).
 - Д. Шмандт-Бессера (D. Schmandt-Besserat) — «Before Writing» (1992) — гипотеза о происхождении письма от глиняных фишек.
 - Математический папирус Ринда (≈1550 до н.э.) — египетские хозяйственные задачи.
-- Р. Энглунд (R. K. Englund) — работы об учёте труда в архивах Уммы эпохи III династии Ура (человеко-дни, нормы, долг надсмотрщиков).
+- Р. Энглунд (R. K. Englund) — «Hard Work — Where Will It Get You? Labor Management in Ur III Mesopotamia» (Journal of Near Eastern Studies 50, 1991) — учёт труда в архивах Уммы (человеко-дни, нормы, долг надсмотрщиков).
+- Р. Эллисон (R. Ellison) — «Diet in Mesopotamia: The Evidence of the Barley Ration Texts (c. 3000–1400 B.C.)» (Iraq 43, 1981) — пайки и их пищевая ценность.
+- Х. Вецольдт (H. Waetzoldt) — «Untersuchungen zur neusumerischen Textilindustrie» (1972) — ткацкие мастерские Ура III (Гуабба, Гирсу).
+- С. Гарфинкл (S. J. Garfinkle) — «Entrepreneurs and Enterprise in Early Mesopotamia» (2012) — частные предприниматели и хозяйства эпохи Ура III.
+- П. Михаловский (P. Michalowski) — «The Correspondence of the Kings of Ur» (2011) — письма Ибби-Сина и Ишби-Эрры, их поздние школьные копии.
+- А. Л. Оппенхейм (A. L. Oppenheim) — «Ancient Mesopotamia: Portrait of a Dead Civilization» (1964) — трапезы богов (по поздним ритуальным текстам Урука).
+- Б. Слихер ван Бат (B. H. Slicher van Bath) — «The Agrarian History of Western Europe, A.D. 500–1850» (1963) — урожайность средневековой Европы (сам-3–5).
 - М. Лернер (M. Lehner), З. Хавасс (Z. Hawass) — раскопки посёлка строителей пирамид в Гизе; М. Лернер — «The Complete Pyramids» (1997).
 - Документы Дейр-эль-Медины; Туринский папирус о забастовке (29-й год Рамсеса III, ≈1157 до н.э.).
 - Д. Гребер — «Долг: первые 5000 лет» (2011) — единица счёта прежде монеты, процент, списания долгов.
@@ -153,16 +172,17 @@
 - Х. Вайс (H. Weiss) и др. — «The Genesis and Collapse of Third Millennium North Mesopotamian Civilization» (Science, 1993) — засуха ≈2200 до н.э. и упадок Аккада.
 - «Проклятие Аккаду»; «Плач о гибели Ура»; переписка Ибби-Сина и Ишби-Эрры.
 - Т. Якобсен, Р. Адамс (Th. Jacobsen, R. M. Adams) — «Salt and Silt in Ancient Mesopotamian Agriculture» (Science, 1958).
-- М. Пауэлл (M. A. Powell) — «Salt, Seed, and Yields in Sumerian Agriculture» (1985) — критика гипотезы засоления.
+- М. Пауэлл (M. A. Powell) — «Salt, Seed, and Yields in Sumerian Agriculture: A Critique of the Theory of Progressive Salinization» (Zeitschrift für Assyriologie 75, 1985) — критика гипотезы засоления.
 - Архив дворца Мари (разрушен Хаммурапи, ≈1761 до н.э.).
 - Л. Вулли (L. Woolley) — раскопки Царского кладбища Ура (1922–1934), гробница Пуаби, «Великая яма смерти»; повторное исследование черепов методом КТ (A. Baadsgaard и др., Antiquity, 2011).
-- П. Талле (P. Tallet) — папирусы из Вади-эль-Джарфа (2013), дневник Мерера о доставке известняка из Туры в Гизу.
+- П. Талле (P. Tallet) — папирусы из Вади-эль-Джарфа (2013), дневник Мерера о доставке известняка из Туры в Гизу; П. Талле, М. Лернер — «The Red Sea Scrolls» (2021).
 - Дахшурский указ Пепи I — освобождение поселений при пирамидах Снофру от повинностей.
-- Дж. М. Кейнс — «Общая теория занятости, процента и денег» (1936) — ироническое замечание о строительстве пирамид и занятости.
+- Дж. М. Кейнс — «Общая теория занятости, процента и денег» (1936) — ироническое замечание о строительстве пирамид и занятости (гл. 10).
 - К. Макэведи, Р. Джонс (C. McEvedy, R. Jones) — «Atlas of World Population History» (1978) — население мира в III–I тыс. до н.э.
 - К. Буцер (K. W. Butzer) — «Early Hydraulic Civilization in Egypt» (1976) — оценка населения Египта.
 - Дж. Бейнс, К. Эйр (J. Baines, C. Eyre) — «Four Notes on Literacy» (1983) — оценка грамотности в Древнем Египте.
 - А. Мэддисон — «Contours of the World Economy, 1–2030 AD» (2007) — оценка мирового дохода на душу в I в. н.э.
+- Ч. Эразмус (C. J. Erasmus) — «Monument Building: Some Field Experiments» (Southwestern Journal of Anthropology 21, 1965) — нормы земляных работ ручными орудиями (для раздела «Счёт в зерне и жизнях»).
 
 ## Глава 4. Металлы, торговля и первые деньги
 
@@ -176,7 +196,7 @@
 - М. Вентрис (M. Ventris) — дешифровка линейного письма Б (1952); таблички из Пилоса (≈1200 до н.э.).
 - М. Т. Ларсен (M. T. Larsen) — «Ancient Kanesh: A Merchant Colony in Bronze Age Anatolia» (2015); договоры «наруккум», письма Ламасси.
 - Гесиод — «Труды и дни» (≈700 до н.э.).
-- К. Поланьи, К. Аренсберг, Г. Пирсон (K. Polanyi et al.) — «Trade and Market in the Early Empires» (1957).
+- К. Поланьи, К. Аренсберг, Г. Пирсон (K. Polanyi et al.) — «Trade and Market in the Early Empires» (1957); в том числе статья К. Поланьи «Marketless Trading in Hammurabi's Time» — староассирийская торговля как «безрыночная».
 - Геродот — «История» (V в. до н.э.): «немая торговля» карфагенян (IV, 196); лидийская монета (I, 94).
 - Книга пророка Иезекииля, гл. 27 — плач о Тире.
 - Надпись на саркофаге Ахирама (Библ, ≈X в. до н.э.).
@@ -188,7 +208,7 @@
 - Аристотель — «Политика», кн. II: о государственном устройстве Карфагена.
 - Аристотель — «Афинская полития»; Плутарх — «Солон»: реформа Солона (≈594 до н.э.).
 - Д. Рикардо — «Начала политической экономии и налогообложения» (1817): сравнительное преимущество.
-- И. Моррис (I. Morris) — «Archaeology, Standards of Living, and Greek Economic History» (2005): размеры греческих жилищ 800–300 до н.э.
+- И. Моррис (I. Morris) — «Archaeology, Standards of Living, and Greek Economic History», в сб.: J. G. Manning, I. Morris (eds.), «The Ancient Economy: Evidence and Models» (2005): размеры греческих жилищ 800–300 до н.э., рост потребления на душу в 1,5–2 раза.
 - Письмо Аммурапи, царя Угарита, царю Аласии (Кипра) (RS 20.238), ≈1190 до н.э.; хеттские письма в Угарит о поставках зерна в Ура.
 - Д. Лангут, И. Финкельштейн, Т. Литт (D. Langgut, I. Finkelstein, T. Litt) — «Climate and the Late Bronze Collapse: New Evidence from the Southern Levant», Tel Aviv (2013).
 - Рельефы храма Мединет-Абу (Рамсес III) — «народы моря».
@@ -205,6 +225,22 @@
 - К. Венхоф (K. R. Veenhof) — «Aspects of Old Assyrian Trade and Its Terminology» (1972): цены, наценки и процент в торговле Канеша.
 - Геродот — «История», VII, 144: Лаврионское серебро и флот Фемистокла (483 до н.э.).
 - К. Макэведи, Р. Джонс (C. McEvedy, R. Jones) — «Atlas of World Population History» (1978): население около 1000 и 500 до н.э.
+- У. Пауэлл и др. (W. Powell et al.) — «Tin from Uluburun shipwreck shows small-scale commodity exchange fueled continental tin supply across Late Bronze Age Eurasia», Science Advances (2022): ≈⅔ олова из Кестеля (Анатолия), ≈⅓ из Мушистона (Узбекистан).
+- Дж. Кролл (J. H. Kroll) — «The Coins of Sardis», в: «The Lydians and Their World» (2010): состав лидийского электра (≈55% золота в монетах против ≈70% в природном), выгода казны.
+- Дж. Рамаж, П. Крэддок (A. Ramage, P. Craddock) — «King Croesus' Gold: Excavations at Sardis and the History of Gold Refining» (2000): версия об искусственном электре.
+- О. Гольдвассер (O. Goldwasser) — «How the Alphabet Was Born from Hieroglyphs», Biblical Archaeology Review (2010): ранние алфавитные надписи Синая и Египта.
+- С. Франкенштейн (S. Frankenstein) — «The Phoenicians in the Far West: A Function of Neo-Assyrian Imperialism», в сб. «Power and Propaganda» (1979).
+- А. Нейбур, Й. ван дер Плихт (A. J. Nijboer, J. van der Plicht) — «An interpretation of the radiocarbon determinations of the oldest indigenous-Phoenician stratum thus far, excavated at Huelva», BABesch (2006).
+- Т. Эшель и др. (T. Eshel et al.) — «Lead isotopes in silver reveal earliest Phoenician quest for metals in the west Mediterranean», PNAS (2019): рубленое серебро левантийских кладов.
+- Э. Бен-Йосеф (E. Ben-Yosef) — раскопки медеплавилен Тимны (XI–X вв. до н.э.); египетское святилище Хатхор в Тимне (раскопки Б. Ротенберга).
+- Дж. Уолдбаум (J. C. Waldbaum) — «From Bronze to Iron» (1978); Дж. Мьюли (J. D. Muhly) — работы о переходе к железу: критика гипотезы нехватки олова.
+- А. Нур, Э. Клайн (A. Nur, E. Cline) — «Poseidon's Horses: Plate Tectonics and Earthquake Storms in the Late Bronze Age Aegean and Eastern Mediterranean», Journal of Archaeological Science (2000).
+- А. К. Грейсон (A. K. Grayson) — «Assyrian Rulers of the Early First Millennium BC I (1114–859 BC)», RIMA 2 (1991): стела пира Ашшурнасирпала II (A.0.101.30); числа отдельных позиций меню требуют сверки по изданию.
+- Г. Лауд, Ч. Альтман (G. Loud, C. B. Altman) — «Khorsabad I–II», Oriental Institute Publications 38, 40 (1936–1938): размеры Дур-Шаррукина (≈1760 × 1635 м); толщина и высота стены в разделе «Счёт в зерне и жизнях» требуют сверки по изданию.
+- С. Парпола (S. Parpola) — «The Construction of Dur-Šarrukin in the Assyrian Royal Correspondence», в сб. «Khorsabad, le palais de Sargon II, roi d'Assyrie» (1995).
+- П. Виллард (P. Villard) — «The Construction Accounts of Dūr-Šarru-kīn», Ædificare (2020): строительные счета, участки под ответственностью наместников.
+- Дж. Ур (J. Ur) — «Sennacherib's Northern Assyrian Canals: New Insights from Satellite Imagery and Aerial Photography», Iraq 67 (2005): система каналов Ниневии.
+- Ч. Эразмус (C. J. Erasmus) — «Monument Building: Some Field Experiments», Southwestern Journal of Anthropology (1965): нормы земляных работ (см. гл. 3).
 
 ## Глава 5. Греция и Рим
 
@@ -213,27 +249,29 @@
 - Аристотель — «Политика», кн. I: о хрематистике.
 - Катон Старший — «О земледелии»; Варрон — «О сельском хозяйстве»; Колумелла — «О сельском хозяйстве».
 - Герон Александрийский — «Пневматика» (эолипил).
-- Антикитерский механизм — находка 1901 г.; исследования Antikythera Mechanism Research Project (Т. Фрит и др.).
+- Антикитерский механизм — находка 1900 г. (подъём 1900–1901, опознан в 1902); T. Freeth et al. — Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism (Nature, 2006); Antikythera Mechanism Research Project.
 - Витрувий — «Десять книг об архитектуре», кн. X (водяная мельница).
 - Плиний Старший — «Естественная история», кн. XXXIII (ruina montium, Лас-Медулас).
 - Диодор Сицилийский — «Историческая библиотека», кн. XIV (машины Дионисия Старшего).
 - A. J. Parker — Ancient Shipwrecks of the Mediterranean and the Roman Provinces (1992).
 - A. Wilson — работы о водяной энергии в римской экономике (в т. ч. Machines, Power and the Ancient Economy, JRS 2002).
-- Б. Уорд-Перкинс — «Падение Рима и конец цивилизации».
+- Б. Уорд-Перкинс — «Падение Рима и конец цивилизации» (The Fall of Rome and the End of Civilization, 2005).
 - J. R. McConnell et al. — Lead pollution recorded in Greenland ice (PNAS, 2018).
-- М. Финли — «Античная экономика».
-- Эдикт Диоклетиана о ценах (301 г.).
+- М. Финли — «Античная экономика» (The Ancient Economy, 1973).
+- Эдикт Диоклетиана о ценах (301 г.); R. Duncan-Jones — The size of the modius castrensis (ZPE 21, 1976): военный модий ≈17,5 л; W. Scheidel et al. — ORBIS: The Stanford Geospatial Network Model of the Roman World (модель стоимости перевозок).
 - Строительные отчёты Эрехтейона (IG I³ 474–479), 409–406 гг. до н. э.
 - Ксенофонт — «О доходах» (Никий и аренда рабов на рудниках Лавриона).
 - Цезарь — «Записки о Галльской войне», кн. II (продажа в рабство 53 тыс. адуатуков).
-- P. A. Brunt — Italian Manpower 225 B.C.–A.D. 14 (1971); W. Scheidel — работы по демографии рабства в римской Италии.
+- P. A. Brunt — Italian Manpower 225 B.C.–A.D. 14 (1971): ≈3 млн рабов в Италии конца Республики.
+- W. Scheidel — Human Mobility in Roman Italy, II: The Slave Population (JRS 95, 2005): не более ≈1–1,5 млн рабов; ввоз 2–4 млн за два века.
+- J. Beloch — Die Bevölkerung der griechisch-römischen Welt (1886): ≈2 млн рабов в Италии.
 - Аппиан — «Гражданские войны», кн. I (Гракхи, восстание Спартака).
 - Петроний — «Сатирикон» (Тримальхион).
 - Кодекс Феодосия, V.17.1 — закон Константина о колонах (332 г.).
-- Закон Никофонта о проверке серебряной монеты (Афины, 375/374 г. до н. э.; стела из раскопок агоры, 1970).
-- Демосфен — судебные речи о наследстве Пасиона («За Формиона», «Против Стефана») и о морских займах («Против Лакрита»).
+- Закон Никофонта о проверке серебряной монеты (Афины, 375/374 г. до н. э.; стела из раскопок агоры, 1970); R. S. Stroud — An Athenian Law on Silver Coinage (Hesperia 43, 1974).
+- Демосфен — судебные речи о наследстве Пасиона («За Формиона», «Против Стефана» I, XLV.85: тысяча щитов и пять триер) и о морских займах («Против Лакрита»).
 - P. Temin — The Roman Market Economy (2013).
-- K. Hopkins — Taxes and Trade in the Roman Empire (200 B.C.–A.D. 400), JRS 1980.
+- K. Hopkins — Taxes and Trade in the Roman Empire (200 B.C.–A.D. 400), JRS 1980; критику модели (налоги натурой, региональность) см. у Р. Дункан-Джонса (Money and Government in the Roman Empire, 1994).
 - Тацит — «Анналы», кн. VI (кредитный кризис 33 г. и займы Тиберия).
 - Цицерон — речи против Верреса.
 - Светоний — «Божественный Юлий» (сокращение списка получателей зерна).
@@ -257,6 +295,7 @@
 - Страбон — «География», кн. XIV (невольничий рынок Делоса).
 - Валерий Максим, Плутарх («Сулла») — избиение италийцев в Азии (88 г. до н. э.).
 - R. Duncan-Jones — The impact of the Antonine plague (JRA, 1996); K. Harper — The Fate of Rome (2017).
+- J. Haldon et al. — Plagues, climate change, and the end of an empire: A response to Kyle Harper's The Fate of Rome (History Compass, 2018) — критика Харпера.
 - Лактанций — «О смертях преследователей», гл. 7 (эдикт о ценах).
 - P. Brown — The World of Late Antiquity (1971).
 - Дион Кассий — «Римская история», кн. LXVI (игры Тита, 80 г.), кн. LXVIII (игры Траяна, 107 г.).
@@ -276,34 +315,52 @@
 - B. W. Frier — Demography (Cambridge Ancient History, vol. XI, 2000).
 - W. Scheidel, S. Friesen — The Size of the Economy and the Distribution of Income in the Roman Empire (JRS, 2009).
 - M. H. Hansen — работы по демографии классических Афин (в т. ч. Three Studies in Athenian Demography, 1988).
+- Население Рима: E. Lo Cascio, N. Morley — оценки около 1 млн; G. Storey — Population of Ancient Rome (Antiquity, 1997) — более низкая оценка.
+- P. Garnsey — Famine and Food Supply in the Graeco-Roman World (1988); A. Moreno — Feeding the Democracy: The Athenian Grain Supply in the Fifth and Fourth Centuries BC (2007).
+- M. S. Spurr — Arable Cultivation in Roman Italy, c. 200 B.C.–c. A.D. 100 (1986): урожайность сам-4–10; Варрон, «О сельском хозяйстве» I.44; Цицерон, «Против Верреса» II.3.
+- A. Wilson — Approaches to quantifying Roman trade (в: A. Bowman, A. Wilson, eds., Quantifying the Roman Economy, 2009): ограничения кривой кораблекрушений, переход к бочкам.
+- W. Jongman — The early Roman empire: consumption (в: The Cambridge Economic History of the Greco-Roman World, 2007) — высокий уровень жизни; противоположная оценка — у В. Шайделя (работы о реальных доходах и уровне жизни).
+- B. Abatino, G. Dari-Mattiacci, E. Perotti — Depersonalization of business in ancient Rome (Oxford Journal of Legal Studies, 2011): пекулий и ограниченная ответственность.
+- J. D. Hughes — Environmental Problems of the Greeks and Romans (2-е изд., 2014): отловы зверей для арены.
+- Полибий, кн. III; Тит Ливий, кн. XXII — потери при Каннах (≈70 и ≈50 тыс.).
+- F. Benoit — работы о Барбегале (1940); Ph. Leveau; C. Passchier et al. — карбонатные отложения мельниц Барбегаля (Science Advances, 2018): сезонная работа.
+- Платон — «Федон», 109b («как лягушки вокруг пруда»).
+- Раздел «Счёт в зерне и жизнях»: Колумелла, «О сельском хозяйстве» II.12 (рабочие дни на югер пшеницы); G. Cozzo — Il Colosseo: l'Anfiteatro Flavio nella tecnica edilizia, nella storia delle strutture, nel concetto esecutivo dei lavori (1971) — объём травертина >100 тыс. м³ (по вторичным изложениям, требует проверки); Светоний, «Божественный Клавдий», 20 (Фуцинский тоннель, 30 тыс. человек, 11 лет); Фукидид, VI.31 (драхма в день гребцам), VII.75 (≈40 тыс. при отступлении), VII.87 (≈7 тыс. пленных); Ксенофонт, «Греческая история» II.1–2 (Лисандр у Геллеспонта, 405 г.). Нормы труда на кубометр кладки — авторские допущения (ср. J. DeLaine — The Baths of Caracalla, JRA Suppl. 25, 1997, где они разработаны подробно; цифры оттуда в текст не брались).
 
 ## Глава 6. Вне Европы
 
 - «Мин ши» (Официальная история династии Мин) — сведения о плаваниях Чжэн Хэ (1405–1433).
-- Чжан Цзэдуань — свиток «По реке в день поминовения усопших» (Цинмин шанхэ ту), нач. XII в.
+- Чжан Цзэдуань — свиток «По реке в день поминовения усопших» (Цинмин шанхэ ту), нач. XII в.; о том, изображён ли на нём именно Кайфэн, — V. Hansen, The Mystery of the Qingming Scroll and Its Subject (1996).
+- Чжуан Чо — «Цзи лэй бянь» (XII в.): уголь как бытовое топливо в Кайфэне.
 - Документы Каирской генизы; S. D. Goitein — A Mediterranean Society.
 - К. Померанц — «Великое расхождение» (2000).
 - R. C. Allen et al. — Wages, prices, and living standards in China, 1738–1925 (Economic History Review, 2011); S. Broadberry, H. Guan, D. Li — China, Europe, and the Great Divergence (Journal of Economic History, 2018).
 - E. A. Wrigley — Energy and the English Industrial Revolution (2010): понятие «органической экономики».
-- R. Hartwell — A Revolution in the Chinese Iron and Coal Industries during the Northern Sung (Journal of Economic History, 1962): оценка выплавки железа ок. 1078 г.
+- R. Hartwell — A Revolution in the Chinese Iron and Coal Industries during the Northern Sung, 960–1126 A.D. (Journal of Asian Studies, vol. 21, no. 2, 1962): оценка выплавки железа ок. 1078 г. (≈125 тыс. т; сравнение с Англией и Уэльсом 1788 г.); его же — Markets, Technology, and the Structure of Enterprise in the Development of the Eleventh-Century Chinese Iron and Steel Industry (Journal of Economic History, 1966).
+- D. B. Wagner — The Administration of the Iron Industry in Eleventh-Century China (Journal of the Economic and Social History of the Orient, 2001); Science and Civilisation in China, т. V.11: Ferrous Metallurgy (2008): критика оценки Хартвелла как завышенной.
 - Шэнь Ко — «Записи бесед в Мэнси» (XI в.): сведения о подвижном шрифте Би Шэна.
 - J. Needham — Science and Civilisation in China (с 1954).
 - M. Elvin — The Pattern of the Chinese Past (1973): «ловушка равновесия на высоком уровне».
-- A. M. Watson — Agricultural Innovation in the Early Islamic World (1983) и критика его тезиса.
+- A. M. Watson — Agricultural Innovation in the Early Islamic World (1983); критика — M. Decker, Plants and Progress: Rethinking the Islamic Agricultural Revolution (Journal of World History, 2009).
+- J. M. Bloom — Paper Before Print: The History and Impact of Paper in the Islamic World (2001): бумага и папирус, легенда о пленных мастерах после Таласа.
+- D. Gutas — Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early ʿAbbāsid Society (1998): переводы и «Дом мудрости».
 - Мухаммад аль-Хорезми — трактат об «аль-джабр» (IX в.); Ибн аль-Хайсам — «Книга оптики»; Ибн Сина — «Канон врачебной науки».
 - «Спор о соли и железе» (Янь те лунь), запись дискуссии 81 г. до н. э.
 - Реформы Ван Аньши (1070-е) и «единого кнута» (XVI в.) — по The Cambridge History of China (тт. 5, 7–8).
 - S. D. Goitein — о ремесленных объединениях в A Mediterranean Society, т. 1.
 - W. H. Wiser — The Hindu Jajmani System (1936).
 - Ат-Табари — «История пророков и царей»: восстание зинджей (869–883).
+- A. Popovic — La révolte des esclaves en Iraq au IIIe/IXe siècle (1976; англ. пер. The Revolt of African Slaves in Iraq, 1999): состав восставших.
 - Педро Сьеса де Леон, Хуан де Бетансос, Гарсиласо де ла Вега — хроники об инках; J. V. Murra — The Economic Organization of the Inka State (1980).
 - Сунские бумажные деньги цзяоцзы (казённый выпуск с 1023 г.) и минские ассигнации (с 1375 г.) — по The Cambridge History of China; R. von Glahn — Fountain of Fortune: Money and Monetary Policy in China, 1000–1700 (1996).
 - Марко Поло — «Книга о разнообразии мира»: описание бумажных денег Юань.
 - D. O. Flynn, A. Giráldez — Born with a «Silver Spoon»: The Origin of World Trade in 1571 (Journal of World History, 1995).
 - A. Greif — Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition (American Economic Review, 1993); J. Edwards, S. Ogilvie — Contract Enforcement, Institutions, and Social Capital: the Maghribi Traders Reappraised (Economic History Review, 2012).
+- A. L. Udovitch — Partnership and Profit in Medieval Islam (1970): мудараба и гипотеза о происхождении комменды; J. H. Pryor — The Origins of the Commenda Contract (Speculum, 1977): византийско-римская версия.
 - T. Kuran — The Long Divergence: How Islamic Law Held Back the Middle East (2011): вакф и партнёрства.
 - Плиний Старший — «Естественная история», кн. XII: жалоба на утечку денег в Индию.
 - J. V. Murra — «вертикальный архипелаг» (статья 1972 г.).
+- J. Hyslop — The Inka Road System (1984): обследовано ≈23 тыс. км дорог Капак Ньян.
 - J. W. Chaffee — The Thorny Gates of Learning in Sung China: A Social History of Examinations (1985).
 - Михна аль-Мамуна (833–ок. 848) и независимость улемов — по The New Cambridge History of Islam, т. 1.
 - Ф. Бернье — «Путешествия по империи Великих Моголов» (1670).
@@ -317,7 +374,7 @@
 - Взятие Багдада Хулагу (1258) — по The New Cambridge History of Islam, т. 3.
 - Хроники Х. де Бетансоса и П. Сьесы де Леона: война Уаскара и Атауальпы; Кахамарка (1532).
 - Походы Аурангзеба на Декан (1681–1707), взятие Дели Надир-шахом (1739) — по The New Cambridge History of India.
-- Хайцзинь и вокоу; частичная отмена 1567 г. (Юэган) — по The Cambridge History of China, т. 8.
+- Хайцзинь (введён в 1371 г. Чжу Юаньчжаном, подтверждён в 1381, 1390, 1394 гг.) и вокоу; частичная отмена 1567 г. (Юэган) — по The Cambridge History of China, тт. 7–8.
 - А. Мэддисон — The World Economy: Historical Statistics (2003): оценки ВВП на душу для Китая, Индии, Западной Азии.
 - S. Broadberry, J. Custodis, B. Gupta — India and the Great Divergence: An Anglo-Indian Comparison of GDP per capita, 1600–1871 (Explorations in Economic History, 2015).
 - W. H. Moreland — India at the Death of Akbar (1920): оценка населения.
@@ -325,9 +382,11 @@
 - J. Z. Lee, Wang Feng — One Quarter of Humanity: Malthusian Mythology and Chinese Realities, 1700–2000 (1999).
 - ЮНЕСКО — Qhapaq Ñan, Andean Road System (объект Всемирного наследия, 2014).
 - Абдул Хамид Лахори — «Падшах-наме»: строительство гробницы Мумтаз-Махал и Павлиний трон.
+- Ж.-Б. Тавернье — «Шесть путешествий» (1676): ≈20 тыс. работников на строительстве Тадж-Махала.
 - Самарра как аббасидская столица (836–892) — по The New Cambridge History of Islam, т. 1; A. Northedge — The Historical Topography of Samarra (2005).
-- Доклад Линь Жуня (1562) о содержании минского императорского клана — по The Cambridge History of China, т. 8.
-- Аль-Умари — «Пути взоров по государствам городов»: хадж Мансы Мусы (1324).
+- Доклад Линь Жуня (1562) о содержании минского императорского клана — по The Cambridge History of China, т. 8; биография Чжу Муяна (Ming History in English, UCSD): ≈8,53 млн даней содержания против 4 млн даней ежегодной доставки в столицу (раздел «Счёт в зерне и жизнях»).
+- Абу-л-Фазл — «Айн-и Акбари» (1590-е): дневная плата неквалифицированного работника (≈2 дама; 40 дамов = 1 рупия) — для оценки Тадж-Махала в рабочих днях; сумма 50 лакхов за гробницу и 32 млн рупий за ансамбль — поздние цифры, требуют проверки.
+- Аль-Умари — «Пути взоров по государствам городов» (конец 1330-х — 1340-е): хадж Мансы Мусы (1324).
 - B. A. Elman — A Cultural History of Civil Examinations in Late Imperial China (2000).
 - Битва при Тумубао (1449), строительство минской стены — по The Cambridge History of China, т. 7; A. Waldron — The Great Wall of China: From History to Myth (1990).
 - Население Китая в XVIII в. (ок. 300 млн к концу века) — по The Cambridge History of China, т. 9; C. McEvedy, R. Jones — Atlas of World Population History (1978).
@@ -340,23 +399,29 @@
 - Адальберон Ланский — «Поэма королю Роберту» (ок. 1030): три сословия.
 - C. McEvedy, R. Jones — Atlas of World Population History (1978): население Европы 1000–1300 гг.
 - O. J. Benedictow — The Black Death 1346–1353: The Complete History (2004).
-- M. Bloch — Avènement et conquêtes du moulin à eau // Annales, 1935: мельница и баналитет.
+- M. Bloch — Avènement et conquêtes du moulin à eau // Annales, 1935: мельница и баналитет (гипотеза о редкости римской мельницы при дешёвом труде).
+- Ö. Wikander — Exploitation of Water-Power or Technological Stagnation? A Reappraisal of the Productive Forces in the Roman Empire (1984); Ö. Wikander (ed.) — Handbook of Ancient Water Technology (2000): археология римских мельниц, возражение Блоку.
+- A. Wilson — Machines, Power and the Ancient Economy // Journal of Roman Studies, 2002: распространённость водяных мельниц в римских провинциях (Барбегаль и др.).
 - L. White Jr. — Medieval Technology and Social Change (1962): тяжёлый плуг, хомут, трёхполье, тезис о стремени.
-- P. Sawyer, R. H. Hilton — Technical Determinism: The Stirrup and the Plough // Past & Present, 1963; B. Bachrach — критика тезиса Уайта.
+- P. Sawyer, R. H. Hilton — Technical Determinism: The Stirrup and the Plough // Past & Present, 1963; B. S. Bachrach — Charles Martel, Mounted Shock Combat, the Stirrup, and Feudalism // Studies in Medieval and Renaissance History, 1970: критика тезиса Уайта.
+- R. Lefebvre des Noëttes — L'attelage, le cheval de selle à travers les âges (1931): тезис об «удушающей» античной упряжи (отвергнут в значительной части); J. Spruytte — Études expérimentales sur l'attelage (1977): экспериментальная проверка.
+- J. Langdon — Horses, Oxen and Technological Innovation (1986); Mills in the Medieval Economy: England 1300–1540 (2004): тягловый скот, мельницы, оценка ручного помола.
 - B. H. Slicher van Bath — The Agrarian History of Western Europe, A.D. 500–1850 (1963): урожайность сам-3–4.
 - Джоселин Брейклондский — Хроника аббатства Бери-Сент-Эдмундс (ветряная мельница, ок. 1191).
 - В. Смил — «Энергия и цивилизация»: мускульная энергия, водяное колесо.
 - Джордано да Пиза — проповедь 1306 г. об изобретении очков.
 - Уолтер из Хенли — трактат «Hosbondrie» (ок. 1280): надзор за барщинными работами.
 - Счета поместий епископов Винчестерских (Winchester Pipe Rolls): переход от барщины к найму.
+- P. Hyams — King, Lords and Peasants in Medieval England (1980): правовой статус виллана, редкие сделки о продаже несвободных.
 - C. Dyer — Standards of Living in the Later Middle Ages (1989): бремя ренты и поборов.
-- R. Brenner — Agrarian Class Structure and Economic Development (Past & Present, 1976): «политическое накопление».
+- R. Brenner — Agrarian Class Structure and Economic Development (Past & Present, 1976); The Agrarian Roots of European Capitalism (Past & Present, 1982): «политическое накопление».
 - Устав святого Бенедикта (VI в.); описание аббатства Клерво (XII в.); цистерцианцы и конверсы.
 - Этьен Буало — «Книга ремёсел» (ок. 1268): уставы парижских цехов.
 - S. R. Epstein — Craft Guilds, Apprenticeship and Technological Change (J. Econ. History, 1998).
 - S. Ogilvie — The European Guilds: An Economic Analysis (2019).
 - Капитулярии Карла Великого (ок. 793–794): денежная реформа, фунт = 20 солидов = 240 денариев.
 - P. Spufford — Money and its Use in Medieval Europe (1988): серебряные рудники, гроссо, флорин, дукат, векселя.
+- A. M. Stahl — Zecca: The Mint of Venice in the Middle Ages (2000): введение гроссо около 1193–1194 гг.
 - R. S. Lopez — The Commercial Revolution of the Middle Ages, 950–1350 (1971): ярмарки Шампани, коммерческие техники.
 - P. Dollinger — The German Hansa (1964).
 - D. Puga, D. Trefler — International Trade and Institutional Change: Medieval Venice's Response to Globalization (QJE, 2014): коллеганца.
@@ -370,13 +435,14 @@
 - Грациан — «Декрет» (Concordia discordantium canonum, ок. 1140).
 - A. Greif — Institutions and the Path to the Modern Economy (2006): система общинной ответственности.
 - J. L. van Zanden, E. Buringh, M. Bosker — The Rise and Decline of European Parliaments, 1188–1789 (Economic History Review, 2012).
-- Грамота архиепископа Фридриха Гамбургского голландским поселенцам (ок. 1106): условия колонизации болот.
+- Грамота архиепископа Фридриха Гамбург-Бременского голландским поселенцам (1106; иногда датируется 1113): условия колонизации болот.
 - R. Bartlett — The Making of Europe: Conquest, Colonization and Cultural Change, 950–1350 (1993): внутренняя колонизация, Ostsiedlung.
 - Список переводов Герарда Кремонского, составленный его учениками (после 1187): переводы с арабского в Толедо.
 - E. Buringh, J. L. van Zanden — Charting the "Rise of the West": Manuscripts and Printed Books in Europe (J. Econ. History, 2009).
 - S. Broadberry, B. Campbell, A. Klein, M. Overton, B. van Leeuwen — British Economic Growth, 1270–1870 (2015).
 - M. M. Postan — The Medieval Economy and Society (1972): мальтузианская интерпретация.
 - W. C. Jordan — The Great Famine: Northern Europe in the Early Fourteenth Century (1996): голод 1315–1317 гг.
+- H. S. Lucas — The Great European Famine of 1315, 1316 and 1317 // Speculum, 1930: погребения в Ипре в 1316 г. (≈2,8 тыс. за май–ноябрь, около десятой части жителей).
 - Движение «Божьего мира» и «Божьего перемирия» (конец X — XI в.).
 - J. Sumption — The Hundred Years War (т. 1–2, 1990–1999): шевоше Чёрного принца 1355 г., «роты».
 - M. Barber — The Trial of the Templars (1978): арест тамплиеров 1307 г.
@@ -384,23 +450,26 @@
 - Ордонанс о работниках (1349) и Статут о работниках (1351).
 - J. Gimpel — The Cathedral Builders (Les bâtisseurs de cathédrales, 1958): масштаб добычи камня во Франции 1050–1350 гг. (оценка автора).
 - H. Kraus — Gold Was the Mortar: The Economics of Cathedral Building (1979).
-- W. C. Jordan — Louis IX and the Challenge of the Crusade (1979): финансы седьмого крестового похода.
+- W. C. Jordan — Louis IX and the Challenge of the Crusade (1979): финансы седьмого крестового похода (≈1,5 млн турских ливров, порядка шести годовых доходов короны).
 - A. J. Taylor — The Welsh Castles of Edward I (1986): стоимость валлийских замков.
 - E. H. Phelps Brown, S. V. Hopkins — Seven Centuries of the Prices of Consumables, Compared with Builders' Wage-Rates (Economica, 1956).
 - G. Clark — A Farewell to Alms (2007; рус. «Прощай, нищета»): пересчёт реальных зарплат.
 - A. Maddison — The World Economy: Historical Statistics (2003): доход на душу в Западной Европе 1000 и 1500 гг.
 - J. Hatcher — Mortality in the Fifteenth Century: New Evidence from Canterbury (Economic History Review, 1986): монахи Крайст-Черч.
 - Подушный налог 1377 г. (Poll Tax returns): оценка населения Англии после чумы.
+- Раздел «Счёт в зерне и жизнях»: H. M. Colvin (ed.) — Building Accounts of King Henry III (1971); сумма ≈41 тыс. фунтов на перестройку Вестминстерского аббатства в 1245–1272 гг. — по вторичным сводкам (National Archives blog и др.), итог Колвина требует сверки; J. Langdon (2004) — расходы на ремонт мельниц; W. C. Jordan (1979) — ≈1,5 млн турских ливров на седьмой поход. Дневная плата 2–3 пенса, стоимость мельницы 10–30 фунтов, курс ≈4 турских ливра за фунт стерлингов, цена пшеницы ≈5 шиллингов за квартер, время ручного помола 1–2 ч в день на семью, численность армии 1248 г. — авторские допущения, требуют проверки (ср. Phelps Brown–Hopkins 1956; D. L. Farmer в The Agrarian History of England and Wales, т. II, 1988; R. Holt — The Mills of Medieval England, 1988, прил. о стоимости ветряной мельницы).
 
 ## Глава 8. Коммерческая революция и Великие открытия
 - «Roteiro» — анонимный дневник первого плавания Васко да Гамы (1497–1499): приём в Каликуте.
-- Каса-де-Контратасьон (Севилья, 1503); манильские галеоны (с 1571).
+- Каса-де-Контратасьон (Севилья, 1503): регулирование торговли и мореплавания с Индиями, экзамен лоцманов, Падрон Реаль, учёт серебра; манильские галеоны (с 1571; обратный путь через Тихий океан открыт в 1565).
 - C. McEvedy, R. Jones — Atlas of World Population History (1978): население Европы 1450–1700.
 - Slave Voyages — Trans-Atlantic Slave Trade Database: объём трансатлантической работорговли.
-- A. Zacuto — Almanach perpetuum (Лейрия, 1496): таблицы склонения солнца.
+- A. Zacuto — Almanach perpetuum (Лейрия, 1496): таблицы склонения солнца. Закуто после 1497 г. — Тунис, затем Иерусалим/Дамаск (Мамлюкский султанат), умер ок. 1515 г. (Biographical Encyclopedia of Astronomers).
 - G. Mercator — карта мира 1569 г. (Nova et aucta orbis terrae descriptio).
 - L. Pacioli — Summa de arithmetica (Венеция, 1494).
 - J. de Vries, A. van der Woude — The First Modern Economy (1997): торф, ветряные мельницы, флейт.
+- R. W. Unger — Dutch Shipbuilding before 1800 (1978): флейт, экономия экипажа; критика оценки роли торфа.
+- E. Buringh, J. L. van Zanden — Charting the «Rise of the West»: Manuscripts and Printed Books in Europe (Journal of Economic History, 2009): ≈12–13 млн печатных книг во 2-й пол. XV в.
 - Патент Корнелиса Корнелисзона на ветряную лесопилку (1594).
 - P. J. Bakewell — Miners of the Red Mountain: Indian Labor in Potosí, 1545–1650 (1984): амальгамация, мита.
 - B. de Las Casas — Brevísima relación de la destrucción de las Indias (1552); «Новые законы» 1542 г. об энкомьенде.
@@ -409,45 +478,60 @@
 - J. de Vries — The Industrious Revolution (2008).
 - R. C. Allen — The Great Divergence in European Wages and Prices from the Middle Ages to the First World War (Explorations in Economic History, 2001).
 - S. W. Mintz — Sweetness and Power (1985): сахарная революция, плантации.
+- R. R. Menard — Sweet Negotiations: Sugar, Slavery, and Plantation Agriculture in Early Barbados (2006): постепенность перехода к сахару.
 - E. J. Hamilton — American Treasure and the Price Revolution in Spain, 1501–1650 (1934): революция цен.
+- M. Morineau — Incroyables gazettes et fabuleux métaux (1985): ввоз серебра по голландским газетам.
+- J. A. Goldstone — Urbanization and Inflation: Lessons from the English Price Revolution of the Sixteenth and Seventeenth Centuries (American Journal of Sociology, 1984): рост населения как причина роста цен.
+- M. Drelichman — The Curse of Moctezuma: American Silver and the Dutch Disease (Explorations in Economic History, 2005).
+- Термин «голландская болезнь» — The Economist, 1977 (после разработки газового месторождения Гронинген, открыто в 1959 г.).
 - M. de Azpilcueta — Comentario resolutorio de cambios (1556); J. Bodin — Réponse aux paradoxes de M. de Malestroit (1568): ранняя количественная теория денег.
 - D. O. Flynn, A. Giráldez — Born with a «Silver Spoon»: The Origin of World Trade in 1571 (Journal of World History, 1995): китайский спрос на серебро.
-- M. Drelichman, H.-J. Voth — Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II (2014): асьенто, хурос, банкротства.
+- R. von Glahn — Fountain of Fortune: Money and Monetary Policy in China, 1000–1700 (1996): более осторожные оценки притока серебра в Китай.
+- M. Drelichman, H.-J. Voth — Lending to the Borrower from Hell: Debt, Taxes, and Default in the Age of Philip II (2014): асьенто, хурос, банкротства; доля американских поступлений в доходах короны (≈20–25%).
 - A. Smith — The Wealth of Nations (1776), кн. IV, отступление об Амстердамском банке.
 - L. Petram — The World's First Stock Exchange (2014): ВОС, Исаак Ле Мер, запрет 1610 г.
+- O. Gelderblom, A. de Jong, J. Jonker — The Formative Years of the Modern Corporation: The Dutch East India Company VOC, 1602–1623 (Journal of Economic History, 2013): срок капитала, отказ от расчёта 1612 г., хартия 1623 г.
 - A. Goldgar — Tulipmania: Money, Honor, and Knowledge in the Dutch Golden Age (2007).
-- Тордесильясский договор (1494); Утрехтская уния (1579) и Акт об отречении (1581).
+- Булла Inter caetera (1493); Тордесильясский договор (1494) — прямые переговоры корон, утверждён папой Юлием II в 1506 г.; Утрехтская уния (1579) и Акт об отречении (1581).
+- I. A. A. Thompson — Crown and Cortes: Government, Institutions and Representation in Early-Modern Castile (1993): кортесы и «миллионы» (с 1590 г.).
+- N. Steensgaard — The Asian Trade Revolution of the Seventeenth Century (1974): «Государство Индии» как перераспределительное предприятие.
+- S. Subrahmanyam — The Portuguese Empire in Asia, 1500–1700 (1993): более оптимистичная оценка доходов.
 - J. I. Israel — The Dutch Republic: Its Rise, Greatness, and Fall, 1477–1806 (1995): регенты, веротерпимость, беженцы.
-- Хартия ВОС (1602); завоевание островов Банда Я. П. Куном (1621).
+- Хартия ВОС (1602); завоевание островов Банда Я. П. Куном (1621): из ≈15 тыс. жителей осталось ≈1 тыс. (V. Loth, Modern Asian Studies, 1995; W. Hanna — Indonesian Banda, 1978; цифры требуют сверки с изданием).
 - Английский Навигационный акт (1651); мануфактурная политика Ж.-Б. Кольбера.
 - D. Acemoglu, S. Johnson, J. Robinson — The Rise of Europe: Atlantic Trade, Institutional Change, and Economic Growth (American Economic Review, 2005).
 - A. W. Crosby — The Columbian Exchange (1972).
 - N. Nunn, N. Qian — The Potato's Contribution to Population and Urbanization (Quarterly Journal of Economics, 2011).
-- J. de Vries — Barges and Capitalism: Passenger Transportation in the Dutch Economy, 1632–1839 (1981).
+- J. de Vries — Barges and Capitalism: Passenger Transportation in the Dutch Economy, 1632–1839 (1-е изд. — A.A.G. Bijdragen 21, 1978; переизд. 1981).
 - Осушение Бемстера (1612), Я. А. Леегватер; Лейденский университет (1575); амстердамская газета «Courante uyt Italien, Duytslandt, &c.» (1618).
 - J. Hemming — The Conquest of the Incas (1970): Кахамарка, выкуп Атауальпы.
 - W. M. Denevan (ed.) — The Native Population of the Americas in 1492 (2-е изд., 1992).
 - A. Koch, C. Brierley, M. Maslin, S. Lewis — Earth system impacts of the European arrival and Great Dying in the Americas after 1492 (Quaternary Science Reviews, 2019).
 - Третий Лимский собор (1583) о кипу; аутодафе Диего де Ланды в Мани (1562).
+- G. Urton — Inka History in Knots (2017): учётные кипу в колониальной администрации.
 - N. Nunn — The Long-Term Effects of Africa's Slave Trades (Quarterly Journal of Economics, 2008); N. Nunn, L. Wantchekon — The Slave Trade and the Origins of Mistrust in Africa (American Economic Review, 2011).
 - Альгамбрский эдикт (1492), изгнание евреев из Португалии (1497); изгнание морисков (1609–1614); Индекс запрещённых книг (1559).
 - «Испанская ярость» в Антверпене (1576); осада Антверпена (1585).
 - P. H. Wilson — Europe's Tragedy: A History of the Thirty Years War (2009).
 - Медная монета вельон: перечеканка 1603 г., снижение номинала 1628 г.
 - Эскориал (строительство 1563–1584); Версаль (перенос двора в 1682 г.); «Машина Марли» (1680-е, А. де Виль, Р. Суалем).
+- M. Roberts — The Military Revolution, 1560–1660 (лекция 1955, опубл. 1956): автор термина.
 - G. Parker — The Military Revolution: Military Innovation and the Rise of the West, 1500–1800 (1988); The Army of Flanders and the Spanish Road, 1567–1659 (1972).
+- J. Black — A Military Revolution? Military Change and European Society, 1550–1800 (1991): критика концепции.
 - Английский Статут о монополиях (1624).
 - M. González de Cellorigo — Memorial de la política necesaria y útil restauración a la República de España (1600): арбитристы.
 - A. Maddison — The World Economy: Historical Statistics (2003): ВВП на душу 1500–1700 (Нидерланды, Испания, Англия, Китай).
+- C. Álvarez-Nogal, L. Prados de la Escosura — The Rise and Fall of Spain, 1270–1850 (Economic History Review, 2013): пересмотр уровней дохода Испании.
 - J. de Vries — European Urbanization, 1500–1800 (1984): доля горожан в Нидерландах.
-- E. A. Wrigley, R. S. Schofield — The Population History of England, 1541–1871 (1981): продолжительность жизни.
+- E. A. Wrigley, R. S. Schofield — The Population History of England, 1541–1871 (1981): продолжительность жизни (≈28 лет в 1561–1565 — ≈42 года в 1581–1585).
 - K. Pomeranz — The Great Divergence (2000): дельта Янцзы и Англия в XVIII в.
+- Раздел «Счёт в зерне и жизнях» (авторская оценка): E. J. Hamilton — American Treasure and the Price Revolution in Spain, 1501–1650 (1934): поденная плата в Кастилии; G. Parker — The Army of Flanders and the Spanish Road (1972): численность армии (пик 1574 г.); цена Эскориала 5–6 млн дукатов — традиционная оценка (Encyclopaedia Britannica, XVIII–XIX вв.), требует проверки по H. Kamen — The Escorial: Art and Power in the Renaissance (2010); стоимость Бемстера ≈1,5 млн гульденов — требует проверки (работы К. ван Звета о польдерах); опыт судоходства по Тахо Х. Б. Антонелли (1588; Real Academia de la Historia, Diccionario Biográfico).
 
 ## Глава 9. Институты, наука и бегство из мальтузианской ловушки
 
 - Основание Королевского общества (Грешем-колледж, 28 ноября 1660; хартия 1662); журнал «Philosophical Transactions» (с 1665); Р. Гук — Micrographia (1665).
 - Славная революция: высадка Вильгельма Оранского в Торбее (5 ноября 1688); Билль о правах (1689).
-- Основание Банка Англии (1694): заём короне в 1,2 млн фунтов.
+- Основание Банка Англии (1694): заём короне в 1,2 млн фунтов; по архиву Банка Англии — открытие в Mercers' Hall (1 августа 1694), переезд в Grocers' Hall (декабрь 1694).
 - Машина Т. Ньюкомена у замка Дадли (1712).
 - T. R. Malthus — An Essay on the Principle of Population (1798).
 - E. A. Wrigley, R. S. Schofield — The Population History of England, 1541–1871 (1981): население Англии 1700–1800.
@@ -468,17 +552,17 @@
 - Статут о ремесленниках (1563); Закон о бедных (1601).
 - P. M. Solar — Poor Relief and English Economic Development before the Industrial Revolution (Economic History Review, 1995); S. Hindle — On the Parish? (2004).
 - Рамная вязальная машина У. Ли (1589); расточной станок Дж. Уилкинсона (1774).
-- «Остановка казначейства» Карла II (1672); Великая перечеканка (1696), позиция Дж. Локка; И. Ньютон на Монетном дворе (1699), цена гинеи 21 шиллинг (1717).
+- «Остановка казначейства» Карла II (1672); Великая перечеканка (1696), позиция Дж. Локка; И. Ньютон на Монетном дворе (смотритель с 1696, начальник с 1699), цена гинеи 21 шиллинг (1717).
 - Консоли — 3% консолидированная рента (1751); закон о ростовщичестве (потолок 5%, 1714); «Закон о пузырях» (1720).
 - D. C. North, B. R. Weingast — Constitutions and Commitment (Journal of Economic History, 1989).
 - P. G. M. Dickson — The Financial Revolution in England (1967).
 - G. Clark — The Political Foundations of Modern Economic Growth: England, 1540–1800 (Journal of Interdisciplinary History, 1996).
-- N. Sussman, Y. Yafeh — Constitutions and Commitment: Evidence on the Relation between Institutions and the Cost of Capital (2006).
+- N. Sussman, Y. Yafeh — Institutional Reforms, Financial Development and Sovereign Debt: Britain 1690–1790 (Journal of Economic History 66(4), 2006); рабочая версия — Constitutions and Commitment… (CEPR DP 4404, 2004).
 - Пузыри 1720 года: система Дж. Лоу и Миссисипская компания; Компания Южных морей.
 - J. Brewer — The Sinews of Power: War, Money and the English State, 1688–1783 (1989).
 - J. G. Williamson — Why Was British Growth So Slow During the Industrial Revolution? (Journal of Economic History, 1984).
 - P. Temin, H.-J. Voth — Prometheus Shackled: Goldsmith Banks and England's Financial Revolution after 1700 (2013).
-- Дело о прокламациях (1610), Э. Коук; Акт об устроении (1701): несменяемость судей.
+- Дело о прокламациях (1610), Э. Коук (тогда главный судья Суда общих тяжб); Акт об устроении (1701): несменяемость судей (вступила в силу в 1714).
 - Статут о монополиях (1624); венецианский закон о патентах (1474).
 - C. MacLeod — Inventing the Industrial Revolution: The English Patent System, 1660–1800 (1988).
 - M. Boldrin, D. K. Levine — Against Intellectual Monopoly (2008): патент Уатта и его продление (1775–1800).
@@ -500,7 +584,7 @@
 - Дело судна «Зонг» (1781), процесс Gregson v Gilbert (1783), лорд Мэнсфилд; Г. Шарп, О. Эквиано.
 - База данных Slave Voyages (Trans-Atlantic Slave Trade Database): вывоз в XVIII веке, британские рейсы, смертность в пути.
 - N. Nunn — The Long-Term Effects of Africa's Slave Trades (Quarterly Journal of Economics, 2008); N. Nunn, L. Wantchekon — The Slave Trade and the Origins of Mistrust in Africa (American Economic Review, 2011).
-- E. Williams — Capitalism and Slavery (1944); S. Engerman, P. O'Brien — критика тезиса Уильямса; J. Inikori — Africans and the Industrial Revolution in England (2002).
+- E. Williams — Capitalism and Slavery (1944); S. Engerman — The Slave Trade and British Capital Formation in the Eighteenth Century (Business History Review, 1972); P. K. O'Brien — European Economic Development: The Contribution of the Periphery (Economic History Review, 1982); J. Inikori — Africans and the Industrial Revolution in England (2002).
 - Битва при Плесси (1757), Р. Клайв; дивани Бенгалии (1765); бенгальский голод 1769–1770, оценка У. Гастингса; Регулирующий акт (1773).
 - Опустошение Пфальца французскими войсками (1688–1689).
 - Долг французской короны и созыв Генеральных штатов (1788–1789).
@@ -519,6 +603,19 @@
 - N. F. R. Crafts, C. K. Harley — Output Growth and the British Industrial Revolution: A Restatement of the Crafts-Harley View (Economic History Review, 1992).
 - S. Broadberry, B. Campbell, A. Klein, M. Overton, B. van Leeuwen — British Economic Growth, 1270–1870 (2015).
 - S. Broadberry, H. Guan, D. D. Li — China, Europe, and the Great Divergence: A Study in Historical National Accounting, 980–1850 (Journal of Economic History, 2018).
+- J. K. Horsefield — The «Stop of the Exchequer» Revisited (Economic History Review, 1982): долг короны банкирам-ювелирам ≈1,2–1,3 млн ф.
+- W. C. Scoville — The Persecution of Huguenots and French Economic Development, 1680–1720 (1960): ущерб Франции меньше легенды.
+- E. Hornung — Immigration and the Diffusion of Technology: The Huguenot Diaspora in Prussia (American Economic Review, 2014).
+- E. A. Wrigley — A Simple Model of London's Importance in Changing English Society and Economy, 1650–1750 (Past and Present, 1967): Лондон — крупнейший город Европы около 1700.
+- E. A. Wrigley, R. S. Davies, J. E. Oeppen, R. S. Schofield — English Population History from Family Reconstitution, 1580–1837 (1997): пересмотр ожидаемой продолжительности жизни.
+- M. Turner — English Parliamentary Enclosure (1980): ≈21% земель Англии.
+- F. O'Gorman — Voters, Patrons, and Parties: The Unreformed Electoral System of Hanoverian England, 1734–1832 (1989): доля избирателей.
+- P. K. O'Brien — The Political Economy of British Taxation, 1660–1815 (Economic History Review, 1988); N. A. M. Rodger — The Command of the Ocean: A Naval History of Britain, 1649–1815 (2004): флот как защита торговли.
+- F. R. Velde, D. R. Weir — The Financial Market and Government Debt Policy in France, 1746–1793 (Journal of Economic History, 1992).
+- Выплаты Дж. Гаррисону: Комиссия по долготе и отдельная выплата парламента (1773, 8 750 ф.), всего >20 тыс. ф.
+- Дж. Блэк — учение о скрытой теплоте; связь с отдельным конденсатором Уатта — предмет спора.
+- Бенгальский голод 1769–1770: современные оценки ≈1–10 млн погибших (оценка Гастингса — треть населения); конкретные пересчёты — требует проверки.
+- Раздел «Счёт в зерне и жизнях» (авторская оценка): стоимость Бленхейма ≈300 тыс. ф. (≈240 тыс. казна, ≈60 тыс. Мальборо — сайт Blenheim Palace; оценка К. Рена 287 тыс. — Victoria County History of Oxfordshire, British History Online); расходы герцога Бриджуотера на каналы ≈170–220 тыс. ф. (оценки XIX в. и современных историков расходятся), удешевление угля в Манчестере вдвое; долг Британии ≈72–75 млн ф. (1756) → ≈130–136 млн ф. (1763); подённая плата 1–1,5 шилл. — прикидка по рядам зарплат Р. Аллена, цена пшеницы 30–40 шилл. за квартер, полная стоимость Семилетней войны 80–100 млн ф., потери флота (≈185 тыс. набранных, ≈1,5 тыс. убитых, >130 тыс. умерших и дезертиров — сводка Annual Register 1763) и стоимость сети каналов — требует проверки.
 
 ## Глава 10. Первая промышленная революция
 
@@ -531,10 +628,12 @@
 - Дж. Кей — летучий челнок (1733); Дж. Харгривс — прядильная машина «дженни» (1760-е); С. Кромптон — мюль (1779); Э. Картрайт — механический ткацкий станок (1785); Р. Робертс — автоматическая мюль (1825).
 - H. Catling — The Spinning Mule (1970): оценки затрат труда на прядение 100 фунтов хлопка (приводятся также у Р. Аллена).
 - Э. Уитни — хлопкоочистительная машина (1793); переписи населения США 1790 и 1860 гг.: число рабов.
-- Г. Корт — пудлингование (1784); Железный мост через Северн (1779); Дж. Уилкинсон — расточный станок (1774).
+- Г. Корт — пудлингование (1784); Железный мост через Северн (1779); Дж. Уилкинсон — расточный станок (1774); письмо Дж. Уатта (1776) о точности цилиндра Уилкинсона («на толщину старого шиллинга»).
 - Р. Тревитик — паровоз (1804); Дж. и Р. Стефенсоны — «Ракета» (1829); Г. Модсли, Дж. Несмит, Дж. Уитворт — станкостроение и стандарт резьбы.
 - Канал Бриджуотера (1761).
-- R. Church — The History of the British Coal Industry, Vol. 3: 1830–1913 (1986): добыча угля.
+- R. Church — The History of the British Coal Industry, Vol. 3: 1830–1913 (1986): добыча угля к середине XIX в.
+- M. W. Flinn — The History of the British Coal Industry, Vol. 2: 1700–1830 (1984): добыча угля около 1800 г.
+- B. R. Mitchell — British Historical Statistics (1988): первая официальная статистика добычи угля (1854); переписи Ирландии.
 - V. Smil — Energy and Civilization: A History (2017); В. Смил — «Энергия и цивилизация».
 - R. C. Allen — The British Industrial Revolution in Global Perspective (2009).
 - M. Boldrin, D. K. Levine — Against Intellectual Monopoly (2008): патент Уатта.
@@ -542,7 +641,9 @@
 - E. P. Thompson — Time, Work-Discipline, and Industrial Capitalism (Past & Present, 1967).
 - С. Грег — прядильня Квори-Бэнк в Стайле (1784), приходские подмастерья.
 - J. Humphries — Childhood and Child Labour in the British Industrial Revolution (2010).
-- H.-J. Voth — Time and Work in England, 1750–1830 (2000): оценка продолжительности рабочего года.
+- D. Galbi — Child Labor and the Division of Labor in the Early English Cotton Mills (Journal of Population Economics, 1997): доля работников моложе 18 лет на хлопковых фабриках.
+- J. Burnette — Gender, Work and Wages in Industrial Revolution Britain (2008): соотношение заработков женщин и мужчин.
+- H.-J. Voth — Time and Work in England, 1750–1830 (2000): оценка продолжительности рабочего года; критика по женскому рабочему времени — J. M. Bennett (Continuity and Change).
 - J. de Vries — The Industrious Revolution (2008): «трудолюбивая революция».
 - S. Pollard — The Genesis of Modern Management (1965).
 - A. Smith — The Wealth of Nations (1776), кн. I (булавочная мастерская) и кн. V (вред однообразного труда, школы); А. Смит — «Исследование о природе и причинах богатства народов».
@@ -550,19 +651,20 @@
 - Фабричные законы 1802, 1819, 1833 (фабричные инспекторы), Закон о десяти часах 1847; законы против объединений 1799–1800, отменены в 1824; перепись Великобритании 1851 г.
 - Т. Уильямс — медные жетоны рудника Парис-Маунтин (Англси, 1787); частные торговые жетоны 1787–1797.
 - G. Selgin — Good Money: Birmingham Button Makers, the Royal Mint, and the Beginnings of Modern Coinage, 1775–1821 (2008).
-- М. Болтон — паровой монетный двор Сохо; медные пенни «колёса от телеги» (1797); Закон о траке 1831 г.
+- М. Болтон — паровой монетный двор Сохо; медные пенни «колёса от телеги» (1797); паровые прессы в новом здании Королевского монетного двора (1810); переход Монетного двора с молота на винтовой пресс (1662); Закон о траке 1831 г.
 - Банковское ограничение 1797–1821; Bullion Report (1810); Закон о монете 1816 г.
 - D. Ricardo — The High Price of Bullion, a Proof of the Depreciation of Bank Notes (1810); On the Principles of Political Economy and Taxation (1817); Д. Рикардо — «Начала политической экономии и налогообложения».
 - F. Crouzet (ed.) — Capital Formation in the Industrial Revolution (1972): самофинансирование промышленности.
 - Паника 1825 г., афера Пояиса (Г. Макгрегор); закон об акционерных банках 1826 г.; Банковский закон Пиля 1844 г.
 - W. Bagehot — Lombard Street (1873); У. Беджгот — «Ломбард-стрит».
-- «Железнодорожная мания» 1845–1847; Дж. Хадсон.
+- «Железнодорожная мания» 1845–1847; Дж. Хадсон (разоблачён комиссиями акционеров в 1849 г.).
 - C. H. Feinstein — Capital Formation in Great Britain (в: Cambridge Economic History of Europe, vol. VII, 1978): доля инвестиций в национальном доходе.
+- N. F. R. Crafts — British Economic Growth during the Industrial Revolution (1985): доля инвестиций.
 - Хлебные законы 1815 г., их отмена 1846 г.; Лига против хлебных законов (Р. Кобден, Дж. Брайт, 1838).
 - «Питерлоо» — расстрел митинга на поле Святого Петра в Манчестере (16 августа 1819).
 - Законы о ситце (Calico Acts) 1700 и 1721 гг.
 - D. Acemoglu, J. A. Robinson — Why Nations Fail (2012); Д. Аджемоглу, Дж. Робинсон — «Почему одни страны богатые, а другие бедные».
-- Луддиты (1811–1816); закон 1812 г. о смертной казни за разрушение машин; речь Байрона в палате лордов (февраль 1812); Йоркский процесс 1813 г.
+- Луддиты (1811–1816); нападение на фабрику Роуфолдс и убийство У. Хорсфолла (апрель 1812); закон 1812 г. о смертной казни за разрушение машин; речь Байрона в палате лордов (февраль 1812); Йоркский процесс 1813 г.
 - E. J. Hobsbawm — The Machine Breakers (Past & Present, 1952).
 - E. P. Thompson — The Making of the English Working Class (1963); Э. П. Томпсон — «Становление английского рабочего класса».
 - Акт о реформе 1832 г.; Акт об отмене рабства 1833 г. (компенсация владельцам 20 млн фунтов); запрет работорговли 1807 г.
@@ -583,16 +685,17 @@
 - P. Parthasarathi — Why Europe Grew Rich and Asia Did Not: Global Economic Divergence, 1600–1850 (2011).
 - D. Clingingsmith, J. G. Williamson — Deindustrialization in 18th and 19th Century India: Mughal Decline, Climate Shocks and British Industrial Ascent (Explorations in Economic History, 2008).
 - S. Beckert — Empire of Cotton: A Global History (2014); С. Беккерт — «Империя хлопка».
-- E. Williams — Capitalism and Slavery (1944); S. Engerman, P. O'Brien — критика тезиса Уильямса о роли прибылей от рабства.
+- E. Williams — Capitalism and Slavery (1944); S. L. Engerman — The Slave Trade and British Capital Formation in the Eighteenth Century (Business History Review, 1972); P. K. O'Brien — European Economic Development: The Contribution of the Periphery (Economic History Review, 1982) — критика тезиса Уильямса.
 - E. Chadwick — Report on the Sanitary Condition of the Labouring Population of Great Britain (1842); эпидемии холеры 1831–1832 и 1848–1849 гг.
 - S. Szreter, G. Mooney — Urbanization, Mortality, and the Standard of Living Debate (Economic History Review, 1998).
-- R. Floud, K. Wachter, A. Gregory — Height, Health and History: Nutritional Status in the United Kingdom, 1750–1980 (1990); J. Komlos — «загадка раннего индустриального роста» (antebellum/early industrial growth puzzle).
+- R. Floud, K. Wachter, A. Gregory — Height, Health and History: Nutritional Status in the United Kingdom, 1750–1980 (1990); J. Komlos — The Secular Trend in the Biological Standard of Living in the United Kingdom, 1730–1860 (Economic History Review, 1993): «загадка раннего индустриального роста».
 - C. Ó Gráda — Black '47 and Beyond: The Great Irish Famine in History, Economy, and Memory (1999).
 - J. G. Williamson — Why Was British Growth So Slow during the Industrial Revolution? (Journal of Economic History, 1984).
+- J. Mokyr — Has the Industrial Revolution Been Crowded Out? Some Reflections on Crafts and Williamson (Explorations in Economic History, 1987); C. E. Heim, P. Mirowski — Interest Rates and Crowding-Out during Britain's Industrial Revolution (Journal of Economic History, 1987): критика тезиса о вытеснении.
 - Закон о щелочных производствах (Alkali Act) 1863 г.
-- Фонтхиллское аббатство (У. Бекфорд, арх. Дж. Уайетт, с 1796; обрушение башни 1825); Королевский павильон в Брайтоне (Дж. Нэш, 1815–1822).
+- Фонтхиллское аббатство (У. Бекфорд, арх. Дж. Уайетт, с 1796; высота башни по разным описаниям 85–90 м; обрушение башни 1825); Королевский павильон в Брайтоне (Дж. Нэш, 1815–1822).
 - T. Veblen — The Theory of the Leisure Class (1899): «демонстративное потребление».
-- N. McKendrick, J. Brewer, J. H. Plumb — The Birth of a Consumer Society (1982): маркетинг Уэджвуда («королевский фаянс»).
+- N. McKendrick, J. Brewer, J. H. Plumb — The Birth of a Consumer Society (1982): маркетинг Уэджвуда («посуда королевы», Queen's Ware).
 - J. Wade — The Black Book, or Corruption Unmasked! (1820); У. Коббет — «Штука» (the Thing).
 - W. D. Rubinstein — The End of "Old Corruption" in Britain, 1780–1860 (Past & Present, 1983); P. Harling — The Waning of "Old Corruption" (1996).
 - Покупка офицерских чинов (отменена в 1871 г.); выборы в Йоркшире 1807 г.
@@ -605,6 +708,7 @@
 - A. Maddison — The World Economy: Historical Statistics (2003): ВВП на человека Британии, Китая, Индии.
 - Переписи населения Великобритании 1801 и 1851 гг.; перепись Ирландии 1841 и 1851 гг.
 - E. A. Wrigley, R. S. Schofield — The Population History of England, 1541–1871 (1981): ожидаемая продолжительность жизни.
+- Раздел «Счёт в зерне и жизнях» (авторская оценка): зарплата 12–15 шилл. в неделю при 60–70 ч (2–3 пенса в час) — прикидка по рядам R. C. Allen и G. Clark, требует проверки; долг Британии ≈240 млн ф. (1793) → ≈700–850 млн ф. (1815) и полная стоимость войн 1793–1815 гг. 0,8–1,5 млрд ф. (оценки расходятся; ср. B. R. Mitchell — British Historical Statistics, 1988; P. K. O'Brien — The Political Economy of British Taxation, 1660–1815, Economic History Review, 1988); военные потери >200 тыс. и стоимость железнодорожной сети к 1850 г. 200–250 млн ф. — требует проверки; компенсация рабовладельцам 20 млн ф. (≈40% годовых расходов), ≈800 тыс. освобождённых — Legacies of British Slavery (UCL); окончание выплат по займу в 2015 г. — сообщение HM Treasury (2018); первая школьная субсидия 20 тыс. ф. (1833).
 
 ## Глава 11. Вторая промышленная революция и первая глобализация
 
@@ -615,21 +719,24 @@
 - Электростанция Эдисона на Перл-стрит (1882); Всемирная Колумбова выставка в Чикаго (1893); сборочная линия Форда в Хайленд-Парке (1913), «пятидолларовый день» (1914).
 - T. J. Hatton, J. G. Williamson — The Age of Mass Migration: Causes and Economic Impact (1998).
 - A. Maddison — Monitoring the World Economy 1820–1992 (1995): доля экспорта в мировом ВВП.
-- M. Davis — Late Victorian Holocausts: El Niño Famines and the Making of the Third World (2001).
+- M. Davis — Late Victorian Holocausts: El Niño Famines and the Making of the Third World (2001): в т. ч. критика «пайка Темпла» санитарным комиссаром Мадраса У. Корнишем (требует проверки по первоисточнику).
 - A. Hochschild — King Leopold's Ghost (1998): Свободное государство Конго.
 - Бессемеровский процесс (патент 1856); мартеновская печь (Сименс, Мартен, 1860-е); томасовский процесс (С. Г. Томас, П. Гилкрист, 1878).
 - У. Перкин — мовеин (1856); К. Гребе, К. Либерман — синтез ализарина (1869); синтетический индиго BASF (1897) и упадок индийского индиго.
 - Лаборатория Эдисона в Менло-Парке (1876); промышленные лаборатории BASF, Bayer, Hoechst.
 - У. Крукс — президентская речь в Британской ассоциации (1898) о «пшеничной проблеме»; синтез аммиака Ф. Габера (1909) и завод К. Боша в Оппау (1913).
 - V. Smil — Enriching the Earth: Fritz Haber, Carl Bosch, and the Transformation of World Food Production (2001).
+- J. W. Erisman et al. — How a Century of Ammonia Synthesis Changed the World // Nature Geoscience 1 (2008): около половины населения.
 - P. A. David — The Dynamo and the Computer: An Historical Perspective on the Modern Productivity Paradox // American Economic Review (1990).
 - Н. Отто (1876), К. Бенц (1886), Г. Даймлер и В. Майбах, Р. Дизель (1897); скважина Э. Дрейка (1859); рейс рефрижератора «Данидин» (1882).
 - K. H. O'Rourke, J. G. Williamson — Globalization and History (1999): разница цен на пшеницу Чикаго — Ливерпуль.
 - R. J. Gordon — The Rise and Fall of American Growth (2016); Р. Гордон — «Взлёт и падение американского роста».
 - J. Mokyr — The Gifts of Athena (2002): знание «как» и «почему».
-- F. W. Taylor — The Principles of Scientific Management (1911): эпизод «Шмидта» в «Бетлехем Стил»; забастовка на арсенале Уотертаун (1911) и расследование Конгресса.
+- F. W. Taylor — The Principles of Scientific Management (1911): эпизод «Шмидта» в «Бетлехем Стил»; забастовка на арсенале Уотертаун (1911) и расследование Конгресса; запрет хронометража на государственных арсеналах (1915–1949).
+- C. D. Wrege, A. G. Perroni — Taylor's Pig-Tale: A Historical Analysis of Frederick W. Taylor's Pig-Iron Experiments // Academy of Management Journal 17/1 (1974): расхождения в рассказе Тейлора, Генри Нолл («Шмидт»).
 - H. Braverman — Labor and Monopoly Capital (1974): «деквалификация».
-- Сборка магнето в Хайленд-Парке (1913); текучесть кадров на заводах Форда (1913) и «социологический отдел»; цена Модели Т.
+- Сборка магнето и шасси в Хайленд-Парке (1913–1914); цена Модели Т.
+- S. Meyer — The Five Dollar Day: Labor Management and Social Control in the Ford Motor Company, 1908–1921 (1981): текучесть кадров 1913 года и «социологический отдел».
 - A. D. Chandler — The Visible Hand: The Managerial Revolution in American Business (1977): железные дороги как первые крупные иерархии; крушение на Западной железной дороге Массачусетса (1841); Пенсильванская железная дорога.
 - Пишущая машинка «Ремингтон» (1874); феминизация конторского труда в США (переписи 1870–1910).
 - Закон об элементарном образовании Англии (1870, обязательность с 1880); законы Ж. Ферри (1881–1882); перепись США 1900 о детском труде.
@@ -640,7 +747,7 @@
 - B. Eichengreen — Golden Fetters: The Gold Standard and the Great Depression, 1919–1939 (1992); Globalizing Capital (1996): золото как обязательство доверия и его политические условия.
 - «Долгая депрессия» 1873–1896 и дефляция; открытие золота на Витватерсранде (1886) и Клондайке (1896).
 - M. Obstfeld, A. M. Taylor — Global Capital Markets: Integration, Crisis, and Growth (2004): масштаб британского экспорта капитала.
-- M. Edelstein — Overseas Investment in the Age of High Imperialism (1982); W. P. Kennedy — Industrial Structure, Capital Markets and the Origins of British Economic Decline (1987).
+- M. Edelstein — Overseas Investment in the Age of High Imperialism: The United Kingdom, 1850–1914 (1982): доля заграничных вложений в национальном доходе; W. P. Kennedy — Industrial Structure, Capital Markets and the Origins of British Economic Decline (1987).
 - Продажа доли хедива Исмаила в Суэцком канале (1875), банкротство Египта (1876) и оккупация (1882); Администрация османского государственного долга (1881).
 - Кризис «Беринг бразерс» (1890) и гарантийный фонд У. Лидердейла; паника 1907 года и Дж. П. Морган; Национальная денежная комиссия (1908); Закон о Федеральной резервной системе (1913).
 - Каталоги Montgomery Ward (1872) и Sears, Roebuck & Co.; универсальные магазины Bon Marché, Macy's, Harrods; рассрочка компании Singer (1850-е).
@@ -660,6 +767,7 @@
 - Дж. Сноу — колонка на Брод-стрит (1854); Л. Пастер, Р. Кох — микробная теория; открытие возбудителя холеры (1883).
 - R. J. Evans — Death in Hamburg: Society and Politics in the Cholera Years 1830–1910 (1987): эпидемия 1892 года, Гамбург и Альтона.
 - D. Cutler, G. Miller — The Role of Public Health Improvements in Health Advances: The Twentieth-Century United States // Demography (2005).
+- D. M. Anderson, K. K. Charles, D. I. Rees — Re-Examining the Contribution of Public Health Efforts to the Decline in Urban Mortality // American Economic Journal: Applied Economics 14/2 (2022): пересчёт Катлера — Миллера.
 - Закон Моррилла (1862); MIT (1861); лаборатория General Electric (1900).
 - Международный телеграфный союз (1865); Всеобщий почтовый союз (1874); Метрическая конвенция (1875); стандартное время на железных дорогах США и Канады (1883); Международная меридианная конференция (1884); Парижская конвенция об охране промышленной собственности (1883).
 - Миссия Ивакуры (1871–1873); японский закон об образовании (1872); фабрика в Томиоке (1872).
@@ -668,7 +776,9 @@
 - Голод в Индии 1876–1878 и политика вице-короля Литтона; R. Burgess, D. Donaldson — Can Openness Mitigate the Effects of Weather Shocks? Evidence from India's Famine Era // American Economic Review (2010).
 - N. Nunn, L. Wantchekon — The Slave Trade and the Origins of Mistrust in Africa // American Economic Review (2011).
 - J. D. Hacker — A Census-Based Count of the Civil War Dead // Civil War History (2011).
-- T. L. Whigham, B. Potthast — The Paraguayan Rubicon: Population Losses in the War of the Triple Alliance // Latin American Research Review (1999).
+- T. L. Whigham, B. Potthast — The Paraguayan Rubicon: Population Losses in the War of the Triple Alliance // Latin American Research Review (1999): 60–69% населения по переписи 1870.
+- V. B. Reber — The Demographics of Paraguay: A Reinterpretation of the Great War, 1864–70 // Hispanic American Historical Review 68/2 (1988): потери много меньше.
+- J. M. G. Kleinpenning — Strong Reservations about "New Insights into the Demographics of the Paraguayan War" // Latin American Research Review 37/3 (2002): около половины.
 - Восстание тайпинов (1850–1864); Франко-прусская война (1870–1871).
 - W. T. Hornaday — The Extermination of the American Bison (1889); гибель последнего странствующего голубя «Марты» (1 сентября 1914).
 - Катастрофа на шахтах Курьер (10 марта 1906); пожар на фабрике «Трайэнгл» (25 марта 1911).
@@ -683,10 +793,12 @@
 - Гаагские мирные конференции (1899, 1907); N. Angell — The Great Illusion (1910).
 - A. Maddison — The World Economy: Historical Statistics (2003): население мира 1850 и 1913; ВВП на человека 1870 и 1913 (Британия, Германия, США, Япония, Индия, Китай).
 - P. Bairoch — International Industrialization Levels from 1750 to 1980 (1982): доли США, Германии и Британии в мировом промышленном производстве 1880 и 1913.
-- M. Edelstein — Overseas Investment in the Age of High Imperialism: The United Kingdom, 1850–1914 (1982).
 - T. Piketty — Le Capital au XXIe siècle (2013): концентрация богатства в Британии и Франции около 1910 года.
 - M. Huberman, C. Minns — The Times They Are Not Changin': Days and Hours of Work in Old and New Worlds, 1870–2000 // Explorations in Economic History (2007).
 - J. C. Riley — Estimates of Regional and Global Life Expectancy, 1800–2001 // Population and Development Review (2005).
+- R. Whaples — Winning the Eight-Hour Day, 1909–1919 // Journal of Economic History 50/2 (1990): рабочая неделя в промышленности США.
+- C. H. Feinstein — Pessimism Perpetuated: Real Wages and the Standard of Living in Britain during and after the Industrial Revolution // Journal of Economic History 58/3 (1998): реальные зарплаты.
+- Раздел «Счёт в зерне и жизнях»: A. L. Bowley — Wages and Income in the United Kingdom since 1860 (1937) и Feinstein (1998) — зарплата британского рабочего около 1910 (прикидка автора, требует проверки); S. Lebergott — Manpower in Economic Growth (1964) — почасовая зарплата в США 1890-х (требует проверки); Navy Estimates 1898–1914 и германские флотские бюджеты (по сводным таблицам и прессе тех лет, требует проверки); Old Age Pensions Act (1908) и «народный бюджет» Ллойд Джорджа (1909); расходы Э. Карнеги на публичные библиотеки США (≈1700 зданий, ≈40 млн долл., требует проверки).
 
 ## Глава 12. Катастрофа 1914–1945
 
@@ -704,7 +816,7 @@
 - Военное производство США 1940–1945: самолёты, суда «Либерти» («Роберт Пири», 1942), завод Уиллоу-Ран; эвакуация советской промышленности (1941).
 - Резонаторный магнетрон (Дж. Рэндалл, Г. Бут, 1940) и миссия Тизарда; пенициллин (А. Флеминг, 1928; Г. Флори, Э. Чейн); He 178 (1939), Ф. Уиттл; «Фау-2» и «Миттельверк»; «Колосс» (1944), ENIAC (1945); Манхэттенский проект.
 - Закон о вспомогательной службе отечеству (Германия, декабрь 1916) и программа Гинденбурга; всеобщий призыв в Британии (1916).
-- Женский труд на британских военных заводах в Первую мировую («мьюнишенетки»); избирательное право женщин в Британии (1918) и Германии (1919).
+- Женский труд на британских военных заводах в Первую мировую («мьюнишенетки»); избирательное право женщин в Британии (1918, старше 30 лет, с имущественным цензом) и Германии (декрет 12 ноября 1918; первые выборы — январь 1919).
 - M. Jahoda, P. Lazarsfeld, H. Zeisel — Die Arbeitslosen von Marienthal (1933).
 - «Новый курс»: Гражданский корпус охраны природы (CCC, 1933–1942), Управление общественных работ (WPA, 1935–1943) — официальная статистика занятости.
 - A. Tooze — The Wages of Destruction: The Making and Breaking of the Nazi Economy (2006) / «Цена разрушения».
@@ -712,7 +824,7 @@
 - Разгром профсоюзов (2 мая 1933) и Германский трудовой фронт; Имперская служба труда.
 - Женская занятость в США в 1940–1945 годах; трудовая повинность женщин в Британии (1941); указ о дезертирстве с военных предприятий СССР (26 декабря 1941).
 - Приостановка размена банкнот на золото (август 1914); займы свободы (Liberty Bonds, США); превращение США в главного кредитора.
-- N. Ferguson — The Pity of War (1998) / «Горькая правда о войне»: доля налогов в финансировании войны.
+- N. Ferguson — The Pity of War (1998) / «Горечь войны» (рус. пер. 2019): доля налогов в финансировании войны.
 - Версальский договор (1919); Лондонский график репараций (1921, 132 млрд золотых марок); план Дауэса (1924).
 - S. Marks — The Myths of Reparations (Central European History, 1978): критика тезиса Кейнса о невыполнимости репараций.
 - Оккупация Рура (январь 1923) и «пассивное сопротивление»; Г. Стиннес; рентная марка (ноябрь 1923, 1 : 10¹²).
@@ -743,13 +855,16 @@
 - Управление электрификации сельских районов США (REA, 1935): доля электрифицированных ферм; Администрация долины Теннесси (TVA, 1933).
 - Z. Griliches — Hybrid Corn: An Exploration in the Economics of Technological Change (Econometrica, 1957).
 - Исследование операций (Британия и США, 1940-е); кривая обучения на верфях «Либерти»; программа Training Within Industry (1940–1945).
+- A. D. Searle — Productivity Changes in Selected Wartime Shipbuilding Programs (Monthly Labor Review 61/6, 1945): затраты труда на «Либерти» с декабря 1941 по декабрь 1944 года (индекс 100 → ≈45); срок постройки ≈230 → ≈40 дней.
+- P. Thompson — How Much Did the Liberty Shipbuilders Learn? New Evidence for an Old Case Study (Journal of Political Economy 109/1, 2001): вклад оборудования и упрощения работ.
 - S. Kuznets — National Income, 1929–1932 (доклад Сенату США, 1934); национальные счета Р. Стоуна и Дж. Мида (Британия, 1941).
 - P. Moser, A. Voena, F. Waldinger — German Jewish Émigrés and US Invention (American Economic Review, 2014).
 - Потери Первой мировой войны (≈9–10 млн военных; Франция ≈1,4 млн); пандемия «испанки» (1918–1920, оценки 17–50+ млн); голод в Поволжье (1921–1922); потери СССР во Второй мировой (≈27 млн, официальная оценка); Холокост (≈6 млн).
 - Разрушение шахт Нор-Па-де-Кале (1918); официальные советские данные о разрушениях (1710 городов, >70 тыс. сёл); бомбардировки германских городов и зажигательные налёты на Токио (1945).
-- Закон о восстановлении профессионального чиновничества (апрель 1933); сожжение книг (май 1933).
+- Закон о восстановлении профессионального чиновничества (7 апреля 1933 г.): текст закона и обзор United States Holocaust Memorial Museum; сожжение книг (май 1933).
+- Общество Макса Планка — историческая справка об увольнении из институтов Общества кайзера Вильгельма 126 сотрудников, включая 104 учёных; четыре изгнанных учёных позднее погибли в концлагерях. Биографии Эмми Нётер (MacTutor), Макса Борна (NobelPrize.org), Альберта Эйнштейна (Institute for Advanced Study) и история Института Фрица Габера Общества Макса Планка.
 - F. Waldinger — Quality Matters: The Expulsion of Professors and the Consequences for PhD Student Outcomes in Nazi Germany (Journal of Political Economy, 2010).
-- Аресты и расстрелы Н. Д. Кондратьева (1930/1938) и А. В. Чаянова (1930/1937).
+- «Дело Трудовой крестьянской партии» в Большой российской энциклопедии; справка Президентской библиотеки об А. В. Чаянове; А. И. Агеев — «Николай Кондратьев: в жерновах истории» (2017): обвинения, приговоры и последующая реабилитация Н. Д. Кондратьева и А. В. Чаянова.
 - «План голода» (Г. Бакке, 1941); блокада Ленинграда (оценки числа жертв среди горожан).
 - A. Sen — Poverty and Famines: An Essay on Entitlement and Deprivation (1981): бенгальский голод 1943 года.
 - Крах Creditanstalt (1931), мораторий Гувера (1931), соглашения о замораживании кредитов; Лозаннская конференция (1932); прекращение выплат военных долгов США и закон Джонсона (1934).
@@ -758,7 +873,7 @@
 - W. Scheidel — The Great Leveler (2017) / «Великий уравнитель»; T. Piketty — Capital in the Twenty-First Century (2013).
 - Вашингтонская морская конференция (1921–1922); Ютландское сражение (1916); линкоры «Ямато» и «Мусаси» (потоплены 1945 и 1944).
 - Линия Мажино (≈1929–1938) и прорыв через Арденны (1940).
-- M. Neufeld — The Rocket and the Reich: Peenemünde and the Coming of the Ballistic Missile Era (1995): стоимость программы «Фау-2», лагерь Миттельбау-Дора.
+- M. Neufeld — The Rocket and the Reich: Peenemünde and the Coming of the Ballistic Missile Era (1995): стоимость программы «Фау-2» (≈2 млрд рейхсмарок, ≈0,5 млрд долл. по курсу 4,2), лагерь Миттельбау-Дора.
 - План «Германия» (А. Шпеер), испытательное сооружение Schwerbelastungskörper (1941); Дворец Советов, снос храма Христа Спасителя (1931), бассейн «Москва» (1960).
 - Эмпайр-стейт-билдинг (открыт 1931) и пустующие площади в 1930-е.
 - «Сухой закон» в США (1920–1933); картели и автаркические проекты Германии (синтетический бензин, бедные руды).
@@ -766,25 +881,37 @@
 - M. Harrison (ed.) — The Economics of World War II: Six Great Powers in International Comparison (1998): доля военных расходов в национальном продукте.
 - A. Maddison — The World Economy: Historical Statistics (2003): население, ВВП на человека и доля экспорта, 1913 и 1950.
 - T. Piketty, E. Saez — Income Inequality in the United States, 1913–1998 (Quarterly Journal of Economics, 2003).
-- W. Scheidel — The Great Leveler (2017) / «Великий уравнитель».
 - J. C. Riley — Rising Life Expectancy: A Global History (2001).
+- Перепись населения США 1930 года: доля домохозяйств с радиоприёмником (≈40%); R. J. Gordon — The Rise and Fall of American Growth (2016): распространение электрохолодильников (≈8% семей в 1930 г.) и бытовой техники.
+- Выпуск танков в СССР и Германии (1942): M. Harrison (ed.) 1998; E. Mawdsley — Thunder in the East: The Nazi-Soviet War, 1941–1945 (2-е изд., 2016).
+- V. Tanzi, L. Schuknecht — Public Spending in the 20th Century: A Global Perspective (2000): расходы государства в индустриальных странах ≈13% ВВП в 1913 г., в США ≈7–8%.
+- Безработица в Британии между войнами: официальная статистика по застрахованным; пересчёт на всю рабочую силу — C. Feinstein (1972), G. Boyer, T. Hatton (2002) (точную цифру для 1920-х — требует проверки).
+- Доли IRI в судостроении, чугуне и стали к концу 1930-х (≈⅘, ≈¾, почти ½) — по вторичным источникам (S. Holland ed., The State as Entrepreneur, 1972); требует проверки по первичной статистике.
+- M. Tauger — Entitlement, Shortage, and the 1943 Bengal Famine: Another Look (Journal of Peasant Studies 31/1, 2003); T. Dyson, A. Maharatna — Excess Mortality during the Bengal Famine: A Re-evaluation (Indian Economic and Social History Review 28/3, 1991): ≈2,1 млн жертв.
+- R. Krengel — Anlagevermögen, Produktion und Beschäftigung der Industrie im Gebiet der Bundesrepublik von 1924 bis 1956 (1958); W. Abelshauser — Deutsche Wirtschaftsgeschichte seit 1945 (2004): основные фонды промышленности в 1945 году выше уровня 1936-го.
+- Итог главы «порядка ста миллионов погибших (100–120 млн), без «испанки»» — авторское сложение оценок: Первая мировая с мирными жителями, Гражданская война в России и голод 1921–1922, советский голод 1932–1933, бенгальский голод 1943, Вторая мировая.
+
+- Раздел «Счёт в зерне и жизнях»: Historical Statistics of the United States (Millennial ed., 2006) — средняя часовая зарплата в промышленности 1930-х; S. Lebergott — Manpower in Economic Growth (1964) и M. Darby — Three-and-a-Half Million U.S. Employees Have Been Mislaid (Journal of Political Economy 84/1, 1976) — безработица в США 1930–1940; Final Report on the WPA Program, 1935–43 (1946): ≈11 млрд долл., ≈8,5 млн занятых; M. Neufeld (1995) — стоимость «Фау-2»; данные мемориала Миттельбау-Дора (≈60 тыс. узников, ≈20 тыс. погибших) и число жертв ракетных ударов (5–9 тыс.) — требует проверки; часовая зарплата германского рабочего, цены пшеницы в Германии и стоимость квартиры социального жилья 1920-х — прикидка автора, требует проверки.
 
 ## Глава 13. Плановые экономики
 
 - J. Scott — Behind the Urals: An American Worker in Russia's City of Steel (1942) / «За Уралом»: строительство Магнитогорска (пересказ); пуск первой домны (1932).
 - Госплан СССР (1921); первый пятилетний план (1928–1932), объявлен выполненным за 4 года 3 месяца.
-- Голод 1932–1933 годов в СССР: диапазон оценок числа жертв (5–8 млн).
+- Голод 1932–1933 годов в СССР: диапазон оценок числа жертв ≈5,5–8,5 млн. R. W. Davies, S. Wheatcroft — [The Years of Hunger: Soviet Agriculture, 1931–1933](https://diasporiana.org.ua/wp-content/uploads/books/22207/file.pdf) (2004): 5,5–6,5 млн (нижняя оценка); M. Ellman — The Role of Leadership Perceptions and of Intent in the Soviet Famine of 1931–1934 (Europe-Asia Studies 57/6, 2005): ≈8,5 млн при широком определении (верхняя). Дэвис и Уиткрофт документируют плохие урожаи 1931–1932 годов, влияние погоды, болезней растений и потерь при уборке, а также чрезмерные для фактического урожая заготовки. С. Уиткрофт — [The Turn Away from Economic Explanations for Soviet Famines](https://www.cambridge.org/core/journals/contemporary-european-history/article/turn-away-from-economic-explanations-for-soviet-famines/78C193C97E6C5383C37763CADA970644) (2018): спор о размере урожая и его оценке.
 - Спутник (4 октября 1957); полёт Ю. Гагарина (12 апреля 1961).
-- «Большой скачок» (1958–1962) и голод 1959–1961: диапазон оценок 15–45 млн (верхняя — F. Dikötter, Mao's Great Famine, 2010).
+- «Большой скачок» (1958–1962) и голод 1959–1961: диапазон оценок 15–45 млн (верхняя — F. Dikötter, Mao's Great Famine, 2010). Средние оценки ≈30 млн: B. Ashton, K. Hill, A. Piazza, R. Zeitz — Famine in China, 1958–61 (Population and Development Review 10/4, 1984); Yang Jisheng — Tombstone: The Great Chinese Famine, 1958–1962 (2008, англ. 2012; ≈36 млн). Критика верхней оценки: C. Ó Gráda — Great Leap into Famine: A Review Essay (Population and Development Review 37/1, 2011).
 - Закон о рабочем самоуправлении в Югославии (июнь 1950).
-- Проект «Киберсин» (С. Бир, Чили, 1971–1973); E. Medina — Cybernetic Revolutionaries (2011); переворот 11 сентября 1973.
-- План ГОЭЛРО (декабрь 1920); Днепрогэс (1932, консультант Х. Купер); проекты фирмы А. Кана в СССР (1930–1932); ГАЗ по договору с Фордом.
-- R. Allen — Farm to Factory: A Reinterpretation of the Soviet Industrial Revolution (2003): доля накопления в 1930-е.
-- W. Easterly, S. Fischer — The Soviet Economic Decline (1995): падающая отдача капитала, экстенсивный рост.
+- Проект «Киберсин» (С. Бир, Чили, 1971–1973); E. Medina — Cybernetic Revolutionaries (2011): модель жизнеспособной системы С. Бира, забастовка грузоперевозчиков (октябрь 1972); переворот 11 сентября 1973.
+- План ГОЭЛРО (декабрь 1920); Днепрогэс (1932, консультант Х. Купер; из девяти генераторов первой очереди пять — General Electric, четыре — «Электросила» по её документации); проекты фирмы А. Кана в СССР (1930–1932); ГАЗ по договору с Фордом.
+- R. Allen — Farm to Factory: A Reinterpretation of the Soviet Industrial Revolution (2003): доля накопления в 1930-е (по Бергсону); контрфактические модели (продолжение нэпа), ненужность коллективизации для роста.
+- A. Bergson — The Real National Income of Soviet Russia since 1928 (1961): рост доли валовых вложений с ≈⅛ ВНП (1928) до ≈¼ (конец 1930-х) (точные значения по таблицам требуют проверки).
+- A. Cheremukhin, M. Golosov, S. Guriev, A. Tsyvinski — The Industrialization and Economic Development of Russia through the Lens of a Neoclassical Growth Model (Review of Economic Studies 84/2, 2017; рабочая версия «Was Stalin Necessary for Russia's Economic Development?», 2013): продолжение нэпа дало бы сопоставимую индустриализацию при более высоком благосостоянии.
+- P. Gregory — Russian National Income, 1885–1913 (1982): быстрый рост дореволюционной экономики.
+- W. Easterly, S. Fischer — The Soviet Economic Decline (World Bank Economic Review 9/3, 1995): падающая отдача капитала при высокой доле вложений и низкой эластичности замещения труда капиталом, экстенсивный рост.
 - Обнинская АЭС (1954); первое советское ядерное испытание (1949); Самотлор (1965).
 - B. Peters — How Not to Network a Nation: The Uneasy History of the Soviet Internet (2016): ОГАС В. Глушкова; ЕС ЭВМ как копия IBM System/360.
 - Непрерывная разливка стали в СССР и Японии к середине 1980-х (распространённые оценки долей).
-- Коллективизация (1929–1933), трудодни; денежная оплата колхозников со второй половины 1960-х; личные подсобные хозяйства (≈3% пашни, распространённая оценка).
+- Коллективизация: ≈65% хозяйств к 1933 году, ≈93% к 1937 году (из ≈25 млн крестьянских хозяйств конца 1920-х); трудодни; денежная оплата колхозников со второй половины 1960-х; личные подсобные хозяйства (≈3% посевной площади, распространённая оценка). [The Cambridge History of Russia, т. 2, «Peasants and agriculture»](https://portal.tpu.ru/SHARED/d/DVR/eng/teaching/lieven_d_edit_the_cambridge_history_of_russia_volume_2_i.pdf): в центральной России трёхполье распространилось задолго до XX века. R. W. Davies, S. Wheatcroft — The Years of Hunger, гл. 3 и 5: спешное укрупнение полей нарушало существовавший севооборот; переход к многополью планировался, но в первые годы шёл медленно. [Исследование в «Вестнике РАН»](https://link.springer.com/article/10.1134/S1019331622090039) (2022): организационные возможности крупных хозяйств и неудача с ростом производительности в первые годы. [Исследование Всемирного банка](https://documents1.worldbank.org/curated/en/676961468914777254/pdf/multi-page.pdf): доля площади и валовой продукции личных хозяйств; сравнение требует учёта структуры выпуска, труда и кормов.
 - Паспортная система и прописка (декабрь 1932); положение о паспортах 1974 года; китайская система хукоу (1958).
 - Рекорд А. Стаханова (31 августа 1935, 102 т при норме ≈7 т); осуждение «уравниловки» (1931).
 - Указ Президиума ВС СССР от 26 июня 1940 года (отменён в 1956).
@@ -792,54 +919,55 @@
 - J. Kornai — Economics of Shortage (1980) / «Дефицит»: мягкое бюджетное ограничение.
 - G. Grossman — The «Second Economy» of the USSR (Problems of Communism, 1977).
 - L. von Mises — Economic Calculation in the Socialist Commonwealth (1920) / «Экономический расчёт в социалистическом обществе».
-- O. Lange — On the Economic Theory of Socialism (1936–1937); The Computer and the Market (1967).
+- O. Lange — On the Economic Theory of Socialism (Review of Economic Studies, 1936–1937); The Computer and the Market (1967, опубликовано посмертно; Ланге умер в 1965).
 - F. Hayek — The Use of Knowledge in Society (1945) / «Использование знания в обществе».
 - Новочеркасские события (июнь 1962): повышение цен на мясо и масло с 1 июня 1962 года; 26 погибших по рассекреченным данным.
 - A. Ledeneva — Russia's Economy of Favours: Blat, Networking and Informal Exchange (1998).
 - СЭВ (1949); переводной рубль (1964); косыгинская реформа (1965); падение цен на нефть (1986); китайская талонная система (1950-е — начало 1990-х).
 - Лушаньский пленум (июль 1959), письмо Пэн Дэхуая и кампания против «правых уклонистов».
 - M. Djilas — The New Class (1957) / М. Джилас, «Новый класс».
-- Большой террор 1937–1938: ≈680 тыс. расстрелянных по архивным данным НКВД; перепись 1937 года объявлена «дефектной».
+- Большой террор 1937–1938: ≈680 тыс. расстрелянных по архивным данным НКВД; перепись 1937 года (≈162 млн при ожидавшихся ≈180 млн) объявлена «дефектной».
 - «Культурная революция» (1966–1976): закрытие университетов, отправка молодёжи в деревню.
 - Совнархозы (1957–1965); «стабильность кадров»; смерти генсеков 1982–1985.
 - Югославское самоуправление после реформы 1965 года; B. Ward — The Firm in Illyria: Market Syndicalism (American Economic Review, 1958).
-- E. Medina — Cybernetic Revolutionaries (2011): модель жизнеспособной системы С. Бира, забастовка грузоперевозчиков (октябрь 1972).
-- A. Sen — Development as Freedom (1999) / «Развитие как свобода»: голод и демократия.
-- Декрет «О ликвидации безграмотности» (1919–1920), ликбез; переписи 1897 и 1959 годов: доля грамотных.
+- A. Sen — Development as Freedom (1999) / «Развитие как свобода»: голод и демократия. Критика и уточнения: C. Ó Gráda — Famine: A Short History (2009).
+- Декрет СНК «О ликвидации безграмотности» (26 декабря 1919), ликбез; переписи 1897 и 1959 годов: доля грамотных.
 - Физико-математические школы-интернаты (начало 1960-х; А. Колмогоров).
-- В. Жданов — предложение о глобальной ликвидации оспы (Всемирная ассамблея здравоохранения, 1958); объявление ВОЗ о ликвидации оспы (1980).
+- В. Жданов — предложение о глобальной ликвидации оспы (Всемирная ассамблея здравоохранения, 1958); объявление ВОЗ о ликвидации оспы (1980). F. Fenner et al. — Smallpox and its Eradication (WHO, 1988): обещание 25 млн доз (1958), ≈¾ вакцины, полученной ВОЗ к началу 1960-х, — от СССР; итоговое число переданных доз («сотни миллионов») требует проверки.
 - J. Drèze, A. Sen — Hunger and Public Action (1989) / «Голод и общественные действия»: продолжительность жизни в КНР, «босоногие врачи», сравнение с Индией.
-- R. Allen — Farm to Factory (2003): контрфактические модели (продолжение нэпа), ненужность коллективизации для роста.
 - Эвакуация промышленности 1941 года (≈1500 крупных предприятий, советские данные); «Танкоград» (Челябинск).
 - Л. Канторович — «Математические методы организации и планирования производства» (1939); Нобелевская премия 1975 года (с Т. Купмансом).
 - Постановление о жилищном строительстве (1957); «более 100 млн человек улучшили жилищные условия в 1956–1965» (официальные данные).
 - Арест Н. Вавилова (август 1940) и смерть в саратовской тюрьме (январь 1943); сохранение коллекции семян ВИР в блокаду; сессия ВАСХНИЛ (август 1948), лысенковщина; кампания против кибернетики (начало 1950-х).
-- Раскулачивание: ≈1,8 млн высланных в 1930–1931 (архивные данные); сокращение поголовья лошадей и КРС примерно вдвое за 1929–1933 (советская статистика).
-- S. Cameron — The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan (2018) / «Голодная степь»: голод в Казахстане (≈1,5 млн жертв).
-- Смертность в ГУЛАГе 1930–1953 по ведомственной статистике (≈1,5 млн) и её критика; депортации народов 1943–1944.
+- Раскулачивание: ≈1,8 млн высланных в 1930–1931 (архивные данные); сокращение поголовья лошадей и КРС примерно вдвое за 1929–1933 (советская статистика); поголовье КРС восстановлено к середине 1950-х, лошадей — никогда. L. Viola — [The Campaign to Eliminate the Kulak as a Class, Winter 1929–1930](https://www.cambridge.org/core/journals/slavic-review/article/abs/campaign-to-eliminate-the-kulak-as-a-class-winter-19291930-a-reevaluation-of-the-legislation/4920A03B0CB47330C847F7A0A1D6BB0E) (1986): под кампанию попадали и середняцкие хозяйства, но доли резко различались по районам. [Исследование Sciences Po](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/dekulakisation-mass-violence.html) со ссылкой на отчёт ОГПУ по Поволжью (февраль 1930): 15% раскулаченных в этой выборке — середняки; это не общесоюзная оценка. L. T. Lih — [Bread and Authority in Russia, 1914–1921](https://publishing.cdlib.org/ucpressebooks/public/book/bread-and-authority-in-russia-1914-1921.html) (1990): «кулак» в прежнем деревенском употреблении — в том числе ростовщик и наниматель чужого труда. [Портал «Культура.РФ»](https://www.culture.ru/s/vopros/bogatye-krestyane-kulaki/): долги могли погашаться трудом должника.
+- S. Cameron — The Hungry Steppe: Famine, Violence, and the Making of Soviet Kazakhstan (2018) / «Голодная степь»: голод в Казахстане (≈1,5 млн жертв, из них ≈1,3 млн казахов, ≈38% народа).
+- Смертность в ГУЛАГе 1930–1953 по ведомственной статистике (≈1,5 млн) и её критика; депортации народов 1943–1944. P. Polian — Against Their Will: The History and Geography of Forced Migrations in the USSR (2004; рус. «Не по своей воле», 2001): смертность депортированных в первые годы ≈20–25% (по документам НКВД; требует проверки по первичным данным).
 - Эмиграция из ГДР 1949–1961 (≈2,5–3 млн, распространённые оценки); Берлинская стена (август 1961).
 - F. Dikötter — Mao's Great Famine (2010): разрушение жилья и лесов в ходе «Большого скачка»; кампания против «четырёх вредителей» (1958).
 - Режим «красных кхмеров» (апрель 1975 — январь 1979): отмена денег, выселение Пномпеня; 1,5–2 млн жертв (оценки).
 - Аральское море: забор воды Амударьи и Сырдарьи на орошение хлопка с 1960-х.
 - Авария на Чернобыльской АЭС (26 апреля 1986); первомайская демонстрация в Киеве.
 - Дворец Советов: взрыв храма Христа Спасителя (декабрь 1931), разборка каркаса (1941), бассейн «Москва» (1960).
-- Военные расходы СССР: оценки ЦРУ 1980-х (≈15–17% ВНП) и более высокие позднейшие оценки; ≈40 тыс. ядерных боеголовок к середине 1980-х (оценки Bulletin of the Atomic Scientists); прощальная речь Д. Эйзенхауэра о военно-промышленном комплексе (1961).
+- Военные расходы СССР: оценки ЦРУ 1980-х (≈15–17% ВНП) и более высокие позднейшие оценки; советский ядерный арсенал ≈40–45 тыс. боеголовок к середине 1980-х (пик 1986), у США ≈23 тыс., в мире ≈70 тыс.: R. Norris, H. Kristensen — Global Nuclear Stockpiles, 1945–2006 (Bulletin of the Atomic Scientists 62/4, 2006); прощальная речь Д. Эйзенхауэра о военно-промышленном комплексе (1961).
 - Беломорско-Балтийский канал (1931–1933); «мёртвая дорога» Салехард — Игарка (брошена в 1953); БАМ (1974 — «золотое звено» 1984 — постоянная эксплуатация 2003).
 - Проект переброски северных рек и его отмена (1986); выступления С. Залыгина, В. Распутина.
 - B. Naughton — The Third Front: Defence Industrialization in the Chinese Interior (The China Quarterly, 1988) / «Третий фронт».
-- Производство обуви в СССР в 1980-е (≈800 млн пар в год, официальная статистика); тракторы и запчасти; потери овощей на овощебазах.
-- Концепция «вычитания стоимости» (value subtraction) в советской промышленности (дискуссия западных экономистов 1990-х, спорная).
+- Производство обуви в СССР в 1980-е (≈800 млн пар в год, официальная статистика); тракторы и запчасти; потери овощей на овощебазах. [«Народное хозяйство СССР за 70 лет», таблица проверок качества](https://www.great-country.ru/content/library/knigi/dokumenty_spravochniki_statistika/xoz_70/xoz_70-024.php): в 1986 году 9,6% проверенной обуви вернули на исправление или перевели в пониженный сорт; выборочная проверка не позволяет оценить долю всего выпуска.
+- Концепция «вычитания стоимости» (value subtraction) в советской промышленности (спорная): R. McKinnon — The Order of Economic Liberalization (1991); G. Hughes, P. Hare — Competitiveness and Industrial Restructuring in Czechoslovakia, Hungary and Poland (European Economy, 1991; точное название требует проверки); позднее — C. Gaddy, B. Ickes — Russia's Virtual Economy (2002).
+- Энергоёмкость советской экономики в 1,5–3 раза выше западноевропейской: оценки МЭА начала 1990-х (Energy Policies of the Soviet Union, 1991; Russia Energy Survey) — порядок по вторичным источникам, требует проверки.
 - Госплан: несколько тысяч материальных балансов; Госснаб и министерства — десятки тысяч позиций.
-- Г. Ханин — альтернативные оценки темпов роста советской экономики (пересчёт официальных данных).
+- Г. Ханин — альтернативные оценки темпов роста советской экономики: В. Селюнин, Г. Ханин — «Лукавая цифра» (Новый мир, 1987, № 2); Г. Ханин — «Динамика экономического развития СССР» (1991).
 - Оценки ЦРУ темпов роста ВНП СССР по десятилетиям (1950-е — 1980-е).
 - A. Maddison — The World Economy: Historical Statistics (2003): ВВП на душу СССР, США и Китая (1950, 1973, 1990).
-- Выплавка стали в СССР (1928, 1940, конец 1980-х) и импорт зерна с 1963 года (советская и западная статистика).
-- Перепись 1959 года: грамотность населения 9–49 лет; продолжительность жизни мужчин в РСФСР (середина 1960-х и 1980 год, демографическая статистика).
-- ГУЛАГ: ≈18 млн прошедших через лагеря и колонии в 1930–1953 (распространённая оценка), ≈2,5 млн одновременно в начале 1950-х.
-- Производительность труда в ГДР после объединения (≈треть западногерманской, распространённые оценки); югославские трудовые мигранты (≈1 млн к началу 1970-х); инфляция в Югославии 1989 года.
+- Выплавка стали в СССР (1928, 1940, конец 1980-х) и импорт зерна с 1963 года (советская и западная статистика); Россия 1913 года — один из крупнейших экспортёров зерна наряду с США, Аргентиной и Канадой.
+- Перепись 1959 года: грамотность населения 9–49 лет. [Обзор системы здравоохранения России для Европейской обсерватории](https://www.hpi.sk/cdata/Documents/HIT/Russian%20Federation_2003.pdf), с. 9: ожидаемая продолжительность жизни мужчин в РСФСР — 64,3 года в 1965 году, затем стагнация и снижение к началу 1980-х; для женщин динамика была иной.
+- ГУЛАГ: ≈18 млн прошедших через лагеря и колонии в 1930–1953 (с учётом повторных сроков; оценка по архивам — В. Земсков, О. Хлевнюк, популяризация — A. Applebaum, Gulag: A History, 2003), ≈2,5 млн одновременно в начале 1950-х.
+- Производительность труда в восточных землях Германии после объединения: [Еврокомиссия](https://ec.europa.eu/economy_finance/publications/pages/publication1878_en.pdf) приводит оценку около трети западногерманской в 1991 году; [Институт ifo](https://www.ifo.de/DocDL/dicereport409-rm.pdf) — 44,3% ВВП за час труда в 1991 году по иной методике. Сравнение после объединения не изолирует влияние прежней системы. Югославские трудовые мигранты (≈1 млн к началу 1970-х); инфляция в Югославии 1989 года.
+- Раздел «Пределы счёта»: [Nick Baron, «Conflict and Complicity: The Expansion of the Karelian Gulag, 1923–1933»](https://journals.openedition.org/monderusse/pdf/8471), с. 642: по архивным данным средняя численность Белбалтлага — 64 тыс. (1931), 99 095 (1932), 84 504 (1933); численность непосредственно на стройке менялась; оценки смертности зависят от включённых лагерей и годов. [Оценка ЦРУ 1978 года](https://history.state.gov/historicaldocuments/frus1977-80v04/d70): военная нагрузка в 1967–1977 годах 11–13% ВНП по использованному определению; [оценка ЦРУ для начала 1980-х](https://www.cia.gov/readingroom/docs/CIA-RDP08S01350R000300730001-4.pdf): 15–17%; единая доля для 1960–1990 годов и перевод доли ВНП в долю трудовых часов не обоснованы.
 
 ## Глава 14. Послевоенный «золотой век»
 
+- Категории «развивающее», «разрушающее» и «холостое» — авторская рамка, не статьи национальных счетов. [Всемирный банк, определение валового накопления капитала](https://databank.worldbank.org/metadataglossary/world-development-indicators/series/NE.GDI.TOTL.ZS): даже измеряемая доля инвестиций в ВВП не равна доле «развивающего» во всём излишке. Сравнимые доли трёх категорий для стран главы не рассчитаны.
 - Бреттон-Вудская конференция (1–22 июля 1944): 44 государства, ≈730 делегатов; Дж. М. Кейнс и Г. Д. Уайт; создание МВФ и Всемирного банка.
 - Германия 1946–1947: карточные нормы, «сигаретная валюта», холодная зима 1946/47 (общеизвестные исторические данные).
 - Volkswagen: миллионный «Жук» (август 1955); «Синкансэн» Токио — Осака (1 октября 1964).
@@ -860,8 +988,8 @@
 - Н. Борлоуг (Нобелевская премия мира 1970), сорт риса IR8 (IRRI, 1966); удвоение сбора пшеницы в Индии во второй половине 1960-х.
 - Великий смог в Лондоне (декабрь 1952): ≈4 тыс. погибших по первым оценкам, ≈12 тыс. по позднейшим (M. Bell, D. Davis, 2001).
 - R. Carson — Silent Spring (1962).
-- «Детройтский договор» GM — UAW (май 1950, У. Ройтер): индексация на рост цен, ежегодная прибавка за производительность, пенсии; название дано журналом Fortune.
-- Г. Форд — зарплата 5 долл. в день (1914).
+- «Детройтский договор» GM — UAW (май 1950, У. Ройтер): формулы индексации на рост цен и ежегодной прибавки за производительность — из договора 1948 г.; в 1950 г. закреплены на пять лет, добавлены пенсии и половина медицинской страховки; название дано журналом Fortune.
+- Г. Форд — зарплата 5 долл. в день (1914); D. Raff, L. Summers — Did Henry Ford Pay Efficiency Wages? // Journal of Labor Economics 5/4 (1987): текучесть и «эффективная зарплата».
 - Закон о соучастии в угольной и сталелитейной промышленности ФРГ (Montan-Mitbestimmungsgesetz, 1951); закон о производственных советах (Betriebsverfassungsgesetz, 1952).
 - Сальтшёбаденское соглашение (1938); модель Рена — Мейднера, солидарная политика зарплат (1951).
 - Японская система занятости: пожизненный наём, оплата по стажу, профсоюзы предприятий; конфликт на Toyota 1950 г. и отставка К. Тоёды.
@@ -899,7 +1027,7 @@
 - M. Olson — The Rise and Decline of Nations (1982): распределительные коалиции.
 - Законы о гражданских правах (1964) и об избирательных правах (1965) в США.
 - Экспортная политика Южной Кореи при Пак Чон Хи (ежемесячные совещания по экспорту); экспорт ≈33 млн долл. (1960) и >10 млрд долл. (1977) — официальная статистика.
-- C. Feinstein — оценки нормы накопления в Британии в период промышленной революции.
+- C. H. Feinstein — Capital Formation in Great Britain // Cambridge Economic History of Europe, vol. VII, part 1 (1978): доля инвестиций ≈6–8 % в 1760-е → ≈10–11 % к 1830-м.
 - Лицензия Western Electric на транзистор для Tokyo Tsushin Kogyo (Sony), 1953, ≈25 тыс. долл.
 - У. Э. Деминг — лекции в Японии (1950, по приглашению JUSE); премия Деминга (1951).
 - Anglo-American Council on Productivity (1948–1952): британские группы производительности.
@@ -920,17 +1048,30 @@
 - A. C. Pigou — The Economics of Welfare (1920): внешние эффекты.
 - A. O. Krueger — The Political Economy of the Rent-Seeking Society // American Economic Review (1974): понятие рентоискательства, оценки ренты в Индии и Турции.
 - «Лицензионный радж» в Индии; «индуистский темп роста» (термин Раджа Кришны); автомобиль Hindustan Ambassador (с 1958).
-- Автомобильная промышленность Аргентины 1960-х за таможенной защитой (оценка — около двух десятков производителей).
+- Автомобильная промышленность Аргентины 1960-х за таможенной защитой: C. Belini — Negocios, poder y política industrial en los orígenes de la industria automotriz argentina, 1945–1962 // Revista de Historia Industrial (2006): 23 проекта, одобренных в 1959 г. по декрету Фрондиси; R. Jenkins — Transnational Corporations and the Latin American Automobile Industry (1987). Число сборщиков к середине 1960-х требует проверки.
 - Бразилиа (открыта 21.04.1960; Ж. Кубичек, Л. Коста, О. Нимейер); комплекс к саммиту ОАЕ в Аккре (1965); ГЭС Акосомбо; свержение К. Нкрумы (1966).
 - «Конкорд»: первый полёт 1969, построено 20 машин, 14 серийных в эксплуатации; «ошибка Конкорда» (sunk cost fallacy).
 - Программа «Аполлон»: оценка НАСА ≈25 млрд долл. тех лет.
-- Единая сельскохозяйственная политика ЕЭС (1962): «масляные горы», «винные озёра»; доля в бюджете Сообщества (оценка).
+- Единая сельскохозяйственная политика ЕЭС (1962): «масляные горы», «винные озёра»; доля в бюджете Сообщества — финансовые отчёты Европейской комиссии; R. Ackrill — The Common Agricultural Policy (2000): ≈⅔–¾ и более в 1970-е.
 - J. K. Galbraith — The Affluent Society (1958); V. Packard — The Waste Makers (1960).
 - Закрытие «золотого окна» Р. Никсоном (15 августа 1971): прекращение обмена долларов иностранных центральных банков на золото.
 - ООН, World Population Prospects: население мира ≈2,5 млрд (1950) и ≈3,9 млрд (1973); продолжительность жизни в мире и Японии 1950–1973 (оценки).
 - A. Maddison — The World Economy: Historical Statistics (2003): доход на душу (междунар. долл. 1990) по странам и регионам 1950 и 1973 (Западная Европа, ФРГ, Япония, США, Африка, Индия, Корея, Аргентина); рост мирового экспорта ≈8 %/год; годовые часы работы в ФРГ.
 - T. Piketty, E. Saez — Income Inequality in the United States, 1913–1998 (2003): доля верхнего 1 % в 1950–1970-е.
-- Bulletin of the Atomic Scientists: оценки ядерных арсеналов (≈20 тыс. боеголовок к 1973).
+- R. Norris, H. Kristensen — Global nuclear stockpiles, 1945–2006 // Bulletin of the Atomic Scientists 62/4 (2006): ≈45 тыс. боеголовок в 1973 г. (США ≈29 тыс., СССР ≈16 тыс.), ≈70 тыс. в 1986 г.
+- Верхние ставки подоходного налога в Великобритании: ≈90 % в 1950–1960-е, 98 % на инвестиционный доход в 1974–1979 гг.
+- C. Goldin, R. Margo — The Great Compression: The Wage Structure in the United States at Mid-Century // QJE 107/1 (1992).
+- R. Pryke — Public Enterprise in Practice (1971); The Nationalised Industries: Policies and Performance since 1968 (1981).
+- D. Rodrik — Getting Interventions Right: How South Korea and Taiwan Grew Rich // Economic Policy 10/20 (1995).
+- D. Rodrik, A. Subramanian — From «Hindu Growth» to Productivity Surge: The Mystery of the Indian Growth Transition // NBER WP 10376 (2004); IMF Staff Papers (2005).
+- C.-T. Hsieh — What Explains the Industrial Revolution in East Asia? Evidence from the Factor Markets // AER 92/3 (2002).
+- R. Dawkins, T. Carlisle — Parental investment, mate desertion and a fallacy // Nature 262 (1976): «ошибка „Конкорда“».
+- S. Huntington — предисловие к сборнику L. Harrison, S. Huntington (eds.) — Culture Matters (2000): Гана и Корея в начале 1960-х.
+- Реформа Бертуана (Франция, 1959): обязательное обучение до 16 лет, полностью — с 1967 г.
+- A. Krueger (1974): рента ≈7 % национального дохода Индии (1964), ≈15 % ВНП Турции (1968).
+- Доля США в монетарном золоте мира: ≈60 % (1944), ≈70 % (1949) — Federal Reserve, Banking and Monetary Statistics; требует проверки.
+- Смертность в Германии зимой 1946/47 г.: оценки расходятся, надёжной академической цифры не найдено (требует проверки).
+- Раздел «Счёт в зерне и жизнях» (авторская оценка): стоимость «Конкорда» — смета ≈70 млн ф. (1962), >1,3 млрд ф. к 1976 г. (UK Government History blog, 2019; другие подсчёты 1,5–2,1 млрд ф.); часовая зарплата британского рабочего (0,6–1 ф.), цена пшеницы и стоимость районной больницы — прикидка автора, требует проверки; S. I. Schwartz (ed.) — Atomic Audit: The Costs and Consequences of U.S. Nuclear Weapons Since 1940 (Brookings, 1998): ≥5,5 трлн долл. 1996 г. за 1940–1996, ≈29% военных расходов, больше половины — средства доставки; доля 1950–1973 гг. (≈половина) и доля ≈4% ВНП — допущения автора, требуют проверки; стоимость межштатных автострад США ≈129 млрд долл. (FHWA).
 
 ## Глава 15. Перелом (1973–2000)
 
@@ -938,18 +1079,18 @@
 - «Воскресенья без машин» в Нидерландах (с 4 ноября 1973), ФРГ и др.; «трёхдневная неделя» в Великобритании (январь — март 1974, правительство Э. Хита).
 - Инфляция: Великобритания 1975 (≈24 %), США 1980 (≈13,5 %) — официальная статистика (ONS, BLS).
 - Деревня Сяоган (уезд Фэнъян, провинция Аньхой), договор 18 дворов (декабрь 1978); документ хранится в Национальном музее Китая.
-- World Bank — Four Decades of Poverty Reduction in China (2022): ≈800 млн человек вышли из крайней бедности; World Bank, Poverty and Shared Prosperity: доля мирового населения в крайней бедности (1981–2000).
+- World Bank — Four Decades of Poverty Reduction in China (2022): ≈800 млн человек вышли из крайней бедности; World Bank, Poverty and Shared Prosperity / PIP: доля мирового населения в крайней бедности по черте 1,90 долл. в день (ППС 2011) — 42,7 % в 1981 г., ≈28 % в 2000 г.
 - П. Волкер, ФРС: смена политики 6 октября 1979; ставка по федеральным фондам ≈20 % (1980–1981); безработица в США >10 % (1982); W. Silber — Volcker: The Triumph of Persistence (2012).
 - Забастовка шахтёров Великобритании (март 1984 — март 1985); М. Тэтчер (премьер-министр с 1979); Р. Рейган, увольнение авиадиспетчеров PATCO (август 1981).
 - Либерализация цен в России (2 января 1992); рост потребительских цен за 1992 г. ≈26 раз (Госкомстат).
 - T. Wolfe — The Bonfire of the Vanities (1987); фильм O. Stone — Wall Street (1987).
 - Второй нефтяной шок (1979–1980): революция в Иране, ирано-иракская война — D. Yergin, The Prize (1990).
 - Нормы CAFE (Energy Policy and Conservation Act, 1975); Япония обгоняет США по выпуску автомобилей (1980).
-- Международное энергетическое агентство (МЭА/IEA, основано 1974); оценки вклада энергоэффективности в снижение энергоёмкости (IEA, Oil Crises and Climate Challenges: 30 Years of Energy Use in IEA Countries, 2004).
-- Нефть Северного моря (Экофиск 1971, первая британская нефть 1975, Фортис, Брент); Трансаляскинский нефтепровод (1977); Норвежский государственный нефтяной фонд (закон 1990).
+- Международное энергетическое агентство (МЭА/IEA, основано 1974); оценки вклада энергоэффективности в снижение энергоёмкости (IEA, Oil Crises and Climate Challenges: 30 Years of Energy Use in IEA Countries, 2004): без улучшения эффективности после 1973 г. потребление в 1998 г. было бы ≈в полтора раза выше (требует сверки по тексту отчёта).
+- Нефть Северного моря (Экофиск 1971, первая британская нефть 1975, Фортис, Брент); Трансаляскинский нефтепровод (1977); Норвежский государственный нефтяной фонд (закон 1990, первые отчисления — 1996).
 - Е. Гайдар — Гибель империи. Уроки для современной России (2006): нефтедоходы СССР, импорт зерна, падение цен на нефть 1985–1986.
 - План Месмера (1974), доля АЭС во французской электроэнергии ≈75 % к концу 1980-х (EDF, IAEA PRIS).
-- Авария на Три-Майл-Айленд (28 марта 1979); Чернобыльская авария (26 апреля 1986) — Chernobyl Forum / IAEA, WHO (2005–2006): разброс оценок отдалённой смертности.
+- Авария на Три-Майл-Айленд (28 марта 1979); Чернобыльская авария (26 апреля 1986) — Chernobyl Forum / IAEA, WHO (2005–2006): ≈4 тыс. отдалённых смертей среди наиболее облучённых, ≈9 тыс. с остальными загрязнёнными районами; E. Cardis и др. — Estimates of the cancer burden in Europe from radioactive fallout from the Chernobyl accident (International Journal of Cancer, 2006; МАИР): ≈16 тыс.; I. Fairlie, D. Sumner — The Other Report on Chernobyl (TORCH, 2006, по заказу фракции зелёных Европарламента): 30–60 тыс.; INSAG-7 — The Chernobyl Accident: Updating of INSAG-1 (IAEA, 1992): конструктивные недостатки РБМК.
 - Intel 4004 (1971); G. Moore — закон Мура (1965, уточнение 1975); Apple II (1977), IBM PC (1981), Macintosh (1984), VisiCalc (1979), Lotus 1-2-3 (1983).
 - Производительность труда в несельскохозяйственном бизнес-секторе США: ≈2,8 % (1948–1973) и ≈1,5 % (1973–1995) — BLS.
 - R. Solow — «We'd better watch out», New York Times Book Review (12 июля 1987) — «парадокс Солоу».
@@ -959,15 +1100,17 @@
 - Забастовка авиадиспетчеров PATCO (3 августа 1981), увольнение ≈11 тыс. человек — J. McCartin, Collision Course: Ronald Reagan, the Air Traffic Controllers, and the Strike That Changed America (2011).
 - «Зима недовольства» в Великобритании (1978–1979).
 - Доля обрабатывающей промышленности в несельскохозяйственной занятости США (≈1/4 в 1970, ≈1/8 в 2000); членство в профсоюзах США (≈20 % в 1983, ≈13,5 % в 2000) — BLS; членство в профсоюзах Великобритании (>13 млн в 1979) — Department for Employment / ONS.
+- [Бюро статистики труда США, доля членов профсоюзов 1983–2000](https://www.bls.gov/spotlight/2016/union-membership-in-the-united-states/home.htm): 20,1% в 1983-м и 13,4% в 2000-м; это ряд США, не всех богатых стран. [МВФ, Stabilization and Structural Change in Russia, 1992–94](https://www.elibrary.imf.org/view/journals/001/1995/013/article-A001-en.xml): спад объясняется сочетанием распада хозяйственных связей, снижения вложений и оборонных заказов, роста относительных цен на энергию, конкуренции и макроэкономической нестабильности. [Всемирный банк, обзор сельских реформ Китая](https://documents1.worldbank.org/curated/en/886221468177569650/pdf/560720NWP0CN0v101PUBLIC10China10608.pdf): семейному подряду приписывают 42–46% прироста сельскохозяйственного выпуска 1978–1984 годов, наряду с другими факторами.
 - M. Friedman — The Social Responsibility of Business Is to Increase Its Profits (New York Times Magazine, 13 сентября 1970).
 - M. Jensen, W. Meckling — Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure (Journal of Financial Economics, 1976).
 - Дж. Уэлч, «Дженерал электрик» (глава компании 1981–2001), сокращения 1980-х.
 - L. Mishel и др., Economic Policy Institute — разрыв производительности и оплаты труда; M. Feldstein — Did Wages Reflect Growth in Productivity? (Journal of Policy Modeling, 2008).
-- T. Piketty, E. Saez — Income Inequality in the United States, 1913–1998 (Quarterly Journal of Economics, 2003).
+- T. Piketty, E. Saez — Income Inequality in the United States, 1913–1998 (Quarterly Journal of Economics, 2003): доля верхнего 1 % без прироста капитала ≈10 % (1980) → ≈16,5 % (2000), с приростом капитала ≈10 → ≈21 %.
+- G. Auten, D. Splinter — Income Inequality in the United States: Using Tax Data to Measure Long-Term Trends (Journal of Political Economy, 2024): заметно меньший рост доли верхнего 1 % после налогов и трансфертов.
 - NUMMI (совместное предприятие GM и Toyota во Фримонте, 1984).
 - Заводы «Вольво» в Кальмаре (1974) и Уддевалле (1989–1993); план Мейднера о фондах наёмных работников (1976), демонстрация 4 октября 1983, упразднение фондов (1991).
 - «Солидарность» (август—сентябрь 1980, Гданьская судоверфь, Л. Валенса), ≈10 млн членов.
-- Система семейного подряда в Китае; волостные и поселковые предприятия (>100 млн занятых к середине 1990-х); особая экономическая зона Шэньчжэнь (1980); система хукоу и трудовые мигранты; увольнения на госпредприятиях (сягана) 1995–2002 — B. Naughton, The Chinese Economy: Transitions and Growth (2007).
+- Система семейного подряда в Китае; волостные и поселковые предприятия (>100 млн занятых к середине 1990-х); особые экономические зоны Шэньчжэнь, Чжухай, Шаньтоу, Сямэнь (1980); система хукоу и трудовые мигранты; увольнения на госпредприятиях (сягана) 1995–2002 — B. Naughton, The Chinese Economy: Transitions and Growth (2007).
 - В. Гимпельсон, Р. Капелюшников (ред.) — Российская модель рынка труда (работы 2000-х); задержки зарплат и бартер.
 - C. Gaddy, B. Ickes — Russia's Virtual Economy (Foreign Affairs, 1998).
 - Закрытие «золотого окна» Р. Никсоном (15 августа 1971); переход к плавающим курсам (март 1973) — B. Eichengreen, Globalizing Capital (2-е изд., 2008).
@@ -989,52 +1132,56 @@
 - Нобелевские премии по экономике: Ф. Хайек (1974, совместно с Г. Мюрдалем), М. Фридман (1976).
 - Airline Deregulation Act (1978, администрация Дж. Картера); Motor Carrier Act и Staggers Rail Act (1980).
 - Налоговые реформы Р. Рейгана: Economic Recovery Tax Act (1981, верхняя ставка 70 → 50 %), Tax Reform Act (1986, → 28 %); рост федерального долга США в 1980-е.
-- Приватизация в Великобритании: British Telecom (ноябрь 1984, ≈2 млн покупателей), British Gas (декабрь 1986, кампания «Tell Sid»); Housing Act 1980 («право на покупку»); снижение доли акций у частных лиц — ONS, Share Ownership surveys.
+- Приватизация в Великобритании: British Telecom (ноябрь 1984, ≈2 млн покупателей), British Gas (декабрь 1986, кампания «Tell Sid»); Housing Act 1980 («право на покупку»); снижение доли акций у частных лиц (≈54 % в 1963, ≈28 % в 1981, ≈15 % в 2001) при росте числа частных акционеров с ≈3 до ≈10–11 млн — ONS, Share Ownership surveys.
 - «Большой взрыв» в лондонском Сити (27 октября 1986).
 - J. Stiglitz — Globalization and Its Discontents (2002).
 - Переворот в Чили (11 сентября 1973), «чикагские мальчики», пенсионная реформа (1981), кризис 1982–1983.
+- R. Ffrench-Davis — Economic Reforms in Chile: From Dictatorship to Democracy (2002): ускорение роста после 1985 г. и после 1990 г.
 - Третий пленум ЦК КПК 11-го созыва (декабрь 1978); Дэн Сяопин; поговорка «переходить реку, нащупывая камни» (Чэнь Юнь); события на площади Тяньаньмэнь (июнь 1989).
 - S. Heilmann — Policy Experimentation in China's Economic Rise (Studies in Comparative International Development, 2008).
 - Hongbin Li, Li-An Zhou — Political Turnover and Economic Performance: The Incentive Role of Personnel Control in China (Journal of Public Economics, 2005).
 - Ваучерная приватизация в России (с октября 1992, номинал 10 000 руб.); залоговые аукционы (1995); конституционный кризис (октябрь 1993).
 - C. Freeland — Sale of the Century (2000); D. Hoffman — The Oligarchs (2002).
 - A. Shleifer, D. Treisman — Without a Map: Political Tactics and Economic Reform in Russia (2000).
+- S. Guriev, A. Rachinsky — The Role of Oligarchs in Russian Capitalism (Journal of Economic Perspectives, 2005).
 - План Бальцеровича (Польша, 1 января 1990); списание ≈50 % долга Польши Парижским клубом (1991).
 - Маастрихтский договор (вступил в силу 1 ноября 1993); НАФТА (1994); ВТО (1 января 1995).
 - E. Ostrom — Governing the Commons (1990); Нобелевская премия по экономике (2009); G. Hardin — The Tragedy of the Commons (Science, 1968).
-- J. Y. Lin — Rural Reforms and Agricultural Growth in China (American Economic Review, 1992): вклад семейного подряда в рост производства зерна 1978–1984.
+- J. Y. Lin — Rural Reforms and Agricultural Growth in China (American Economic Review, 1992): вклад семейного подряда ≈47 % прироста продукции растениеводства 1978–1984; производство зерна ≈305 → ≈407 млн т.
 - Платёжный кризис Индии (1991), вывоз золота в залог в Лондон; бюджетная речь М. Сингха (24 июля 1991) и отмена «лицензионного раджа».
-- D. Rodrik, A. Subramanian — From «Hindu Growth» to Productivity Surge: The Mystery of the Indian Growth Transition (IMF Staff Papers, 2004/2005).
+- D. Rodrik, A. Subramanian (в тексте — Субраманьян) — From «Hindu Growth» to Productivity Surge: The Mystery of the Indian Growth Transition (IMF Staff Papers, 2004/2005).
 - Переход ARPANET на TCP/IP (1 января 1983); предложение Т. Бернерс-Ли о Всемирной паутине (ЦЕРН, март 1989), передача программ WWW в общественное достояние (30 апреля 1993); ядро Linux (Л. Торвальдс, 1991).
-- Искоренение натуральной оспы: последний естественный случай (Али Маоу Маалин, Сомали, октябрь 1977), декларация Всемирной ассамблеи здравоохранения (май 1980); F. Fenner и др. — Smallpox and Its Eradication (WHO, 1988): стоимость кампании.
+- Искоренение натуральной оспы: последний естественный случай (Али Маоу Маалин, Сомали, октябрь 1977), декларация Всемирной ассамблеи здравоохранения (май 1980); F. Fenner и др. — Smallpox and Its Eradication (WHO, 1988): стоимость кампании 1967–1979 ≈300 млн долл., из них ≈⅓ — международные средства.
 - Пероральная регидратация; ЮНИСЕФ, Дж. Грант — «революция детского выживания» (1982); UN IGME — оценки детской смертности до 5 лет.
 - J. Farman, B. Gardiner, J. Shanklin — Large losses of total ozone in Antarctica (Nature, 1985); Монреальский протокол (16 сентября 1987).
 - М. Юнус — опыт в Джобре (1976), «Грамин банк» (1983), Нобелевская премия мира (2006); A. Banerjee, D. Karlan, J. Zinman — Six Randomized Evaluations of Microcredit (AEJ: Applied Economics, 2015); кризис микрокредитования в Андхра-Прадеш (2010).
 - Разделение AT&T (вступило в силу 1 января 1984).
-- Смертностный кризис в России: ожидаемая продолжительность жизни мужчин ≈64,9 (1987) → ≈57,6 (1994) — Росстат; Human Mortality Database; V. Shkolnikov, F. Meslé, J. Vallin и др. — работы о смертности в России 1990-х (Population and Development Review, 1990-е—2000-е); E. Brainerd, D. Cutler — Autopsy on an Empire (Journal of Economic Perspectives, 2005); G. A. Cornia, R. Paniccià (ред.) — The Mortality Crisis in Transitional Economies (2000).
+- Смертностный кризис в России: ожидаемая продолжительность жизни мужчин ≈64,9 (1987) → ≈57,6 (1994) — Росстат; Human Mortality Database; V. Shkolnikov, F. Meslé, J. Vallin и др. — работы о смертности в России 1990-х (Population and Development Review, 1990-е—2000-е); E. Brainerd, D. Cutler — Autopsy on an Empire (Journal of Economic Perspectives, 2005); G. A. Cornia, R. Paniccià (ред.) — The Mortality Crisis in Transitional Economies (2000); D. Stuckler, L. King, M. McKee — Mass privatisation and the post-communist mortality crisis (The Lancet, 2009); J. Earle, S. Gehlbach — ответ в The Lancet (2010).
 - Спад ВВП России в 1990–1998 гг. (≈40 %, Госкомстат); сокращение числа исследователей в 1990-е — ЦИСН, «Наука России в цифрах».
-- Войны в бывшей Югославии (1991–1995): ≈100 тыс. погибших в Боснии — Bosnian Book of the Dead (Исследовательско-документационный центр, Сараево, 2007), демографическая группа МТБЮ (E. Tabeau); осада Сараева (1992–1996); разрушение Старого моста в Мостаре (9 ноября 1993).
+- Войны в бывшей Югославии (1991–1995): ≈100 тыс. погибших в Боснии — Bosnian Book of the Dead (Исследовательско-документационный центр, Сараево, 2007), демографическая группа МТБЮ (E. Tabeau); World Bank — Bosnia and Herzegovina: Toward Economic Recovery (1996): падение производства; осада Сараева (1992–1996); разрушение Старого моста в Мостаре (9 ноября 1993).
 - Ирано-иракская война (1980–1988): оценки потерь от нескольких сотен тысяч до ≈1 млн.
-- Геноцид в Руанде (апрель—июль 1994): ≈800 тыс. убитых — оценка ООН.
+- Геноцид в Руанде (апрель—июль 1994): ≈800 тыс. убитых — оценка ООН; ≈500 тыс. — A. Des Forges, Leave None to Tell the Story (Human Rights Watch, 1999); ≈1,07 млн — перепись правительства Руанды (2002).
 - Гиперинфляции: Боливия 1985 (≈11 750 % годовых), Перу 1990 (≈7 500 %), Украина 1993 (≈10 000 %) — S. Hanke, N. Krus, World Hyperinflations (2012); МВФ, International Financial Statistics.
 - Пирамида «МММ» (крах в июле 1994); албанские финансовые пирамиды (1996–1997) — C. Jarvis, The Rise and Fall of Albania's Pyramid Schemes (Finance & Development, IMF, 2000).
 - Структурная перестройка и социальные расходы — G. A. Cornia, R. Jolly, F. Stewart (ред.), Adjustment with a Human Face (UNICEF, 1987).
 - A. Maddison — The World Economy: Historical Statistics (2003): доход на душу в Африке южнее Сахары 1980 и 2000.
 - ВИЧ/СПИД в южной Африке: распространённость и снижение ожидаемой продолжительности жизни — UNAIDS, Report on the Global HIV/AIDS Epidemic (2000); UN World Population Prospects.
 - Аральское море: сокращение площади более чем вдвое к концу 1990-х — P. Micklin, работы об Аральском кризисе (Science, 1988; Annual Review of Earth and Planetary Sciences, 2007).
-- Катастрофа в Бхопале (2–3 декабря 1984), «Юнион карбайд», метилизоцианат: ≈3,8 тыс. погибших по первоначальным официальным данным, сотни тысяч пострадавших — данные правительства штата Мадхья-Прадеш, Верховный суд Индии.
-- Выкуп RJR Nabisco фирмой KKR (1988, ≈25 млрд долл.) — B. Burrough, J. Helyar, Barbarians at the Gate (1990); M. Jensen — Eclipse of the Public Corporation (Harvard Business Review, 1989).
+- Катастрофа в Бхопале (2–3 декабря 1984), «Юнион карбайд», метилизоцианат: ≈3,8 тыс. погибших по официальным данным, 15–20 тыс. с учётом последующих смертей по оценкам независимых медиков и правозащитников, >0,5 млн пострадавших — данные правительства штата Мадхья-Прадеш (2006), Верховный суд Индии.
+- Выкуп RJR Nabisco фирмой KKR (1988, ≈25 млрд долл.) — B. Burrough, J. Helyar, Barbarians at the Gate (1990); M. Jensen — Eclipse of the Public Corporation (Harvard Business Review, 1989); F. Lichtenberg, D. Siegel — The effects of leveraged buyouts on productivity and related aspects of firm behavior (Journal of Financial Economics, 1990); S. Kaplan — The effects of management buyouts on operating performance and value (Journal of Financial Economics, 1989).
 - М. Милкен, Drexel Burnham Lambert, «мусорные облигации»; признание вины (1990) и банкротство Drexel (1990).
 - Кризис ссудо-сберегательных ассоциаций (1986–1995): ≈1 тыс. закрытых учреждений, ≈124 млрд долл. затрат налогоплательщиков — T. Curry, L. Shibut, The Cost of the Savings and Loan Crisis (FDIC Banking Review, 2000).
 - J. Tobin — On the Efficiency of the Financial System (Lloyds Bank Review, 1984).
 - T. Philippon — Has the US Finance Industry Become Less Efficient? (American Economic Review, 2015).
+- R. Greenwood, D. Scharfstein — The Growth of Finance (Journal of Economic Perspectives, 2013): доля финансов в ВВП США 2,8 % (1950), 4,9 % (1980), 8,3 % (2006).
+- R. Levine — Finance and Growth: Theory and Evidence (Handbook of Economic Growth, 2005); J.-L. Arcand, E. Berkes, U. Panizza — Too Much Finance? (Journal of Economic Growth, 2015).
 - Economic Policy Institute — соотношение оплаты генеральных директоров и типичных работников (1965–2000).
 - Японский «пузырь»: пик индекса «Никкей» 29 декабря 1989 (≈38 916), падение цен на землю в 1990-е.
 - Дом народа в Бухаресте (с 1984); выплата внешнего долга Румынии (весна 1989); падение режима Чаушеску (декабрь 1989).
 - Базилика Богоматери Мира в Ямусукро (освящена в 1990).
-- Военные расходы США в 1980-е (≈6 % ВВП) — Office of Management and Budget, Historical Tables; Стратегическая оборонная инициатива (23 марта 1983); оценки военного бремени СССР — CIA, SIPRI.
+- Военные расходы США в 1980-е (≈6 % ВВП) — Office of Management and Budget, Historical Tables; Стратегическая оборонная инициатива (23 марта 1983); оценки военного бремени СССР — CIA, SIPRI; занижение официального оборонного бюджета — работы М. Харрисона (M. Harrison) о советской оборонной экономике.
 - Полёт «Бурана» (15 ноября 1988), закрытие программы «Энергия — Буран» (1993).
-- Открытие GPS для гражданского использования после гибели рейса KAL 007 (сентябрь 1983).
+- Открытие GPS для гражданского использования после гибели рейса KAL 007 (сентябрь 1983); отключение намеренного загрубления сигнала (май 2000).
 - Байкало-Амурская магистраль (стройка 1974–1984, постоянная эксплуатация с 2003); отмена проекта переброски северных рек (август 1986).
 - «Конкорд»: коммерческие рейсы 1976–2003, 14 самолётов в эксплуатации авиакомпаний.
 - F. Bourguignon, C. Morrisson — Inequality Among World Citizens: 1820–1992 (American Economic Review, 2002); B. Milanovic — Global Inequality (2016): сокращение неравенства между странами с конца XX века.
@@ -1042,14 +1189,18 @@
 - Безработица в Великобритании >3 млн (1982–1986) — ONS.
 - Мировое население и ожидаемая продолжительность жизни 1973–2000 — UN, World Population Prospects; смертность детей до 5 лет (1990, 2000) — UN IGME.
 - Внешний долг Латинской Америки (1982) — World Bank, World Debt Tables.
-- Население России (1992–2000) — Росстат; динамика ВВП Польши в 1990-е — IMF, World Economic Outlook.
+- Население России (1992–2000) — Росстат; динамика ВВП Польши в 1990-е — IMF, World Economic Outlook; EBRD, Transition Report.
 - Число ядерных боеголовок (пик середины 1980-х) — Federation of American Scientists, Status of World Nuclear Forces; мировые военные расходы — SIPRI Military Expenditure Database.
 - Доход на душу в Китае 1978 и 2000 — A. Maddison, The World Economy: Historical Statistics (2003).
+- Промышленные роботы в Японии (≈60 % мирового парка к концу 1980-х) — International Federation of Robotics.
+- Кредиты крупнейших банков США развивающимся странам относительно их капитала — FDIC, History of the Eighties: Lessons for the Future (1997).
+- Раздел «Счёт в зерне и жизнях» (авторская оценка): T. Curry, L. Shibut — The Cost of the Savings and Loan Crisis (FDIC Banking Review, 2000): ≈153 млрд долл. всего, ≈124 млрд — налогоплательщики; средняя часовая зарплата рабочих США ≈1990 г. — BLS (Current Employment Statistics); стоимость проекта «Геном человека» ≈3 млрд долл. — NHGRI; бюджет NIH, цена пшеницы ≈1990 г. — прикидка автора, требует проверки; стоимость программы «Энергия — Буран» (≈16 млрд руб., оценки 14–20) — требует проверки; средняя месячная зарплата ≈190 руб. (1985) — «Народное хозяйство СССР»; закупочная цена зерна, стоимость типовой квартиры, объём жилищного строительства — прикидка автора, требует проверки.
 
 ## Глава 16. Цифровая экономика и вторая глобализация (1990–2010)
 
 - Презентация iPhone на Macworld (9 января 2007, Moscone Center, Сан-Франциско); начало продаж в США (29 июня 2007).
 - Y. Xing, N. Detert — How the iPhone Widens the United States Trade Deficit with the People's Republic of China (ADBI Working Paper 257, 2010): себестоимость iPhone 3G ≈179 долл., сборка в Китае ≈6,5 долл.
+- K. Kraemer, G. Linden, J. Dedrick — Capturing Value in Global Networks: Apple's iPad and iPhone (2011): Apple удерживала ≈58% цены iPhone 4.
 - Foxconn (Hon Hai Precision), комплекс Лунхуа в Шэньчжэне — оценки численности работников по журналистским данным.
 - ITU — World Telecommunication/ICT Indicators: число пользователей интернета (≈2 млрд в 2010) и мобильных подключений (>5 млрд в 2010).
 - Вступление Китая в ВТО (11 декабря 2001).
@@ -1061,42 +1212,52 @@
 - «Эмма Мерск» (Maersk, 2006) — контейнеровоз вместимостью более 10 тыс. TEU.
 - Производство электроэнергии и потребление угля в Китае 2000–2010 — IEA, BP Statistical Review of World Energy.
 - Цена нефти: ≈10 долл. за баррель (конец 1998), пик ≈147 долл. (июль 2008) — EIA.
-- Дж. Митчелл, Mitchell Energy — сочетание горизонтального бурения и гидроразрыва (сланец Барнетт).
+- Дж. Митчелл, Mitchell Energy — гидроразрыв на воде (slickwater, 1997) в вертикальных скважинах сланца Барнетт; соединение с горизонтальным бурением — Devon Energy после покупки Mitchell (2002).
+- Z. Wang, A. Krupnick — A Retrospective Review of Shale Gas Development in the United States (Resources for the Future, 2013): роль налоговой льготы на нетрадиционный газ и исследований Минэнерго.
 - Р. Солоу — «парадокс производительности» (New York Times Book Review, 1987).
 - Р. Гордон — «Взлёт и падение американского роста»: ускорение производительности США 1995–2004 и последующее замедление.
 - Самоубийства работников Foxconn в Шэньчжэне (2010) — сообщения мировой прессы; ответные меры компании (повышение зарплат, сетки).
-- Национальное бюро статистики КНР — отчёты о мониторинге рабочих-мигрантов (нунминьгун): более 200 млн к концу 2000-х; система прописки хукоу.
+- Национальное бюро статистики КНР — отчёты о мониторинге рабочих-мигрантов (нунминьгун): ≈230 млн в 2009 г., из них ≈145 млн — покинувшие родные места; система прописки хукоу.
+- M. O'Donnell, W. Wong, J. Bach (eds.) — Learning from Shenzhen (2017): Шэньчжэнь до 1979 г. — приграничный уездный городок, а не «рыбацкая деревня».
 - Всемирный банк — оценки крайней бедности в Китае 1990–2010 (PovcalNet / World Development Indicators).
 - US Bureau of Labor Statistics — занятость в обрабатывающей промышленности США (≈17 млн в 2000, <12 млн в 2010).
-- D. Autor, D. Dorn, G. Hanson — The China Syndrome (American Economic Review, 2013) / «Китайский шок» (2016): потери рабочих мест от импорта из Китая 1999–2011.
-- D. Autor — поляризация рынка труда, исчезновение рутинных занятий средней квалификации.
+- D. Autor, D. Dorn, G. Hanson — The China Syndrome (American Economic Review, 2013): ≈¼ спада занятости в обрабатывающей промышленности 1990–2007; The China Shock (Annual Review of Economics, 2016). Оценка ≈2 млн мест за 1999–2011 — Acemoglu et al. 2016 (ниже).
+- L. Caliendo, M. Dvorkin, F. Parro — Trade and Labor Market Dynamics (Econometrica, 2019): ≈0,8 млн мест в обрабатывающей промышленности; R. Feenstra, H. Ma, Y. Xu — US Exports and Employment (Journal of International Economics, 2019).
+- W. Dauth, S. Findeisen, J. Suedekum — The Rise of the East and the Far East: German Labor Markets and Trade Integration (Journal of the European Economic Association, 2014).
+- D. Autor — поляризация рынка труда, исчезновение рутинных занятий средней квалификации; M. Goos, A. Manning — Lousy and Lovely Jobs: The Rising Polarization of Work in Britain (Review of Economics and Statistics, 2007).
+- Доля труда: L. Karabarbounis, B. Neiman — The Global Decline of the Labor Share (QJE, 2014); D. Autor et al. — The Fall of the Labor Share and the Rise of Superstar Firms (QJE, 2020); M. Rognlie — Deciphering the Fall and Rise in the Net Capital Share (Brookings Papers, 2015).
 - Аутсорсинг: Nike; Infosys, Wipro (Бангалор); «проблема 2000 года».
 - Walmart и рост производительности в розничной торговле США конца 1990-х — McKinsey Global Institute, US Productivity Growth 1995–2000 (2001).
 - Добровольные проекты: Википедия, Linux, Apache.
 - МОТ (Global Wage Report) и МВФ (World Economic Outlook, 2007, 2017) — снижение доли труда в национальном доходе.
 - eBay (AuctionWeb, 1995): П. Омидьяр и сломанная лазерная указка (≈14 долл.); система отзывов и рейтингов.
 - Napster (1999, Ш. Фаннинг), закрытие по решению суда (2001); IFPI — сокращение мировых продаж записанной музыки в 2000-е.
+- F. Oberholzer-Gee, K. Strumpf — The Effect of File Sharing on Record Sales (Journal of Political Economy, 2007); S. Liebowitz — File Sharing: Creative Destruction or Just Plain Destruction? (Journal of Law and Economics, 2006).
 - Введение евро: безналичное (1 января 1999, 11 стран), наличное (1 января 2002).
 - Азиатский финансовый кризис 1997–1998; дефолт России (август 1998).
 - Народный банк Китая / SAFE — валютные резервы КНР (>2,5 трлн долл. к 2010).
-- Б. Бернанке — The Global Saving Glut and the U.S. Current Account Deficit (речь, 2005).
+- Б. Бернанке — The Global Saving Glut and the U.S. Current Account Deficit (речь, 2005); Monetary Policy and the Housing Bubble (речь, январь 2010).
+- C. Borio, P. Disyatat — Global Imbalances and the Financial Crisis: Link or No Link? (BIS Working Paper 346, 2011); H. S. Shin — Global Banking Glut and Loan Risk Premium (IMF Economic Review, 2012).
+- J. Taylor — Getting Off Track (2009): слишком низкие ставки 2002–2004 гг. и жилищный пузырь.
 - US Bureau of Economic Analysis — доля финансового сектора в корпоративных прибылях США (оценки).
 - Bank for International Settlements — статистика внебиржевых деривативов (условный объём >600 трлн долл., 2008).
-- Safaricom, M-Pesa (Кения, 2007); T. Suri, W. Jack — The long-run poverty and gender impacts of mobile money (Science, 2016).
+- Safaricom, M-Pesa (Кения, 2007); T. Suri, W. Jack — The long-run poverty and gender impacts of mobile money (Science, 2016); критика: M. Bateman, M. Duvendack, N. Loubere — Is fin-tech the new panacea for poverty alleviation and local development? (Review of African Political Economy, 2019).
 - Индекс NASDAQ Composite: пик в марте 2000 (>5000), минимум в октябре 2002.
 - Индекс цен на жильё S&P/Case-Shiller (США), 1997–2006.
 - «Великая умеренность» (Great Moderation) — термин из выступлений Б. Бернанке (2004).
 - Марракешское соглашение (апрель 1994) об учреждении ВТО (с 1 января 1995); соглашение ТРИПС (минимальный срок патента 20 лет).
 - J. Williamson — What Washington Means by Policy Reform (1989/1990): «Вашингтонский консенсус».
-- Telecommunications Act 1996 (Communications Decency Act, Section 230); Digital Millennium Copyright Act (1998).
+- Telecommunications Act 1996 (Communications Decency Act, Section 230); Digital Millennium Copyright Act (1998), в т. ч. «безопасная гавань» для площадок (раздел 512).
+- J. Kosseff — The Twenty-Six Words That Created the Internet (2019); T. Wu — The Curse of Bigness (2018).
 - United States v. Microsoft Corp. (иск 1998; решение о разделении 2000; отмена в апелляции и мировое соглашение 2001).
 - Gramm–Leach–Bliley Act (1999), частичная отмена Glass–Steagall Act (1933); слияние Travelers и Citicorp (1998).
-- Commodity Futures Modernization Act (2000); решение SEC о консолидированном надзоре и чистом капитале (2004); кредитное плечо инвестбанков ≈30:1 (FCIC, Financial Crisis Inquiry Report, 2011).
+- Commodity Futures Modernization Act (2000); решение SEC о консолидированном надзоре и чистом капитале (2004); кредитное плечо инвестбанков ≈30:1 (FCIC, Financial Crisis Inquiry Report, 2011); E. Sirri — Securities Markets and Regulatory Reform (2009): высокое плечо и до правила 2004 г.
 - А. Гринспен — показания в Комитете Палаты представителей по надзору (23 октября 2008).
 - G. Stigler — The Theory of Economic Regulation (1971): захват регулятора.
 - S. Johnson — The Quiet Coup (The Atlantic, 2009).
 - D. Rodrik — One Economics, Many Recipes (2007).
 - Emergency Economic Stabilization Act / TARP (3 октября 2008, 700 млрд долл.); рекапитализация RBS и Lloyds (2008); китайский пакет стимулов 4 трлн юаней (ноябрь 2008); первый саммит G20 на уровне лидеров (Вашингтон, ноябрь 2008).
+- Congressional Budget Office — Report on the Troubled Asset Relief Program (итоговая оценка, 2024): чистая стоимость TARP ≈31 млрд долл., вложения в банки — доход для казны.
 - R. Jensen — The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector (Quarterly Journal of Economics, 2007): рыбаки Кералы и мобильная связь.
 - Т. Бернерс-Ли, ЦЕРН — предложение Всемирной паутины (1989); передача ПО WWW в общественное достояние (30 апреля 1993).
 - arXiv (П. Гинспарг, 1991) — открытый архив препринтов.
@@ -1104,33 +1265,37 @@
 - Всемирный банк — глобальная доля крайней бедности (≈36% в 1990, ≈16% в 2010); Цели развития тысячелетия ООН (2000), достижение цели по бедности к 2010 г.
 - C. Perez — Technological Revolutions and Financial Capital (2002): спекулятивная фаза финансирует инфраструктуру; «тёмное» оптоволокно после краха телекомов 2000–2002.
 - Мораторий на промысел северной трески у Ньюфаундленда (2 июля 1992, министр Дж. Кросби); ≈30 тыс. потерянных рабочих мест — Fisheries and Oceans Canada.
+- J. Hutchings, R. Myers — What Can Be Learned from the Collapse of a Renewable Resource? Atlantic Cod of Newfoundland and Labrador (Canadian Journal of Fisheries and Aquatic Sciences, 1994): завышенные оценки запаса, предупреждения прибрежных рыбаков.
 - INPE (Бразилия), программа PRODES — вырубка лесов Амазонии (≈27 тыс. км² в 2004).
 - Банкротство Enron (декабрь 2001), крах Arthur Andersen (2002), бухгалтерское мошенничество WorldCom (≈11 млрд долл., 2002); Sarbanes–Oxley Act (2002).
-- Financial Crisis Inquiry Commission — Financial Crisis Inquiry Report (2011): вывод об избежимости кризиса, роль рейтинговых агентств.
+- Financial Crisis Inquiry Commission — Financial Crisis Inquiry Report (2011): вывод об избежимости кризиса, роль рейтинговых агентств; особые мнения К. Хеннесси, Д. Холц-Икина, Б. Томаса и отдельно П. Уоллисона.
+- A. Mian, A. Sufi — House of Debt (2014); M. Adelino, A. Schoar, F. Severino — Loan Originations and Defaults in the Mortgage Crisis: The Role of the Middle Class (Review of Financial Studies, 2016).
 - Арест Б. Мейдоффа (11 декабря 2008); бумажный размер пирамиды ≈65 млрд долл.
 - Federal Reserve, Financial Accounts of the United States (Z.1) — чистое богатство домохозяйств 2007–2009; BLS — безработица 10% (октябрь 2009); Eurostat — безработица в Испании (>20% в 2010).
-- Гистерезис и «шрамы» выпускников кризисных лет — L. Kahn, The long-term labor market consequences of graduating from college in a bad economy (Labour Economics, 2010).
+- Гистерезис и «шрамы» выпускников кризисных лет — L. Kahn, The long-term labor market consequences of graduating from college in a bad economy (Labour Economics, 2010); L. Ball — Long-term damage from the Great Recession in OECD countries (European Journal of Economics and Economic Policies, 2014).
 - Аргентина: «корралито» (декабрь 2001), дефолт 2001–2002; INDEC — уровень бедности 2002.
-- Зимбабве: земельная реформа (с 2000), гиперинфляция 2007–2008 — S. Hanke, A. Kwok, On the Measurement of Zimbabwe's Hyperinflation (Cato Journal, 2009); купюра в 100 трлн долл. (январь 2009).
-- Войны в Югославии 1991–2001; осада Сараево (1992–1996); геноцид в Руанде (1994); International Rescue Committee — Mortality in the Democratic Republic of Congo (оценки и их критика: Human Security Report 2009/2010).
+- Зимбабве: земельная реформа (с 2000), гиперинфляция 2007–2008 — S. Hanke, A. Kwok, On the Measurement of Zimbabwe's Hyperinflation (Cato Journal, 2009); купюра в 100 трлн долл. (январь 2009); I. Scoones et al. — Zimbabwe's Land Reform: Myths and Realities (2010).
+- Войны в Югославии 1991–2001; Исследовательский и документационный центр (Сараево) — «Боснийская книга мёртвых» (≈100 тыс. погибших в Боснии); осада Сараево (1992–1996); геноцид в Руанде (1994); International Rescue Committee — Mortality in the Democratic Republic of Congo (оценки и их критика: Human Security Report 2009/2010).
 - J. Stiglitz, L. Bilmes — The Three Trillion Dollar War (2008); разграбление Иракского национального музея (апрель 2003); приказы Временной коалиционной администрации № 1 и № 2 (2003).
 - P. Chigwedere et al. — Estimating the Lost Benefits of Antiretroviral Drug Use in South Africa (JAIDS, 2008).
-- Purdue Pharma: выпуск OxyContin (1996), признание вины в федеральном суде (2007).
-- A. Case, A. Deaton — Rising morbidity and mortality in midlife among white non-Hispanic Americans in the 21st century (PNAS, 2015); «Смерти от отчаяния и будущее капитализма» (2020).
+- Purdue Pharma: выпуск OxyContin (1996), признание вины в федеральном суде (2007); A. Alpert, W. Evans, E. Lieber, D. Powell — Origins of the Opioid Crisis and Its Enduring Impacts (QJE, 2022).
+- A. Case, A. Deaton — Rising morbidity and mortality in midlife among white non-Hispanic Americans in the 21st century (PNAS, 2015); «Смерти от отчаяния и будущее капитализма» (2020); C. Ruhm — Drivers of the fatal drug epidemic (Journal of Health Economics, 2019).
 - Pets.com: выход на биржу (февраль 2000), ликвидация (ноябрь 2000); Webvan — банкротство (2001), привлечённый капитал ≈800 млн долл. (по сообщениям прессы).
-- Строительный бум в Испании середины 2000-х (число закладываемых жилищ в сравнении с Германией, Францией и Италией — распространённые оценки); Ирландия — National Housing Development Survey (2010): ≈3 тыс. недостроенных жилых комплексов («ghost estates»).
+- Строительный бум в Испании середины 2000-х (число закладываемых жилищ в сравнении с Германией, Францией и Британией — распространённые оценки, требует проверки по Евростату); Ирландия — National Housing Development Survey (2010): ≈3 тыс. недостроенных жилых комплексов («ghost estates»).
 - Кангбаши (Ордос, Внутренняя Монголия) — сообщения прессы о малозаселённом новом районе (конец 2000-х).
 - M. Lewis — Flash Boys (2014): кабель Spread Networks Чикаго — Нью-Йорк (2010), ≈300 млн долл.
+- E. Budish, P. Cramton, J. Shim — The High-Frequency Trading Arms Race (QJE, 2015); T. Hendershott, C. Jones, A. Menkveld — Does Algorithmic Trading Improve Liquidity? (Journal of Finance, 2011).
+- C. Goldin, L. Katz — Transitions: Career and Family Life Cycles of the Educational Elite (AER Papers and Proceedings, 2008): выпускники Гарварда в финансах и консалтинге.
 - T. Philippon — Has the US Finance Industry Become Less Efficient? (American Economic Review, 2015): неизменная стоимость финансового посредничества.
 - Дж. Хаммербахер — высказывание о «лучших умах», занятых рекламой (интервью Bloomberg Businessweek, 2011).
 - US Census Bureau — Characteristics of New Housing: средняя площадь нового частного дома (1973–2007).
-- J. Bessen, M. Meurer — The Direct Costs from NPE Disputes (Cornell Law Review, 2014): издержки исков «патентных троллей»; суды Восточного округа Техаса (Маршалл).
+- J. Bessen, M. Meurer — The Direct Costs from NPE Disputes (Cornell Law Review, 2014): издержки исков «патентных троллей»; суды Восточного округа Техаса (Маршалл); критика: D. Schwartz, J. Kesan — Analyzing the Role of Non-Practicing Entities in the Patent System (Cornell Law Review, 2014).
 - SIPRI Military Expenditure Database — военные расходы США 2001–2010.
 - «Проблема 2000 года» (Y2K): оценки мировых расходов на исправление (сотни млрд долл.).
 - H. Minsky — гипотеза финансовой нестабильности («стабильность порождает нестабильность»), Stabilizing an Unstable Economy (1986).
-- Б. Миланович — «Глобальное неравенство» (2016): «кривая слона», изменение доходов по процентилям мирового распределения 1988–2008.
-- Д. Родрик — «Парадокс глобализации» (2011): трилемма глобализации, демократии и национального суверенитета.
-- ITU — число пользователей интернета (≈16 млн в 1995, ≈360 млн в 2000).
+- Б. Миланович — «Глобальное неравенство» (2016): «кривая слона», изменение доходов по процентилям мирового распределения 1988–2008; C. Lakner, B. Milanovic — Global Income Distribution (World Bank Economic Review, 2016); критика: A. Corlett — Examining an elephant (Resolution Foundation, 2016).
+- Д. Родрик — How Far Will International Economic Integration Go? (Journal of Economic Perspectives, 2000); «Парадокс глобализации» (2011): трилемма глобализации, демократии и национального суверенитета.
+- Internet World Stats / Nua — число пользователей интернета (≈16 млн в декабре 1995, ≈361 млн в декабре 2000; оценки 1995 г. у разных источников — 16–40 млн); ITU — ≈315 млн на конец 2000 г.
 - Intel — число транзисторов в процессорах конца 2000-х (сотни млн — >1 млрд).
 - UNCTAD — Review of Maritime Transport: контейнерооборот портов мира (≈90 млн TEU в 1990, >500 млн в 2010).
 - Всемирный банк, World Development Indicators — доля торговли в мировом ВВП (1990–2008).
@@ -1139,9 +1304,13 @@
 - UN IGME — смертность детей до 5 лет (93‰ в 1990, ≈63‰ в 2010); UN World Population Prospects — население и продолжительность жизни.
 - D. Acemoglu, D. Autor, D. Dorn, G. Hanson, B. Price — Import Competition and the Great US Employment Sag of the 2000s (Journal of Labor Economics, 2016).
 - Federal Reserve, Financial Accounts of the United States — долг домохозяйств к располагаемому доходу (≈130% в 2007).
-- T. Piketty, E. Saez — Income Inequality in the United States, 1913–1998 (QJE, 2003), обновлённые ряды: доля верхнего 1% в 2007 г.
+- T. Piketty, E. Saez — Income Inequality in the United States, 1913–1998 (QJE, 2003), обновлённые ряды: доля верхнего 1% с приростом капитала — 23,5% в 2007 г. против 23,9% в 1928 г.; доля верхних 10% — 49,7% против 49,3% (E. Saez, Striking it Richer, обновление 2009).
+- Проверка недоучёта бесплатных благ: C. Syverson — Challenges to Mismeasurement Explanations for the US Productivity Slowdown (JEP, 2017); D. Byrne, J. Fernald, M. Reinsdorf — Does the United States Have a Productivity Slowdown or a Measurement Problem? (Brookings Papers, 2016); E. Brynjolfsson, A. Collis, F. Eggers — Using massive online choice experiments to measure changes in well-being (PNAS, 2019).
+- Выигрыш потребителей от импорта: P. Fajgelbaum, A. Khandelwal — Measuring the Unequal Gains from Trade (QJE, 2016); C. Broda, J. Romalis — The Welfare Implications of Rising Price Dispersion (2009).
+- Патент Уатта: M. Boldrin, D. Levine — Against Intellectual Monopoly (2008) — см. гл. 10.
 - SIPRI Military Expenditure Database — мировые военные расходы (>1,6 трлн долл. в 2010).
 - J. Stiglitz, L. Bilmes — The Three Trillion Dollar War (2008).
+- Раздел «Счёт в зерне и жизнях» (авторская оценка): A. Belasco — The Cost of Iraq, Afghanistan, and Other Global War on Terror Operations Since 9/11 (CRS RL33110, 2010–2011): ≈751 млрд долл. на Ирак к FY2010, ≈0,8 трлн к 2011 г.; J. Stiglitz, L. Bilmes (2008) — ≈3 трлн; медианная часовая зарплата США 2005–2010 — BLS (Occupational Employment Statistics); Iraq Body Count; Iraq Family Health Survey Study Group (NEJM, 2008) — ≈151 тыс. к июню 2006 г.; G. Burnham et al. (The Lancet, 2006) — ≈655 тыс.; UNESCO — EFA Global Monitoring Report 2010 (разрыв финансирования ≈16 млрд долл./год, требует проверки); Ministerio de Vivienda / Ministerio de Fomento — запас непроданного нового жилья (≈688 тыс. в первоначальном отчёте за 2009 г., ≈650 тыс. в пересмотренном ряду; ≈536 тыс. к концу 2014 г.); INE — Encuesta de Estructura Salarial 2008 (медианная зарплата); себестоимость квартиры, расходы Испании на образование, цены пшеницы — прикидка автора, требует проверки.
 
 ## Глава 17. Мир 2010–2026
 
@@ -1154,7 +1323,9 @@
 - ООН, Департамент по экономическим и социальным вопросам — World Population Prospects 2022 (восемь миллиардов).
 - UBS — оценка роста аудитории ChatGPT (февраль 2023).
 - Управление энергетической информации США (EIA) — данные о добыче нефти (США — крупнейший производитель с 2018 года).
-- Д. Фармер и соавт. (Оксфорд) — исследования кривых обучения для солнечной энергетики.
+- Р. Уэй, М. Айвс, П. Мили, Д. Фармер — «Empirically grounded technology forecasts and the energy transition», Joule (2022) (кривые обучения солнечной энергетики, ≈20 % на удвоение).
+- Г. Немет — «How Solar Energy Became Cheap» (2019) (немецкий спрос, китайское производство и падение цен панелей).
+- М. Фрондель, Н. Риттер, К. Шмидт, К. Фанс — «Economic impacts from the promotion of renewable energy technologies: The German experience», Energy Policy (2010) (критика немецких субсидий).
 - BloombergNEF — Lithium-ion Battery Price Survey (снижение цен аккумуляторов 2010–2023).
 - Международное энергетическое агентство (МЭА) — Solar PV Global Supply Chains (2022); Global EV Outlook 2025; Energy and AI (2025).
 - Energy Institute — Statistical Review of World Energy 2024.
@@ -1162,68 +1333,86 @@
 - Нобелевский комитет — премии по химии 2024 (AlphaFold) и по физиологии и медицине 2023 (мРНК-вакцины).
 - ОЭСР — статистика производительности труда.
 - Р. Гордон — «Взлёт и падение американского роста».
+- Д. Эндрюс, К. Крисколо, П. Гал — «The Best versus the Rest: The Global Productivity Slowdown, Divergence across Firms and the Role of Public Policy» (OECD, 2016); Я. Де Лекер, Я. Экхаут, Г. Унгер — «The Rise of Market Power and the Macroeconomic Implications», Quarterly Journal of Economics (2020); Т. Филиппон — «Великий разворот» (The Great Reversal, 2019).
 - Л. Кац, А. Крюгер — исследования альтернативных форм занятости в США; Бюро трудовой статистики — Contingent and Alternative Employment Arrangements (2017).
 - Верховный суд Великобритании — Uber BV v Aslam (2021); Директива ЕС об улучшении условий платформенного труда (2024).
 - Х. М. Барреро, Н. Блум, С. Дэвис — Survey of Working Arrangements and Attitudes (доля работы из дома в США).
 - Бюро трудовой статистики США — JOLTS (число добровольных увольнений, 2021–2022).
-- Д. Грэбер — эссе «О феномене бессмысленной работы» (2013); книга «Бредовая работа» (2018); опрос YouGov (2015).
-- М. Соффиа, А. Вуд, Б. Бёрчелл — «Alienation Is Not 'Bullshit'» (2022), проверка тезиса Грэбера.
-- К. Фрей, М. Осборн — «The Future of Employment» (2013); ОЭСР — оценки риска автоматизации (Л. Нёдорф, Г. Кветан, 2018).
+- Д. Гребер — эссе «О феномене бессмысленной работы» (2013); книга «Бредовая работа» (2018); опрос YouGov (2015) — проведён после эссе, использован в книге.
+- М. Соффиа, А. Вуд, Б. Бёрчелл — «Alienation Is Not 'Bullshit'» (2022), проверка тезиса Гребера.
+- К. Фрей, М. Осборн — «The Future of Employment» (2013); Л. Неделковска, Г. Квинтини — «Automation, skills use and training», OECD Social, Employment and Migration Working Papers No. 202 (2018); М. Арнц, Т. Грегори, У. Цирахн — «The Risk of Automation for Jobs in OECD Countries» (OECD, 2016).
 - Д. Аджемоглу, П. Рестрепо — «Robots and Jobs: Evidence from US Labor Markets» (2020).
-- Д. Отор — работы о поляризации рынка труда.
+- Д. Отор — работы о поляризации рынка труда; М. Гоос, А. Мэннинг — «Lousy and Lovely Jobs», Review of Economics and Statistics (2007).
 - Э. Бриньолфссон, Д. Ли, Л. Реймонд — «Generative AI at Work» (2023).
 - Дж. М. Кейнс — «Экономические возможности наших внуков» (1930); ОЭСР — статистика отработанных часов.
 - Федеральная резервная система США — данные о балансе (2008–2022); Distributional Financial Accounts (распределение богатства).
 - Европейский центральный банк, Банк Японии — решения об отрицательных ставках (2014–2022; 2016–2024).
 - Bloomberg — объём облигаций с отрицательной доходностью (2020).
 - Р. Кантильон — «Опыт о природе торговли вообще» (эффект Кантильона).
+- М. Ленца, И. Слачалек — «Quantitative easing did compress income inequality», Journal of Applied Econometrics (2024); Б. Бернанке — «Monetary policy and inequality» (блог Brookings, 2015); Д. Доманский, М. Скатинья, А. Забаи — «Wealth inequality and monetary policy», BIS Quarterly Review (март 2016).
+- Л. Саммерс — «U.S. Economic Prospects: Secular Stagnation, Hysteresis, and the Zero Lower Bound», Business Economics (2014); Л. Рэйчел, Т. Смит — «Secular drivers of the global real interest rate», Bank of England Staff Working Paper No. 571 (2015).
+- Э. Глейзер, Дж. Гьюрко — «The Economic Implications of Housing Supply», Journal of Economic Perspectives (2018).
 - ОЭСР — Analytical House Price Database (цены жилья и доходы).
 - S&P Dow Jones Indices — данные об обратном выкупе акций компаниями S&P 500 (2022).
-- Банк международных расчётов — доклады о «фирмах-зомби» (2018 и далее).
-- С. Накамото — «Bitcoin: A Peer-to-Peer Electronic Cash System» (2008).
+- Банк международных расчётов — доклады о «фирмах-зомби»: Р. Банерджи, Б. Хофман — «The rise of zombie firms: causes and consequences», BIS Quarterly Review (сентябрь 2018); Дж. Фавара, К. Минойу, А. Перес-Ороско — «Zombie Lending to U.S. Firms» (ФРС, 2022/2023) (о малой доле зомби в США).
+- С. Накамото — «Bitcoin: A Peer-to-Peer Electronic Cash System» (2008); CoinMarketCap, CoinGecko — капитализация криптовалют (пик ноября 2021 г. ≈3 трлн долл.); Ethereum Foundation — переход на proof-of-stake (The Merge, сентябрь 2022).
 - Кембриджский центр альтернативных финансов — Cambridge Bitcoin Electricity Consumption Index.
 - NPCI (Индия) — статистика UPI; Центральный банк Бразилии — система Pix.
 - Корпорация по страхованию депозитов США (FDIC), ФРС — материалы о крахе Silicon Valley Bank (2023).
 - Всемирный совет по золоту — Gold Demand Trends (покупки золота центральными банками, 2022–2024).
-- Т. Пикетти — «Капитал в XXI веке».
-- М. Драги — выступление на Global Investment Conference, Лондон (26 июля 2012).
+- Т. Пикетти — «Капитал в XXI веке»; М. Роньли — «Deciphering the fall and rise in the net capital share», Brookings Papers on Economic Activity (2015) (критика: рост доли капитала — за счёт жилья).
+- М. Драги — выступление на Global Investment Conference, Лондон (26 июля 2012); ЕЦБ — программа Outright Monetary Transactions (6 сентября 2012).
 - П. Такер — «Unelected Power» (2018).
-- Евростат — ВВП и безработица Греции (2008–2015); Независимый оценочный отдел МВФ — The IMF and the Crises in Greece, Ireland, and Portugal (2016).
+- Евростат — ВВП и безработица Греции (2008–2015); Независимый оценочный отдел МВФ — The IMF and the Crises in Greece, Ireland, and Portugal (2016); О. Бланшар, Д. Ли — «Growth Forecast Errors and Fiscal Multipliers», IMF Working Paper 13/1 (2013).
 - Европейская комиссия — решения по делам Google (2017, 2018, 2019); Закон о цифровых рынках (2022).
 - Окружной суд США по округу Колумбия — United States v. Google LLC (решение 5 августа 2024).
 - OpenSecrets — данные о расходах на лоббирование в США; Верховный суд США — Citizens United v. FEC (2010).
 - Дж. Стиглер — «The Theory of Economic Regulation» (1971).
 - Госсовет КНР — программа «Сделано в Китае — 2025» (2015); CHIPS and Science Act и Inflation Reduction Act (США, 2022).
+- Э. Амсден — «Новый гигант Азии» (Asia's Next Giant, 1989); Р. Уэйд — «Governing the Market» (1990); Всемирный банк — The East Asian Miracle (1993) (скептическая оценка отраслевой политики).
 - Бюро промышленности и безопасности Минторга США — экспортные ограничения на передовые микросхемы (октябрь 2022).
 - ОЭСР — Two-Pillar Solution, глобальный минимальный налог (2021).
-- Гражданская ассамблея Ирландии (2016–2018) — доклады и рекомендации.
+- Гражданская ассамблея Ирландии (2016–2018) — доклады и рекомендации; Избирательная комиссия Эстонии — статистика интернет-голосования.
 - Pew Research Center — опросы о доверии к институтам; Edelman Trust Barometer.
-- Чжан Юнчжэнь, Э. Холмс — публикация генома SARS-CoV-2 на virological.org (11 января 2020).
-- О. Уотсон и соавт. (Имперский колледж Лондона) — «Global impact of the first year of COVID-19 vaccination», The Lancet Infectious Diseases (2022).
+- Чжан Юнчжэнь, Э. Холмс — публикация генома SARS-CoV-2 на virological.org (11 января 2020); South China Morning Post (февраль 2020) — о закрытии лаборатории «на исправление» (требует проверки).
+- Э. Долджин — «The tangled history of mRNA vaccines», Nature (2021) (гранты, DARPA, венчурный капитал Moderna и BioNTech).
+- О. Уотсон и соавт. (Имперский колледж Лондона) — «Global impact of the first year of COVID-19 vaccination», The Lancet Infectious Diseases (2022) (14,4 млн по зарегистрированным смертям, 19,8 млн по избыточной смертности).
+- COVID-19 Excess Mortality Collaborators — «Estimating excess mortality due to the COVID-19 pandemic», The Lancet (2022); The Economist — модель избыточной смертности (диапазон выше оценки ВОЗ).
 - Всемирный банк — Poverty and Shared Prosperity 2022 (крайняя бедность 2010–2020); проект IDCOL, солнечные установки в Бангладеш.
+- Дж. Сакс — «Конец бедности» (2005); У. Истерли — «Бремя белого человека» (2006) (спор об отдаче помощи).
 - Межведомственная группа ООН по оценке детской смертности (UN IGME) — Levels and Trends in Child Mortality 2023; ООН — World Population Prospects 2024 (ожидаемая продолжительность жизни).
 - Й. Бенклер — «Богатство сетей» (2006).
 - NPCI / UIDAI (Индия) — статистика Aadhaar; Верховный суд Индии — дело Puttaswamy (2018).
 - GSMA — State of the Industry Report on Mobile Money (2022–2023).
 - Закон Германии о возобновляемых источниках энергии (EEG, 2000).
-- Meta — открытые модели Llama (2023); DeepSeek — модель R1 (январь 2025).
+- Meta — открытые модели Llama (2023, лицензия Llama Community License); DeepSeek — модель R1 (январь 2025).
+- Нобелевский комитет — премия по химии 2024 (Д. Бейкер; Д. Хассабис, Дж. Джампер); заявления С. Пичаи (октябрь 2024) и С. Наделлы (апрель 2025) о доле кода, написанного ИИ (требует проверки).
 - Управление ООН по правам человека (УВКПЧ) — доклады о жертвах среди мирного населения Украины (2022–2025); УВКБ ООН — данные о беженцах из Украины и Сирии.
+- Центр стратегических и международных исследований (CSIS) — оценка военных потерь России и Украины (июнь 2025).
+- NORSAR — сейсмическая регистрация взрыва Каховской ГЭС (июнь 2023); The New York Times — расследование разрушения плотины (16 июня 2023).
 - Госстат Украины — ВВП 2022 года; Всемирный банк, правительство Украины, ЕС, ООН — Ukraine Rapid Damage and Needs Assessment (RDNA4, февраль 2025).
 - Международная организация по миграции — данные о внутренне перемещённых лицах в Судане (2023–2025); ООН (UNOSAT, OCHA) — оценки разрушений в Газе и гуманитарного кризиса в Йемене.
 - Всемирный банк, ЮНЕСКО, ЮНИСЕФ — The State of the Global Education Crisis: A Path to Recovery (2021); The State of Global Learning Poverty (2022).
-- МВФ — World Economic Outlook (инфляция и спад в Венесуэле); межведомственная платформа R4V — данные о мигрантах из Венесуэлы.
+- МВФ — World Economic Outlook (инфляция и спад в Венесуэле); Центральный банк Венесуэлы — данные об инфляции 2016–2018 гг. (опубликованы в мае 2019); межведомственная платформа R4V — данные о мигрантах из Венесуэлы.
+- М. Вайсброт, Дж. Сакс — «Economic Sanctions as Collective Punishment: The Case of Venezuela» (CEPR, 2019); Ф. Родригес — работы о спаде добычи нефти и санкциях (2018–2019).
 - Всемирный банк — Lebanon Economic Monitor (весна 2021).
 - Правительство Пакистана, Всемирный банк, ООН, ЕС — Pakistan Floods 2022: Post-Disaster Needs Assessment.
-- Swiss Re Institute — sigma, обзоры убытков от природных катастроф (2020-е).
+- Swiss Re Institute — sigma, обзоры убытков от природных катастроф (2020-е) (рост застроенности опасных мест как главный фактор); Р. Пилке-младший — работы о нормализации убытков от бедствий.
+- World Weather Attribution — «Climate change likely increased extreme monsoon rainfall, flooding highly vulnerable communities in Pakistan» (2022).
+- Всемирная метеорологическая организация — State of the Global Climate 2024 (Парижский порог как многолетнее среднее).
 - Э. Кейс, А. Дитон — «Смерти от отчаяния и будущее капитализма» (2020).
 - Центры по контролю и профилактике заболеваний США (CDC) — данные о смертях от передозировок (2021–2022); Минюст США — признания вины Purdue Pharma (2007, 2020).
 - С. Восуги, Д. Рой, С. Арал — «The spread of true and false news online», Science (2018).
+- Л. Боксел, М. Генцков, Дж. Шапиро — «Greater Internet use is not associated with faster growth in political polarization among US demographic groups», PNAS (2017); Х. Олкотт и соавт. — «The Welfare Effects of Social Media», American Economic Review (2020).
+- Дж. Уоллес, П. Голдсмит-Пинкхэм, Дж. Шварц — «Excess Death Rates for Republican and Democratic Registered Voters in Florida and Ohio During the COVID-19 Pandemic», JAMA Internal Medicine (2023).
 - К. Рогофф, Юаньчэнь Ян — «Peak China Housing» (2020) / «Has China's Housing Production Peaked?» (2021).
+- [Рогофф и Ян, МВФ, China’s Real Estate Challenge](https://www.imf.org/en/publications/fandd/issues/2024/12/chinas-real-estate-challenge-kenneth-rogoff): 25% экономики Китая в 2021 году — доля недвижимости и связанного спроса, а не доля пустующего жилья или «холостого» расхода. [ФРС, Corporate Buybacks and Capital Investment](https://www.federalreserve.gov/econres/notes/ifdp-notes/corporate-buybacks-and-capital-investment-an-international-perspective-20170411.htm): на уровне стран не обнаружена устойчивая связь между выкупами акций и сокращением капитальных вложений. [Банк Англии, обзор количественного смягчения](https://www.bankofengland.co.uk/quarterly-bulletin/2022/2022-q1/qe-at-the-bank-of-england-a-perspective-on-its-functioning-and-effectiveness): влияние покупок активов на их цены и выпуск есть, общий эффект на распределение богатства трудно отделить от других причин. [МВФ, руководство по статистике госфинансов](https://www.elibrary.imf.org/display/book/9781589066205/ch001.xml): переоценка уже существующих активов учитывается как изменение запасов, а не как операция или расход. [SIPRI, Trends in World Military Expenditure, 2024](https://www.sipri.org/publications/2025/sipri-fact-sheets/trends-world-military-expenditure-2024): 2,718 трлн долл., или 2,5% мирового ВВП.
 - Суд первой инстанции Гонконга — решение о ликвидации China Evergrande Group (январь 2024).
 - М. Льюис — «Flash Boys» (2014).
-- Э. Будиш, П. Крэмтон, Дж. Шим — «The High-Frequency Trading Arms Race», Quarterly Journal of Economics (2015).
+- Э. Будиш, П. Крамтон, Дж. Шим — «The High-Frequency Trading Arms Race», Quarterly Journal of Economics (2015).
 - GroupM — This Year Next Year (прогноз мировых рекламных расходов, 2024).
 - Д. Химмельштейн, С. Вулхендлер и соавт. — «Health Care Administrative Costs in the United States and Canada, 2017», Annals of Internal Medicine (2020).
+- Н. Сахни, П. Мишра, Б. Каррус, Д. Катлер — «Administrative Simplification: How to Save a Quarter-Trillion Dollars in US Healthcare» (McKinsey, 2021); Д. Катлер — статьи в JAMA (2021) (доля администрирования ≈четверть, экономия ≈265 млрд долл.).
 - NEOM / The Line — презентация проекта (2021); деловая пресса о сокращении масштабов (2024).
 - Christie's — продажа работы Beeple «Everydays: The First 5000 Days» (март 2021).
 - SIPRI — Trends in World Military Expenditure, 2024 (апрель 2025); декларация саммита НАТО в Гааге (июнь 2025).
@@ -1231,36 +1420,47 @@
 - Д. Аджемоглу, С. Джонсон — «Власть и прогресс: наша тысячелетняя борьба за технологии и процветание» (Power and Progress, 2023).
 - Международный союз электросвязи (МСЭ) — Facts and Figures 2024 (число пользователей интернета).
 - Национальный институт исследований генома человека США (NHGRI) — стоимость секвенирования генома.
-- Всемирный банк — Poverty, Prosperity, and Planet Report 2024 (крайняя бедность, черта 2,15 доллара).
+- Всемирный банк — Poverty, Prosperity, and Planet Report 2024 (крайняя бедность, черта 2,15 доллара); переход на черту 3,00 доллара (ППС 2021), июнь 2025.
 - Международная организация труда — Women and Men in the Informal Economy (2023).
 - IRENA — Renewable Capacity Statistics 2025 (установленная мощность солнечных станций).
 - Global Carbon Project — Global Carbon Budget 2024 (выбросы CO2 от ископаемого топлива).
 - МВФ — Global Debt Database / Global Debt Monitor (2021); Fiscal Monitor (октябрь 2021, бюджетные меры в пандемию).
 - S&P CoreLogic Case-Shiller — национальный индекс цен жилья США.
 - Бюджетная лаборатория Йельского университета (The Budget Lab at Yale) — оценки средней ставки пошлин США (2025).
+- Раздел «Счёт в зерне и жизнях» (авторская оценка): RDNA4 (см. выше) — прямой ущерб Украине ≈176 млрд долл. на конец 2024 г.; медианная почасовая зарплата в Украине 2021 г. (по данным Госстата о зарплатах) и расходы Украины на образование — прикидка автора, требует проверки; Glassnode — совокупный доход майнеров биткоина ≈71,5 млрд долл. к декабрю 2024 г. (по сообщениям Cointelegraph), прежняя оценка ≈50,2 млрд дохода против ≈36,6 млрд затрат; Cambridge Centre for Alternative Finance — потребление электроэнергии сетью биткоина ≈138 ТВт·ч (2024); BLS — Occupational Employment and Wage Statistics, May 2024 (медианная часовая зарплата США); IRENA — Renewable Power Generation Costs in 2023 (≈758 долл./кВт для солнечных станций); сравнение с потреблением электроэнергии довоенной Украины, доход майнеров за 2025 г., цены пшеницы — прикидка автора, требует проверки.
 
 ## Глава 18. Сквозные закономерности
+- Сводная таблица трудовых часов — иллюстративная авторская модель, не статистика фактически отработанного времени. После уточнения главы 13 её военные расходы и Беломорканал не переводятся в «трудовые жизни»; оценка общей стоимости американской ядерной программы не позволяет без дополнительных данных выделить 1950–1973 годы. Запасы непроданных квартир, денежная оценка разрушенного имущества и доход майнеров также не равны объёму навсегда потерянного труда.
 - А. Мэддисон / Maddison Project Database (Гронингенский университет) — доход на душу населения в долгой перспективе.
 - ООН — World Population Prospects (ожидаемая продолжительность жизни).
 - В. Смил — «Энергия и цивилизация» (энергетические ступени истории).
 - Р. Аллен — «Британская промышленная революция в глобальной перспективе» (дорогой труд и дешёвый уголь).
 - Дж. Мокир — «Рычаг богатства», «Культура роста» («республика учёных»).
 - М. Болдрин, Д. Левайн — «Против интеллектуальной монополии» (критика патентов).
-- А. Грейф — исследования магрибских купцов и институтов доверия.
+- А. Грейф — «Reputation and Coalitions in Medieval Trade» (Journal of Economic History, 1989); «Institutions and the Path to the Modern Economy» (2006) — магрибские купцы и институты доверия.
+- Дж. Эдвардс, Ш. Огилви — «Contract Enforcement, Institutions, and Social Capital: the Maghribi Traders Reappraised» (Economic History Review, 2012); Дж. Голдберг — «Trade and Institutions in the Medieval Mediterranean» (2012) — критика Грейфа.
 - Д. Норт, Б. Вайнгаст — статья о конституциях и обязательствах (1989), последствия 1688 года.
+- Н. Сассман, Й. Яфе — «Institutional Reforms, Financial Development and Sovereign Debt: Britain 1690–1790» (Journal of Economic History, 2006) — ставки по долгу снизились лишь через десятилетия.
 - У. Баумоль — «Предпринимательство: производительное, непроизводительное и разрушительное» (1990).
 - Д. Аджемоглу, Дж. Робинсон — «Почему одни страны богатые, а другие бедные» (экстрактивные и инклюзивные институты).
-- Дж. Даймонд — «Ружья, микробы и сталь»; Дж. Сакс — критика институциональной теории (география, болезни).
+- Дж. Даймонд — «Ружья, микробы и сталь»; рецензия «What Makes Countries Rich or Poor?» (New York Review of Books, 2012) — критика Аджемоглу и Робинсона. Дж. Сакс — «Government, Geography, and Growth» (Foreign Affairs, 2012).
+- Э. Глейзер, Р. Ла Порта, Ф. Лопес-де-Силанес, А. Шлейфер — «Do Institutions Cause Growth?» (Journal of Economic Growth, 2004).
+- Дж. Сакс, Э. Уорнер — «Natural Resource Abundance and Economic Growth» (NBER, 1995); С. Хабер, В. Менальдо — «Do Natural Resources Fuel Authoritarianism?» (American Political Science Review, 2011); К. Бруннсвайлер, Э. Бульте (Journal of Environmental Economics and Management, 2008) — ресурсное проклятие и его критика.
 - А. Крюгер — «Политическая экономия рентоориентированного общества» (1974), понятие рентоискательства.
+- Г. Таллок — «The Welfare Costs of Tariffs, Monopolies, and Theft» (Western Economic Journal, 1967).
 - М. Олсон — «Возвышение и упадок народов» (1982), распределительные коалиции.
 - Й. Шумпетер — «Капитализм, социализм и демократия» (монопольная прибыль как стимул нововведений).
 - П. Уилсон — «Тридцатилетняя война» (оценки потерь населения германских земель).
-- Ч. Тилли — «Принуждение, капитал и европейские государства» (война и становление государств).
+- Ч. Тилли (ред.) — «The Formation of National States in Western Europe» (1975; фраза о войне и государстве); «Принуждение, капитал и европейские государства» (1990).
 - Б. Мандевиль — «Басня о пчёлах» (частные пороки и спрос на роскошь).
 - В. Зомбарт — «Роскошь и капитализм».
 - Я. де Врис — «Трудолюбивая революция» (рост потребления и трудовых усилий домохозяйств в XVII–XVIII вв.).
 - Г. Кларк — «Прощай, нищета» (мальтузианская ловушка до 1800 г.).
 - К. Померанц — «Великое расхождение» (уголь и колонии как причины расхождения Европы и Китая).
+- С. Бродберри, Гуань Ханьхуэй, Ли Даокуй — «China, Europe, and the Great Divergence» (Journal of Economic History, 2018) — отставание Китая с XVII в.
+- Э. Уильямс — «Капитализм и рабство» (1944); П. О'Брайен — «European Economic Development: The Contribution of the Periphery» (Economic History Review, 1982).
+- Дж. Хенрик — «Demography and Cultural Evolution» (American Antiquity, 2004) — гипотеза о Тасмании.
+- Э. Бюринг, Я. Л. ван Занден — «Charting the „Rise of the West“» (Journal of Economic History, 2009); Л. Февр, А.-Ж. Мартен — «Появление книги» (1958) — тиражи инкунабул.
 
 ## Глава 19. Мост к модели: экономика, где излишек идёт в развитие
 
@@ -1269,12 +1469,12 @@
 - М. Арнц, Т. Грегори, У. Циран — «Риск автоматизации рабочих мест в странах ОЭСР» (2016).
 - Р. Аллен — «Пауза Энгельса» (2009), «Глобальная экономическая история».
 - Д. Аджемоглу, С. Джонсон — «Власть и прогресс» (2023).
-- В. Леонтьев — статьи 1980-х о технологической безработице (аналогия с лошадьми).
+- В. Леонтьев — «Механизация и благосостояние человека», Scientific American (1982); «Технологический прогресс, экономический рост и распределение дохода», Population and Development Review (1983) — аналогия с лошадьми.
 - Д. Гребер — «Бессмысленная работа».
 - Kela — итоги финского эксперимента с базовым доходом 2017–2018 гг.; программа GiveDirectly в Кении.
 - Материалы проекта: README.md, critique/14-concept-v2.md, critique/26-current-reassessment.md.
 - Г. Джордж — «Прогресс и бедность» (1879).
-- Г. Саймон — оценка доли «социального наследия» в доходе богатых стран (~90 %).
+- Г. Саймон — «Безусловный доход и плоский налог», Boston Review (2000): оценка доли «социального капитала» в доходе богатых стран (~90 %) (выходные данные требуют проверки по архиву журнала).
 - Д. Аджемоглу, Дж. Робинсон — «Почему одни страны богатые, а другие бедные».
 - М. Джилас — «Новый класс» (1957).
 - Б. Уорд — «Фирма в Иллирии» (1958).
@@ -1288,11 +1488,30 @@
 - Опыт кооперативной корпорации «Мондрагон» (с 1956 г.).
 - Платформа vTaiwan (с 2014 г.); эстонская система государственных реестров X-Road.
 - Материалы проекта: critique/28-sweden-baseline.md.
+- Л. Неделковска, Г. Квинтини — «Автоматизация, использование навыков и обучение», ОЭСР (2018).
+- Т. Элунду, С. Мэннинг, П. Мишкин, Д. Рок — «GPT — это GPT: ранний взгляд на влияние больших языковых моделей на рынок труда» (2023; Science, 2024).
+- Д. Отор, К. Чин, А. Саломонс, Б. Сигмиллер — «Новые рубежи: происхождение и содержание новой работы, 1940–2018», Quarterly Journal of Economics (2024).
+- Д. Аджемоглу, С. Джонсон — «Власть и прогресс» (2023): чартисты, фабричные законы 1847 г., отмена хлебных законов 1846 г. как условия конца «паузы Энгельса».
+- Э. Вивальт и др. — исследование безусловного дохода OpenResearch (2024): 1000 долл. в месяц три года, сокращение труда ≈1,3 ч в неделю.
+- Э. Банерджи, М. Фэй, А. Крюгер, П. Нихаус, Т. Сури — исследование безусловного дохода GiveDirectly в Кении (2023).
+- М. Соффиа, А. Вуд, Б. Бёрчелл — «Отчуждение — это не бессмысленная работа», Work, Employment and Society (2021).
+- Дж. Крейг, Дж. Пенкавел — «Поведение кооперативов работников: фанерные кооперативы северо-запада США», American Economic Review (1992).
+- Я. Корнаи — «Дефицит» (1980); «Мягкое бюджетное ограничение», Kyklos (1986).
+- Г. Хардин — «Трагедия общих ресурсов», Science (1968).
+- У. Фишел — «Дело Серрано и Предложение 13», National Tax Journal (1989); «Домовладельческая гипотеза» (2001).
+- М. Берман, Р. Рими — оценка влияния дивиденда Постоянного фонда на бедность, Университет Аляски, ISER (2016).
+- Д. Джонс, И. Маринеску — «Влияние безусловной денежной выплаты на рынок труда: данные Постоянного фонда Аляски», American Economic Journal: Economic Policy (2022).
+- Департамент доходов Аляски — суммы ежегодного дивиденда (1982: 1000 долл.; 1984: 331; 2015: 2072; 2022: 3284 с надбавкой; 2024: 1702).
+- М. Джилас — повторный приговор после выхода «Нового класса» (Гуверовский институт; размер продления в источниках расходится).
+- Р. Бреннер — «Аграрная классовая структура и экономическое развитие в доиндустриальной Европе», Past & Present (1976).
+- Материалы проекта: critique/22-soft-budget-specifics-and-reform-timing.md (транши и отзыв поддержки как ответ на мягкое бюджетное ограничение).
 
 ## Приложения
 
 - Хронология (прил. A) сведена по датам глав 1–17; источники дат — указанные в разделах соответствующих глав.
 - Джебель-Ирхуд: Ж.-Ж. Юблен и др., Nature (2017).
 - Глоссарий (прил. B): Д. Норт — «Институты, институциональные изменения и функционирование экономики» (1990); Т. Веблен — «Теория праздного класса» (1899); Т. Мальтус — «Опыт о законе народонаселения» (1798); В. Смил — «Энергия и цивилизация» (2017); Э. Остром — «Управляя общим» (1990); Д. Гребер — «Долг», «Бессмысленная работа»; К. Померанц — «Великое расхождение»; Maddison Project Database.
-- Графики (прил. C): К. Макэведи, Р. Джонс — «Атлас истории мирового населения» (1978); база HYDE; ООН — World Population Prospects 2024; А. Мэддисон — «Контуры мировой экономики, 1–2030 гг.» (2007); Our World in Data — энергия на душу населения; М. Гурвен, Х. Каплан — «Продолжительность жизни у охотников-собирателей» (2007); Дж. Райли — «Оценки мировой ожидаемой продолжительности жизни» (2005).
+- Графики (прил. C): К. Макэведи, Р. Джонс — «Атлас истории мирового населения» (1978); база HYDE; ООН — World Population Prospects 2024; А. Мэддисон — «Контуры мировой экономики, 1–2030 гг.» (2007); Our World in Data — энергия на душу населения; М. Гурвен, Х. Каплан — «Долголетие у охотников-собирателей» (2007); Дж. Райли — «Оценки мировой ожидаемой продолжительности жизни» (2005).
 - Литература (прил. D): Ю. Н. Харари — «Sapiens» (2011); Дж. Даймонд — «Ружья, микробы и сталь» (1997); Д. Гребер, Д. Уэнгроу — «Заря всего» (2021); Р. Аллен — «Глобальная экономическая история» (2011); Дж. Мокир — «Рычаг богатства» (1990), «Культура роста» (2016); Р. Гордон — «Взлёт и падение американского роста» (2016); Д. Аджемоглу, Дж. Робинсон — «Почему одни страны богатые, а другие бедные» (2012); Дж. Скотт — «Против зерна» (2017); Д. Гребер — «Долг: первые 5000 лет» (2011); К. Поланьи — «Великая трансформация» (1944); Дж. Корнаи — «Дефицит» (1980); Г. Кларк — «Прощай, нищета» (2007); Т. Пикетти — «Капитал в XXI веке» (2013); А. Смит — «Богатство народов» (1776); К. Маркс — «Капитал», т. 1 (1867); Дж. М. Кейнс — «Экономические возможности наших внуков» (1930); Ф. Хайек — «Использование знания в обществе» (1945).
+- Синхронизация v2 (гл. 1, 7, 16–19): К. Хамфри — «Бартер и экономическая дезинтеграция» (1985), см. гл. 1; С. Хантингтон — «Столкновение цивилизаций» (1996) — источник выражения «Великое расхождение»; С. Бродберри, Х. Гуань, Д. Ли — исторические национальные счета Китая (2018), см. гл. 18; Ф. Кейган — «Денежная динамика гиперинфляции» (1956) — определение гиперинфляции; Г. Хардин — «Трагедия общин» (1968); М. Соффиа, А. Вуд, Б. Бёрчелл — проверка тезиса о «бредовой работе» (2022), см. гл. 17, 19; М. Роньли — критика Пикетти (2015), см. гл. 17; Энергетический институт — Statistical Review of World Energy (для C3); У. Бенедиктов — «Чёрная смерть 1346–1353» (2004), см. гл. 7.
+- Требует проверки: мировое потребление энергии на душу в 1950 г. (35 или ≈40 ГДж — зависит от учёта биомассы; дан диапазон); нижняя граница продолжительности жизни у собирателей в выборке Гурвена — Каплана.

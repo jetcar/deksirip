@@ -17,8 +17,8 @@ import edge_tts
 
 ROOT = Path(__file__).resolve().parents[2] / "book"
 OUTPUT = ROOT / "audio"
-MAX_CHARS = 9_000
-RETRIES = 5
+MAX_CHARS = 1_200
+RETRIES = 8
 CHAPTER_PATTERN = re.compile(r"^(?!00-plan)\d\d-[\w-]+\.md$")
 
 
@@ -83,7 +83,9 @@ def chunks(text: str) -> list[str]:
     while len(remaining) > MAX_CHARS:
         split_at = max(remaining.rfind("\n\n", 0, MAX_CHARS), remaining.rfind(". ", 0, MAX_CHARS) + 1)
         if split_at < MAX_CHARS // 2:
-            split_at = MAX_CHARS
+            split_at = remaining.rfind(" ", 0, MAX_CHARS)
+            if split_at < MAX_CHARS // 2:
+                split_at = MAX_CHARS
         result.append(remaining[:split_at].strip())
         remaining = remaining[split_at:].strip()
     if remaining:
@@ -112,7 +114,7 @@ def cues_path(piece: Path) -> Path:
     return piece.with_suffix(".json")
 
 
-PIECE_TIMEOUT = 300  # seconds; the service sometimes stops answering mid-stream
+PIECE_TIMEOUT = 120  # short pieces should complete well before this
 
 
 async def stream_piece(text: str, voice: str, target: Path) -> list[dict]:
@@ -222,17 +224,24 @@ async def synthesize(
     if outro:
         parts.append(("Поддержать проект", outro))
     jobs = [(title, chunk) for title, text in parts for chunk in chunks(text)]
-    pieces: list[tuple[str, Path]] = []
-    for index, (title, chunk) in enumerate(jobs, start=1):
+    async def render(index: int, chunk: str) -> None:
         piece = output / f".{source.stem}.{index:03}.mp3"
         if not piece.exists() or piece.stat().st_size == 0 or not cues_path(piece).exists():
-            if deadline and time.monotonic() > deadline:
-                raise Incomplete(f"{index - 1}/{len(jobs)}")
             if stress:
                 from stress import accent
                 chunk = accent(chunk)
             await speak(chunk, voice, piece)
         print(f"  {source.stem}: {index}/{len(jobs)}", flush=True)
+
+    for start in range(0, len(jobs), 4):
+        if deadline and time.monotonic() > deadline:
+            raise Incomplete(f"{start}/{len(jobs)}")
+        await asyncio.gather(*(render(index, chunk) for index, (_, chunk) in
+                               enumerate(jobs[start:start + 4], start=start + 1)))
+
+    pieces: list[tuple[str, Path]] = []
+    for index, (title, _) in enumerate(jobs, start=1):
+        piece = output / f".{source.stem}.{index:03}.mp3"
         if pause and pieces and title != pieces[-1][0]:  # a breath between sections
             pieces.append((title, silence(pause, output)))
         pieces.append((title, piece))

@@ -11,7 +11,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
-from synthesize_audio import ROOT, ffmpeg_tool
+from synthesize_audio import ROOT, duration, ffmpeg_tool
 
 BOOK_TITLE = "Куда ушёл излишек"
 BOOK_SUBTITLE = "История экономики от охотников-собирателей до наших дней"
@@ -54,7 +54,7 @@ def cover(title: str, target: Path) -> None:
 
 def description(title: str, chapters: Path) -> str:
     marks = chapters.read_text(encoding="utf-8").strip() if chapters.exists() else ""
-    return f"""{BOOK_TITLE}. {title}
+    return f"""{title} — {BOOK_TITLE}
 
 Аудиокнига об истории экономики — от охотников-собирателей до мира автоматизации. Главный вопрос книги: куда общество направляло свой излишек — в инструменты, знание и доверие или в дворцы, войны и ренту? Что развивало экономику, что разрушало, а что было пустой тратой.
 
@@ -90,12 +90,14 @@ def main() -> None:
     subtitles = args.audio_dir / f"{stem}.srt"
     if subtitles.exists():
         shutil.copyfile(subtitles, args.output / f"{stem}.srt")
+    audio_duration = duration(audio)
     subprocess.run(
         [
             ffmpeg_tool("ffmpeg"), "-y", "-loglevel", "error",
             "-loop", "1", "-framerate", "1", "-i", str(image), "-i", str(audio),
             "-c:v", "libx264", "-tune", "stillimage", "-preset", "veryfast", "-pix_fmt", "yuv420p",
-            "-c:a", "aac", "-b:a", "128k", "-shortest", "-movflags", "+faststart", str(video),
+            "-c:a", "aac", "-b:a", "128k", "-shortest", "-t", f"{audio_duration:.3f}",
+            "-movflags", "+faststart", str(video),
         ],
         check=True,
     )
