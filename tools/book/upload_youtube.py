@@ -95,13 +95,21 @@ def sync_playlist(folder: Path, interactive: bool) -> None:
     if not uploaded:
         return
 
+    youtube = build("youtube", "v3", credentials=credentials(interactive))
+    ids = [json.loads(record.read_text(encoding="utf-8"))["id"] for record in uploaded]
+    public = set()  # a chapter opened early by hand counts as released
+    for start in range(0, len(ids), 50):
+        response = youtube.videos().list(part="status", id=",".join(ids[start:start + 50])).execute()
+        public.update(item["id"] for item in response["items"] if item["status"]["privacyStatus"] == "public")
+
     def released(record: Path) -> bool:
+        if json.loads(record.read_text(encoding="utf-8"))["id"] in public:
+            return True
         release = chapter_release(record.name.removesuffix(".uploaded.json"))
         return release is None or release <= now
 
     records = [record for record in uploaded if released(record)]
     queued = {json.loads(record.read_text(encoding="utf-8"))["id"] for record in uploaded if not released(record)}
-    youtube = build("youtube", "v3", credentials=credentials(interactive))
     store = folder / "playlist.json"
     if store.exists():
         playlist_id = json.loads(store.read_text(encoding="utf-8"))["id"]
@@ -159,6 +167,7 @@ QUEUE_START = date(2026, 10, 12)
 CHAPTER_HOUR = 18
 SHORT_HOUR = 12
 SHORTS_SCHEDULE = ROOT / "shorts" / "schedule.json"
+CHAPTERS_SCHEDULE = ROOT / "video" / "schedule.json"
 
 
 def chapter_order() -> list[str]:
@@ -170,7 +179,11 @@ def local_time(day: date, hour: int) -> datetime:
 
 
 def chapter_release(stem: str) -> datetime | None:
-    """When a chapter goes public; None means it is public already."""
+    """When a chapter goes public; None means it is public already. video/schedule.json overrides the queue."""
+    if CHAPTERS_SCHEDULE.exists():
+        schedule = json.loads(CHAPTERS_SCHEDULE.read_text(encoding="utf-8"))
+        if stem in schedule:
+            return datetime.fromisoformat(schedule[stem])
     order = chapter_order()
     if stem not in order or order.index(stem) < FIRST_QUEUED_CHAPTER:
         return None
@@ -251,20 +264,52 @@ def release_due(folder: Path, interactive: bool) -> None:
     sync_playlist(folder, interactive)  # released chapters, including ones YouTube published on schedule
 
 
-def upload(stem: str, folder: Path, interactive: bool, replace: bool = False) -> str:
+def make_public(youtube, video_id: str) -> bool:
+    """Publish an uploaded video immediately, preserving writable status fields."""
+    current = youtube.videos().list(part="status", id=video_id).execute()["items"][0]["status"]
+    if current["privacyStatus"] == "public":
+        return False
+    status = {key: current[key] for key in ("embeddable", "license", "publicStatsViewable") if key in current}
+    status.update(privacyStatus="public", selfDeclaredMadeForKids=False,
+                  containsSyntheticMedia=current.get("containsSyntheticMedia", True))
+    youtube.videos().update(part="status", body={"id": video_id, "status": status}).execute()
+    return True
+
+
+def retire_replaced(stem: str, folder: Path, interactive: bool) -> None:
+    """Unlist superseded public uploads after the new chapter is public."""
+    record = folder / f"{stem}.uploaded.json"
+    history = folder / f"{stem}.replaced.json"
+    if not record.exists() or not history.exists():
+        raise SystemExit("Нет новой версии или списка заменённых роликов")
+    youtube = build("youtube", "v3", credentials=credentials(interactive))
+    new_id = json.loads(record.read_text(encoding="utf-8"))["id"]
+    latest = youtube.videos().list(part="status", id=new_id).execute().get("items", [])
+    if not latest or latest[0]["status"]["privacyStatus"] != "public":
+        raise SystemExit("Новая версия ещё не опубликована; старую оставляю без изменений")
+    for old_id in json.loads(history.read_text(encoding="utf-8")):
+        items = youtube.videos().list(part="status", id=old_id).execute().get("items", [])
+        if not items or items[0]["status"]["privacyStatus"] != "public":
+            continue
+        current = items[0]["status"]
+        status = {key: current[key] for key in ("embeddable", "license", "publicStatsViewable") if key in current}
+        status.update(privacyStatus="unlisted", selfDeclaredMadeForKids=False,
+                      containsSyntheticMedia=current.get("containsSyntheticMedia", True))
+        youtube.videos().update(part="status", body={"id": old_id, "status": status}).execute()
+        print(f"  прежняя версия доступна по ссылке: https://youtu.be/{old_id}")
+
+
+def upload(stem: str, folder: Path, interactive: bool, replace: bool = False, public: bool = False) -> str:
     video = folder / f"{stem}.mp4"
     meta = folder / f"{stem}.txt"
     thumbnail = folder / f"{stem}.png"
     record = folder / f"{stem}.uploaded.json"
-    if record.exists() and replace:  # remember the old id so the playlist swaps it out
-        history = folder / f"{stem}.replaced.json"
-        old_ids = json.loads(history.read_text(encoding="utf-8")) if history.exists() else []
-        old_ids.append(json.loads(record.read_text(encoding="utf-8"))["id"])
-        history.write_text(json.dumps(old_ids), encoding="utf-8")
-        record.unlink()
-    if record.exists():
+    old_id = json.loads(record.read_text(encoding="utf-8"))["id"] if record.exists() and replace else None
+    if record.exists() and not replace:
         video_id = json.loads(record.read_text(encoding="utf-8"))["id"]
         print(f"Уже загружено: https://youtu.be/{video_id}")
+        if public and make_public(build("youtube", "v3", credentials=credentials(interactive)), video_id):
+            print("  опубликовано")
         captions(stem, folder, interactive)
         return video_id
     if not video.is_file() or not meta.is_file():
@@ -282,7 +327,7 @@ def upload(stem: str, folder: Path, interactive: bool, replace: bool = False) ->
         "status": {
             "selfDeclaredMadeForKids": False,
             "containsSyntheticMedia": True,
-            **release_status(stem, folder),
+            **({"privacyStatus": "public"} if public else release_status(stem, folder)),
         },
     }
     request = youtube.videos().insert(
@@ -296,6 +341,12 @@ def upload(stem: str, folder: Path, interactive: bool, replace: bool = False) ->
         if status:
             print(f"  {int(status.progress() * 100)}%", flush=True)
     video_id = response["id"]
+    if old_id:
+        history = folder / f"{stem}.replaced.json"
+        old_ids = json.loads(history.read_text(encoding="utf-8")) if history.exists() else []
+        if old_id not in old_ids:
+            old_ids.append(old_id)
+            history.write_text(json.dumps(old_ids), encoding="utf-8")
     record.write_text(json.dumps({"id": video_id, "title": title.strip()}, ensure_ascii=False), encoding="utf-8")
     if thumbnail.is_file():
         try:
@@ -314,6 +365,8 @@ def main() -> None:
     parser.add_argument("--folder", type=Path, default=ROOT / "video")
     parser.add_argument("--login", action="store_true", help="allow the browser sign-in flow")
     parser.add_argument("--replace", action="store_true", help="upload a new version and swap it into the playlist")
+    parser.add_argument("--retire-replaced", action="store_true", help="unlist old versions after replacement")
+    parser.add_argument("--public", action="store_true", help="publish immediately instead of using the release queue")
     parser.add_argument("--reschedule", action="store_true", help="apply the release queue to uploaded chapters")
     parser.add_argument("--release-due", action="store_true", help="make public the queued chapters that are due")
     args = parser.parse_args()
@@ -322,9 +375,13 @@ def main() -> None:
     elif args.release_due:
         release_due(args.folder, args.login)
     elif args.chapter:
-        upload(Path(args.chapter).stem, args.folder, args.login, args.replace)
-        if args.folder.resolve() == (ROOT / "video").resolve():  # chapters only, not shorts
-            sync_playlist(args.folder, args.login)
+        stem = Path(args.chapter).stem
+        if args.retire_replaced:
+            retire_replaced(stem, args.folder, args.login)
+        else:
+            upload(stem, args.folder, args.login, args.replace, args.public)
+            if args.folder.resolve() == (ROOT / "video").resolve():  # chapters only, not shorts
+                sync_playlist(args.folder, args.login)
     elif args.login:
         credentials(True)
         print("Вход выполнен")
