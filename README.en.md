@@ -31,13 +31,6 @@ A popular-science history of the economy, from hunter-gatherers to the age of au
 
 Concept and thesis by the repository author; the text was prepared with AI and narrated with a synthetic voice.
 
-## Fiction projects
-
-- [Contour of the Common](https://github.com/jetcar/novel) is connected as the [`novel/`](novel/) submodule.
-- [A Material Question](https://github.com/jetcar/novel-materia) is connected as the [`novel-materia/`](novel-materia/) submodule.
-
-Clone with `git clone --recurse-submodules`, or run `git submodule update --init --recursive` after a regular clone.
-
 ## Why this model
 
 The purpose is to improve quality of life for society as a whole and make useful work more effective by reducing pointless jobs, oversized administration, and work performed mainly to preserve private profit. People should be able to contribute to projects they consider necessary or meaningful.
@@ -72,7 +65,6 @@ The `critique/` folder contains the full adversarial review. Files 01–13 and 1
 - [calculations/](calculations/) contains reproducible calculations and assumptions.
 - [assets/](assets/) contains shared visual assets.
 - [outreach/](outreach/) contains academic outreach and review materials.
-- `novel/` and `novel-materia/` are separate repositories connected as submodules.
 
 The most current materials are listed in [critique/00-README.en.md](critique/00-README.en.md).
 

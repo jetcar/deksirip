@@ -5,8 +5,6 @@
 | Папка | Проект | Скрипты |
 |---|---|---|
 | `book/` | книга «Куда ушёл излишек» (`book/`) | `setup_local_voice.py`, `local_voice.py`, `synthesize_audio.py`, `make_video.py`, `upload_youtube.py`, `make_short.py`, `telegram_post.py`, `make_vk_images.py`, `stress.py` |
-| `materia/` | роман «Материальный вопрос» (`fiction/novel-materia/`) | `make_media.py`, `make_scene_video.py`, `upload_youtube.py` |
-| `shestoy/` | роман «Шестой пункт» (`fiction/novel-shestoy-punkt/`) | `make_media.py`, `upload_youtube.py` |
 | `crypto-bot-lab/` | лаборатория криптоторговых ботов (`crypto-bot-lab/`) | исследовательские, paper-trading и будущие live-скрипты |
 | `secrets/` | ключи и токены, общие для всех | `client_secret.json`, `youtube_token.json`, `telegram_token.txt` — не коммитятся |
 
