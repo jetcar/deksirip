@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01-uruk-city",
+    "seed": 5301,
+    "prompt": "Historically grounded archaeological reconstruction of Uruk around 3200 BCE, a vast Mesopotamian city of mud-brick houses and monumental temple platforms beside canals and irrigated fields, thousands of inhabitants suggested without crowding, warm dusty atmosphere, documentary realism, cinematic wide landscape, no text"
+  },
+  {
+    "id": "02-kushim-tablet",
+    "seed": 5302,
+    "prompt": "Close documentary still life of an early Uruk clay accounting tablet resting in a scribe's hand, fresh wedge and pictographic impressions recording barley, reed stylus and small ration bowl nearby, authentic ancient Mesopotamian workshop, tactile clay texture, soft side light, cinematic wide composition, no modern text or labels"
+  },
+  {
+    "id": "03-ration-bowls",
+    "seed": 5303,
+    "prompt": "Ancient Uruk provisioning scene with rows of coarse beveled-rim clay bowls being filled with measured barley rations for workers, mud-brick storehouse, scribes and laborers cooperating, historically plausible clothing, restrained documentary realism, natural daylight, cinematic 16:9, no text"
+  },
+  {
+    "id": "04-irrigation-canals",
+    "seed": 5304,
+    "prompt": "Sumerian workers maintaining a large irrigation canal in southern Mesopotamia, teams clearing silt with baskets and simple tools while oxen and grain fields extend into the distance, levees and water gates visible, coordinated public labor, archaeological reconstruction, cinematic wide shot, no text"
+  },
+  {
+    "id": "05-nile-nilometer",
+    "seed": 5305,
+    "prompt": "Old Kingdom Egyptian officials and farmers beside a stone nilometer staircase during the Nile flood, marked water level observed carefully while fertile basins fill beyond, historically grounded clothing and architecture, calm documentary photography, golden daylight, cinematic wide frame, no readable text"
+  },
+  {
+    "id": "06-scribe-accounting",
+    "seed": 5306,
+    "prompt": "Mesopotamian temple scribe seated in a busy granary courtyard calculating grain, clay tablets stacked nearby, workers weighing sacks with standardized measures, practical administration rather than royal ceremony, historically grounded reconstruction, soft natural light, cinematic wide image, no text"
+  },
+  {
+    "id": "07-long-distance-trade",
+    "seed": 5307,
+    "prompt": "Bronze Age river port in Mesopotamia with reed boats unloading timber, copper ingots and jars while donkeys carry goods toward a mud-brick city, merchants and officials checking standardized weights, historically plausible trade network, documentary realism, cinematic wide composition, no text"
+  },
+  {
+    "id": "08-worker-rations",
+    "seed": 5308,
+    "prompt": "Dignified ancient Mesopotamian workers receiving measured grain, oil and wool rations from a temple storehouse, women and men waiting with baskets while a scribe records distributions, everyday institutional economy, nuanced documentary reconstruction, muted earth palette, cinematic wide shot, no text"
+  },
+  {
+    "id": "09-debt-tablet",
+    "seed": 5309,
+    "prompt": "Ancient Mesopotamian household negotiating a grain debt with a merchant and scribe, sealed clay tablet between them, anxious but nonviolent human expressions, small farm courtyard after a poor harvest, historically grounded documentary realism, warm subdued light, cinematic wide frame, no text"
+  },
+  {
+    "id": "10-great-pyramid-workforce",
+    "seed": 5310,
+    "prompt": "Evidence-based reconstruction of the Great Pyramid construction site around 2560 BCE, organized crews hauling limestone on sledges, ramps and workers' settlement visible, skilled paid laborers rather than chained slaves, immense scale but human detail, desert haze, cinematic documentary wide shot, no text"
+  },
+  {
+    "id": "11-salinized-fields",
+    "seed": 5311,
+    "prompt": "Ancient southern Mesopotamian barley field damaged by salinization, pale salt crust spreading across irrigated soil while farmers inspect sparse crops and a clogged canal, abandoned mud-brick settlement in distance, historically grounded environmental documentary, subdued colors, cinematic wide composition, no text"
+  },
+  {
+    "id": "12-surplus-and-power",
+    "seed": 5312,
+    "prompt": "Balanced cinematic tableau of the first states: a canal, granary and scribal school supporting a thriving city on one side, a palace army and monumental tomb consuming stored grain on the other, connected by the same central storehouse, historically grounded Mesopotamian and Egyptian motifs, documentary realism, wide 16:9, no text"
+  }
+]

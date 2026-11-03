@@ -4,6 +4,10 @@ This is a research project about a society with social ownership, a social divid
 
 This is not a finished theory or a political program. The goal is to formulate a model, identify its real weaknesses, separate new problems from problems shared by any complex economy, and determine what can be tested through experiments or modelling.
 
+## Pilot research proposal
+
+A separate package for academic review and a possible small-scale local experiment is available at [DEKSIRIP Pilot](https://github.com/jetcar/deksirip-pilot). It contains the model framework, Chinese and international precedents, evaluation criteria, researcher outreach materials, and technical appendices in English, Russian, and Chinese.
+
 ## Start here
 
 1. [HANDOFF.en.md](HANDOFF.en.md) — the original formulation; the old question list is preserved as a record of the discussion.
@@ -14,15 +18,25 @@ This is not a finished theory or a political program. The goal is to formulate a
 6. [critique/29-personal-property-and-housing.en.md](critique/29-personal-property-and-housing.en.md) — personal property, housing, and dachas.
 7. [critique/posts/10-master-post-v2.en.md](critique/posts/10-master-post-v2.en.md) — the current text for requesting public criticism.
 
-## The book "Where Did the Surplus Go" (in Russian)
+## The book "Where Did the Surplus Go"
 
 A popular-science history of the economy, from hunter-gatherers to the age of automation. One question runs through every era: where did society direct its surplus — into tools, knowledge and trust, or into palaces, wars and rent. The final chapter links the book's conclusions to the model in this repository.
 
 - **Audiobook on YouTube — full playlist, start to finish:** https://www.youtube.com/playlist?list=PLOsSoEL_1--Y
-- Text: the [book/](book/) folder, plan in [book/00-plan.md](book/00-plan.md). The first version is complete; the second (fact-checking, a "Cost in grain and lives" section) is in progress, see [book/v2-plan.md](book/v2-plan.md).
+- The completed Russian v2 text is in [book/](book/); its revision log is [book/v2-progress.md](book/v2-progress.md).
+- The English translation of the core volume (00–20) is complete: all 21 files are in [book/chapters-en/](book/chapters-en/), with status recorded in [book/translation-progress.md](book/translation-progress.md).
+- Audiobook, YouTube Shorts, and TikTok production is documented in [tools/book/README.md](tools/book/README.md), [book/shorts/PROMOTION.md](book/shorts/PROMOTION.md), and [book/shorts/TIKTOK.md](book/shorts/TIKTOK.md).
+- Generated audio and video are not stored in Git; the repository keeps source text, scripts, illustrations, metadata, and reproducible build tools.
 - Support the project: https://buymeacoffee.com/ownerless
 
 Concept and thesis by the repository author; the text was prepared with AI and narrated with a synthetic voice.
+
+## Fiction projects
+
+- [Contour of the Common](https://github.com/jetcar/novel) is connected as the [`novel/`](novel/) submodule.
+- [A Material Question](https://github.com/jetcar/novel-materia) is connected as the [`novel-materia/`](novel-materia/) submodule.
+
+Clone with `git clone --recurse-submodules`, or run `git submodule update --init --recursive` after a regular clone.
 
 ## Why this model
 
@@ -52,6 +66,13 @@ The repository is not a finished constitution. Its mechanisms are proposals to b
 ## Repository structure
 
 The `critique/` folder contains the full adversarial review. Files 01–13 and 16–25 are historical material; individual claims in them may have been superseded by later clarifications.
+
+- [book/](book/) contains the Russian and English book, sources, reviews, illustrations, and promotion materials.
+- [tools/](tools/) contains audiobook, video, Shorts, TikTok, and publishing scripts; local secrets are excluded from Git.
+- [calculations/](calculations/) contains reproducible calculations and assumptions.
+- [assets/](assets/) contains shared visual assets.
+- [outreach/](outreach/) contains academic outreach and review materials.
+- `novel/` and `novel-materia/` are separate repositories connected as submodules.
 
 The most current materials are listed in [critique/00-README.en.md](critique/00-README.en.md).
 

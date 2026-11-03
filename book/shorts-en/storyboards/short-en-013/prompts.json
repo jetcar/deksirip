@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01-iron-looked-worse",
+    "seed": 51301,
+    "prompt": "Use case: historical-scene. Vertical educational keyframe showing an elegant polished bronze sword beside a rough dark early iron sickle on a blacksmith's wooden bench, the bronze object visibly finer but the iron tool practical and sturdy. Early Iron Age workshop, photorealistic museum-quality reconstruction, dramatic side light, simple central composition with room for captions. No text, no watermark, no hands, no fantasy weapons."
+  },
+  {
+    "id": "02-bronze-needed-tin",
+    "seed": 51302,
+    "prompt": "Use case: historical-scene. Vertical cinematic reconstruction of scarce tin arriving at an ancient palace workshop: one guarded small tin ingot being weighed on a balance while many copper ingots wait nearby, anxious merchants and a scribe in the background. Historically accurate eastern Mediterranean around 1100 BCE, photorealistic documentary style, portrait composition. No text, no modern objects, no distorted hands."
+  },
+  {
+    "id": "03-iron-ore-everywhere",
+    "seed": 51303,
+    "prompt": "Use case: historical-scene. Vertical scene of an Early Iron Age village blacksmith gathering common reddish iron ore from a nearby hillside while a simple charcoal forge glows below, ordinary villagers helping rather than palace elites. Historically grounded clothing and tools, photorealistic documentary reconstruction, portrait framing, strong foreground ore texture and open sky. No text, no watermark, no modern mining equipment."
+  },
+  {
+    "id": "04-cheap-tools-spread",
+    "seed": 51304,
+    "prompt": "Use case: historical-scene. Vertical cinematic field scene of many ordinary Early Iron Age farmers harvesting grain with simple iron sickles, a village and local blacksmith workshop behind them, broad participation and practical productivity rather than elite warfare. Photorealistic historical documentary style, warm harvest light, portrait composition, clear human scale, room for captions. No text, no armor, no palace, no modern machinery, no distorted hands."
+  }
+]

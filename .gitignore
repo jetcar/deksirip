@@ -15,20 +15,64 @@ Thumbs.db
 .env
 .env.*
 !.env.example
+.voice/
+.codex/
+tmp/
+
+# Local generated indexes and caches
+graphify-out/
+latest_silero_models.yml
+0.9.4
+
+# Separately versioned checkout
+deksirip-pilot/
 
 # Audiobook MP3s are published as GitHub release assets
 book/audio/
+book/audio-en/
 
 # Generated YouTube videos
 book/video/
+book/video-en/
 
 # YouTube API secrets
 book/tools/client_secret.json
 book/tools/youtube_token.json
+
+# Generated audio and video
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.opus
+*.aac
+*.wma
+*.aif
+*.aiff
+*.caf
+*.mp4
+*.m4v
+*.mov
+*.avi
+*.mkv
+*.webm
+*.mpeg
+*.mpg
+*.flv
+*.wmv
+*.ogv
+*.vob
+*.3gp
+*.m2ts
+
+# API keys and tokens of every script
+tools/secrets/
 __pycache__/
 
 # Shorts: rendered videos and downloaded Audio Library music
 book/shorts/out/
+book/shorts-en/out/
 book/shorts/music/
 book/tools/telegram_token.txt
 book/tools/telegram.json

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01-bronze-was-not-local",
+    "seed": 51201,
+    "prompt": "Use case: historical-scene. Vertical keyframe for an educational economics Short. A single large Bronze Age oxhide-shaped copper ingot with four carrying handles dominates the foreground on a stone quay, amphorae and a small tin ingot beside it, eastern Mediterranean harbor around 1300 BCE softly blurred behind. Photorealistic documentary reconstruction, strong simple silhouette, dramatic warm light, portrait composition, central safe area for later captions. No text, no watermark, no modern objects, no malformed ship."
+  },
+  {
+    "id": "02-copper-and-tin-ratio",
+    "seed": 51202,
+    "prompt": "Use case: historical-scene. Vertical educational keyframe inside a Late Bronze Age metal workshop: a large stack of reddish copper ingots on one side and a much smaller stack of pale tin ingots on the other, bronze tools between them, visual ratio roughly ten to one. Photorealistic museum-quality reconstruction, firelight, clear readable composition, portrait framing with open upper area for captions. No text, no numbers, no watermark, no distorted hands."
+  },
+  {
+    "id": "03-tin-traveled-far",
+    "seed": 51203,
+    "prompt": "Use case: historical-scene. Vertical cinematic reconstruction of a Bronze Age long-distance trade caravan crossing a high Anatolian mountain pass, donkeys carrying small sealed tin bundles, Mediterranean merchants leading them, vast layered landscape suggesting a journey of thousands of kilometers. Historically accurate clothing and equipment, photorealistic documentary style, portrait composition, strong depth, open sky for captions. No text, no modern roads, no fantasy costume."
+  },
+  {
+    "id": "04-bronze-age-supply-chain",
+    "seed": 51204,
+    "prompt": "Use case: historical-scene. Vertical cinematic overview of a thriving Late Bronze Age Mediterranean harbor network: copper ingots, tin bundles and amphorae moving from pack animals to a wooden merchant vessel at a stone quay, scribes recording cargo, several cultures trading together. Historically grounded 1300 BCE material culture, photorealistic documentary reconstruction, portrait framing, clean central focus. No text, no watermark, no malformed geometry, no modern ships."
+  }
+]

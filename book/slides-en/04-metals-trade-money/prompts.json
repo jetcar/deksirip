@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01-uluburun-wreck",
+    "seed": 4517,
+    "prompt": "Cinematic underwater archaeological reconstruction of the Uluburun wreck site around 1300 BCE. On a sloping Mediterranean seabed lie neat rows of oxhide-shaped copper ingots, amphorae, blue glass ingots, ivory and a few low decayed wooden hull timbers. Show only scattered cargo and collapsed hull remains resting naturally on the seabed, not an intact ship. Clear deep blue water, shafts of sunlight, realistic documentary photography, historically accurate artifacts, wide 16:9 composition. No divers, no modern equipment, no floating boat, no complete hull, no keel, no appendage beneath a ship, no fantasy structure."
+  },
+  {
+    "id": "02-copper-and-tin",
+    "seed": 4402,
+    "prompt": "Bronze Age metalworkers in an eastern Mediterranean workshop combining copper and tin, glowing crucible, stone molds, finished bronze axes and tools, soot-darkened mudbrick interior, historically accurate clothing and technology, realistic cinematic documentary scene, warm firelight, wide 16:9 composition"
+  },
+  {
+    "id": "03-mines-and-labor",
+    "seed": 4403,
+    "prompt": "Ancient copper mine in Cyprus during the Bronze Age, exhausted laborers carrying baskets of ore from a rocky hillside while furnaces smoke below, overseers and pack animals in the distance, historically grounded tools and clothing, realistic cinematic photography, dusty harsh sunlight, wide 16:9 composition"
+  },
+  {
+    "id": "04-assyrian-caravan",
+    "seed": 4404,
+    "prompt": "Old Assyrian merchant caravan crossing the Anatolian plateau toward Kanesh, long line of donkeys loaded with sealed textile bundles and tin, merchants checking clay tablets beside a camp, snow mountains far away, historically accurate early second millennium BCE clothing, realistic epic documentary photography, wide 16:9 composition"
+  },
+  {
+    "id": "05-ugarit-harbor",
+    "seed": 4405,
+    "prompt": "Busy Late Bronze Age harbor at Ugarit, cedar ships unloading copper ingots, pottery, timber and ivory, scribes recording cargo on clay tablets, merchants from several Mediterranean cultures bargaining on the quay, historically accurate architecture and clothing, realistic cinematic documentary image, wide 16:9 composition"
+  },
+  {
+    "id": "06-phoenician-network",
+    "seed": 4406,
+    "prompt": "Phoenician trading ship under a square sail approaching a prosperous Mediterranean port, purple-dyed textiles, glass vessels and cedar timber on deck, sailors navigating by the coast, eighth century BCE historical reconstruction, realistic cinematic seascape, rich natural color, wide 16:9 composition"
+  },
+  {
+    "id": "07-weights-and-silver",
+    "seed": 4407,
+    "prompt": "Ancient Near Eastern marketplace before coinage, merchant weighing small pieces of silver on a balance scale against standardized stone weights, grain sacks and pottery surrounding the stall, buyer watching closely, historically accurate first millennium BCE scene, realistic documentary photography, wide 16:9 composition"
+  },
+  {
+    "id": "08-lydian-coins",
+    "seed": 4408,
+    "prompt": "Lydian mint around 600 BCE striking the first electrum coins, artisan placing a glowing metal blank on an anvil die while another raises a hammer, finished irregular lion-stamped coins nearby, historically accurate workshop, realistic macro cinematic photography, dramatic firelight, wide 16:9 composition"
+  },
+  {
+    "id": "09-iron-tools",
+    "seed": 4409,
+    "prompt": "Early Iron Age village workshop, blacksmith forging an iron plowshare while farmers compare durable iron axes and sickles, simple charcoal forge and bellows, historically accurate Levant around 900 BCE, realistic cinematic documentary photography, warm sparks against cool daylight, wide 16:9 composition"
+  },
+  {
+    "id": "10-chariots-and-palaces",
+    "seed": 4410,
+    "prompt": "Bronze Age royal compound consuming immense resources, elite war chariots with horses and bronze weapons in the foreground, palace storerooms filled with tribute behind them, workers hauling supplies, historically accurate eastern Mediterranean setting, realistic epic cinematic photography, wide 16:9 composition"
+  },
+  {
+    "id": "11-bronze-age-collapse",
+    "seed": 4411,
+    "prompt": "Collapse of a Late Bronze Age palace city around 1200 BCE, abandoned harbor, burning storehouses, broken trade goods and frightened families leaving through a damaged gate, drought-darkened landscape beyond, historically grounded and non-graphic, realistic cinematic documentary scene, smoky sunset, wide 16:9 composition"
+  },
+  {
+    "id": "12-mobile-surplus",
+    "seed": 4412,
+    "prompt": "Symbolic but realistic ancient Mediterranean crossroads showing the choice of mobile surplus, merchant ship and blacksmith tools leading toward a thriving town on one side, royal treasure and war chariots leading toward a fortress on the other, historically accurate Bronze and Iron Age material culture, cinematic documentary realism, balanced wide 16:9 composition"
+  }
+]

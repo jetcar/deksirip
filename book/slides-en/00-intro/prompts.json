@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01-introduction",
+    "seed": 4301,
+    "prompt": "Cinematic documentary photograph for an economics history book, panoramic 16:9 composition showing the long arc of human work: prehistoric gatherers at dawn blending naturally into an agricultural village, an industrial factory, and a modern city, realistic people, historically grounded details, restrained blue and warm amber color grade, sophisticated editorial photography, atmospheric depth, no written words, no labels"
+  },
+  {
+    "id": "02-keynes-prediction",
+    "seed": 4302,
+    "prompt": "Historically accurate cinematic documentary scene, an elegant 1930 economist at a wooden desk studying charts beside a mechanical clock, through the window a subtle imagined future of automated machines and citizens enjoying leisure in a public park, realistic photography, thoughtful mood, wide 16:9 frame, muted period colors, no written words"
+  },
+  {
+    "id": "03-surplus",
+    "seed": 4303,
+    "prompt": "Cinematic economic history tableau explaining surplus without text: a productive harvest and workshop create abundant grain, tools and finished goods, the output visibly flows toward community storage, a school, a bridge and a small elite residence, realistic documentary photography, clear visual storytelling, wide 16:9 composition, natural light"
+  },
+  {
+    "id": "04-why-history",
+    "seed": 4304,
+    "prompt": "Archaeological layers of economic history in one realistic cinematic landscape, stone tools and a hunter-gatherer camp in the foreground, irrigated fields and an ancient city beyond, smokestack industry and a modern skyline on the horizon, coherent perspective, museum-quality documentary realism, wide 16:9, no text"
+  },
+  {
+    "id": "05-where-surplus-goes",
+    "seed": 4305,
+    "prompt": "Editorial documentary image about where society directs its surplus: at a central crossroads resources divide toward a bright school, hospital and rail line, toward a distant fortress and weapons, and toward an extravagant empty palace, ordinary working families observe the choices, photorealistic, dignified, wide cinematic 16:9, no signs or words"
+  },
+  {
+    "id": "06-majority-capabilities",
+    "seed": 4306,
+    "prompt": "Hopeful realistic documentary photograph of ordinary people gaining capabilities: diverse adults learning in a public library and technical workshop, healthy children nearby, accessible tools and shared knowledge, calm confident faces, modern but timeless civic setting, cinematic natural light, restrained colors, wide 16:9 frame, no text"
+  },
+  {
+    "id": "07-extraction-prestige-control",
+    "seed": 4307,
+    "prompt": "Serious historical documentary scene about extraction prestige and control, many workers and farmers below a monumental elevated palace where a small elite displays luxury, guarded storehouses and ceremonial architecture, realistic human scale, nuanced not melodramatic, cinematic chiaroscuro, wide 16:9, no text"
+  },
+  {
+    "id": "08-developmental",
+    "seed": 4308,
+    "prompt": "Cinematic photorealistic scene of developmental investment: engineers and workers completing a bridge linking communities, a school and clean water system visible nearby, productive machinery used for public infrastructure, optimistic but realistic documentary style, golden morning light, wide 16:9, no text"
+  },
+  {
+    "id": "09-destructive",
+    "seed": 4309,
+    "prompt": "Sobering cinematic documentary photograph of destructive allocation, abandoned factories converted to military production, damaged homes in the distance and displaced civilians crossing a bleak landscape, historically neutral setting, respectful and non-graphic, muted palette, wide 16:9, no symbols, no text"
+  },
+  {
+    "id": "10-wasteful",
+    "seed": 4310,
+    "prompt": "Sophisticated editorial photograph of wasteful consumption, an immense glittering ceremonial hall and rows of unused luxury objects contrasted with neglected public housing and broken infrastructure outside, realistic people, subtle social commentary, cinematic 16:9 framing, restrained colors, no text"
+  },
+  {
+    "id": "11-five-measures",
+    "seed": 4311,
+    "prompt": "Elegant cinematic documentary montage representing five measures of society without icons or text: efficient production, a teacher passing knowledge to students, a secure family home, resilient emergency response after a storm, and citizens calmly reaching agreement around a table, photorealistic, coherent wide 16:9 composition"
+  },
+  {
+    "id": "12-book-journey",
+    "seed": 4312,
+    "prompt": "Epic yet human final documentary image for a history of economic surplus, a broad path runs from an ancient settlement through farms and factories toward a resilient green modern city, ordinary people of many generations walking together, hopeful sunrise, realistic cinematic photography, fine detail, wide 16:9, no text"
+  }
+]

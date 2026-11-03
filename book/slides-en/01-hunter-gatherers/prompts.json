@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01-kalahari-band",
+    "seed": 5101,
+    "prompt": "Documentary photograph, historically grounded reconstruction of a small Ju/'hoansi hunter-gatherer band in the Kalahari in the 1960s, adults and children gathered naturally near a modest camp at dusk, researcher Richard Lee observing respectfully at a distance, dry savanna, practical clothing, candid human moment, warm natural light, realistic 35mm film, cinematic wide composition, no text"
+  },
+  {
+    "id": "02-foragers-landscape",
+    "seed": 5102,
+    "prompt": "Wide documentary photograph of a hunter-gatherer family group moving across an open African savanna at sunrise, carrying simple baskets and wooden digging sticks, acacia silhouettes and distant hills, realistic natural history reconstruction, human scale, earthy colors, cinematic 16:9 landscape, no text"
+  },
+  {
+    "id": "03-stone-tools",
+    "seed": 5103,
+    "prompt": "Close documentary still life of carefully knapped Paleolithic stone tools, hand axe, flakes and scrapers arranged on ochre earth beside a human hand for scale, tactile flint texture, low raking sunlight, archaeological realism, restrained palette, cinematic wide frame, no labels or text"
+  },
+  {
+    "id": "04-fire-and-cooking",
+    "seed": 5104,
+    "prompt": "Small prehistoric hunter-gatherer camp around a controlled fire at night, people preparing food and sharing warmth, dark landscape beyond the circle of firelight, historically plausible hide and fiber garments, intimate but documentary, photorealistic, cinematic wide composition, no text"
+  },
+  {
+    "id": "05-hunt-cooperation",
+    "seed": 5105,
+    "prompt": "Several prehistoric foragers coordinating a careful approach to game across open grassland, simple wooden spears and stone points, no graphic violence, distant animals, dawn haze, grounded archaeological reconstruction, documentary photography, cinematic 16:9, no text"
+  },
+  {
+    "id": "06-gathering-food",
+    "seed": 5106,
+    "prompt": "Hunter-gatherer women and children collecting roots, berries and edible plants in a semi-arid woodland, using digging sticks and woven carrying baskets, focused everyday work, diverse natural expressions, historically grounded reconstruction, soft daylight, documentary film still, wide frame, no text"
+  },
+  {
+    "id": "07-sharing-meal",
+    "seed": 5107,
+    "prompt": "A small mobile forager band sharing a meal communally outdoors, portions passed between adults and children, simple cooked food, no one seated above others, natural candid expressions, Kalahari-inspired landscape, documentary realism, warm late afternoon light, cinematic wide shot, no text"
+  },
+  {
+    "id": "08-cave-art",
+    "seed": 5108,
+    "prompt": "Prehistoric people making animal paintings on a cave wall by flickering torchlight, mineral pigment and hand stencils visible, careful archaeological reconstruction inspired by Upper Paleolithic cave art, faces in partial profile, deep cave shadows, photorealistic documentary image, wide composition, no modern objects, no text"
+  },
+  {
+    "id": "09-sungir-burial",
+    "seed": 5109,
+    "prompt": "Respectful archaeological reconstruction of the Sungir Upper Paleolithic burial in Russia, two young figures laid carefully in an ancient grave with rows of ivory beads and carefully made spears, earth-toned museum-quality realism, no sensationalism, soft directional light, cinematic wide frame, no text"
+  },
+  {
+    "id": "10-gobekli-tepe",
+    "seed": 5110,
+    "prompt": "Göbekli Tepe during early construction, Neolithic workers raising a carved T-shaped limestone pillar within a circular enclosure, people hauling stone with ropes and simple tools, dry Anatolian highland landscape, archaeologically grounded reconstruction, late afternoon light, photorealistic cinematic wide image, no text"
+  },
+  {
+    "id": "11-risk-and-hardship",
+    "seed": 5111,
+    "prompt": "Forager family enduring a dry season in a sparse landscape, gathering around a small water source while elders and children rest, dignified human portrayal, no visible suffering or sensationalism, realistic Kalahari environment, subdued natural colors, documentary photography, cinematic wide shot, no text"
+  },
+  {
+    "id": "12-knowledge-across-generations",
+    "seed": 5112,
+    "prompt": "An older hunter-gatherer teaching a child to recognize tracks and plants on the ground, other members of the band nearby, patient exchange of practical knowledge across generations, prehistoric African savanna, candid documentary realism, gentle morning light, cinematic wide frame, no text"
+  }
+]

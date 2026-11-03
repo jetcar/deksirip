@@ -1,0 +1,22 @@
+[
+  {
+    "id": "01-coin-hidden-profit",
+    "seed": 51401,
+    "prompt": "Use case: historical-scene. Vertical macro educational keyframe of one irregular early Lydian electrum coin with a lion-head stamp held above a merchant's balance scale, royal treasury softly visible behind. Around 600 BCE, photorealistic museum-quality reconstruction, dramatic golden light, simple dominant coin, portrait framing with caption space. No text, no modern currency, no watermark, anatomically correct fingers."
+  },
+  {
+    "id": "02-natural-electrum",
+    "seed": 51402,
+    "prompt": "Use case: historical-scene. Vertical close-up of natural electrum grains being washed from the Pactolus River in an ancient wooden pan, bright gold-silver particles among dark sand, Sardis landscape softly behind. Historically grounded 600 BCE reconstruction, photorealistic documentary photography, crisp material detail, portrait composition and open upper area. No text, no modern tools, no watermark."
+  },
+  {
+    "id": "03-diluted-alloy",
+    "seed": 51403,
+    "prompt": "Use case: historical-scene. Vertical cinematic reconstruction inside a Lydian mint: a worker pours a pale gold-and-silver alloy into tiny coin blanks while another strikes a lion-head die, finished irregular electrum coins collected beside the anvil. Historically accurate sixth century BCE workshop, photorealistic documentary style, firelight, portrait framing. No text, no modern machinery, no fantasy coins, no distorted hands."
+  },
+  {
+    "id": "04-exchange-and-extraction",
+    "seed": 51404,
+    "prompt": "Use case: historical-scene. Vertical split-depth scene connecting an ancient Lydian marketplace and royal treasury: merchants exchange stamped electrum coins in the bright foreground while tax collectors carry coin jars toward a guarded palace in the darker background. Photorealistic historical reconstruction around 600 BCE, cinematic visual contrast, portrait composition, clear storytelling and caption space. No text, no modern objects, no watermark, no distorted hands."
+  }
+]

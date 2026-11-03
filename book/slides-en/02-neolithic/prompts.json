@@ -1,0 +1,57 @@
+[
+  {
+    "id": "01-abu-hureyra-valley",
+    "seed": 5201,
+    "prompt": "Historically grounded archaeological reconstruction of Abu Hureyra on the middle Euphrates around 10,000 years ago, a small early settlement beside a broad river valley, mud-brick homes and gathered wild grasses, distant hills and calm water, documentary natural-history photography, muted earth colors, cinematic wide landscape, no text"
+  },
+  {
+    "id": "02-grinding-grain",
+    "seed": 5202,
+    "prompt": "Respectful close documentary reconstruction inside a Neolithic home at Abu Hureyra, a woman kneeling to grind wild grain between a flat quern and hand stone, worn stone surface and a small woven basket of grain, natural side light, historically plausible clothing and mud-brick walls, dignified everyday labor, cinematic wide frame, no text"
+  },
+  {
+    "id": "03-holocene-gathering",
+    "seed": 5203,
+    "prompt": "Early Holocene Fertile Crescent landscape in spring, small community harvesting stands of wild einkorn and barley with simple flint sickles, foothills in the distance, clear stable climate, candid archaeological reconstruction, documentary photography, soft natural daylight, cinematic 16:9, no text"
+  },
+  {
+    "id": "04-domesticated-grain",
+    "seed": 5204,
+    "prompt": "Close documentary still life of early domesticated emmer wheat ears, barley, lentils and a flint sickle arranged on a simple woven mat, a farmer's hand selecting sturdy grain for sowing, historically grounded Neolithic Fertile Crescent, warm low sunlight, tactile natural textures, cinematic wide composition, no labels or text"
+  },
+  {
+    "id": "05-herding-goats",
+    "seed": 5205,
+    "prompt": "Neolithic herders guiding a small flock of goats and sheep along a rocky Anatolian hillside toward a settled village, simple woven clothing and wooden staffs, animals calm and close to people, dawn haze, historically plausible archaeological reconstruction, documentary realism, cinematic wide shot, no text"
+  },
+  {
+    "id": "06-granary-storage",
+    "seed": 5206,
+    "prompt": "Early Neolithic granary near the Dead Sea around 11,000 years ago, raised wooden floor supported above damp ground, baskets and grain stored carefully inside, mud-brick homes beyond, practical protection from rodents and moisture, archaeologically grounded reconstruction, warm daylight, documentary wide frame, no text"
+  },
+  {
+    "id": "07-jericho-tower",
+    "seed": 5207,
+    "prompt": "Neolithic Jericho in the Jordan Valley, community workers hauling stone and building a tall round stone tower beside a settlement wall, teamwork with ropes and simple tools, no rulers or monumental luxury, dry landscape and strong morning light, evidence-minded archaeological reconstruction, cinematic documentary photograph, wide frame, no text"
+  },
+  {
+    "id": "08-catalhoyuk-rooftops",
+    "seed": 5208,
+    "prompt": "Çatalhöyük on the Anatolian plain around 7000 BCE, dense mud-brick houses pressed wall to wall with people moving across flat rooftops and entering homes through roof openings, central Anatolian plain beyond, lived-in and human-scale, archaeologically grounded documentary reconstruction, late afternoon light, cinematic wide composition, no text"
+  },
+  {
+    "id": "09-shared-harvest",
+    "seed": 5209,
+    "prompt": "Neighbors in a Neolithic farming village working together to harvest ripe grain during a brief seasonal rush, adults cutting stalks with flint sickles and gathering sheaves while a household prepares a communal meal, cooperative labor without hierarchy, Fertile Crescent, documentary realism, golden light, cinematic wide shot, no text"
+  },
+  {
+    "id": "10-grain-and-power",
+    "seed": 5210,
+    "prompt": "Neolithic community storehouse with baskets and clay vessels filled with grain, several villagers carefully measuring a portion while others wait nearby, visual tension around who controls stored surplus but no violence, historically grounded mud-brick settlement, natural subdued light, nuanced documentary reconstruction, cinematic wide frame, no text"
+  },
+  {
+    "id": "11-neolithic-paradox",
+    "seed": 5211,
+    "prompt": "Wide documentary composition contrasting a productive Neolithic grain field and settled village with a close foreground glimpse of a tired farmer grinding grain at a stone quern, the harvest abundant yet daily labor demanding, balanced nuanced archaeological reconstruction, muted natural palette, cinematic 16:9, no text"
+  }
+]
